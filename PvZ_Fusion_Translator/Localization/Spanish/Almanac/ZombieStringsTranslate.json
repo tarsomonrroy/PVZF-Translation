@@ -64,19 +64,18 @@
     {
       "theZombieType": 11,
       "name": "Duck Zombie NOT IN GAME",
-      "introduce": "<size=36><color=#3D1400>只有特定的僵尸才能成为鸭子救生圈僵尸，不是每只僵尸都能胜任。有些救生圈有点漏气，他们却处理不了，脱身后永远放弃了对脑子的渴求。</color>",
+      "introduce": "<size=36><color=#3D1400>su puta madre los zombis pueden nadar</color>",
       "info": "<size=36>可以在水里移动。\n\n<color=#3D1400>Dureza: </color><color=#4B0082>270</color>"
     },
     {
       "theZombieType": 12,
       "name": "Coneduck Zombie NOT IN GAME",
-      "introduce": "<size=36><color=#3D1400>都说差生文具多，但是路障鸭子并不这么认为，毕竟他不想承认他是个差生。</color>",
-      "info": "<size=36>可以在水里移动。\n\n<color=#3D1400>Dureza: </color><color=#4B0082>270</color>"
+      "introduce": "<size=36><color=#3D1400>su puta madre los zombis pueden nadar con cono\n\n<color=#3D1400>Dureza: </color><color=#4B0082>270</color>"
     },
     {
       "theZombieType": 13,
       "name": "Bucketduck Zombie NOT IN GAME",
-      "introduce": "<size=36><color=#3D1400>铁桶鸭子本不想带上那个漏气的游泳圈的，但是没办法，谁叫他戴着那个容易生锈的铁桶呢。</color>",
+      "introduce": "<size=36><color=#3D1400>su puta madre los zombis son zombis</color>",
       "info": "<size=36>可以在水里移动。\n\n<color=#3D1400>Dureza: </color><color=#4B0082>270</color>"
     },
     {
@@ -267,19 +266,19 @@
       "theZombieType": 47,
       "name": "Zombi Yeti",
       "introduce": "<size=36><color=#3D1400>El Zombi Yeti es una criatura legendaria y esquiva. Pocos han logrado verlo, y aquellos que lo han hecho cuentan historias sobre su enigmática presencia en noches de niebla.</color>",
-      "info": "<size=36>Los Zombis Yeti a veces pueden huir.\n\n<color=#3D1400>Resistencia: </color><color=#4B0082>1350</color>\n<color=#3D1400>Rasgos: </color><color=#4B0082>Suspende/congela plantas en un área de 3x3 a su alrededor.</color>"
+      "info": "<size=36>Los Zombis Yeti a veces pueden huir.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>1350</color>\n<color=#3D1400>Rasgos: </color><color=#4B0082>Suspende/congela plantas en un área de 3x3 a su alrededor.</color>"
     },
     {
       "theZombieType": 48,
       "name": "Zombi Nian",
       "introduce": "<size=36><color=#3D1400>El Zombi Nian es una bestia mítica que despierta durante las festividades. Con su armadura dorada y su mirada feroz, representa un desafío monumental para cualquier jardinero desprevenido. Sin embargo, le teme a los cuetes, como los perritos.</color>",
-      "info": "<size=36>Los Zombis Nian tienen armaduras fuertes.\n\n<color=#3D1400>Resistencia: </color><color=#4B0082>8888+8888</color>\n<color=#3D1400>Debilidad:</color><color=#4B0082>Bambooms</color>"
+      "info": "<size=36>Los Zombis Nian tienen armaduras fuertes.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>8888+8888</color>\n<color=#3D1400>Debilidad:</color><color=#4B0082>Bambooms</color>"
     },
     {
       "theZombieType": 49,
-      "name": "<size=36>Zombi Lanzador de Bolas de Nieve",
-      "introduce": "<align=justified><size=36><color=black>\"¡Guerra de bolas de nieve!\" El Zombi Lanzador de Bolas de Nieve despierta de su letargo helado, lanzando bolas de nieve salvajemente en todas direcciones.\n\n\"¿Le decimos que no es así como funciona la guerra?\"\n\"Nah, veamos cuánto tarda en darse cuenta.\"\n\n¡PUM! — Otra bola de nieve aterriza.\n\n\"Eso hace catorce.\"</color>",
-      "info": "<size=36>El Zombi Lanzador de Bolas de Nieve puede atacar tus plantas con bolas de nieve y congelarlas.\n\n<color=black>Resistencia: </color><color=#4B0082>720</color>\n<color=black>Daño: </color><color=#4B0082>75/2 segundos</color>\n<color=black>Características: </color><color=#4B0082>\n<color=black>•</color> Después de aparecer, lanza continuamente bolas de nieve hacia las plantas.\n<color=black>•</color> Las bolas de nieve explotan al impactar, causando 75 de daño en un área de 3x3 y desactivando las plantas durante 5 segundos.</color>\n<color=black>Debilidad: </color><color=#4B0082>Corteza Parasol</color>"
+      "name": "Zombi Yeti Esquimal",
+      "introduce": "<size=28><color=#3D1400>\"¡Guerra de bolas de nieve!\" El Zombi Yeti Esquimal despierta de su caverna, lanzando bolas de nieve en todas partes. \"¿Le decimos que así no es como funciona la guerra?\" Pregunta un zombi. \"Nah, veamos cuanto tiempo se tarda en darse cuenta.\"</color>",
+      "info": "<size=32>¡Puede congelar a plantas con sus grandes bolas..de nieve!\n\n<color=#3D1400>Dureza: </color><color=#4B0082>720</color>\n<color=#3D1400>Características:</color><color=#4B0082>Al aparecer, lanza bolas de nieve hacia las plantas cada 2 segundos, congelándolos en una área de 3x3.</color>"
     },
     {
       "theZombieType": 100,
@@ -537,9 +536,9 @@
     },
     {
       "theZombieType": 224,
-      "name": "<u>Arooming</u>",
-      "introduce": "<align=justified><size=36><color=black>Arooming no es solo una reina... es la reina de las bromas pesadas. Su risa chillona llena el aire mientras prepara sus \"divertidas\" sorpresas. ¿Un regalito? Tal vez. ¿Una explosión sorpresa? ¡Seguro! ¿Te ríes con ella o de ella? Eso nunca lo sabrás hasta que sea demasiado tarde.</color>",
-      "info": "<size=36>Arooming disfruta haciendo que cada jardín sea el escenario de una gran broma... con efectos secundarios explosivos.\n\n<color=black>Resistencia: </color><color=#4B0082>32000</color>\n<color=black>Características: </color><color=#4B0082>\n<color=black>•</color> Solo aparece en el modo Purgatorio con su modificador especial.\n<color=black>•</color> Cada golpe solo puede causarle hasta 5000 de daño antes de aplicar la reducción.\n<color=black>•</color> Inmune a ser encantada o devorada, porque los payasos no se enamoran.\n<color=black>•</color> Pisa plantas... con estilo.\n<color=black>•</color> Recupera 3000 de resistencia cada vez que otra explosión payasa la golpea (¡porque las bromas entre payasos siempre ayudan!).\n<color=black>•</color> Sale de su caja a intervalos regulares para hacer alguna de sus famosas travesuras:\n1. Invoca zombis Rey Jack-en-la-Caja desde la quinta columna en adelante.\n2. Invoca zombis Rey Saltador Jack-en-la-Caja para dar saltitos molestos.\n3. Hace explotar toda la columna donde está parada, porque la risa siempre va acompañada de caos(DC:AI WAS USED).</color>"
+      "name": "Soberana Guasona",
+      "introduce": "<size=26><color=#3D1400>La Soberana Guasona disfruta haciendo que cada jardín sea el escenario de una gran broma... con efectos secundarios explosivos.</color>",
+      "info": "<size=26>Reina de todos los payasos. Talvez sea mejor que la mates antes de que llegue a tus plantas.\n\n<color=#3D1400>Dureza:</color> <color=#4B0082>32000</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Trabaja como actor de payaso para las fiestas de cumpleaños. No consigue dinero porque usualmente explota a todos en el lugar. </color>\n<color=#3D1400>Habilidades:</color> <color=#4B0082>Recupera 3000 puntos de vida cada vez que sea afectada por otra explosión de cajita. Sale de su caja cada cierto tiempo, saltando lentamente hacia tus plantas, y después de que haga eso, explota la columna donde ella está.</color></size>"
     }
   ]
 }
