@@ -247,8 +247,8 @@
     {
       "seedType": 34,
       "name": "Cevoltio",
-      "introduce": "<color=#3D1400>Cevoltio participó en la filmación de 'Frankenstein'. Pensó que finalmente obtendría el papel principal, ya que había comido rayos más de cien veces. Cuando llegó al set y vio el guión, descubrió que solo iba a interpretar el pararrayos de el Dr. Stan…</color>",
-      "info": "Ataca a los zombis cercanos con una corriente eléctrica.\n\n<color=#3D1400>Daño:</color><color=red>100/1.5 segundos, alcance de ataque 5x5</color>\n<color=#3D1400>Características:</color><color=red>Si hay otros Cevoltios estan atacando en el área de alcance y está libre, les proporcionará carga, lo que dará un daño extra de 150 puntos en este disparo. Al golpear a un zombi, causará daño en cadena a otros zombis cercanos. El daño en cadena es la mitad del daño original, y puede encadenar hasta 3 zombis.</color>",
+      "introduce": "<size=39><color=#3D1400>Cevoltio participó en la filmación de 'Frankenstein'. Pensó que finalmente obtendría el papel principal, ya que había comido rayos más de cien veces. Cuando llegó al set y vio el guión, descubrió que solo iba a interpretar el pararrayos de el Dr. Stan…</color>",
+      "info": "<size=39>Ataca a los zombis cercanos con una corriente eléctrica.\n\n<color=#3D1400>Daño:</color><color=red> 100/1.5 segundos, alcance de ataque 5x5</color>\n<color=#3D1400>Características:</color><color=red> Si hay otros Cevoltios estan atacando en el área de alcance y está libre, les proporcionará carga, lo que dará un daño extra de 150 puntos en este disparo. Al golpear a un zombi, causará daño en cadena a otros zombis cercanos. El daño en cadena es la mitad del daño original, y puede encadenar hasta 3 zombis.</color>",
       "cost": "Costo: <color=red>225</color>\nTiempo de recarga: <color=red>7.5 segundos</color>"
     },
     {
@@ -1078,8 +1078,8 @@
     {
       "seedType": 241,
       "name": "Arándano Gélido",
-      "introduce": "<color=#3D1400>¿Cómo puede un pequeño y delicado arándano flotante hacer que su alrededor se vuelva tan frío? Arándano Gélido dice: “Es natural, amigo. Mi todo tiene que ver con el frio, ¡Incluso mis bromas! Escucha: ¿Qué le dice un pingüino a una pingüina? ¡Cómo tú ningüina!”</color>",
-      "info": "Potencia a los proyectiles de las plantas de hielo. </color>\n<color=#3D1400>Características:</color><color=red>Es invencible y no puede ser atacado por los zombis, ocupa una posición aérea en el campo, y mejora a las plantas congeladas debajo de el, duplicando su daño y Puntos Criogénicos.</color>",
+      "introduce": "<size=39><color=#3D1400>¿Cómo puede un pequeño y delicado arándano flotante hacer que su alrededor se vuelva tan frío? Arándano Gélido dice: “Es natural, amigo. Todo mi ser tiene que ver con el frio, ¡Incluso mis bromas! Escucha: ¿Qué le dice un pingüino a una pingüina? ¡Cómo tú ningüina!”</color>",
+      "info": "<size=39>Potencia a los proyectiles de las plantas de hielo. </color>\n\n<color=#3D1400>Características:</color><color=red>Es invencible y no puede ser atacado por los zombis, ocupa una posición aérea en el campo, y mejora a las plantas congeladas debajo de el, duplicando su daño y Puntos Criogénicos.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Vaccinium Glacialis</color>",
       "cost": "Costo: <color=red>125</color>\nTiempo de recarga: <color=red>30 segundos</color>"
     },
     {
@@ -3794,12 +3794,12 @@
     },
     {
       "seedType": 912,
-      "name": "Caladrón",
-      "introduce": "<size=39><color=#3D1400>\u0022¡Gracias a Polaristrella, ahora tenemos un equipo completamente renovado!\u0022 Dice Caladrón. \u0022Mira estas mejoras: armadura compuesta, hélice electromagnética de alta velocidad, y cañón de plasma... ¡Espera! ¡No disparen mi florero favorito!\u0022</color>",
-      "info": "<size=39>Caladrón puede atacar a zombis aereos y terrestres con su laser.\n\n<color=#3D1400>Daño: </color><color=red>200/1.5 Segundos (Planta) 200/1 Segundos (Aliado)</color>",
-      "cost": ""
-    },
-    {
+            "name": "Caladrón",
+            "introduce": "<size=39><color=#3D1400>\u0022¡Gracias a Polaristrella, ahora tenemos un equipo completamente renovado!\u0022 Dice Caladrón. \u0022Mira estas mejoras: armadura compuesta, hélice electromagnética de alta velocidad, y cañón de plasma... ¡Espera! ¡No disparen mi florero favorito!\u0022</color>",
+            "info": "<size=39>Caladrón puede atacar a zombis aereos y terrestres con su laser.\n\n<color=#3D1400>Daño: </color><color=red>200/1.5 Segundos (Planta) 200/1 Segundos (Aliado)</color>",
+            "cost": ""
+        },
+        {
 
       "seedType": 913,
       "name": "<size=39>Nuez Obsidiarrabias</size>",
@@ -3934,28 +3934,28 @@
       "cost": "\n<size=32><color=purple>Condición de Uso: Se desbloquea con mejora de odisea</color></size>"
     },
     {
-      "seedType": 932,
+   "seedType": 932,
       "name": "Trillontorcha",
       "introduce": "<size=39><color=#3D1400>La Trillontorcha, que regresó del extranjero, sigue siendo pequeña, pero su pequeño truco de “convertir piedra en oro” hizo que la audiencia aplaudiera. “En realidad, eso podría considerarse magia…” murmuró Trillontorcga mientras preparaba una bebida especial detrás del escenario.</color></size>",
       "info": "<size=39>¡Convierte todas las balas disparadas en monedas!\n\n<color=#3D1400>Especial: </color>\n- <color=red>Convierte todas las balas comunes </color>en dos monedas de plata y una moneda de oro.<color=red> El daño de las monedas depende del poder de ataque de las balas.</color> Proporción de daño: moneda de plata 100%, moneda de oro 200%. Las monedas de oro siguen moviéndose en línea recta, mientras que las monedas de plata se mueven primero hacia las líneas adyacentes, y luego regresan a su fila.\n\n<color=purple>Mejoras de Odisea:</color>\n- </color>Aumenta el daño de las balas que pasan a través de Trillontorcha basado en la cantidad de dinero actual. Cada 1000 monedas que hayan, estas aumentan el daño en un 2%</color>\n- Las balas que pasan por Trillontorcha tienen daño por salpicadura similar a los guisantes de fuego.</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Tritorcha + Magnetoseta Dorada/color>\n<color=#3D1400>Nombre Científico: </color><color=red>Triplex Milignis</color></size>",
       "cost": "\n<size=39><color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
     {
-      "seedType": 933,
+    "seedType": 933,
       "name": "Psicactus",
       "introduce": "<size=39><color=#3D1400>Psicactus es una estilista de primera en el pueblo, cada una de sus obras marca tendencia en el jardín. “Un verdadero peinado se forja con mucho esfuerzo.” El martillo y el cincel son sus herramientas favoritas para ‘ajustar’ el cabello.</color></size>",
       "info": "<size=39>Subespecie de Psicoseta, y parte del <color=#0077b6>Sistema Criogénico</color>\n\n<color=#0077b6>Sistema Criogénico:</color>\n- Pinchos acumulan <color=red>10 Puntos Criogénicos</color> por impacto.\n- Al alcanzar <color=red>100 Puntos</color>, congela al zombi por <color=red>5 segundos</color> (umbral aumenta <color=red>+100</color>, máximo <color=red>400</color>).\n\n<color=#3D1400>Especial: </color>\n- <color=red>Psicactus libera un gran ataque cada vez que aparece, lanzando una gran cantidad de carámbanos encantados.<color=purple>\n\n<color=#3D1400>Daño: </color>\n<color=red>- 300/1.5 Segundos\n\n<color=purple><color=#3D1400>Fórmula de Fusión: </color><color=red>Psicoseta + Cactus</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Cactaceae Regalis</color></size>",
       "cost": "\n<size=32><color=purple>Condición de Uso:  Se desbloquea con mejora de odisea</color></size>"
     },
     {
-      "seedType": 934,
+     "seedType": 934,
       "name": "Radianticol",
       "introduce": "<size=39><color=#3D1400>Ella es la diosa del sol, la soberana de la luz y el calor. Dondequiera que vaya, la oscuridad se disipa y todo se baña en su resplandeciente gloria. Ella brilla desde lo alto, iluminando el mundo con su luz eterna, otorgando esperanza infinita a todo ser vivo.</color></size>",
       "info": "<size=39>Invoca un Mini-Sol para atacar a los zombis.\n\n<color=#3D1400>Daño: <color=red>500*5/2 Segundos\n<color=purple><color=#3D1400>Especial: </color>\n</color=red>- Cada 30 segundos invoca un Mini-Sol, que permanece durante 15 segundos. Durante este tiempo, este sol inflige 30 + (30 * Cantidad de Radianticoles) de daño a todos los zombis en el mapa.\n - Cuando la cantidad total de soles es mayor que 15000, Radianticol consume 250 soles para inflingir el daño cada vez que el Mini-Sol dañe a los zombis.\n - Cuando el Mini-Sol esta presente, la tasa de caída de los soles se incrementa, el daño de meteoritos comunes se multiplica por 2, y unos 250 soles adicionales se generan cuando estrellan. \n<color=purple>Mejoras de Odisea:</color></color></color>\n- Los proyectiles lanzados por Radianticol tendran el efecto de Solarpulta.</color></color>\n- El daño del sol invocado se triplica.</color>\n\n<color=#3D1400><color=purple>Mejoras Mutuas:</color></color></color>\n- Si hay mínimo 10 Polaristrellas y 10 Radianticoles, ambas en el mapa, con todas sus mejoras obtenidas, Polaristrella invocará un meteorito poderoso; uno solar. El sol invocado por Radianticol no desaparecerá y, cada 2 segundos, invocará meteoritos comunes. (Meteorito Solar: Daño = (1800 + 1800 x cantidad de Polaristrellas) x (1 + 0.2 x cantidad de Radianticoles))Fórmula de Fusión: </color><color=red>Solarpulta + Coltapulta Dorada</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Brassica Solaurum</color></size>",
       "cost": "\n<size=39><color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
     {
-      "seedType": 935,
+     "seedType": 935,
       "name": "Calabaza Multifuncional",
       "introduce": "<size=39><color=#3D1400>La Calabaza Multifuncional ha sido modificada mecánicamente, con una mejor resistencia y puertos conectados a piezas de hierro. Está muy satisfecho con estos cambios, pero, ¿nadie le ha dicho que se parece mucho a un cangrejo? Hm.</color></size>",
       "info": "<size=39>Su nombre lo explica. Tiene multiples propositos.\n\n<color=#3D1400>Especial: </color>\n- <color=red>Inmune a las explosiones del payaso, permite que el minero excave antes, recibe la mitad del daño de las cerezas explosivas, puede usar piezas de hierro para recuperar vida.\n\n<color=#3D1400>Nombre Científico: </color><color=red>Technomorphus Demo</color></size>",
@@ -3965,18 +3965,18 @@
       "seedType": 936,
       "name": "Radianticeta",
       "introduce": "<size=39><color=#3D1400>Como seguidora de Radianticol, la Maceta Solar siempre permanece en segundo plano, produciendo luz solar y monedas silenciosamente. Solo espera que tú, al igual que ella, puedas llenar tu maceta con abundancia.</color></size>",
-      "info": "<size=39>Genera rápidamente grandes cantidades de sol y monedas.\n\n<color=#3D1400>Especial: </color>\n- <color=red>Cada X segundos genera 50 de luz solar y 100 de monedas, (X = 15 * Soles Actuales / 15000. No debe ser menor que 3 ni mayor que 15.)\n\n<color=purple>Mejoras de Odisea:</color>\n</color>- El costo de su habilidad no excederá las 8000 monedas.</color>\n- Después de alcanzar el límite de dinero, las monedas sobrantes se convierten en sol. (2 monedas equivalen a 1 sol)</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Maceta Dorada + Girasol</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Vasculum Aurum Solis</color></size>",
+      "info": "<size=39>Genera rápidamente grandes cantidades de sol y monedas.\n\n<color=#3D1400>Especial: </color>\n- <color=red>Cada X segundos genera 50 de luz solar y 100 de monedas, (X = 15 * Radianticetas en el Mapa / 15000. No debe ser menor que 3 ni mayor que 15.)\n\n<color=purple>Mejoras de Odisea:</color>\n</color>- El costo de su habilidad no excederá las 8000 monedas.</color>\n- Después de alcanzar el límite de dinero, las monedas sobrantes se convierten en sol. (2 monedas equivalen a 1 sol)</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Maceta Dorada + Girasol</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Vasculum Aurum Solis</color></size>",
       "cost": "\n<size=39><color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
     {
-      "seedType": 937,
+"seedType": 937,
       "name": "Parrefractor",
       "introduce": "<size=39><color=#3D1400>Parrefractor, ex-directora de un orfanato, usaba sus grandes hojas como los mejores juguetes para los niños. Claro, ahora también lo es, pero se irrita mas fácilmente que antes, por su edad mas vieja.</color></size>",
-      "info": "<size=39>ata zombis con su rayo de luz. Parte del <color=#104f30>Sistema Lumina </color>(Generador y Atacante)\n\n<color=#3D1400>Dureza: </color><color=red>1000\n<color=#3D1400>Daño: </color><color=red>300\n<color=#3D1400>Límite de Energia: </color><color=red>2000\n<color=#3D1400>Rango de Busqueda: </color><color=red>(2 * Nivel Lumina + 1)\n<color=#3D1400>Especial: </color>\n<color=red>1: Tiene todas las características de Paraplanterna.\n2: Lanza un láser que ataca a los zombis, causando daño por segundo. Prioriza atacar a los zombis aéreos, y el daño aumenta x3 al atacar estos. Puede atacar hasta 4 zombis a la vez.\n3: Si hay plantas heridas dentro del rango de 3x3, consume energía para curarlas. Cada vez que cura, consume 200 de energía y restaura el 20% de la vida máxima de la planta, hasta un máximo de 2000.\n4: Si dos Parrefractores están en posiciones opuestas, se enlazan y su rango de detección se expande al mapa entero. En ese momento, ambas pueden atacar hasta 6 zombis a la vez y su daño se duplica. Si hay 6 zombis atacados, cada 6 segundos se libera una explosión 3x3 en la posición aleatoria de un zombi. El daño de la explosión es 300% del poder de ataque.\n\n<color=purple>Mejoras de Odisea:</color>\n</color>- La energía máxima y la velocidad de regeneración de Parrefractor se multiplican por 10, y la velocidad de curación se duplica.</color>\n- El multiplicador de los ataques normales de Parrefractor aumenta al 300%, el multiplicador de explosiones aumenta al 1000%, y el intervalo se reduce a 2 segundos.</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Fusion1 + Fusion2</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Cientifico</color></size>",
+      "info": "<size=39>ata zombis con su rayo de luz. Parte del <color=#104f30>Sistema Lumina </color>(Generador y Atacante)\n\n<color=#3D1400>Dureza: </color><color=red>1000\n<color=#3D1400>Daño: </color><color=red>300\n<color=#3D1400>Límite de Energia: </color><color=red>2000\n<color=#3D1400>Rango de Busqueda: </color><color=red>(2 * Nivel Lumina + 1)\n<color=#3D1400>Especial: </color>\n<color=red>1: Tiene todas las características de Paraplanterna.\n2: Lanza un láser que ataca a los zombis, causando daño por segundo. Prioriza atacar a los zombis aéreos, y el daño aumenta x3 al atacar estos. Puede atacar hasta 4 zombis a la vez.\n3: Si hay plantas heridas dentro del rango de 3x3, consume energía para curarlas. Cada vez que cura, consume 200 de energía y restaura el 20% de la vida máxima de la planta, hasta un máximo de 2000.\n4: Si dos Parrefractores están en posiciones opuestas, se enlazan y su rango de detección se expande al mapa entero. En ese momento, ambas pueden atacar hasta 6 zombis a la vez y su daño se duplica. Si hay 6 zombis atacados, cada 6 segundos se libera una explosión 3x3 en la posición aleatoria de un zombi. El daño de la explosión es 300% del poder de ataque.\n\n<color=purple>Mejoras de Odisea:</color>\n</color>- La energía máxima y la velocidad de regeneración de Parrefractor se multiplican por 10, y la velocidad de curación se duplica.</color>\n- El multiplicador de los ataques normales de Parrefractor aumenta al 300%, el multiplicador de explosiones aumenta al 1000%, y el intervalo se reduce a 2 segundos.</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Paraplanterna + Parrebutia</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Foliis Lumispinus</color></size>",
       "cost": "\n<size=39><color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
     {
-      "seedType": 938,
+"seedType": 938,
       "name": "Setagnate",
       "introduce": "<size=39><color=#3D1400>¿Miedo, desconfianza, cobardía? ¡No! Todo eso palidece ante la codicia,” Setagnate lanzó una moneda de oro al aire y la observó caer rápidamente en el abismo. En comparación con Setabismal, que tiene el poder de “seducir” a las personas, ella es más experta en manipular los instintos humanos de deseo incontrolable. “Sal.”, dijo Setagnate mirando al abismo, “puedo sentirte, no tienes que esconderte más.”</color></size>",
       "info": "<size=39>Gran riesgo, gran recompensa.\n\n<color=#3D1400>Especial: </color>\n- <color=red>Subespecie de Setabismal, cambia entre Petaseta y Margarita. Al plantar durante 1.5 segundos, invocará un zombi líder, y un Zombistein Abisal, en donde este Setagnate. El zombi líder que Setagnate invoca depende del escenario actual. Día: Profesor Zavier, Noche: Vegezombi , Piscina: Live Aid Jackson, Niebla: Zombot Kirov, Tejado 1: Pozeidón, Tejado 2: Monarca Bromista, Tejado 3: Nuez Kirov Gigante, y en todas las filas, invocará el zombi de la odisea correspondiente. Derrotar a los zombis líderes invocados otorga muchos puntos + muchos soles + muchas monedas. Derrotar a los zombis comunes y supremos invocados otorga menos soles, monedas, y dará una tarjeta de regalo aleatoria. Solo se puede invocar una vez por ronda, no se puede obtener con regalos.\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Setabismal + Margarita</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Mycota Codyium</color></size>",
@@ -4563,6 +4563,13 @@
       "cost": ""
     },
     {
+      "seedType": 1048,
+      "name": "Pinchonuez",
+      "introduce": "<size=36><color=#3D1400>La Pinchonuez siempre mira con furia hacia adelante, “Esto es para advertirles, no soy para comer.” Pero los zombis ni siquiera lo toman en cuenta, ya que normalmente no es considerado por nadie.</color></size>",
+      "info": "<size=36>Puede pinchar neumáticos y reflejar daño.</color>\n\n<color=#3D1400>Dureza:</color> <color=red>4000</color>\n<color=#3D1400>Especial:</color> <color=red>Puede pinchar neumáticos, y cada vez que lo haga pierde 500 de salud, no puede resistir los golpes de Zombisteins, y causa 1/2 de daño reflejado a los zombis que lo muerden</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Juglans Graminis</color></size>\n<size=36><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Pinchohierba</color></size>",
+      "cost": ""
+    },
+    {
       "seedType": 1049,
       "name": "Jalapalga",
       "introduce": "<size=39><color=#3D1400>\"La pasión es como el fuego,\" y Jalapalga conoce bien este dicho. ¡Ninguna cantidad de agua puede apagar sus fervientes llamas! Qué pena, los zombis cercanos solo pueden sentir el calor de la \"parrillada\". ¡Míralos, ya se han convertido en cenizas en este fuego implacable!</color></size>",
@@ -4620,9 +4627,9 @@
     },
     {
       "seedType": 1057,
-      "name": "WHERE IS THIS 2",
-      "introduce": "<size=39><color=#3D1400>火焰窝瓜总是一个接一个从窝炬里跳出来。\u0022炼瓜炉里太热了，把我身体都要烤化了！\u0022几个金色的火焰窝瓜一起喊道。</color></size>",
-      "info": "<size=39>他只是一个金色的窝瓜。\n\n<color=#3D1400>Damage: </color><color=red>1800</color></size>",
+      "name": "Apisonaflor Enflamada",
+      "introduce": "<size=36><color=#3D1400>Los Apisonaflores Enflamados siempre saltan uno tras otro desde Apisonantorcha.\u0022¡Hace demasiado calor en este horno, casi me derrito!\u0022 Gritaron varios Apisonaflores Enflamados juntos.</color></size>",
+      "info": "<size=36>Una Apisonaflor quemada. Aparece despues de que 60 guisantes pasen por Apisonantorcha.</color>\n\n<color=#3D1400>Daño:</color> <color=red>1800</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Cucurbita Maxima</color></size><size=36>",
       "cost": ""
     },
     {
@@ -5092,9 +5099,9 @@
     },
     {
       "seedType": 1124,
-      "name": "Púrpurapulta",
+      "name": "Sandipulta",
       "introduce": "<size=39><color=#3D1400>“Despeja la superficie verde y encontrarás una rosa en mi corazón.” Esta frase significa que no debes entrar a una peluquería desconocida al azar; podría ser una decisión sorprendente.</color>",
-      "info": "<size=39>Proyectiles que pueden rebotar una vez.\n\n<color=#3D1400>Daño:</color><color=red>120/3 segundos</color>\n<color=#3D1400>Características:</color><color=red>Proyectiles que rebotan una vez... que escritores tan flojos.</color>\n<color=#3D1400>Fórmula de Fusión:</color><color=red>Coltapulta + Melonpulta</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Brassica Cucumis Purpurea</color>",
+      "info": "<size=39>Proyectiles que pueden rebotar una vez.\n\n<color=#3D1400>Daño:</color><color=red>120/3 segundos</color>\n<color=#3D1400>Características:</color><color=red>Proyectiles que rebotan una vez... que escritores tan flojos. (Verdad. -Xabdi)</color>\n<color=#3D1400>Fórmula de Fusión:</color><color=red>Coltapulta + Melonpulta</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Brassica Cucumis Purpurea</color>",
       "cost": ""
     },
     {
@@ -5310,16 +5317,16 @@
     },
     {
       "seedType": 1155,
-      "name": "Golden Spikeweed",
-      "introduce": "<size=39><color=#3D1400>总有人分不清火炬生产的地刺和普通地刺的区别，但火炬地刺本身很清楚：这再明显不过了，我让他们所走的道路成为了一条更加阳光明亮的康庄大道。</color>",
-      "info": "<size=39>火焰地刺？他也许跟地刺没有太多区别。\n\n<color=#3D1400>Dureza: </color><color=red>300</color>\n<color=#3D1400>Special: </color><color=red>？</color>\n<color=#3D1400>",
+      "name": "Pinchohierba Enflamada",
+      "introduce": "<size=36><color=#3D1400>Siempre hay plantas que no pueden distinguir entre Pinchohierbas Enflamadas y Pinchohierbas comunes, pero las Pinchohierbas Enflamadas lo tienen muy claro: \u0022Esto no podría ser más evidente, hice que el camino por el que caminan se convirtiera en una avenida más brillante y soleada.\u0022</color></size>",
+      "info": "<size=36>Pinchohierbas quemadas. (…Si, solo eso.)</color>\n\n<color=#3D1400>Daño:</color> <color=red>20/1.5</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Graminis Spinosus</color></size>",
       "cost": ""
     },
     {
       "seedType": 1156,
-      "name": "Golden Kelp",
-      "introduce": "<size=39><color=#3D1400>火焰缠绕水草一直泡在水里，但这压根不影响它给植物们烤海带吃。呃，味道很奇怪就是了。</color>",
-      "info": "<size=39>火焰缠绕水草？他也许跟缠绕水草没有太多区别。\n\n<color=#3D1400>Dureza: </color><color=red>300</color>\n<color=#3D1400>Special: </color><color=red>？</color>\n<color=#3D1400>",
+      "name": "Zampalga Enflamada",
+      "introduce": "<size=36><color=#3D1400>\u0022Papá, como es mi existencia posible?\u0022 Pregunta Zampalga Enflamada. Antorchalga responde: \u0022No soy tu padre. ahora piérdete y ahoga un zombi, que se yo.\u0022</color></size>",
+      "info": "<size=36>Fuego dentro del agua... Ni siquiera voy a preguntar como.</color>\n\n<color=#3D1400>Daño:</color> <color=red>Muerte Instantánea</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Hydra Aequalis</color></size>",
       "cost": ""
     },
     {
@@ -5449,6 +5456,13 @@
       "cost": ""
     },
     {
+            "seedType": 1175,
+            "name": "Krakenseta",
+            "introduce": "<size=39><color=#3D1400>La existencia de Krakenseta para ella es un enigma, no sabe si es un monstruo marino o una simple combinación entre plantas. Una vez, tratando de buscar respuestas, busco en el internet y aparecia que era una \u0022Marseta Hen…\u0022 Y no termino su frase. no porque sabe lo que significa, pero simplemente no sabe leer tan bien.</color>",
+            "info": "<size=39>Parte del <color=#228B22>Sistema de Enredadera</color>\n\n<color=#3D1400>Mecánica de Enredadera:</color>\n- Aplica <color=red>1 Acumulación</color> por ataque (solo zombis acuáticos).\n- Daño adicional basado en la <color=red>vida máxima del zombi</color>:\n  <color=red>6-10</color>: +1% (ej: 10 daño si zombi tiene 1000 HP)\n  <color=red>11-15</color>: +3%\n  <color=red>16-29</color>: +5%\n  <color=red>30+</color>: ¡Muerte instantánea!\n\n<color=#3D1400>Daño Base:</color> <color=red>20*2/1.5 Segundos (Esporas) 100/1.5 Segundos (Tentaculo)</color> (+ ralentización)</color>\n<color=#3D1400>Dureza: </color><color=red>1000</color>\n<color=#3D1400>Especial: </color><color=red>Puede repeler a los zombis cercanos individualmente y causar 100 de daño, y junto a ello añade 1 Punto de Enredadera.</color>\n<color=#3D1400>Fórmula de Fusión:</color><color=red>Zampalga + Marseta + Zampalga + Combinadora (En Órden)(La Combinadora deberá plantarse encima de la Marseta del centro)\n<color=#3D1400>Nombre científico: </color><color=red>Levithanae Mycotis</color>",
+            "cost": ""
+        },
+        {
       "seedType": 1176,
       "name": "Trebolnífero",
       "introduce": "<size=39><color=#3D1400>Las plantas siempre se preguntan por qué el Trebolnífero siempre empuja a los zombis hacia atrás. El Trebolnífero responde: “Como el trebolador siempre empuja a los zombis en la dirección opuesta a la que están mirando, ¿no es normal que también empuje a los zombis hipnotizados en la dirección opuesta?” Pero en realidad, solo tiene un sentido de dirección perdido.</color>",
@@ -5501,72 +5515,71 @@
       "seedType": 1183,
       "name": "Frustrellita",
       "introduce": "<size=36><color=#3D1400>Frustrellita, ¿Dónde estas? Quiero verte disparar, en el suelo y en el mar, Una seta de verdad...</color></size>",
-      "info": "<size=36>Si haces 3 Frustrellitas en una casilla, ¡pueden disparar hasta 15 estrellas!</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Mycota Propinqastra</color></size>\n<size=36><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Desesporada + Frustrella</color></size>",
+      "info": "<size=36>Si haces 3 Frustrellitas en una casilla, ¡pueden disparar hasta 15 estrellas!</color><color=#3D1400>\n\nDaño:</color> <color=red>20/2.5 Segundos\n<color=#3D1400>Nombre Científico:</color> <color=red>Mycota Propinqastra</color></size>\n<size=36><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Desesporada + Frustrella</color></size>",
       "cost": ""
     },
     {
       "seedType": 1184,
       "name": "Solceta",
       "introduce": "<size=36><color=#3D1400>\u0022Muchas plantas me confunden con Seta Solar, solo porque me llamo Solceta, que suena como \u0022Sol Seta\u0022. Exclama Solceta. \u0022¡Lo peor de todo es que, ni me parezco a ella! ¿¡Que tan tontos pueden ser estas plantas para confundirse de esta manera!?\u0022</color></size>",
-      "info": "<size=36>Genera soles adicionales.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Vasculum Solaris</color></size>\n<size=36><color=#3D1400>Fórmula de Fusión:</color> <color=red>Girasol + Maceta</color></size>",
+      "info": "<size=36>Genera soles adicionales.</color>\n<color=#3D1400>\nProducción Solar:</color> <color=red>15/25 Segundos\n<color=#3D1400>Nombre Científico:</color> <color=red>Vasculum Solaris</color></size>\n<size=36><color=#3D1400>Fórmula de Fusión:</color> <color=red>Girasol + Maceta</color></size>",
       "cost": ""
     },
     {
       "seedType": 1185,
       "name": "Paraplanterna",
       "introduce": "<size=36><color=#3D1400>A través de la niebla, viendo a través de todo, la Paraplanterna guía a las plantas al camino correcto. \u0022Mi luz los protegerá, los salvaran del miedo, y de todo el mal.\u0022</color></size>",
-      "info": "<size=36>Puede disipar la niebla y bloquear proyectiles.</color>\n\n<color=#3D1400>Especial:</color> <color=red>Proporciona 1 nivel lumina en una zona 3x3, y dispersiona la niebla al igual que Planterna. Consume energía para bloquear proyectiles en una área 3x3. Cada proyectil consume energía equivalente al daño del proyectil (los balones no consumen energía). La energía máxima es de 2000, y solo se puede restaurarse después de 5 segundos si la energía se agota. Cuando recibe daño, se deduce la energía primero, con una proporción de 5 Energia = 1 HP.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Lumina Plantus</color></size>\n<size=36><color=#3D1400>Fórmula de Fusión:</color> <color=red>Planterna + Paraplanta</color></size>",
+      "info": "<size=36>Parte del <color=#104f30>Sistema Lumina </color>(Generador). Puede disipar la niebla y bloquear proyectiles. </color>\n\n<color=#3D1400>Especial:</color> <color=red>Proporciona 1 nivel lumina en una zona 3x3, y dispersiona la niebla al igual que Planterna. Consume energía para bloquear proyectiles en una área 3x3. Cada proyectil consume energía equivalente al daño del proyectil (los balones no consumen energía). La energía máxima es de 2000, y solo se puede restaurarse después de 5 segundos si la energía se agota. Cuando recibe daño, se deduce la energía primero, con una proporción de 5 Energia = 1 HP.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Lumina Plantus</color></size>\n<size=36><color=#3D1400>Fórmula de Fusión:</color> <color=red>Planterna + Paraplanta</color></size>",
       "cost": ""
     },
     {
       "seedType": 1186,
-      "name": "Sombrilla de Cactus",
-      "introduce": "<color=#3D1400>La Sombrilla de Cactus acaba de lanzar su nueva canción “Cactus Espinoso”. “Tal vez todos puedan gustarme como les gustan las rosas,” dijo, “Sé que esto podría tomar algo de tiempo, pero lo intentaré.”</color>",
-      "info": "Puede derribar zombis voladores y repeler zombis de tipo dirigible.\n\n<color=#3D1400>Características:</color><color=red>Puede derribar zombis voladores y repeler zombis de tipo dirigible.</color>\n<color=#3D1400>Receta de fusión:</color><color=red>Cactus + Sombrilla de hojas (desordenado)</color>",
+      "name": "Parrebutia",
+      "introduce": "<size=36><color=#3D1400>Parrebutia acaba de lanzar su nueva canción, “Espinoso y Peligroso”. “Tal vez a todos les puedan gustarle como les gustan las rosas.” dijo. “Sé que esto podría tomar algo de tiempo, pero lo intentaré.”</color></size>",
+      "info": "<size=36>Puede derribar zombis aereos y repeler dirigibles.</color>\n\n<color=#3D1400>Especial:</color> <color=red>Empuja zombis aereos, tirandolos al suelo instantáneamente. No tiene efecto con Zomppelines, excepto solo empujarlos. Pierde 50 puntos de vida al repeler.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Echinocactus Foliis</color></size>\n<size=36><color=#3D1400>Fórmula de Fusión:</color> <color=red>Cactus + Paraplanta</color></size>",
       "cost": ""
     },
     {
       "seedType": 1187,
-      "name": "Girasol de Plata",
-      "introduce": "<color=#3D1400>El Girasol de Plata lleva consigo la técnica de joyería de plata heredada de su abuela, vendiendo artículos de plata en el jardín e incluso tiene su propio taller creativo. Como dice el refrán: “Una tradición familiar de joyería de plata, una elegancia refinada apreciada por todos.”</color>",
-      "info": "Genera luz solar más rápido.\n\n<color=#3D1400>Producción de luz solar:</color><color=red>25 luz solar/15 segundos</color>\n<color=#3D1400>Receta de fusión:</color><color=red>Girasol + Caléndula (desordenado)</color>",
+      "name": "Girasol Plateado",
+      "introduce": "<size=36><color=#3D1400>El Girasol Plateado lleva consigo una joyería heredada de su abuela, vendiendo artículos de plata en el jardín e incluso tiene su propio taller. A Girasol Plateado no le encuentra raro vender cosas del mismo material de el  mismo, solo le importa el dinero que consigue.</color></size>",
+      "info": "<size=36>Genera soles mas rapido.</color>\n\n<color=#3D1400>Producción Solar: </color><color=red>25/15 Segundos</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Helianthus Argentum</color></size>\n<size=36><color=#3D1400>Fórmula de Fusión:</color> <color=red>Girasol + Margarita</color></size>",
       "cost": ""
     },
     {
       "seedType": 1188,
-      "name": "Girasol de Oro",
-      "introduce": "<color=#3D1400>Estar de guardia en un trofeo le resultaba aburrido, ¡y ahora es hora de unirse al campo de batalla! “Esto no es para tener suficiente luz solar y mantener mi tono de piel saludable.”</color>",
-      "info": "Genera luz solar más rápido.\n\n<color=#3D1400>Características:</color><color=red>Cada 10 segundos acumula 50 luz solar, hasta 10,000. El límite de luz solar en el nivel se ajusta a 50,000, y cualquier exceso se almacenará en los Girasoles de Oro disponibles. Consumo de actualización: 3000*2^número de Girasoles de Oro en el campo.</color>\n<color=#3D1400>Habilidad especial:</color><color=red>Consume 1000 monedas para liberar toda la luz solar de todos los Girasoles de Oro en la pantalla.</color>\n<color=#3D1400>Receta de fusión:</color><color=red>Girasol de Plata + Frijol de Café</color>",
+      "name": "Girasol Dorado",
+      "introduce": "<size=36><color=#3D1400>Quedarse quieto en un trofeo le resultaba aburrido, ¡y era hora de unirse al campo de batalla! “¡Esto es increible!” “¡Nunca he estado en tanto peligro antes, esto es mucho mejor que quedarse en ese trofeo!”</color></size>",
+      "info": "<size=36>Acumula soles dentro de si mismo.</color>\n\n<color=#3D1400>Producción Solar: </color><color=red>50/10 Segundos (Acumula soles en un apartado diferente, los deposita a tus soles actuales con su mejora.)\n<color=#3D1400>Habilidad Especial:</color><color=red> Deposita todos los soles guardados dentro de si mismo a tu cantidad de soles actuales.</color>\n<color=#3D1400>Costo de Mejora:</color><color=red> 1000 monedas (Próximos costos: 3000*2^Número de Girasoles Dorados en el campo.)\n<color=#3D1400>Nombre Científico: </color><color=red>Helianthus Aurea</color>\n</color><color=#3D1400>Fórmula de Fusión:</color><color=red>Girasol Plateado + Grano de Café</color></size>",
       "cost": ""
     },
     {
       "seedType": 1189,
       "name": "Nuez Helada",
-      "introduce": "<color=#3D1400>La Nuez Helada está molesta por siempre resbalarse en el camino. “El conserje siempre olvida poner el letrero de ‘piso resbaloso’,” se queja. Sin embargo, no se ha dado cuenta de que es un poco más bajo que antes.</color>",
-      "info": "Los zombis que lo muerden experimentarán un efecto de desaceleración.\n\n<color=#3D1400>Resistencia:</color><color=red>4000</color>\n<color=#3D1400>Características:</color><color=red>Los zombis que muerden la Nuez Helada serán desacelerados y acumularán valor de congelación. Se puede usar fertilizante para mejorar la Nuez Helada a una Nuez Ultrahelada.</color>\n<color=#3D1400>Receta de fusión:</color><color=red>Nuez + Hongo de Hielo</color>",
+      "introduce": "<size=36><color=#3D1400>La Nuez Helada está molesta por siempre resbalarse en el camino en el verano. “El conserje siempre olvida poner el letrero de ‘piso resbaloso’,” se queja. Sin embargo, no se ha dado cuenta de que es un poco más bajo que antes.</color></size>",
+      "info": "<size=36>Los zombis que muerden a Nuez Cascarártica acumulan <color=red>10 Puntos Criogénicos</color> por ataque. Al alcanzar <color=red>100 Puntos</color>, se congelan durante <color=red>5 segundos</color>. Cada congelación aumenta el umbral en <color=red>+100</color> (máximo <color=red>400</color>).</color>\n\n<color=#3D1400>Dureza:</color> <color=red>4000</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Juglans Aisberg</color></size>\n<size=36><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Seta Congelada</color></size>",
       "cost": ""
     },
     {
-      "seedType": 1190,
-      "name": "Calabaza de Papa",
-      "introduce": "<color=#3D1400>La Calabaza de Papa fue una vez el dueño de una tienda de papas fritas, pero la reputación siguió cayendo, lo que lo llevó al jardín. “Media ración de papas fritas, menos pero no más barato, ¿no es una gran oferta?” Está promocionando su nuevo producto, aunque los clientes parecen estar más interesados en su oferta de ‘media ración’.</color>",
-      "info": "Una calabaza más pequeña.\n\n<color=#3D1400>Resistencia:</color><color=red>4000</color>\n<color=#3D1400>Características:</color><color=red>Planta de bajo crecimiento, no puede bloquear balas (las plantas no bajas dentro de la Calabaza de Papa serán golpeadas), cada vez que recibe daño ocurre una pequeña explosión que causa 500 puntos de daño a los zombis.</color>\n<color=#3D1400>Receta de fusión:</color><color=red>Calabaza + Mina de Papa</color>",
+            "seedType": 1190,
+      "name": "Calabaza Mina",
+      "introduce": "<size=36><color=#3D1400>La Calabaza Mina fue una vez el dueño de una tienda de papas fritas, pero la reputación siguió cayendo, lo que lo llevó al jardín. “Media ración de papas fritas, menos pero no más barato, ¿no es una gran oferta?” Está promocionando su nuevo producto, aunque los clientes parecen estar más interesados en su oferta de ‘media ración’.</color></size>",
+      "info": "<size=36>Una calabaza más pequeña.</color>\n\n<color=#3D1400><color=#3D1400>Dureza:</color> <color=red>4000</color>\nEspecial:</color> <color=red>Una planta pequeña, no puede bloquear balas (las plantas no bajas dentro de Calabaza Mina serán golpeadas), cada vez que recibe 1350 de daño ocasiona una pequeña explosión que causa 500 puntos de daño a los zombis.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Curcubita Explodius</color></size>\n<size=36><color=#3D1400>Fórmula de Fusión:</color> <color=red>Patatapum + Calabaza</color></size>",
       "cost": ""
     },
     {
       "seedType": 1191,
-      "name": "Cactus de la Destrucción",
-      "introduce": "<color=#3D1400>El Cactus de la Destrucción ha estudiado el “Manual de Guerra de Plantas,” por lo que le gusta acumular poder y explotar, buscando un golpe decisivo — este método no solo puede usarse para luchar contra zombis, sino también para “atacar” a los ratones acorazados.</color>",
-      "info": "Lanza espinas con un aura de destrucción.\n\n<color=#3D1400>Daño:</color><color=red>40/1.5 segundos</color>\n<color=#3D1400>Características:</color><color=red>Cada ataque tiene un 5% de probabilidad de activar el movimiento especial. Si no se activa, el siguiente ataque aumenta la probabilidad de activarlo. Después de 20 ataques, la probabilidad es del 100%. Efecto especial: Dispara una gran cantidad de balas hacia adelante, pudiendo atacar unidades aéreas.</color>\n<color=#3D1400>Receta de fusión:</color><color=red>Cactus + Hongo de Destrucción</color>",
+      "name": "Cactruina",
+      "introduce": "<size=36><color=#3D1400>Cactruina ha estudiado el “Manual de Guerra de Plantas,” por lo que le gusta acumular poder y explotar, buscando un golpe decisivo — este método no solo puede usarse para luchar contra zombis, sino también para “atacar” a los ratones acorazados.</color></size>",
+      "info": "<size=36>Lanza espinas con un aura de destrucción.</color>\n\n<color=#3D1400>Daño:</color> <color=red>40/1.5 Segundos\n\n<color=#3D1400>Especial:</color> <color=red>Cada ataque tiene un 5% de probabilidad de activar un movimiento especial. Si no se activa, el siguiente ataque aumenta la probabilidad de activarlo. Después de 20 ataques, la probabilidad es del 100%. Efecto especial: Dispara una gran cantidad de espinas hacia adelante, pudiendo atacar unidades aéreas.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Cactaceae Destructum</color></size>\n<size=36><color=#3D1400>Fórmula de Fusión:</color> <color=red>Petaseta + Cactus</color></size>",
       "cost": ""
     },
     {
       "seedType": 1192,
-      "name": "Trampa Venus de la Destrucción",
-      "introduce": "<color=#3D1400>La Trampa Venus de la Destrucción fue una fuerte competidora para el Campeonato de Gran Apetito de la Trampa Venus Gigante. “Él terminó su propio pastel, luego voló el mío a cenizas,” dijo la Trampa Venus Gigante. “Sin embargo, fue descalificado por dañar el lugar de la competencia.”</color>",
-      "info": "Consume al primer zombi en frente y libera el efecto del Hongo de Destrucción.\n\n<color=#3D1400>Daño:</color><color=red>Matar al instante</color>\n<color=#3D1400>Características:</color><color=red>Cada vez que consume un zombi, libera un efecto de Hongo de Destrucción y crea un agujero explosivo en el frente.</color>\n<color=#3D1400>Duración de la digestión:</color><color=red>2 segundos</color>",
+      "name": "Carroñuclear",
+      "introduce": "<size=36><color=#3D1400>Carroñuclear fue un fuerte competidor para el campeonato de \u0022Come lo mas que Puedas\u0022. “Él terminó su propio pastel, luego voló el mío a cenizas,” dijo Carroñívora Titan. “Sin embargo, fue descalificado por dañar el lugar de la competencia.</color></size>",
+      "info": "<size=36>Consume al primer zombi en frente y crea una explosión masiva, dejando un crater al frente suyo.</color>\n\n<color=#3D1400>Daño:</color> <color=red>Muerte Instantánea</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Dionaea Lethalis</color></size>\n<size=36><color=#3D1400>Fórmula de Fusión:</color> <color=red>Planta Carroñívora + Petaseta</color></size>",
       "cost": ""
     }
-
-  ]
-}
+    
+  ] }
