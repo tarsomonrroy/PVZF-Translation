@@ -332,7 +332,7 @@
       "theZombieType": 108,
       "name": "<size=30>Vegezombi Metálico</size>",
       "introduce": "<size=36><color=#3D1400>El año pasado, el Vegezombi Metálico sacó una carta del tarot que decía \"El Emperador.\" Desde entonces, ha podido disparar balas de hierro a voluntad.</color></size>",
-      "info": "<size=36>Dispara balas de alto daño.\n\n<color=#3D1400>Daño: </color><color=#4B0082>80</color>\n<color=#3D1400>Dureza: </color><color=#4B0082>270+1350</color>\n<color=#3D1400>Características: </color><color=#4B0082>Dejará caer una cubeta de hierro cuando sea destruido por balas.</color></size>"
+      "info": "<size=36>Dispara balas de alto daño.\n\n<color=#3D1400>Daño: </color><color=#4B0082>80</color>\n<color=#3D1400>Dureza: </color><color=#4B0082>1350</color>\n<color=#3D1400>Características: </color><color=#4B0082>Dejará caer una cubeta de hierro cuando sea destruido por balas.</color></size>"
     },
     {
       "theZombieType": 109,
@@ -369,7 +369,7 @@
       "theZombieType": 114,
       "name": "Vegezombi Portero",
       "introduce": "<size=30><color=#3D1400>El Vegezombi Portero siempre carga equipo de hierro, desconcertando a otros zombis. \u0022Si las Magnetosetas pueden arrancarnos la cabeza, ¿por qué no traemos más metal?\u0022 Su lógica funcionó... hasta que conoció a Trebolaimán.</color>",
-      "info": "<size=30>Este zombi dispara guisantes de hierro mientras se protege con una Puerta Mosquitera.\n\n<color=#3D1400>Daño:</color> <color=#4B0082>80</color>\n<color=#3D1400>Dureza:</color> <color=#4B0082>270+1250+1100+1100</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Exmiembro del \u0022Club de Coleccionistas de Lavadoras\u0022.</color></size>"
+      "info": "<size=30>Este zombi dispara guisantes de hierro mientras se protege con una Puerta Mosquitera.\n\n<color=#3D1400>Daño:</color> <color=#4B0082>80</color>\n<color=#3D1400>Dureza:</color> <color=#4B0082>1350+1100+1100</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Exmiembro del \u0022Club de Coleccionistas de Lavadoras\u0022.</color></size>"
     },
     {
       "theZombieType": 115,
@@ -405,7 +405,7 @@
       "theZombieType": 201,
       "name": "<size=30>Zombisquí Jackson</size>",
       "introduce": "<size=32><color=#3D1400>Zombisquí Jackson es un esfuerzo de equipo: Zombictor prepara el escenario, Zombisquí aporta efectos visuales, y Zombi Jackson sale del coche sin licencia de conducir para saludar a sus fans vegetales.</color></size>",
-      "info": "<size=32>Defensa extremadamente alta e inmunidad al ralentizamiento.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>3000</color>\n<color=#3D1400>Características: </color><color=#4B0082>Al morir, invoca automáticamente a un Zombi Jackson, Zombictor y Zombisquí. También tiene una reducción de daño fija del 75% de forma innata.</color></size>"
+      "info": "<size=32>Defensa extremadamente alta e inmunidad al ralentizamiento.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>12000</color>\n<color=#3D1400>Características: </color><color=#4B0082>Al morir, invoca automáticamente a un Zombi Jackson, Zombictor y Zombisquí. También tiene una reducción de daño fija del 75% de forma innata.</color></size>"
     },
     {
       "theZombieType": 202,
@@ -434,9 +434,9 @@
 
     {
       "theZombieType": 206,
-      "name": "<size=30>Kirov Dron</size>",
+      "name": "<size=30>Dron Kirov</size>",
       "introduce": "<size=36><color=#3D1400>Este no es un avión común; es un avión especial que ha sido comprimido por la presión del agua. Aunque el método exacto de compresión sigue siendo un misterio, su fuerza en el campo de batalla rivaliza con la de los bombarderos convencionales.</color></size>",
-      "info": "<size=36>Los drones Kirov vuelan más rápido, lanzando bombas sobre las plantas por las que vuelan.\n\n<color=#3D1400>Daño de la Bomba: </color><color=#4B0082>1000</color>\n<color=#3D1400>Dureza: </color><color=#4B0082>200</color></size>"
+      "info": "<size=36>Los drones Kirov vuelan más rápido, lanzando bombas sobre las plantas por las que vuelan.\n\n<color=#3D1400>Daño de la Bomba: </color><color=#4B0082>1000</color>\n<color=#3D1400>Dureza: </color><color=#4B0082>500</color></size>"
     },
     {
       "theZombieType": 207,
@@ -502,7 +502,7 @@
       "theZombieType": 218,
       "name": "Pozeidón",
       "introduce": "<size=30><color=#3D1400>Rey de las profundidades y experto en tridentes divinos. Advertencia: no le pidas que controle el clima... ¡ya lo hizo, y ahora llueven zombis!</color>",
-      "info": "<size=30>Lanza tridentes que destruyen plantas y potencian a su ejército.\n\n<color=#3D1400>Dureza:</color> <color=#4B0082>8000+24000</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Dios submarino zombificado. Ex-campeón de lanzamiento de tridentes en las Olimpiadas del Abismo.</color>\n<color=#3D1400>Habilidades:</color> <color=#4B0082>Inmune a hipnosis y plantas carnívoras. Sus tridentes bloquean proyectiles y matan plantas al instante. ¡Los tridentes hacen ×5 de daño!</color></size>"
+      "info": "<size=30>Lanza tridentes que destruyen plantas y potencian a su ejército.\n\n<color=#3D1400>Dureza:</color> <color=#4B0082>8000+24000</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Dios submarino zombificado. Ex-campeón de lanzamiento de tridentes en las Olimpiadas del Abismo.</color>\n<color=#3D1400>Habilidades:</color> <color=#4B0082>Inmune a hipnosis y plantas carnívoras, Su tridente bloquea proyectiles y mata plantas al instante, Invoca a su ejercito al entrar al campo, ¡Los tridentes hacen ×5 de daño!</color></size>"
     },
     {
       "theZombieType": 219,
