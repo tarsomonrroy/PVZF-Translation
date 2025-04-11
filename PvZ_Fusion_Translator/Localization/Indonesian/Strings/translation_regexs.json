@@ -8,7 +8,7 @@
   "下一阶段：(\\d+)分(\\d+)秒\\s+当前水分：(\\d+)/100\\s+当前成长阶段：(\\d+)/2\\s+成长值：(\\d+)/100": "<size=40>Cooldown: {0}:{1}\nHidrasi: {2}/100\nTahap: {3}/2\nKesukaan: {4}/100",
   "-------UI - Buttons": "UI - Buttons-------",
   "查看([^\\s：]+)": "Lihat {0}",
-  "返回([^\\s：]+)": "Kembali ke {0}",
+  "返回([^\\s：]+)": "<size=34>Kembali ke {0}",
   "回到([^\\s：]+)": "Kembali ke {0}",
   "-------UI - Playing": "UI - Playing-------",
   "快捷键：(\\d+)": "<size=20>Pintas: {0}",
@@ -91,5 +91,13 @@
   "^升级植物需要消耗(\\d+)阳光": "Upgrading Requires {0} Sun",
   "^制作组名单：\\s+制作人：蓝飘飘fly\\s+策划：蓝飘飘fly、机鱼\\s+": " ",
   "^快捷键一览：\\s+1：铲子\\s+": " ",
+  "-------Strings - New Update v2": "Strings - New Update 2.3.1-------",
+  "^<color=red>红温</color>\\s+效果：僵尸受到的伤害增加50%，且死亡时对小范围内僵尸造成100点伤害并施加红温效果\\s+": "<color=red>Kebakar</color>\nEfek: Zombi kena 50% lebih sakit, dan pas mati, nyerang zombi di deketnya 100 damage plus ngasih debuff Kebakar.\n<color=blue>Poin Es</color>\nEfek: Zombi mulai dengan batas Poin Es 100. Kalo Poin Es nyampe batasnya, zombi bakal beku 4 detik, terus batasnya naik 100, maksimal 400.\n<color=green>Kejerat</color>\nEfek: Tiap kali Kejerat kena, zombi bakal kena damage persen dari HP max sesuai Nilai Kejerat:\n6~10: 1%, 11~15: 3%, 16~29: 5%, 30+: 100%\n<color=white>Nilai Racun</color>\nBatas Nilai Racun zombi adalah 5. Kalo udah 5, makin nambah bikin zombi masuk status keracunan, kehilangan HP tiap detik sebesar 20 × Nilai Racun. Kalo Nilai Racun udah 5 terus kena proyektil Mentega Bawang Putih, batas ini bakal ilang.\n<color=yellow>Tingkat Cahya</color>\nLampu ngasih 1 Tingkat Cahaya ke semua ubin dalam area 3x3. Gak ada batasan buat Tingkat Cahya di satu ubin.\n<color=#00FFFF>Sistem Magnet</color>\nKalo ada tanaman magnet dalam jarak 3x3 dari tanaman magnet lain, mereka bakal dianggap satu Sistem Magnet yang sama.",
+  "^坚果台球(\\d+)?": "Biliar Kentang {0}",
+  "^旅行冒险：第(\\d+)关": "Petualangan Spesial: Level {0}",
+  "^剩余积分：(\\d+)点": "Sisa Poin: {0}",
+  "但(.*)": "Modifikasi Negatif Spesial | {0}",
+  "^成功击败领袖，获得(\\d+)积分": "Bos Zombi kalah! Lu dapet {0} poin",
+  "^大招需要(\\d+)金币": "Using the Ultimate requires {0} Coins.",
   "-------Outdated Regex Below": "You Can Safely Ignore or Delete-------"
 }

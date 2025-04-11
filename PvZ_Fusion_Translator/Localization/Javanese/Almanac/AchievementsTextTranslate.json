@@ -1,27 +1,27 @@
 {
   "Welcome": {
     "achievement": 0,
-    "Name": "Cobain mekanik inti game ini.",
-    "Text": "Plants vs Zombies: Fusion"
+    "Name": "Cobaakenin mekanik inti game ini.",
+    "Text": "Tanduran Ms Mayit: Fusi"
   },
   "PeaSunflower": {
     "achievement": 1,
-    "Name": "Temokno Kipli Srengenge.",
-    "Text": "Era Fusion Dimulai"
+    "Name": "Ketemu Kipli Srengenge.",
+    "Text": "Era Fusi Dimulai"
   },
   "GatlingPea": {
     "achievement": 2,
-    "Name": "Temokno Kipli Brondong",
+    "Name": "Ketemu Kipli Brondong",
     "Text": "Ngupgrade Disek Ben GG"
   },
   "TwinFlower": {
     "achievement": 3,
-    "Name": "Temokno Kembang Srengenge Kembar",
+    "Name": "Ketemu Kembang Srengenge Kembar",
     "Text": "Ini Kembang Srengenge Kembar Kan?"
   },
   "SuperGatling": {
     "achievement": 4,
-    "Name": "Temokno Kipli Rambo",
+    "Name": "Ketemu Kipli Rambo",
     "Text": "Abangnya Lagi Ngamuk"
   },
   "CherryPaper": {
@@ -31,12 +31,12 @@
   },
   "BigWallNut": {
     "achievement": 6,
-    "Name": "Lebokno Kacang di atas Kacang lain.",
+    "Name": "Lebokno kacang di atas kacang lain.",
     "Text": "Kok Iso Kabur?"
   },
   "CherryPaper95": {
     "achievement": 9,
-    "Name": "Ketemu Zompli Brondong Koran Ceri.",
+    "Name": "Ketemu Mayt Kipli Brondong Koran Ceri.",
     "Text": "Diskon Besar Ceri!"
   },
   "Puff": {
@@ -46,23 +46,23 @@
   },
   "SunBomb": {
     "achievement": 8,
-    "Name": "Nggunakke Bom Srengenge buat ngeledakin 10 Mayit sekaligus.",
+    "Name": "Gunakno Bom Srengenge buat ngeledakin 10 Mayit sekaligus.",
     "Text": "Satu Cahyo Sehari"
   },
   "BigWallNut2": {
     "achievement": 10,
-    "Name": "Nggunakke Kacang buat ngehancurin 10 Mayit sekaligus.",
-    "Text": "Kacang Tukang Giling"
+    "Name": "Gunakno kacang buat ngehancurin 10 Mayit sekaligus.",
+    "Text": "kacang Tukang Giling"
   },
   "BigWallNut3": {
     "achievement": 11,
-    "Name": "Nggunakke Kacang buat ngasih damage 20.000 ke Mayit yang sama.",
-    "Text": "Kacang Glinding"
+    "Name": "Gunakno kacang buat ngasih damage 20.000 ke Mayit yang sama.",
+    "Text": "kacang Glinding"
   },
   "HypnoShroom": {
     "achievement": 12,
-    "Name": "Nggunakke Jamur Hipno buat ngerasuki Mayit.",
-    "Text": "Sorry! Gak Sekarang!"
+    "Name": "Gunakno Jamur Hipno buat ngerasuki Mayit.",
+    "Text": "Nuwun! Ora saiki!"
   },
   "JacksonZombie": {
     "achievement": 13,
@@ -71,42 +71,42 @@
   },
   "ScaredyHypno": {
     "achievement": 14,
-    "Name": "Nggunakke Jamur Hipno Kicep buat maksa ngerasuki Mayit.",
+    "Name": "Gunakno Jamur Hipno Kicep buat maksa ngerasuki Mayit.",
     "Text": "Dewa Konsep"
   },
   "HypnoNut": {
     "achievement": 15,
-    "Name": "Summon Mayit Kotak Mas dari Kacang Hipno.",
+    "Name": "Nyebat Mayit Kotak Mas dari kacang Hipno.",
     "Text": "Kayaknya Enak Nih"
   },
   "LilyPad": {
     "achievement": 16,
-    "Name": "Bikin Teratai numbuhin Tanduran.",
+    "Name": "Damel Teratai numbuhin Tanduran.",
     "Text": "Daun Teratai Muda Anyar Nongol"
   },
   "ThreePeater": {
     "achievement": 17,
-    "Name": "Tanem Kipli Telu di jalur pinggir biar nembak 2 kacang per baris.",
+    "Name": "Tanemakenaken Kipli Telu di jalur pinggir biar nembak 2 kacang per baris.",
     "Text": "Arah Nembaknya Miring Kiri"
   },
   "SquashKelp": {
     "achievement": 18,
-    "Name": "Temokno Rumput Laut Raksasa",
+    "Name": "Ketemu Rumput Laut Raksasa",
     "Text": "Monster Dari Laut Dalam"
   },
   "ThreeSpike": {
     "achievement": 19,
-    "Name": "Nggunakke Penyebar Duri buat meledakin ban.",
-    "Text": "Masih Perlu Duribatu?"
+    "Name": "Gunakno Penyebar Eri buat meledakin ban.",
+    "Text": "Masih Perlu Eribatu?"
   },
   "SunSeaShroom": {
     "achievement": 20,
-    "Name": "Temokno Jamur Srengenge Laut.",
+    "Name": "Ketemu Jamur Srengenge Laut.",
     "Text": "Ini Jamur Srengenge Kan?"
   },
   "StarBlover": {
     "achievement": 21,
-    "Name": "Nggunakke Kipas Lintang buat narik proyektil bintang.",
+    "Name": "Gunakno Kipas Lintang buat narik proyektil bintang.",
     "Text": "Penarik Lintang"
   },
   "MagnetShroom": {
@@ -116,7 +116,7 @@
   },
   "CornCabbage": {
     "achievement": 23,
-    "Name": "Temokno Pelontar Lontong.",
+    "Name": "Ketemu Pelontar Lontong.",
     "Text": "Pelontar Lontong Adalah Bohongmu"
   },
   "GarlicCorn": {
@@ -126,33 +126,33 @@
   },
   "CabbageUmbrella": {
     "achievement": 25,
-    "Name": "Nggunakke Payung Kol buat mentalin proyektil ketapel.",
+    "Name": "Gunakno Payung Kol buat mentalin proyektil ketapel.",
     "Text": "Lompat-Lompatan Nyenengke"
   },
   "GoldMelon": {
     "achievement": 26,
-    "Name": "Bikin hujan Semangka emas dari langit.",
+    "Name": "Damel hujan Semangka emas dari langit.",
     "Text": "Hujan Semangka!"
   },
   "SquashTorch": {
     "achievement": 27,
-    "Name": "Nggunakke Kayu Obong Geprek buat ngeluarin Jipang.",
+    "Name": "Gunakno Kayu Obong Geprek buat ngeluarin Jipang.",
     "Text": "Jipangnya Murub Abangkuh!"
   },
   "UltimateTorch": {
     "achievement": 28,
-    "Name": "Temokno Kayu Jipang Jahanam.",
+    "Name": "Ketemu Kayu Jipang Jahanam.",
     "Text": "Jipang kan Pedes, nah Ini Anget"
   },
   "Superkelp": {
     "achievement": 29,
-    "Name": "Temokno Nogo Segoro.",
+    "Name": "Ketemu Nogo Segoro.",
     "Text": "Jipang Makin GG"
   },
   "DarkThreePeater": {
     "achievement": 30,
-    "Name": "Coba nyalain Kipli Telu.",
-    "Text": "Joget Bareng Geni"
+    "Name": "Cobaaken nyalain Kipli Telu.",
+    "Text": "Joget Bareng Jati Geni"
   },
   "AshThreePeater": {
     "achievement": 31,
@@ -166,7 +166,7 @@
   },
   "MagnetCactus": {
     "achievement": 33,
-    "Name": "Nggunakke Magnet Duri buat ngancurin kapal udara.",
+    "Name": "Gunakno Magnet Eri buat ngancurin kapal udara.",
     "Text": "Kapal Tempur"
   },
   "SuperStar": {
@@ -176,8 +176,8 @@
   },
   "UltimateStar": {
     "achievement": 35,
-    "Name": "Temokno Prabu Meteor.",
-    "Text": "Level 1436"
+    "Name": "Ketemu Sang Prabu Meteor.",
+    "Text": "Tingkat 1436"
   },
   "MagnetShroom2": {
     "achievement": 36,
@@ -186,52 +186,52 @@
   },
   "UltimateStar2": {
     "achievement": 37,
-    "Name": "Bikin damage Prabu Meteor lebih dari 1800.",
+    "Name": "Damel damage Sang Prabu Meteor lebih dari 1800.",
     "Text": "Anak Lintang"
   },
   "HypnoMagnet": {
     "achievement": 38,
-    "Name": "Summon Gargantuar Robot dari Magnet Hipno.",
+    "Name": "Nyebat Gargantuar Robot dari Magnet Hipno.",
     "Text": "Banjir Baja"
   },
   "SunMagnet": {
     "achievement": 39,
-    "Name": "Nggunakke Magnet Srengenge buat bikin objek logam.",
+    "Name": "Gunakno Magnet Srengenge buat bikin objek logam.",
     "Text": "Mandiri Banget"
   },
   "SuperCherryShooter": {
     "achievement": 40,
-    "Name": "Temokno Kipli Bom.",
+    "Name": "Ketemu Kipli Bom.",
     "Text": "Tadi Dia Nembak Bom Ceri?"
   },
   "UltimateGatling": {
     "achievement": 41,
-    "Name": "Temokno Brondong Ceribomber.",
+    "Name": "Ketemu Brondong Ceribomber.",
     "Text": "Pembom Halaman"
   },
   "HypnoEmperor": {
     "achievement": 42,
-    "Name": "Temokno Permaisuri Hipno.",
-    "Text": "Permaisuri Sihir"
+    "Name": "Ketemu Ratu Hipno.",
+    "Text": "Ratu Sihir"
   },
   "CobCannon": {
     "achievement": 43,
-    "Name": "Temokno Rudal Jagung.",
+    "Name": "Ketemu Rudal Janggelan.",
     "Text": "Ketenangan Generasi Lama"
   },
   "IceCannon": {
     "achievement": 44,
-    "Name": "Coba deh Rudal Jagung Adhem buat ngebekuin Tanduran.",
+    "Name": "Cobaaken deh Rudal Janggelan Adhem buat ngebekuin Tanduran.",
     "Text": "Buat Dunia Menjadi Adhem Selayaknya Thomas Slebew~"
   },
   "FireCannon": {
     "achievement": 45,
-    "Name": "Nggunakke Rudal Geni buat ngebakar Tanduran.",
+    "Name": "Gunakno Rudal Jati Geni buat ngebakar Tanduran.",
     "Text": "Goreng-goreng, masak-masak, tumis-tumis Tanduran~"
   },
   "UltimateCannon": {
     "achievement": 46,
-    "Name": "Temokno Rudal-Nuklir.",
+    "Name": "Ketemu Rudal-Nuklir.",
     "Text": "Waspada Ada Anak Tibo Dari Langit"
   },
   "SuperUmbrella": {
@@ -241,32 +241,32 @@
   },
   "EmeraldUmbrella": {
     "achievement": 48,
-    "Name": "Nggunakke Payung Sultan buat ngejek trisula.",
+    "Name": "Gunakno Payung Sultan buat ngejek trisula.",
     "Text": "Ayo Hantam Gue!"
   },
   "RedEmeraldUmbrella": {
     "achievement": 49,
-    "Name": "Nggunakke Payung Lindung buat mantulin proyektil Mayit.",
-    "Text": "Maaf! Gak Iso Tiap Hari!"
+    "Name": "Gunakno Payung Lindung buat mantulin proyektil Mayit.",
+    "Text": "Nuwun! Gak Iso Tiap Hari!"
   },
   "Plantern": {
     "achievement": 50,
-    "Name": "Bikin Level pencahayaan Tanduran lebih dari 10.",
+    "Name": "Damel Tingkat pencahayaan Tanduran lebih dari 10.",
     "Text": "Padhang Benderang"
   },
   "SuperFume": {
     "achievement": 51,
-    "Name": "Temokno Gojo",
-    "Text": "Jamur tu Harus Hitam Ben Sangar"
+    "Name": "Ketemu Gojo",
+    "Text": "Jamur tu Harus Ireng Ben Sangar"
   },
   "UltimateFume": {
     "achievement": 52,
-    "Name": "Temokno Prabu Gojo",
+    "Name": "Ketemu Sang Prabu Gojo",
     "Text": "Jamur! Aku Kembali!"
   },
   "UltimteGloom": {
     "achievement": 53,
-    "Name": "Temokno Prabu Gurita",
+    "Name": "Ketemu Sang Prabu Gurita",
     "Text": "Satu Jamur, Lima Jalur"
   },
   "CattailPlant": {
@@ -276,32 +276,32 @@
   },
   "CattailGirl": {
     "achievement": 55,
-    "Name": "Temokno Kucing Loli.",
+    "Name": "Ketemu Kucing Loli.",
     "Text": "Loh ni Tanduran Cewek?"
   },
   "Cattailour": {
     "achievement": 56,
-    "Name": "Temokno Kucing Sakti.",
+    "Name": "Ketemu Kucing Sakti.",
     "Text": "Ini Bencana Kucing!"
   },
   "WallNut": {
     "achievement": 57,
-    "Name": "Gunakno Kacang buat bertahan dari Mayit.",
+    "Name": "Gunakno kacang buat bertahan dari Mayit.",
     "Text": "Nyantol"
   },
   "SuperChomper": {
     "achievement": 58,
-    "Name": "Temokno Mlotrozilla",
+    "Name": "Ketemu Mlotrozilla",
     "Text": "Kayaknya Susah Dibully."
   },
   "UltimateChomper": {
     "achievement": 59,
-    "Name": "Temokno Cerizilla",
+    "Name": "Ketemu Cerizilla",
     "Text": "Monster Abang"
   },
   "UltimateTallNut": {
     "achievement": 60,
-    "Name": "Gunakno Kacang Obsidian buat bertahan dari ledakan.",
+    "Name": "Gunakno kacang Obsidian buat bertahan dari ledakan.",
     "Text": "Tantangane Ember Es"
   },
   "SuperMachineNut": {
@@ -311,22 +311,22 @@
   },
   "SuperSunNut": {
     "achievement": 62,
-    "Name": "Spawn Kacang Raksasa dari Prabu Kacang Srengenge.",
+    "Name": "Spawn kacang Raksasa dari Sang Prabu kacang Srengenge.",
     "Text": "Kasih Aku Cahyo"
   },
   "UltimatePumpkin": {
     "achievement": 63,
-    "Name": "Gunakno Prabu Drone buat lawan Mayit yang terbang.",
+    "Name": "Gunakno Sang Prabu Pesawat buat lawan Mayit yang terbang.",
     "Text": "Labu Kuat Perkasa"
   },
   "MelonJump": {
     "achievement": 64,
-    "Name": "Nggunakke Payung Semangka buat mentalin Pogo Semangka Mayit ke tanah.",
+    "Name": "Gunakno Payung Semangka buat mentalin Pogo Semangka Mayit ke tanah.",
     "Text": "Langit dan Bumi"
   },
   "IronNut": {
     "achievement": 65,
-    "Name": "Temokno Kacang Ember",
+    "Name": "Ketemu kacang Ember",
     "Text": "Ayo Perangi!"
   },
   "Sub": {
@@ -361,7 +361,7 @@
   },
   "Travel_noNut": {
     "achievement": 1005,
-    "Name": "Coba rampungno Mode Kelana tanpa make Cerizilla, Kacang Obsidian, Gundul Pringis Rasa Iwak, lan Prabu Kacang Srengenge.",
+    "Name": "Cobaaken rampungno Mode Kelana tanpa make Cerizilla, kacang Obsidian, Gundul Pringis Rasa Iwak, lan Sang Prabu kacang Srengenge.",
     "Text": "Nyedak ora wedi, nyerang ora mundur!"
   },
   "Travel_sun": {

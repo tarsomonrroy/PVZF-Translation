@@ -74,7 +74,7 @@
   "^HP：(\\d+)/(\\d+)": "HP: {0}/{1}",
   "旅行：守护 (\\d+)轮已经完成": "Odisseia: Último Batalhão | {0} Rodadas Concluídas",
   "-------Strings - New Update": "Strings - New Update-------",
-  "^余额不足，购买需要：(\\d+)": "Balanceamento insuficiente. Precisa de ${0}",
+  "^余额不足，购买需要：(\\d+)": "<size=28><color=#FFFFFF>Saldo insuficiente! Precisa de ${0}",
   "^砸罐子(\\d+)": "Fica frio aí",
   "^作战植物已达上限(\\d+)/(\\d+)": "Quantidade máxima de plantas em combate alcançada: {0}/{1}",
   "^参战植物数量增加到(\\d+)": "Número de plantas em combate aumentado para {0}",
@@ -91,5 +91,13 @@
   "^升级植物需要消耗(\\d+)阳光": "A atualização requer {0} Sóis",
   "^制作组名单：\\s+制作人：蓝飘飘fly\\s+策划：蓝飘飘fly、机鱼\\s+": "",
   "^快捷键一览：\\s+1：铲子\\s+": "",
+  "-------Strings - New Update v2": "Strings - New Update 2.3.1-------",
+  "^<color=red>红温</color>\\s+效果：僵尸受到的伤害增加50%，且死亡时对小范围内僵尸造成100点伤害并施加红温效果\\s+": "<size=3><color=#EE2200>Sistema Pyro</color>\nZumbis sofrem 50% a mais de dano e, ao morrerem, causam 100 de dano a zumbis próximos e aplicam Aura Pyro em todos os zumbis atingidos.\n\n<color=#003E9C>Sistema Cryo</color>\nZumbis tem um limite de 100 pontos Cryo. Quando os Pontos Cryo acumulados atingem esse limite, o zumbi ficará congelado por 4 segundos, depois o limite vai aumentando\nde 100 em 100 até atingir o máximo de 400 pontos Cryo.\n\n<color=#008800>Emaranhado</color>\nCada vez que Emaranhado é aplicado, ele causa dano percentual máximo de Vida adicional com base no valor atual de Emaranhado no zumbi:\nValor entre 6~10: 1% dano | Valor entre 11~15: 3% dano | Valor entre 16~29: 5% dano | Valor maior que 30: 100% dano \n\n<color=#006611>Envenenamento</color>\nZumbis tem um limite de 5 Níveis de Envenenamento. Quando atingir 5 Níveis, qualquer acúmulo adicional colocará o zumbi em um estado envenenado, perdendo Vida (por segundo)\nno valor de dano igual a 20 × Nível de Envenenamento. Se o valor do Envenenamento for 5 e o zumbi for atingido por um projétil de Gomopulta, esse limite será removido.\n\n<color=#DDDDDD>Sistema Lumos</color>\nEsse sistema se aplica a plantas da família das Planternas. Algumas plantas fornecem 1 Nível de Lumos em uma certa área a seu redor, geralmente sendo uma área 3x3.\nAlgumas plantas apenas são afetadas por Lumos, mas não gerar Níveis de Lumos, geralmente sendo potencializadas por Nível de Lumos.\nNão há limite para o nível de Lumos.\n\n<color=#222222>Sistema Magnético</color>\nQuando uma planta magnética está próxima a outra planta magnética em área 3x3 elas se conectam e passam a ser consideradas no mesmo Sistema Magnético,\npotencializando cada planta magnética de uma forma específica.",
+  "^坚果台球(\\d+)?": "Bilhar de Nozes {0}",
+  "^旅行冒险：第(\\d+)关": "Odisseia: Nível {0}",
+  "^剩余积分：(\\d+)点": "Pontos Restantes: {0}",
+  "但(.*)": "Maldição da Odisseia | {0}",
+  "^成功击败领袖，获得(\\d+)积分": "Zumbi Supremo derrotado com sucesso. Você ganhou {0} Pontos",
+  "^大招需要(\\d+)金币": "Using the Ultimate requires {0} Coins.",
   "-------Outdated Regex Below": "You Can Safely Ignore or Delete-------"
 }

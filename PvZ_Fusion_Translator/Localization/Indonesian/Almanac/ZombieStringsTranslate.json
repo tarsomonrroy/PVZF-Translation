@@ -88,7 +88,7 @@
             "theZombieType": 15,
             "name": "Zombi Peneliti",
             "introduce": "<size=26><color=black>Sebagai otoritas terkemuka di bidang akademis, Scholar Zombie sering terlihat di perpustakaan. Semangatnya untuk membaca sangat tinggi, dan mengganggunya saat dia membaca dapat memicu kemarahannya. Pria tua ini akan memastikan Anda memahami arti sebenarnya dari \"pengetahuan adalah kekuatan\"",
-            "info": "<size=30>Keras serangannya sama dengan kerasnya buku yang dia pegang.\" Kerusakan: 400\nToughness: 720+1100\nTraits: Tak terkalahkan dalam jangka pendek dan peningkatan kecepatan gerakan setelah buku itu rusak."
+            "info": "<size=30>Keras serangannya sama dengan kerasnya buku yang dia pegang.\" Kerusakan: 400\nKetangguhan: </color><color=#4B0082> 720+1100\nAncaman: Tak terkalahkan dalam jangka pendek dan peningkatan kecepatan gerakan setelah buku itu rusak."
         },
         {
             "theZombieType": 16,
@@ -265,6 +265,12 @@
             "info": "<size=36>Zombi Yeti Barongsai memiliki baju besi yang kuat.\n\n<color=black>Ketangguhan: </color><color=#4B0082>8888+8888</color>\n<color=black>Kelemahan: </color><color=#4B0082>Mercon</color>"
         },
         {
+            "theZombieType": 49,
+            "name": "<size=36>Zombi Basoka Salju",
+            "introduce": "<align=justified><size=36><color=black>\"Perang bola salju!\" Zombi Pelontar Bola Salju terbangun dari tidur beku, lalu melempar bola salju secara liar ke segala arah.\n\n\"Harus kita kasih tahu?\"\n\"Nggak usah, lihat aja berapa lama sampai dia sadar.\"\n\nPLAK!—Bola salju lain mendarat.\n\n\"Itu yang keempat belas.\"</color>",
+            "info": "<size=36>Zombi Basoka Salju bisa menyerang tanaman dengan bola salju dan membekukannya.\n\n<color=black>Kekebalan: </color><color=#4B0082>720</color>\n<color=black>Kerusakan: </color><color=#4B0082>75/2 Detik</color>\n<color=black>Karakteristik: </color><color=#4B0082>Setelah muncul, ia terus-menerus menembakkan bola salju ke tanaman. Bola salju akan meledak saat terkena target, memberikan 75 kerusakan dalam area 3x3 dan menonaktifkan tanaman selama 5 detik.</color>\n<color=black>Kelemahan: </color><color=#4B0082>Basoka</color>"
+        },
+        {
             "theZombieType": 100,
             "name": "Zompli",
             "introduce": "<size=34><color=black>Kemampuan Zompli untuk menyerang dari kejauhan, sering kali membuat tanaman menjadi takut. Namun demikian, kepanikan yang sesungguhnya terletak pada para zombi, yang takut bahwa mereka yang bertempur di depannya akan menjadi sasaran dari belakang.",
@@ -316,7 +322,7 @@
             "theZombieType": 108,
             "name": "Zompli Besi",
             "introduce": "<size=30><color=black>Tahun lalu, Buckshooter Zombie menggambar sebuah kartu tarot yang bertuliskan \"Sang Kaisar\". Sejak saat itu, dia bisa menembakkan peluru besi sesuka hati.",
-            "info": "<size=30>Zombi ini melesat langsung ke barisan terdepan tanaman, dan tariannya memanggil zombi panggung yang merangsek masuk.\n\nKerusakan: 80\nToughness: 270+1350\nTraits: Besi akan jatuh saat terkena peluru."
+            "info": "<size=30>Zombi ini melesat langsung ke barisan terdepan tanaman, dan tariannya memanggil zombi panggung yang merangsek masuk.\n\nKerusakan: 80\nKetangguhan: 270+1350\nAncaman: Besi akan jatuh saat terkena peluru."
         },
         {
             "theZombieType": 109,
@@ -515,6 +521,12 @@
             "name": "Prof Zompli Ceri",
             "introduce": "<color=black></color>",
             "info": "<size=26>Prof Zompli Ceri terobsesi dengan mempelajari artefak ilmiah, terutama bahan peledak; rumornya, Cherrizilla pada awalnya adalah ciptaannya...\n\n<color=black>Ketangguhan: </color></color><color=#4B0082>1200+12000+1500</color>\n<color=black>Sifat: </color><color=#4B0082>Hanya muncul dalam mode Api Penyucian setelah memilih pengubah yang sesuai. Kebal terhadap knockback, Hipno, Pemakan menerima maksimal 5000 kerusakan per pukulan. Profesor Cherryz kebal sampai korannya hancur. Setelah kehilangannya, dia secara singkat menjadi tak terkalahkan dan mengubah hingga 30 zombie menjadi Zombi Koran Kaboom yang marah. Dia kemudian menembakkan rentetan ceri, melontarkan ceri ke kolom terakhir sambil berakselerasi ke depan. Dia hanya berhenti setelah bertemu dengan Duriliar, yang langsung menghancurkan korannya jika masih utuh."
+        },
+        {
+            "theZombieType": 224,
+            "name": "<u>Queen Badut Pandora</u>",
+            "introduce": "<align=justified><size=36><color=black>Pandangan Ratu ajaib ini aja udah bikin para bawahannya gemeter. Nggak ada yang berani ngelawan dia. Tapi bukan cuma kekuatan yang dia suka—dia juga suka berbagi. Dalam kotak kado mewahnya, ada mainan dan pernak-pernik buat yang beruntung... plus bom kejutan yang siap meledak. Dan duh, dia emang cinta banget sama kejutan.</color>",
+            "info": "<size=36>Queen Badut Pandora suka banget bikin \"adegan yang meledak-ledak.\"\n\n<color=black>Daya Tahan: </color><color=#4B0082>32000</color>\n<color=black>Skill: </color><color=#4B0082>\n<color=black>•</color> Cuma muncul di mode Purgatory kalo pilih modifikatornya.\n<color=black>•</color> Maksimal kena 5000 damage per hit sebelum perhitungan pengurangan damage.\n<color=black>•</color> Kebal dari efek pesona atau dimakan.\n<color=black>•</color> Bisa nginjek tanaman sampe hancur.\n<color=black>•</color> Bakal nyerap 3000 daya tahan tiap kali kena ledakan badut.\n<color=black>•</color> Tiap beberapa saat bakal keluar dari kotaknya dan ngeluarin efek random:\n1. Manggil Zombi King Berkotak-kotak dari kolom ke-5 ke depan.\n2. Manggil Zombi Pogo King Berkotak-kotak dari kolom ke-5 ke depan.\n3. Meledakin semua petak di kolom tempat dia berdiri, nyerang pake damage fisik.</color>"
         }
     ]
 }

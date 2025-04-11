@@ -265,6 +265,13 @@
       "introduce": "<size=36>",
       "info": "<size=36>Niên Thú có lớp giáp rất dày.\n\n<color=#3D1400>Máu: </color><color=red>8888+8888</color>\n<color=#3D1400>Điểm Yếu:</color><color=red>Pháo Tất Niên</color>"
     },
+    {
+        "theZombieType": 49,
+        "name": "Zombie Súng Tuyết",
+        "introduce": "<size=36>",
+        "info": "Zombie Súng Tuyết có thể tấn công và đóng băng cây trồng của bạn.\n\n<color=#3D1400>Máu:</color><color=red> 720</color>\n<color=#3D1400>Sát thương:</color><color=red> 75/2S</color>\n<color=#3D1400>Đặc Điểm:</color><color=red> Liên tục bắn cầu tuyết vào cây trồng sau khi xuất hiện. Khi trúng mục tiêu, cầu tuyết phát nổ, gây 75 sát thương trong phạm vi 3x3 và vô hiệu hóa cây trồng trong 5 giây.</color>\n<color=#3D1400>Điểm Yếu:</color><color=red> Dù Dưa Hấu</color>"
+    },
+    
         {
            "theZombieType": 100,
             "name": "Zombie đậu hà lan",
@@ -516,5 +523,12 @@
       "name": "Giáo Sư Z",
       "introduce": "<color=#3D1400></color>",
       "info": "<color=#3D1400>Máu: </color><color=red>1200+12000+1500</color>\n<color=#3D1400>Đặc Điểm: </color><color=red>Xuất hiện trong Luyện Ngục khi bạn chọn Debuff của nó. Bất tử trước khi bị mất báo. Khi bị mất báo, bất tử trong 1 khoảng thời gian và biến 30 Zombie thành Liên Báo Anh Đào tức giận. Sau đó sẽ phi thẳng về phía trước, bắn 1 loạt đạn Cherry và đạn cẩu Cherry. Sẽ rách báo lập tức khi gặp Gai, đồng thời không thể di chuyển</color>"
+    },
+    {
+        "theZombieType": 224,
+        "name": "Nữ Hoàng Hề",
+        "introduce": "<color=#3D1400></color>",
+        "info": "<size=27><color=#3D1400>Máu:</color><color=red> 32000</color>\n<color=#3D1400>Đặc Điểm:</color><color=red>Xuất hiện trong Luyện Ngục khi bạn chọn Debuff của nó. Miễn nhiễm với thôi miên và nuốt chửng, chỉ nhận tối đa 5000 sát thương mỗi lần. Đè cây trước mặt, hồi 3000 máu với mỗi vụ nổ hề. Xuất hiện từ hộp quà theo chu kỳ, mỗi khi xuất hiện sẽ cho 1 hiệu ứng ngẫu nhiên:\n1.Triệu hồi Vua Hề ở cột 5 trở đi\n2.Triệu hồi Vua Hề Bật Nhảy ở cột 5 trở đi\n3.Giải phóng 1 vụ nổ (giống vụ nổ của đinh ba) ở mỗi ô ở cột hiện tại của nó.</color>"
     }
+    
 ]}      

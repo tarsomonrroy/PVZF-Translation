@@ -236,17 +236,17 @@
   },
   "SuperUmbrella": {
   "achievement": 47,
-  "Name": "Usa una Hoja de Záfiro para ganar dinero.",
+  "Name": "Usa una Paraplanta Záfiro para ganar dinero.",
   "Text": "Lleno a rebosar"
   },
   "EmeraldUmbrella": {
   "achievement": 48,
-  "Name": "Provoca un Zombi con Tridente con la Hoja de Esmeralda.",
+  "Name": "Provoca un Zombi con Tridente con la Paraplanta Esmeralda.",
   "Text": "Ven a golpearme"
 },
 "RedEmeraldUmbrella": {
   "achievement": 49,
-  "Name": "Rebota balas de zombi con la Hoja de Rubí.",
+  "Name": "Rebota balas de zombi con la Paraplanta Rubí.",
   "Text": "¡Lo siento! ¡Todos los días no se puede!"
 },
 "Plantern": {

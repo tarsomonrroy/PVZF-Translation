@@ -81,8 +81,8 @@
   "^距离植物休息完毕还有(\\d+)秒": "Tiempo Hasta Recarga: {0} Segundos",
   "^补给已到达，参战植物数量增加到(\\d+)": "¡Refuerzos Han Llegado! Plantas en Combate Aumentadas a {0}",
   "^请按左中右的顺序放置以下植物\\s+([^\\s]+)，([^\\s]+)，([^\\s]+)": "Por favor, coloque las siguientes plantas en orden\n{0}, {1}, {2}",
-  "^当前分数：(\\d+)": "Puntaje Actual: {0}",
-  "^本次消耗分数：(\\d+)": "Costo Actual: {0}",
+  "^当前分数：(\\d+)": "<size=12>Puntaje Actual: {0}",
+  "^本次消耗分数：(\\d+)": "<size=12>Costo Actual: {0}",
   "^生存模式：旅行 (\\\\d+)轮已经完成": "Odisea: Supervivencia | {0} Rondas Completadas",
   "^旅行：轮回 (\\d+)轮已经完成": "Odisea: Reencarnación | {0} Rondas Completadas",
   "^旅行：炼狱 (\\d+)轮已经完成": "Odisea: Purgatorio | {0} Rondas Completadas",
@@ -91,12 +91,13 @@
   "^升级植物需要消耗(\\d+)阳光": "Actualizar Requiere {0} Sol",
   "^制作组名单：\\s+制作人：蓝飘飘fly\\s+策划：蓝飘飘fly、机鱼\\s+": " ",
   "^快捷键一览：\\s+1：铲子\\s+": " ",
-  "-------Outdated Regex Below": "You Can Safely Ignore or Delete-------",
   "-------Strings - New Update v2": "Strings - Nueva Actualización 2.3.1-------",
-  "^<color=red>红温</color>\\s+效果：僵尸受到的伤害增加50%，且死亡时对小范围内僵尸造成100点伤害并施加红温效果\\s+": "<size=3.5><color=#FF4500>Sistema Pirogénico</color>\nEfecto: Los zombis reciben un <color=red>50% más de daño al recibir el efecto</color>, y al morir,<color=red> infligen 100 de daño a los zombis cercanos y expanden el efecto.</color>\n<color=#0077b6>Sistema Criogénico</color>\nEfecto: Los zombis comienzan con un límite de Puntos Criogénicos de 100. Cuando los Puntos Criogénicos acumulados alcanzan el límite,<color=red> el zombi se congelará durante 4 segundos, luego el límite aumenta en 100, hasta un máximo de 400.</color>\n<color=#228B22>Sistema Enredado</color>\nEfecto: Cada vez que se aplica el efecto enredado,<color=red> inflige daño adicional basado en el Punto Enredado actual del zombi:</color>\n6~10: 1%, 11~15: 3%, 16~29: 5%, 30+: 100%</color>\n<color=#2E8B57>Sistema Venenoso</color>\nEl límite de envenenamiento de un zombi es 5. Cuando alcanza 5, <color=red>cualquier acumulación adicional pondrá al zombi en estado de veneno, perdiendo HP cada segundo igual a 20 × Valor de Envenenamiento.</color> Si el valor de envenenamiento está en 5 y el zombi es golpeado por una Mantequilla Apestosa, este límite se eliminará.\n<color=#104f30>Sistema Lumina</color>\nPlanterna proporciona <color=red>1 Nivel Lumina</color> a todas las casillas en un área de 3x3.</color> No hay límite en el Nivel Lumina de una casilla. <color=red>El nivel lumina puede potenciar a fusiones parte de este sistema que no sean generadores.</color>\n<color=#8B0000>Sistema Magnético</color>\nCuando una planta magnética está dentro de un rango de 3x3 de otra planta magnética, se <color=red>consideran parte del mismo Sistema Magnético.</color>\n<color=#FFCA30>Sistema Monetario</color>\nEl dinero que consigues con fusiones de Margarita te sirven para <color=red>activar habilidades especiales y volver a tus plantas doradas.</color> Cada una tiene una distinta habilidad y precio, y puedes ver que hacen en sus versiones doradas en el almanaque.",
-  "^坚果台球(\\d+)": "Billares de Nuez {0}",
+  "^<color=red>红温</color>\\s+效果：僵尸受到的伤害增加50%，且死亡时对小范围内僵尸造成100点伤害并施加红温效果\\s+": "<size=3.5><color=#FF4500>Sistema de Quemaduras</color>\nEfecto: Los zombis reciben un <color=red>50% más de daño al recibir el efecto</color>, y al morir,<color=red> infligen 100 de daño a los zombis cercanos y expanden el efecto.</color>\n<color=#0077b6>Sistema Criogénico</color>\nEfecto: Los zombis comienzan con un límite de Puntos Criogénicos de 100. Cuando los Puntos Criogénicos acumulados alcanzan el límite,<color=red> el zombi se congelará durante 4 segundos, luego el límite aumenta en 100, hasta un máximo de 400.</color>\n<color=#228B22>Sistema Enredadera</color>\nEfecto: Cada vez que se aplica el efecto enredado,<color=red> inflige daño adicional basado en el Punto Enredadera actual del zombi:</color>\n6~10: 1%, 11~15: 3%, 16~29: 5%, 30+: 100%</color>\n<color=#2E8B57>Sistema Venenoso</color>\nEl límite de envenenamiento de un zombi es 5. Cuando alcanza 5, <color=red>cualquier acumulación adicional pondrá al zombi en estado de veneno, perdiendo HP cada segundo igual a 20 × Valor de Envenenamiento.</color> Si el valor de envenenamiento está en 5 y el zombi es golpeado por una Mantequilla Apestosa, este límite se eliminará.\n<color=#104f30>Sistema Lumina</color>\nPlanterna proporciona <color=red>1 Nivel Lumina</color> a todas las casillas en un área de 3x3.</color> No hay límite en el Nivel Lumina de una casilla. <color=red>El nivel lumina puede potenciar a fusiones parte de este sistema que no sean generadores.</color>\n<color=#8B0000>Sistema Magnético</color>\nCuando una planta magnética está dentro de un rango de 3x3 de otra planta magnética, se <color=red>consideran parte del mismo Sistema Magnético.</color>\n<color=#FFCA30>Sistema Monetario</color>\nEl dinero que consigues con fusiones de Margarita te sirven para <color=red>activar habilidades especiales y volver a tus plantas doradas.</color> Cada una tiene una distinta habilidad y precio, y puedes ver que hacen en sus versiones doradas en el almanaque.",
+  "^坚果台球(\\d+)?": "Billares de Nuez {0}",
   "^旅行冒险：第(\\d+)关": "Aventura de la Odisea: Nivel {0}",
   "^剩余积分：(\\d+)点": "Puntos Restantes: {0}",
   "但(.*)": "Modificador Negativo de la Odisea | {0}",
-  "^成功击败领袖，获得(\\d+)积分": "Líder Supremo derrotado con éxito. Has ganado {0} puntos"
+  "^成功击败领袖，获得(\\d+)积分": "Líder Supremo derrotado con éxito. Has ganado {0} puntos",
+  "^大招需要(\\d+)金币": "Para usar el Ultimate se necesitan {0} monedas.",
+  "-------Outdated Regex Below": "You Can Safely Ignore or Delete-------"
 }

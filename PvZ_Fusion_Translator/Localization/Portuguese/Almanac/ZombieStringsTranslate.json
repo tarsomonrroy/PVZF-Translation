@@ -257,13 +257,19 @@
 			"name": "<size=40>Yeti",
 			"introduce": "<size=29><color=black>O Yeti tem um comportamento peculiar: ele adora sair do campo de batalha quando a coisa esquenta. Sempre com sua aparência gelada, ele é um verdadeiro mestre da fuga.</color>",
 			"info": "<size=29>O Yeti às vezes tenta fugir.\n\n<color=black>Resistência: </color><color=#4B0082>1350</color>\n<color=black>Características: </color><color=#4B0082>Congela as plantas em uma área de 3x3 ao redor de si.</color>"
-		},		
+		},
 		{
 			"theZombieType": 48,
 			"name": "<size=40>Yeti Nian",
 			"introduce": "<color=black>O Yeti Nian é enorme e quase invencível, com uma armadura tão forte que parece indestrutível! Mas, por mais aterrorizante que seja, ele também tem pesadelos: fogos de artiifícios!</color>",
 			"info": "<size=29>O Yeti Nian tem uma armadura extremamente resistente.\n\n<color=black>Resistência: </color><color=#4B0082>8888 + 8888</color>\n<color=black>Ponto fraco: </color><color=#4B0082>Bambu de Artifício</color></size>"
-		},		
+		},
+		{
+			"theZombieType": 49,
+			"name": "<size=40>Zumbi Lança-Neve",
+			"introduce": "<color=black>\"Guerra de bola de neve!\" Zumbi Lança-Neve acorda de seu sono gelado, atirando bolas de neve descontroladamente em todas as direções.\"Devemos contar a ele?\", \"Não, vamos ver quanto tempo ele leva para descobrir.\"Splat!—Outra bola de neve cai.\"Com essa já são quatorze.\"</color>",
+			"info": "<size=29>Zumbi Lança-Neve pode atacar suas plantas com bolas de neve e congelá-las.\n\n<color=black>Resistência: </color><color=#4B0082>720</color><color=black> | Dano: </color><color=#4B0082>75 | 2 Segundos</color>\n<color=black>Características: </color><color=#4B0082>No jardim, ele lançará continuamente bolas de neve nas plantas que, no impacto, causará 75 de dano em um alcance de 3x3, congelando-as por 5 segundos.</color>"
+		},
 		{
 			"theZombieType": 100,
 			"name": "<size=40>Zumbi Disparervilha",
@@ -482,7 +488,7 @@
 		},
 		{
 			"theZombieType": 218,
-			"name": "<size=40>Zumbi Poseidon",
+			"name": "<size=40>Zumbi Pozeidon",
 			"introduce": "<size=29><color=black></color>",
 			"info": "<size=29>Joga seu tridente divino em sua defesa!\n\n<color=black>Resistência: </color><color=#4B0082>8000+24000</color>\n<color=black>Características: </color><color=#4B0082>Aparece no Purgatório após selecionar o efeito, imune a Hipnoplantas e Carnívoras, não sofre mais de 5000 de dano. Enquanto estiverem no jardim, todos os Mega-Zumbis do Tridente atacarão continuamente, com todos os tridentes causando 5 vezes o dano. Seus tridentes são lançados podem matar instantaneamente a maioria das plantas (o dano pode ser redirecionado) e ao pousar, bloqueiam projéteis. Se não forem destruídos, eles causam uma grande quantidade de dano às plantas próximas ao desaparecerem.</color>"
 		},
@@ -515,6 +521,12 @@
 			"name": "<size=40>Professor Zerejaz",
 			"introduce": "<size=29><color=black></color>",
 			"info": "<size=29>O Professor Zerejaz é obcecado pelo estudo de artefatos científicos, especialmente explosivos. Há rumores de que Cerejazilla foi originalmente sua criação!\n\n<color=black>Resistência: </color><color=#4B0082>1200+12000+1500</color>\n<color=black>Características: </color><color=#4B0082>Aparece apenas no Purgatório após selecionar seu efeito, imune a Empurrões, Hipnoplantas e Carnívoras, não sofre mais que 5000 de dano a cada golpe, fica invulnerável quando seu jornal é destruído, converte até 30 zumbis próximos em zumbis enfurecidos. Ele então atira uma saraivada de cerejas e catapulta bombas enquanto acelera. Plantas espinho destroem seu jornal instantâneamente.</color>"
+		},
+		{
+			"theZombieType": 224,
+			"name": "<size=40>Zumbi Rainha Palhaça",
+			"introduce": "<color=black>O olhar da Rainha por si só é suficiente para fazer seus servos tremerem. Ninguém ousa desafiá-la. Mas o poder não é seu único prazer — ela adora presentear! Dentro de sua caixa de presentes ornamentada, brinquedos e bugigangas aguardam por novos donos... junto com bombas preparadas para surpreender! \"Eu adoro surpresinhas, teh-he!\" diz a Rainha ao presentear os outros.</color>",
+			"info": "<size=29>A Zumbi Rainha Palhaça é adora criar \"cenas explosivas.\"\n\n<color=black>Resistência: </color><color=#4B0082>32000</color>\n<color=black>Características: </color><color=#4B0082>Aparece somente no Purgatório após selecionar seu efeito em batalha. Recebe no máximo 5000 de dano por acerto antes de qualquer redução de dano. Imune a encantamentos ou devoração. Esmaga plantas ao tocá-las. Recupera 3000 de Resistência toda vez que é atingido por uma explosão de caixa-surpresa. Emerge de sua caixa em intervalos regulares, exibindo um dos seguintes efeitos aleatoriamente:\n1. Invoca Zumbis Rei Palhaço da 5ª coluna em diante.\n2. Invoca Zumbis Rei Palhaço num Pogo da 5ª coluna em diante.\n3. Libera uma explosão em todos os ladrilhos da coluna em que ela está, causando dano direto.</color>"
 		}
 	]
 }
