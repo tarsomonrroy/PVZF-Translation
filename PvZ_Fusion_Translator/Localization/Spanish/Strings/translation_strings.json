@@ -681,8 +681,10 @@
   "是否抽取一种究极植物": "I don't know where this pops up.",
   "：": ": ",
   "敬请期待": "<size=12>Esta traduccion fue hecha por Arooming, con el apoyo de MoonLight, Real Acetato, Mauricio5183, Xabdi y Teyliu. Gracias al plugin de NaKune, el trabajo de Dyna y Mamoru, ¡Logotipo de FireFly!</size>",
+  "-------Translation Doesn't Work": "Needs Patching-------",
   "植物掉落阳光数": "Multiplicador de Sol",
   "僵尸血量倍率": "Multiplicador de HP de Zombis",
+  "-------Outdated Strings Below": "You Can Safely Ignore or Delete-------",
   "解锁究极卷心菜，阳光卷心菜+金卷心菜": "Desbloquear Radianticol: Solarpulta + Coltapulta Dorada",
   "解锁究极南瓜，超级南瓜+磁力三叶草": "Desbloquear Calatrón: Ventiscardón + Trebolimán",
   "妙手回春：阳光帝果召唤消耗降低至200阳光": "Emperador del Sol: El costo para invocar la Nuez Solar Gigante se reduce a 200 soles",
@@ -748,7 +750,5 @@
   "炼狱随机2": "Purgatorio Aleatorio 2",
   "每轮只能使用一次": "Solo se puede usar una vez por ronda.",
   "该配方仅旅行生存系列可用": "Esta fusión solo está disponible en la Odisea.",
-  "但": "But, ",
-  "-------Translation Doesn't Work": "Needs Patching-------",
-  "-------Outdated Strings Below": "You Can Safely Ignore or Delete-------"
+  "但": "But, "
 }
