@@ -2,7 +2,7 @@
   "plants": [
     {
       "seedType": 0,
-      "name": "Lanzaguisantes",
+      "name": "Lanzaroomings",
       "introduce": "<size=39><color=#3D1400>¿Cómo puede una sola planta crecer y dar tantos guisantes tan rápidamente? Lanzaguisantes dice, \u0022El trabajo duro, el compromiso y un desayuno sano y equilibrado a base de luz solar y dióxido de carbono rico en fibra lo hacen posible.\u0022</color></size>",
       "info": "<size=39>Los Lanzaguisantes son tu primera línea de defensa. Disparan guisantes a los zombis.\n\n<color=#3D1400>Daño: </color><color=red>20 cada 1.5s</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Pisum Ballistica</color></size>",
       "cost": "<size=39>Costo: <color=red>100</color>\nRecarga: <color=red>7.5 Segundos</color></size>"
