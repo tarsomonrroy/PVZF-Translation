@@ -253,7 +253,10 @@
     },
     {
       "seedType": 35,
-      "name": "35"
+      "name": "Fogón níveo",
+      "introduce": "<color=#3D1400>El Fogón níveo recibió el sexto premio “Plantar por Placer” de las Tierras Nevascas. Las plantas están de acuerdo en que su premio es bien merecido, ya que para ayudar a sus compañeros a mantenerse calientes, ni siquiera tuvo tiempo de limpiar la nieve acumulada en su cabeza.</color>",
+      "info": "Puede resistir los efectos del frío.\n\n<color=#3D1400>Características:</color><color=red>Calienta a las plantas dentro de un área de 3x3, protegiéndolas de los efectos del frío</color>",
+      "cost": "Coste: <color=red>50</color>\nTiempo de recarga: <color=red>7.5 segundos</color>"
     },
     {
       "seedType": 36,
@@ -1069,11 +1072,17 @@
     },
     {
       "seedType": 239,
-      "name": "239"
+      "name": "Comepiedras",
+      "introduce": "<color=#3D1400>Aunque el Comepiedras parece aterrador, quiere que todos sepan que en realidad le encantan los gatitos, y en su tiempo libre hace voluntariado en un centro de rehabilitación de zombis. “Solo estoy haciendo lo correcto”, dice.</color>",
+      "info": "El Comepiedras elimina lápidas al devorarlas.\n\n<color=#3D1400>Características:</color><color=red>Se planta sobre una lápida y la devora tras 5 segundos. Si se planta en suelo vacío, devuelve la carta</color>",
+      "cost": "Coste: <color=red>75</color>\nTiempo de recarga: <color=red>7.5 segundos</color>"
     },
     {
       "seedType": 240,
-      "name": "240"
+      "name": "Cebada de Obsidiana",
+      "introduce": "<color=#3D1400>Se dice que la estatua de Cebada de Obsidiana en el jardín fue resultado de un juego de construcción entre plantas. “¿Quién lo diría?”, comenta con alegría. “Antes de que llegara, ya me usaban como ejemplo de ‘algo que nadie adivina’. Pero me gusta, es una buena forma de mostrarme más.”</color>",
+      "info": "Cebada con textura de obsidiana, se transforma periódicamente en una planta suprema aleatoria.\n\n<color=#3D1400>Condición de uso:</color><color=red>Aventura de Viaje (reemplaza a Cebada)</color>\n<color=#3D1400>Características:</color><color=red>Cada 30 segundos se transforma en una planta suprema aleatoria (excepto Hongo Codicioso)</color>",
+      "cost": "Coste: <color=red>500</color>\nTiempo de recarga: <color=red>60 segundos</color>"
     },
     {
       "seedType": 241,
@@ -1350,7 +1359,10 @@
     },
     {
       "seedType": 300,
-      "name": "300"
+      "name": "Estrella Espadachín Legendaria",
+      "introduce": "<color=#3D1400>“Un salón lleno de flores embriaga a tres mil invitados, una espada helada enfría catorce estados.” “El emperador me llama, pero no subo a su barco; yo digo que soy el inmortal del vino.” El Yang Tao Espadachín Definitivo, cuando está borracho, disfruta recitando poesía y practicando su técnica de espada ebria. Las plantas se maravillan ante su poder para derrotar zombis, pero él dice que apunta su espada voladora a la luna en los nueve cielos, y que al recogerla, esta cae de vuelta a la tierra.</color>",
+      "info": "¡Un salón lleno de flores embriaga a tres mil invitados, una espada helada enfría catorce estados!\n\n<color=#3D1400>Condiciones de uso:</color><color=red>Solo se puede usar en el abismo, solo se puede plantar una unidad</color>\n<color=#3D1400>Daño:</color><color=red>1800</color>\n<color=#3D1400>Características:</color><color=red>Cuando hay zombis cerca, invoca una espada de luz que causa gran daño a los zombis cercanos, y luego invoca 10 espadas grandes que caen del cielo, causando 1800 de daño al impactar.</color>",
+      "cost": ""
     },
     {
       "seedType": 301,
@@ -3794,12 +3806,12 @@
     },
     {
       "seedType": 912,
-            "name": "Caladrón",
-            "introduce": "<size=39><color=#3D1400>\u0022¡Gracias a Emperador Estelar, ahora tenemos un equipo completamente renovado!\u0022 Dice Caladrón. \u0022Mira estas mejoras: armadura compuesta, hélice electromagnética de alta velocidad, y cañón de plasma... ¡Espera! ¡No disparen mi florero favorito!\u0022</color>",
-            "info": "<size=39>Caladrón puede atacar a zombis aereos y terrestres con su laser.\n\n<color=#3D1400>Daño: </color><color=red>200/1.5 Segundos (Planta) 200/1 Segundos (Aliado)</color>",
-            "cost": ""
-        },
-        {
+      "name": "Caladrón",
+      "introduce": "<size=39><color=#3D1400>\u0022¡Gracias a Emperador Estelar, ahora tenemos un equipo completamente renovado!\u0022 Dice Caladrón. \u0022Mira estas mejoras: armadura compuesta, hélice electromagnética de alta velocidad, y cañón de plasma... ¡Espera! ¡No disparen mi florero favorito!\u0022</color>",
+      "info": "<size=39>Caladrón puede atacar a zombis aereos y terrestres con su laser.\n\n<color=#3D1400>Daño: </color><color=red>200/1.5 Segundos (Planta) 200/1 Segundos (Aliado)</color>",
+      "cost": ""
+    },
+    {
 
       "seedType": 913,
       "name": "<size=39>Nuez Obsidiana</size>",
@@ -3934,28 +3946,28 @@
       "cost": "\n<size=32><color=purple>Condición de Uso: Se desbloquea con mejora de odisea</color></size>"
     },
     {
-   "seedType": 932,
+      "seedType": 932,
       "name": "Trillontorcha",
       "introduce": "<size=39><color=#3D1400>La Trillontorcha, que regresó del extranjero, sigue siendo pequeña, pero su pequeño truco de “convertir piedra en oro” hizo que la audiencia aplaudiera. “En realidad, eso podría considerarse magia…” murmuró Trillontorcga mientras preparaba una bebida especial detrás del escenario.</color></size>",
       "info": "<size=39>¡Convierte todas las balas disparadas en monedas!\n\n<color=#3D1400>Especial: </color>\n- <color=red>Convierte todas las balas comunes </color>en dos monedas de plata y una moneda de oro.<color=red> El daño de las monedas depende del poder de ataque de las balas.</color> Proporción de daño: moneda de plata 100%, moneda de oro 200%. Las monedas de oro siguen moviéndose en línea recta, mientras que las monedas de plata se mueven primero hacia las líneas adyacentes, y luego regresan a su fila.\n\n<color=purple>Mejoras de Odisea:</color>\n- </color>Aumenta el daño de las balas que pasan a través de Trillontorcha basado en la cantidad de dinero actual. Cada 1000 monedas que hayan, estas aumentan el daño en un 2%</color>\n- Las balas que pasan por Trillontorcha tienen daño por salpicadura similar a los guisantes de fuego.</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Tritorcha + Magnetoseta Dorada/color>\n<color=#3D1400>Nombre Científico: </color><color=red>Triplex Milignis</color></size>",
       "cost": "\n<size=39><color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
     {
-    "seedType": 933,
+      "seedType": 933,
       "name": "Cactus Emperador",
       "introduce": "<size=39><color=#3D1400>Cactus Emperador es una estilista de primera en el pueblo, cada una de sus obras marca tendencia en el jardín. “Un verdadero peinado se forja con mucho esfuerzo.” El martillo y el cincel son sus herramientas favoritas para ‘ajustar’ el cabello.</color></size>",
       "info": "<size=39>Subespecie de Seta Emperador, y parte del <color=#0077b6>Sistema Criogénico</color>\n\n<color=#0077b6>Sistema Criogénico:</color>\n- Pinchos acumulan <color=red>10 Puntos Criogénicos</color> por impacto.\n- Al alcanzar <color=red>100 Puntos</color>, congela al zombi por <color=red>5 segundos</color> (umbral aumenta <color=red>+100</color>, máximo <color=red>400</color>).\n\n<color=#3D1400>Especial: </color>\n- <color=red>Cactus Emperador libera un gran ataque cada vez que aparece, lanzando una gran cantidad de carámbanos encantados.<color=purple>\n\n<color=#3D1400>Daño: </color>\n<color=red>- 300/1.5 Segundos\n\n<color=purple><color=#3D1400>Fórmula de Fusión: </color><color=red>Seta Emperador + Cactus</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Cactaceae Regalis</color></size>",
       "cost": "\n<size=32><color=purple>Condición de Uso:  Se desbloquea con mejora de odisea</color></size>"
     },
     {
-     "seedType": 934,
+      "seedType": 934,
       "name": "Heliocultor",
       "introduce": "<size=39><color=#3D1400>Ella es la diosa del sol, la soberana de la luz y el calor. Dondequiera que vaya, la oscuridad se disipa y todo se baña en su resplandeciente gloria. Ella brilla desde lo alto, iluminando el mundo con su luz eterna, otorgando esperanza infinita a todo ser vivo.</color></size>",
       "info": "<size=39>Invoca un Mini-Sol para atacar a los zombis.\n\n<color=#3D1400>Daño: <color=red>500*5/2 Segundos\n<color=purple><color=#3D1400>Especial: </color>\n</color=red>- Cada 30 segundos invoca un Mini-Sol, que permanece durante 15 segundos. Durante este tiempo, este sol inflige 30 + (30 * Cantidad de Heliocultores) de daño a todos los zombis en el mapa.\n - Cuando la cantidad total de soles es mayor que 15000, Heliocultor consume 250 soles para inflingir el daño cada vez que el Mini-Sol dañe a los zombis.\n - Cuando el Mini-Sol esta presente, la tasa de caída de los soles se incrementa, el daño de meteoritos comunes se multiplica por 2, y unos 250 soles adicionales se generan cuando estrellan. \n<color=purple>Mejoras de Odisea:</color></color></color>\n- Los proyectiles lanzados por Heliocultor tendran el efecto de Solarpulta.</color></color>\n- El daño del sol invocado se triplica.</color>\n\n<color=#3D1400><color=purple>Mejoras Mutuas:</color></color></color>\n- Si hay mínimo 10 Emperador Estelars y 10 Heliocultores, ambas en el mapa, con todas sus mejoras obtenidas, Emperador Estelar invocará un meteorito poderoso; uno solar. El sol invocado por Heliocultor no desaparecerá y, cada 2 segundos, invocará meteoritos comunes. (Meteorito Solar: Daño = (1800 + 1800 x cantidad de Emperadores Estelares) x (1 + 0.2 x cantidad de Heliocultores))Fórmula de Fusión: </color><color=red>Solarpulta + Coltapulta Dorada</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Brassica Solaurum</color></size>",
       "cost": "\n<size=39><color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
     {
-     "seedType": 935,
+      "seedType": 935,
       "name": "Cabaza Electromecánica",
       "introduce": "<size=39><color=#3D1400>La Cabaza Electromecánica ha sido modificada mecánicamente, con una mejor resistencia y puertos conectados a piezas de hierro. Está muy satisfecho con estos cambios, pero, ¿nadie le ha dicho que se parece mucho a un cangrejo? Hm.</color></size>",
       "info": "<size=39>Su nombre lo explica. Tiene multiples propositos.\n\n<color=#3D1400>Especial: </color>\n- <color=red>Inmune a las explosiones del payaso, permite que el minero excave antes, recibe la mitad del daño de las cerezas explosivas, puede usar piezas de hierro para recuperar vida.\n\n<color=#3D1400>Nombre Científico: </color><color=red>Technomorphus Demo</color></size>",
@@ -3969,14 +3981,14 @@
       "cost": "\n<size=39><color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
     {
-"seedType": 937,
+      "seedType": 937,
       "name": "Parrefractor",
       "introduce": "<size=39><color=#3D1400>Parrefractor, ex-directora de un orfanato, usaba sus grandes hojas como los mejores juguetes para los niños. Claro, ahora también lo es, pero se irrita mas fácilmente que antes, por su edad mas vieja.</color></size>",
       "info": "<size=39>Mata zombis con su rayo de luz. Parte del <color=#104f30>Sistema Lumina </color>(Generador y Atacante)\n\n<color=#3D1400>Dureza: </color><color=red>1000\n<color=#3D1400>Daño: </color><color=red>300\n<color=#3D1400>Límite de Energia: </color><color=red>2000\n<color=#3D1400>Rango de Busqueda: </color><color=red>(2 * Nivel Lumina + 1)\n<color=#3D1400>Especial: </color>\n<color=red>1: Tiene todas las características de Paraplanterna.\n2: Lanza un láser que ataca a los zombis, causando daño por segundo. Prioriza atacar a los zombis aéreos, y el daño aumenta x3 al atacar estos. Puede atacar hasta 4 zombis a la vez.\n3: Si hay plantas heridas dentro del rango de 3x3, consume energía para curarlas. Cada vez que cura, consume 200 de energía y restaura el 20% de la vida máxima de la planta, hasta un máximo de 2000.\n4: Si dos Parrefractores están en posiciones opuestas, se enlazan y su rango de detección se expande al mapa entero. En ese momento, ambas pueden atacar hasta 6 zombis a la vez y su daño se duplica. Si hay 6 zombis atacados, cada 6 segundos se libera una explosión 3x3 en la posición aleatoria de un zombi. El daño de la explosión es 300% del poder de ataque.\n\n<color=purple>Mejoras de Odisea:</color>\n</color>- La energía máxima y la velocidad de regeneración de Parrefractor se multiplican por 10, y la velocidad de curación se duplica.</color>\n- El multiplicador de los ataques normales de Parrefractor aumenta al 300%, el multiplicador de explosiones aumenta al 1000%, y el intervalo se reduce a 2 segundos.</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Paraplanterna + Parrebutia</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Foliis Lumispinus</color></size>",
       "cost": "\n<size=39><color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
     {
-"seedType": 938,
+      "seedType": 938,
       "name": "Setagnate",
       "introduce": "<size=39><color=#3D1400>¿Miedo, desconfianza, cobardía? ¡No! Todo eso palidece ante la codicia,” Setagnate lanzó una moneda de oro al aire y la observó caer rápidamente en el abismo. En comparación con Setabismal, que tiene el poder de “seducir” a las personas, ella es más experta en manipular los instintos humanos de deseo incontrolable. “Sal.”, dijo Setagnate mirando al abismo, “puedo sentirte, no tienes que esconderte más.”</color></size>",
       "info": "<size=39>Gran riesgo, gran recompensa.\n\n<color=#3D1400>Especial: </color>\n- <color=red>Subespecie de Setabismal, cambia entre Petaseta y Margarita. Al plantar durante 1.5 segundos, invocará un zombi líder, y un Zombistein Abisal, en donde este Setagnate. El zombi líder que Setagnate invoca depende del escenario actual. Día: Profesor Zavier, Noche: Vegezombi , Piscina: Live Aid Jackson, Niebla: Zombot Kirov, Tejado 1: Pozeidón, Tejado 2: Monarca Bromista, Tejado 3: Nuez Kirov Gigante, y en todas las filas, invocará el zombi de la odisea correspondiente. Derrotar a los zombis líderes invocados otorga muchos puntos + muchos soles + muchas monedas. Derrotar a los zombis comunes y supremos invocados otorga menos soles, monedas, y dará una tarjeta de regalo aleatoria. Solo se puede invocar una vez por ronda, no se puede obtener con regalos.\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Setabismal + Margarita</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Mycota Codyium</color></size>",
@@ -3984,19 +3996,31 @@
     },
     {
       "seedType": 939,
-      "name": "939"
+      "name": "Tirador de Cerezas Flotante Definitivo",
+      "introduce": "<color=#3D1400>El Tirador de Cerezas Flotante Definitivo originalmente era una máquina de registro de velocidad de disparo desarrollada por el Tirador de Cerezas Definitivo, pero recientemente, para enfrentar la oleada de zombis, añadió la función de disparar balas de cereza reales, ganándose elogios explosivos.</color>",
+      "info": "Drones de Tirador de Cerezas. Cuando ataca junto con un tirador de abajo, proporciona mayor potencia de fuego.\n\n<color=#3D1400>Condiciones de uso:</color><color=red>Obtener receta en modo viaje</color>\n<color=#3D1400>Receta de conversión:</color><color=red>Pala ←→ Trébol</color>\n<color=#3D1400>Daño:</color><color=red>300×2/2 segundos</color>\n<color=#3D1400>Características:</color><color=red>Subespecie del Tirador de Cerezas Definitivo. Planta voladora. Si hay una planta tiradora debajo, la velocidad de ataque se iguala a la de esa planta (mínimo 2 segundos). En mapas de 5/6 filas, puede haber un máximo de 10/12 unidades.</color>",
+      "cost": ""
     },
     {
       "seedType": 940,
-      "name": "940"
+      "name": "Hongo de Balas de Fuego Definitivo",
+      "introduce": "<color=#3D1400>El Hongo de Balas de Fuego Definitivo no solo es imbatible en la cancha, sino que también hace unas barbacoas excepcionales. Su sueño es organizar la fiesta de barbacoa más grande de la historia, una en la que participen todas las plantas y zombis de la ciudad.</color>",
+      "info": "Dispara melones de fuego que se dividen, dejando un mar de llamas infernal.\n\n<color=#3D1400>Condiciones de uso:</color><color=red>Obtener receta en modo viaje</color>\n<color=#3D1400>Receta de fusión:</color><color=red>Lanzador de Sandías de Fuego + Hongo de Aerosol de Olivo</color>\n<color=#3D1400>Resistencia:</color><color=red>3000</color>\n<color=#3D1400>Daño:</color><color=red>300/7.5 segundos, 10% de daño/0.02 segundos (mar de llamas)</color>\n<color=#3D1400>Características:</color><color=red>Alcance de 4 casillas. Descansa 1.5 segundos tras disparar un melón de fuego, luego comienza a cargar, mínimo 6 segundos, aumentando el daño a (1 + tiempo de carga x 50%) veces. El ataque atraviesa toda la armadura, aplica el estado de temperatura roja, genera un mar de llamas que dura 2.5 segundos y se divide en 2 melones de fuego que atacan a zombis cercanos con el mismo daño.</color>\n<color=#3D1400>Propiedad 1:</color><color=red>Visión de largo alcance: El rango de ataque se extiende a toda la fila frontal.</color>\n<color=#3D1400>Propiedad 2:</color><color=red>Zombis intentando nadar en el mar de llamas: La duración del mar de llamas se duplica.</color>",
+      "cost": ""
     },
     {
       "seedType": 941,
-      "name": "941"
+      "name": "Hierba Acuática Codiciosa Definitiva",
+      "introduce": "<color=#3D1400>“¡Siente la furia del mar!” Desde que regresó del fondo marino de Atlántida, la Hierba Acuática Codiciosa Definitiva ha renacido. Sus dos corazones le proporcionan una fuerza poderosa, y en el fondo del mar obtuvo un tesoro abrumador. Los zombis que intenten atacar por la vía acuática deberán tener cuidado, porque ahora él es 'de doble corazón y un solo propósito'.</color>",
+      "info": "Dominador codicioso de las vías acuáticas, capaz de extraer el valor restante de los zombis.\n\n<color=#3D1400>Condiciones de uso:</color><color=red>Obtener receta en modo viaje</color>\n<color=#3D1400>Receta de fusión:</color><color=red>Super Hierba Acuática (base) + Caléndula Gemela</color>\n<color=#3D1400>Daño:</color><color=red>40×3/1.5 segundos</color>\n<color=#3D1400>Características:</color><color=red>Tiene las características de la Super Hierba Acuática, pero puede arrastrar bajo el agua infinitas veces (máximo 1 vez por segundo). Los zombis alcanzados por las balas se tiñen de dorado, y al morir otorgan 3 veces más puntos; de esta forma, se pueden obtener hasta 2000 puntos adicionales por ronda.</color>\n<color=#3D1400>Propiedad 1:</color><color=red>Acumulación poderosa: Por cada 1000 puntos, el ataque de las plantas aumenta un 5% (hasta un máximo de 400%).</color>\n<color=#3D1400>Propiedad 2:</color><color=red>Cupón de descuento: El precio de las propiedades en la tienda se reduce un 30%.</color>",
+      "cost": ""
     },
     {
       "seedType": 942,
-      "name": "942"
+      "name": "Equipo de Frijoles de Hierro",
+      "introduce": "<color=#3D1400>Lo que siempre temió el Hongo de Aerosol de Cubo de Hierro finalmente ocurrió: fueron atrapados por el Hongo Magnético, y nadie pudo separarlos. Quizás fue una bendición disfrazada, ya que los materiales acumulados por el Hongo Magnético les ayudaron a actualizar su equipo, y ahora son un verdadero 'ejército de acero'.</color>",
+      "info": "Tropas de Hongo de Aerosol de Frijoles de Hierro tres en uno, ¡expertos en defensa aérea y francotiradores!\n\n<color=#3D1400>Condiciones de uso:</color><color=red>Modo viaje</color>\n<color=#3D1400>Receta de fusión:</color><color=red>Hongo de Aerosol de Frijoles de Hierro x3 (base) + Hongo Magnético</color>\n<color=#3D1400>Resistencia:</color><color=red>6000</color>\n<color=#3D1400>Daño:</color><color=red>80x4/segundo (ametralladora); 240/2 segundos (cañón antiaéreo); 400/3 segundos (francotirador)</color>\n<color=#3D1400>Características:</color><color=red>Planta de hierro. El cañón antiaéreo solo apunta a objetivos aéreos, causando daño explosivo en un radio de 1 casilla. La ametralladora y el cañón antiaéreo pueden repeler. El francotirador tiene las características de ataque del Tirador Francotirador.</color>\n<color=#3D1400>Propiedad 1:</color><color=red>Tiro certero: El daño del francotirador aumenta a 1 millón, con 1/3 de probabilidad de disparar varias veces instantáneamente, pero el intervalo de disparo se duplica.</color>\n<color=#3D1400>Propiedad 2:</color><color=red>Abrir fuego: Aumenta el daño explosivo y la capacidad de repulsión de las balas del Equipo de Frijoles de Hierro.</color>",
+      "cost": ""
     },
     {
       "seedType": 943,
@@ -4231,7 +4255,7 @@
       "name": "Lanzasoles",
       "introduce": "<size=39><color=#3D1400>\u0022En realidad, el Girasol detrás de mí es mi hermana.\u0022 le explica a todos Lanzasoles. \u0022Somos inseparables desde que nacimos. Le encanta producir soles, y yo destruyo zombis en su nombre.\u0022 Pero todo el mundo sabe la verdad: el alegre hermano Guisante tiene un complejo de hermana total. Al fin y al cabo, los zombis que se acercan a su hermana siempre terminan misteriosamente vaporizados por los mismos rayos del sol.</color></size>",
       "info": "<size=39>Lanzasoles ataca con proyectiles solares que producen soles al impacto.\n\n<color=#3D1400>Producción Solar: </color><color=red>25 cada 25s (solo el Girasol)</color>\n<color=#3D1400>Daño: </color><color=red>100 cada 5s</color>\n<color=#3D1400>Especial: </color><color=red>Los proyectiles sueltan 5 soles al golpear un zombi (otros 25 soles cada 25s)</color>\n<color=#3D1400>Fusión: </color><color=red>Lanzaguisantes + Girasol</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Pisum Heliolancer</color></size>",
-        "cost": "<size=39>Costo: <color=red>150</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+      "cost": "<size=39>Costo: <color=red>150</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
       "seedType": 1001,
@@ -5456,13 +5480,13 @@
       "cost": ""
     },
     {
-            "seedType": 1175,
-            "name": "Krakenseta",
-            "introduce": "<size=39><color=#3D1400>La existencia de Krakenseta para ella es un enigma, no sabe si es un monstruo marino o una simple combinación entre plantas. Una vez, tratando de buscar respuestas, busco en el internet y aparecia que era una \u0022Marseta Hen…\u0022 Y no termino su frase. no porque sabe lo que significa, pero simplemente no sabe leer tan bien.</color>",
-            "info": "<size=39>Parte del <color=#228B22>Sistema de Enredadera</color>\n\n<color=#3D1400>Mecánica de Enredadera:</color>\n- Aplica <color=red>1 Acumulación</color> por ataque (solo zombis acuáticos).\n- Daño adicional basado en la <color=red>vida máxima del zombi</color>:\n  <color=red>6-10</color>: +1% (ej: 10 daño si zombi tiene 1000 HP)\n  <color=red>11-15</color>: +3%\n  <color=red>16-29</color>: +5%\n  <color=red>30+</color>: ¡Muerte instantánea!\n\n<color=#3D1400>Daño Base:</color> <color=red>20*2/1.5 Segundos (Esporas) 100/1.5 Segundos (Tentaculo)</color> (+ ralentización)</color>\n<color=#3D1400>Dureza: </color><color=red>1000</color>\n<color=#3D1400>Especial: </color><color=red>Puede repeler a los zombis cercanos individualmente y causar 100 de daño, y junto a ello añade 1 Punto de Enredadera.</color>\n<color=#3D1400>Fórmula de Fusión:</color><color=red>Zampalga + Marseta + Zampalga + Combinadora (En Órden)(La Combinadora deberá plantarse encima de la Marseta del centro)\n<color=#3D1400>Nombre científico: </color><color=red>Levithanae Mycotis</color>",
-            "cost": ""
-        },
-        {
+      "seedType": 1175,
+      "name": "Krakenseta",
+      "introduce": "<size=39><color=#3D1400>La existencia de Krakenseta para ella es un enigma, no sabe si es un monstruo marino o una simple combinación entre plantas. Una vez, tratando de buscar respuestas, busco en el internet y aparecia que era una \u0022Marseta Hen…\u0022 Y no termino su frase. no porque sabe lo que significa, pero simplemente no sabe leer tan bien.</color>",
+      "info": "<size=39>Parte del <color=#228B22>Sistema de Enredadera</color>\n\n<color=#3D1400>Mecánica de Enredadera:</color>\n- Aplica <color=red>1 Acumulación</color> por ataque (solo zombis acuáticos).\n- Daño adicional basado en la <color=red>vida máxima del zombi</color>:\n  <color=red>6-10</color>: +1% (ej: 10 daño si zombi tiene 1000 HP)\n  <color=red>11-15</color>: +3%\n  <color=red>16-29</color>: +5%\n  <color=red>30+</color>: ¡Muerte instantánea!\n\n<color=#3D1400>Daño Base:</color> <color=red>20*2/1.5 Segundos (Esporas) 100/1.5 Segundos (Tentaculo)</color> (+ ralentización)</color>\n<color=#3D1400>Dureza: </color><color=red>1000</color>\n<color=#3D1400>Especial: </color><color=red>Puede repeler a los zombis cercanos individualmente y causar 100 de daño, y junto a ello añade 1 Punto de Enredadera.</color>\n<color=#3D1400>Fórmula de Fusión:</color><color=red>Zampalga + Marseta + Zampalga + Combinadora (En Órden)(La Combinadora deberá plantarse encima de la Marseta del centro)\n<color=#3D1400>Nombre científico: </color><color=red>Levithanae Mycotis</color>",
+      "cost": ""
+    },
+    {
       "seedType": 1176,
       "name": "Trebolnífero",
       "introduce": "<size=39><color=#3D1400>Las plantas siempre se preguntan por qué el Trebolnífero siempre empuja a los zombis hacia atrás. El Trebolnífero responde: “Como el trebolador siempre empuja a los zombis en la dirección opuesta a la que están mirando, ¿no es normal que también empuje a los zombis hipnotizados en la dirección opuesta?” Pero en realidad, solo tiene un sentido de dirección perdido.</color>",
@@ -5561,7 +5585,7 @@
       "cost": ""
     },
     {
-            "seedType": 1190,
+      "seedType": 1190,
       "name": "Calabaza Mina",
       "introduce": "<size=39><color=#3D1400>La Calabaza Mina fue una vez el dueño de una tienda de papas fritas, pero la reputación siguió cayendo, lo que lo llevó al jardín. “Media ración de papas fritas, menos pero no más barato, ¿no es una gran oferta?” Está promocionando su nuevo producto, aunque los clientes parecen estar más interesados en su oferta de ‘media ración’.</color></size>",
       "info": "<size=39>Una calabaza más pequeña.</color>\n\n<color=#3D1400><color=#3D1400>Dureza:</color> <color=red>4000</color>\nEspecial:</color> <color=red>Una planta pequeña, no puede bloquear balas (las plantas no bajas dentro de Calabaza Mina serán golpeadas), cada vez que recibe 1350 de daño ocasiona una pequeña explosión que causa 500 puntos de daño a los zombis.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Curcubita Explodius</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Patatapum + Calabaza</color></size>",
@@ -5580,6 +5604,159 @@
       "introduce": "<size=39><color=#3D1400>Carroñivora Atómica fue un fuerte competidor para el campeonato de \u0022Come lo mas que Puedas\u0022. “Él terminó su propio pastel, luego voló el mío a cenizas,” dijo Carroñívora Titan. “Sin embargo, fue descalificado por dañar el lugar de la competencia.</color></size>",
       "info": "<size=39>Consume al primer zombi en frente y crea una explosión masiva, dejando un crater al frente suyo.</color>\n\n<color=#3D1400>Daño:</color> <color=red>Muerte Instantánea</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Dionaea Lethalis</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Planta Carroñívora + Petaseta</color></size>",
       "cost": ""
+    },
+    {
+      "seedType": 1193,
+      "name": "Hongo Llama Grande",
+      "introduce": "<color=#3D1400>Como chef principal del restaurante, hacer danzar un dragón de fuego en la plancha es un espectáculo imprescindible en la cena. Sin embargo, siempre hay algún invitado que termina quemado; se dice que, como compensación, el Hongo Llama Grande les ofreció otra actuación.</color>",
+      "info": "Dispara llamas que aplican el estado de calor rojo.\n\n<color=#3D1400>Daño:</color><color=red>33/1.5 segundos (daño por cuadro, 33 veces 1 de daño)</color>\n<color=#3D1400>Características:</color><color=red>Daño de fuego, aplica el estado de calor rojo al atacar</color>\n<color=#3D1400>Receta de fusión:</color><color=red>Hongo Grande + Chile Explosivo</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1194,
+      "name": "Lanzaguisantes Destructor",
+      "introduce": "<color=#3D1400>El Lanzaguisantes Destructor y el Hongo Tímido Destructor son grandes amigos; uno es impulsivo y el otro más pausado. Juntos forman el mejor equipo: 'Aunque tenemos personalidades distintas, nos complementamos perfectamente'.</color>",
+      "info": "Un lanzaguisantes cuyo daño aumenta progresivamente, gran aliado del Hongo Tímido Destructor.\n\n<color=#3D1400>Daño:</color><color=red>20/1.5 segundos</color>\n<color=#3D1400>Características:</color><color=red>Cada ataque aumenta el daño en +1, hasta un máximo de 80. Comparte su poder de ataque con un Hongo Tímido Destructor en la casilla trasera, mientras que él adopta la velocidad de ataque del hongo</color>\n<color=#3D1400>Receta de fusión:</color><color=red>Lanzaguisantes + Hongo Destructor</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1195,
+      "name": "Maceta Resplandeciente",
+      "introduce": "<color=#3D1400>La Maceta Resplandeciente siempre emite un brillo cálido, por lo que a menudo se usa como lámpara de noche. Si te acercas a observarla, notarás una inscripción en el borde que dice: 'Hábitat de luciérnagas, no molestar'.</color>",
+      "info": "Una maceta que funciona como lámpara de camino, proporcionando un nivel de iluminación a la casilla.\n\n<color=#3D1400>Características:</color><color=red>Dispela una pequeña niebla y proporciona 1 punto de nivel de iluminación a la casilla</color>\n<color=#3D1400>Receta de fusión:</color><color=red>Maceta (base) + Flor Farol</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1196,
+      "name": "Hongo Melonero",
+      "introduce": "<color=#3D1400>‘Contén la respiración, concéntrate, ¡un golpe letal!’ El Hongo Melonero es paciente y siempre espera el momento perfecto para actuar. Si le preguntas cómo mantiene la calma, siempre menciona a su maestro imitador.</color>",
+      "info": "Un gran hongo que dispara melones tras cargar energía.\n\n<color=#3D1400>Daño:</color><color=red>80/3 segundos</color>\n<color=#3D1400>Características:</color><color=red>Alcance de 4 casillas. Cuando no ataca, acumula energía, aumentando el daño del próximo ataque en 40 por segundo</color>\n<color=#3D1400>Receta de fusión:</color><color=red>Hongo Grande + Lanzamelones</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1197,
+      "name": "Tallo Estrella",
+      "introduce": "<color=#3D1400>Tras graduarse de la universidad, el Tallo Estrella regresó a las montañas para enseñar: ‘Desde el momento en que recibí educación, entendí que el conocimiento debe transmitirse como una chispa’. La llama del saber encendió la pasión de sus estudiantes… y también a los zombis.</color>",
+      "info": "Un tocón en forma de estrella que enciende balas estelares.\n\n<color=#3D1400>Características:</color><color=red>Enciende las balas estelares que pasan (excepto estrellas puntiagudas y de caja de juguetes), aumentando su daño en +20 y eliminando sus características originales. Las balas encendidas tienen un daño en área similar al del Lanzaguisantes de Fuego</color>\n<color=#3D1400>Receta de fusión:</color><color=red>Estrella + Tocón Antorcha</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1198,
+      "name": "Estrella Explosiva",
+      "introduce": "<color=#3D1400>La Estrella Explosiva observa en silencio, intimidando a las demás estrellas: ‘Parece demasiado aterrador’. Pero a él no le importa; está enfocado en crear una obra maestra. Está convencido de que, cuando brille, todos quedarán impresionados.</color>",
+      "info": "Una estrella tan inflamable como el Chile Explosivo; al morir, libera estrellas de fuego de gran daño.\n\n<color=#3D1400>Características:</color><color=red>No libera el efecto del Chile Explosivo al fusionarse. Se autodestruye 1 segundo tras aparecer, liberando el efecto del Chile Explosivo y 25 estrellas de fuego que buscan enemigos en todo el campo</color>\n<color=#3D1400>Receta de fusión:</color><color=red>Estrella + Chile Explosivo</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1199,
+      "name": "Tallo de Ascuas",
+      "introduce": "<color=#3D1400>Cuando alguien le pregunta al Tallo de Ascuas cuál es el secreto para asar, él solo recoge y reutiliza las cenizas en silencio. No es que sea frío; si hablara, terminarías con la cara llena de hollín.</color>",
+      "info": "Un tocón ardiente tras el humo destructor, con habilidades especiales de encendido.\n\n<color=#3D1400>Receta de fusión:</color><color=red>Tocón Antorcha + Hongo Destructor</color>\n<color=#3D1400>Características:</color><color=red>Afecta balas específicas. Puede gastar 10 puntos de ascua para convertir balas de Hongo Destructor pequeño en grandes, duplicando el daño. Sin ascua, enciende guisantes con +60 de daño; con ascua, enciende guisantes y guisantes de fuego bajos con +80 de daño, con daño en área sin reducción y aplicando el estado de ascua, aunque el daño directo se reduce a 2/3</color>\n<color=#3D1400>Valor de ascua:</color><color=red>Inicial 60, máximo 60, pierde 1 por segundo. Gana 60 por afectar 60 balas, 30 por efectos de Hongo Destructor, y 10 por zombis en estado de ascua muertos en un rango de 5x5. El estado de ascua se elimina con frío, congelación o veneno</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1200,
+      "name": "Calabaza Tímida",
+      "introduce": "<color=#3D1400>‘Créeme, es muy seguro aquí dentro’. La Calabaza Tímida consuela suavemente a los Hongos Tímidos, con un gramófono y un libro de cuentos que los protege del miedo a las hordas.</color>",
+      "info": "Una calabaza con los colores del Hongo Tímido; los hongos dentro no sienten miedo.\n\n<color=#3D1400>Resistencia:</color><color=red>2000</color>\n<color=#3D1400>Características:</color><color=red>Los Hongos Tímidos dentro no temen (el Hongo Tímido Destructor y el Hongo Metralleta Destructor no se autodestruyen)</color>\n<color=#3D1400>Receta de fusión:</color><color=red>Calabaza (base) + Hongo Tímido</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1201,
+      "name": "Hongo Estrella Tímido",
+      "introduce": "<color=#3D1400>‘¡Oigan, los de ahí, no se acerquen, a menos que sean del circo!’ El Hongo Estrella Tímido tiembla: ‘¡Yo, yo soy muy fuerte!’ Ataca sin parar, pensando que así ahuyentará a los intrusos, sin notar que sus balas no van hacia adelante.</color>",
+      "info": "Un Hongo Tímido evolucionado como estrella, fanfarronea y dispara estrellas como tal.\n\n<color=#3D1400>Daño:</color><color=red>20×5/0.75 segundos</color>\n<color=#3D1400>Características:</color><color=red>Tiene las características del Hongo Tímido. Su rango de ataque es como el de la Estrella, pero solo ataca continuamente si no hay zombis en el rango</color>\n<color=#3D1400>Receta de fusión:</color><color=red>Hongo Tímido + Estrella</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1202,
+      "name": "Calabaza Aplastadora",
+      "introduce": "<color=#3D1400>La Calabaza Aplastadora nunca pierde en pulsos y ha estudiado técnicas para lanzar piedras al agua. Es excelente escogiendo piedras, pero su único defecto es que le teme al agua, así que solo mira a otros lanzarlas.</color>",
+      "info": "El acogedor refugio del Aplastador; con plantas de tipo Aplastador dentro, invoca pequeños aplastadores.\n\n<color=#3D1400>Resistencia:</color><color=red>4000</color>\n<color=#3D1400>Características:</color><color=red>Las plantas de tipo Aplastador dentro no buscan enemigos. Con Aplastadores o Aplastadores Ardientes dentro, genera un pequeño aplastador con 225 de daño, que salta hasta 1.5 casillas, desaparece tras 6 rebotes y se regenera cada 3 segundos. El Aplastador Ardiente Supremo genera pequeños aplastadores ardientes que liberan el efecto del Chile Explosivo al caer</color>\n<color=#3D1400>Receta de fusión:</color><color=red>Calabaza (base) + Aplastador</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1203,
+      "name": "Lanzamaíz Pequeño",
+      "introduce": "<color=#3D1400>‘Resultados del experimento: la siembra densa no favorece el crecimiento, las mazorcas de maíz son notablemente más pequeñas’. Dave se agacha, observando al Lanzamaíz Pequeño con una lupa: ‘No sirve para hacer tacos de maíz’. El Lanzamaíz Pequeño, enfadado, replica: ‘¡Los resultados muestran que lo concentrado es puro poder!’</color>",
+      "info": "Un pequeño lanzamaíz que puede lanzar mantequilla que encoge a los zombis.\n\n<color=#3D1400>Daño:</color><color=red>20/3 segundos</color>\n<color=#3D1400>Características:</color><color=red>25% de probabilidad de lanzar mantequilla con 40 de daño, que reduce el tamaño y la salud de zombis no líderes no encogidos a 0.7 veces, inmoviliza zombis encogidos por 1.5 segundos y elimina zombis pequeños. Prioriza zombis no encogidos</color>\n<color=#3D1400>Receta de fusión:</color><color=red>Hongo Pequeño (base) + Lanzamaíz</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1204,
+      "name": "Sombrilla Flotante Pequeña",
+      "introduce": "<color=#3D1400>Tras renunciar, la Sombrilla Flotante Pequeña emprendió un viaje alrededor del mundo: ‘Viajar con el viento hacia donde el corazón me lleve, ¿no es romántico?’ Escribió un libro sobre sus experiencias, muy bien recibido por todos.</color>",
+      "info": "Una pequeña sombrilla flotante que solo protege su casilla.\n\n<color=#3D1400>Características:</color><color=red>Planta voladora. Tiene las características de la Sombrilla de Hojas, pero solo protege las plantas en su casilla</color>\n<color=#3D1400>Receta de fusión:</color><color=red>Sombrilla de Hojas + Trébol</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1205,
+      "name": "Calabaza Encantadora",
+      "introduce": "<color=#3D1400>Muchas plantas se preguntan por qué la Calabaza Encantadora solo hechiza a un zombi: ‘Soy de gustos exclusivos, claro que necesito un zombi igual de especial’, dice rascándose la cabeza.</color>",
+      "info": "Una calabaza llena de encanto que detiene a un zombi hechizado.\n\n<color=#3D1400>Resistencia:</color><color=red>4000</color>\n<color=#3D1400>Características:</color><color=red>1/12 de probabilidad de hechizar a un zombi mordedor. Mantiene a un máximo de 1 zombi hechizado en su casilla, usando su salud para absorber daño primero</color>\n<color=#3D1400>Receta de fusión:</color><color=red>Calabaza (base) + Hongo Encantador</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1206,
+      "name": "Nuez Sombrilla",
+      "introduce": "<color=#3D1400>La Nuez Sombrilla es el estilista más moderno del jardín, famoso por crear peinados geniales en cáscaras duras de nuez. Aunque los peinados no duran mucho, todos lo adoran, y ya abrió su sexta peluquería de nueces.</color>",
+      "info": "Una nuez con hojas de sombrilla, combina ambas características.\n\n<color=#3D1400>Resistencia:</color><color=red>4000</color>\n<color=#3D1400>Características:</color><color=red>Tiene las características de la Sombrilla de Hojas. Puede repeler zombis cercanos, causando 40 de daño</color>\n<color=#3D1400>Receta de fusión:</color><color=red>Nuez + Sombrilla de Hojas</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1207,
+      "name": "Sombrilla Cereza",
+      "introduce": "<color=#3D1400>La Sombrilla Cereza cambió de peinado, lo que la hace parecer más rebelde y gruñona, como un joven delincuente callejero. Pero no te dejes engañar por su apariencia: en el fondo es de buen corazón y hasta ayuda al peluquero a barrer las hojas cortadas.</color>",
+      "info": "Una sombrilla que ama las explosiones de cereza, puede absorber daño para plantas cercanas consumiendo energía.\n\n<color=#3D1400>Resistencia:</color><color=red>600</color>\n<color=#3D1400>Características:</color><color=red>Tiene las características de la Sombrilla de Hojas. Puede repeler zombis cercanos y liberar una explosión de cereza de pequeño rango con 300 de daño. Es inmune al daño de proyectiles de cereza. Gana 1 carga (máximo 100) cuando una planta defensiva de cereza en un rango de 3x3 recupera salud. Con más de 1 carga, absorbe daño para plantas en un rango de 3x3, consumiendo 2 cargas para inmunizar ese daño</color>\n<color=#3D1400>Receta de fusión:</color><color=red>Sombrilla de Hojas + Cereza Bomba</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1208,
+      "name": "Lanzaguisantes Hipertemporal",
+      "introduce": "<color=#3D1400>‘Nada es más antiguo que el nacimiento del universo, ni nada perece más lentamente que él. Pero para un ser vivo, su cuerpo no rivaliza con la muerte de una estrella; su espíritu, sin embargo, es más eterno que el cosmos. Aprovecha el presente, abraza el futuro; aunque sea un solo día, es toda la vida de una efímera.’ —《Crónicas del Tiempo》</color>",
+      "info": "Un lanzaguisantes con poderes hipertemporales, dispara guisantes que aplican el estado de teletransporte.\n\n<color=#3D1400>Daño:</color><color=red>0/1 segundo</color>\n<color=#3D1400>Características:</color><color=red>Los ataques aplican 1.5 segundos de estado de teletransporte (no acumulable); si el objetivo ya está en ese estado, aumenta 1 segundo el tiempo de espera. Contra zombis líderes, causa 100 de daño</color>\n<color=#3D1400>Estado de teletransporte:</color><color=red>Los zombis en este estado quedan inmóviles, acumulando tiempo de espera. Cuando el tiempo alcanza (salud actual/30) segundos, son eliminados (exiliados). Al finalizar el estado, reciben daño igual a 30 veces el tiempo de espera</color>\n<color=#3D1400>Receta de fusión:</color><color=red>Lanzaguisantes (base) + Fragmento Espacial</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1209,
+      "name": "Lanzamaíz Magnético",
+      "introduce": "<color=#3D1400>‘Los mayores también debemos actualizarnos’, dice el Lanzamaíz Magnético. ‘El magnetismo es una fuerza que realmente me ha sorprendido’. Aunque a veces causa problemas, como que los vecinos piensen que es un recolector de chatarra.</color>",
+      "info": "Un lanzamaíz que puede fusionarse con objetos de hierro, cambiando de forma según el objeto.\n\n<color=#3D1400>Daño:</color><color=red>20/3 segundos</color>\n<color=#3D1400>Características:</color><color=red>25% de probabilidad de lanzar mantequilla magnética con 40 de daño, que inmoviliza al objetivo durante 4 segundos</color>\n<color=#3D1400>Receta de fusión:</color><color=red>Lanzamaíz + Hongo Magnético</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1210,
+      "name": "Lanzamaíz Hipertemporal",
+      "introduce": "<color=#3D1400>‘¿Has visto *Interestelar*?’, suele mencionar el Lanzamaíz Hipertemporal, hablando de su película favorita. ‘El protagonista atraviesa un campo de maíz al inicio y luego entra en un agujero negro al final. ¡Seguro que hay una conexión!’</color>",
+      "info": "Un lanzamaíz con poderes hipertemporales, con probabilidad de lanzar mantequilla que genera miniagujeros negros.\n\n<color=#3D1400>Daño:</color><color=red>80/3 segundos</color>\n<color=#3D1400>Características:</color><color=red>25% de probabilidad de lanzar mantequilla hipertemporal con 100 de daño, que genera un miniagujero negro al impactar. El agujero ralentiza fuertemente, explota tras 2 segundos causando 100 de daño y añade 30 segundos de tiempo de espera a zombis en estado de teletransporte</color>\n<color=#3D1400>Receta de fusión:</color><color=red>Lanzamaíz Magnético (base) + Fragmento Espacial</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1211,
+      "name": "Lanzamaíz Cubo de Hierro",
+      "introduce": "<color=#3D1400>El Lanzamaíz Cubo de Hierro está pensando en comprar pintura antioxidante. Su mantequilla siempre tiene un ligero sabor a óxido, lo que arruina sus intentos de hacer pasteles de mantequilla para sus amigos. ‘La mantequilla oxidada solo sirve para zombis’, dice.</color>",
+      "info": "Un lanzamaíz duro como el hierro, lanza granos de maíz de hierro o mantequilla que daña armaduras.\n\n<color=#3D1400>Resistencia:</color><color=red>2000</color>\n<color=#3D1400>Daño:</color><color=red>60/3 segundos</color>\n<color=#3D1400>Características:</color><color=red>Planta de hierro. 25% de probabilidad de lanzar mantequilla de hierro con 80 de daño, que inmoviliza al objetivo por 4 segundos y añade daño equivalente a la salud actual de la armadura del objetivo</color>\n<color=#3D1400>Receta de fusión:</color><color=red>Lanzamaíz Magnético (base) + Cubo de Hierro</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1212,
+      "name": "Cereza Bomba Gélida",
+      "introduce": "<color=#3D1400>Las plantas dicen que la Cereza Bomba Gélida es tranquila, fría y reservada. ‘A veces comparto mis sentimientos con las cerezas’, dice. ‘Ellas lo llaman noticias explosivas’.</color>",
+      "info": "Un molde de cereza hecho de hielo, absorbe balas de cereza para generar cartas de Cereza Bomba.\n\n<color=#3D1400>Características:</color><color=red>Absorbe balas de cereza, cerezas de fuego o cerezas explosivas de plantas, ganando 1/2/10 puntos de energía. Cada 100 puntos genera una carta de Cereza Bomba. Al morir, libera el efecto de Cereza Bomba y congela zombis en el área por 10 segundos</color>\n<color=#3D1400>Receta de fusión:</color><color=red>Cereza Bomba + Hongo Gélido</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1213,
+      "name": "Hongo Destructor Magnético",
+      "introduce": "<color=#3D1400>Controlar energía nuclear con magnetismo es el proyecto de investigación del Hongo Destructor Magnético. Es un trabajo difícil que requiere precisión absoluta; ya ha destruido varios laboratorios. Pero, más que las plantas, los zombis parecen desear que tenga éxito.</color>",
+      "info": "Un hongo destructor estabilizado por magnetismo, puede fusionarse con objetos de hierro para cambiar de forma.\n\n<color=#3D1400>Características:</color><color=red>No explota por sí mismo</color>\n<color=#3D1400>Receta de fusión:</color><color=red>Hongo Destructor + Hongo Magnético</color>",
+      "cost": ""
+    },
+    {
+      "seedType": 1214,
+      "name": "Hongo Destructor Hipertemporal",
+      "introduce": "<color=#3D1400>‘Personal de viaje temporal autorizado, listo. Túnel temporal desconectado del mundo objetivo, listo. Impacto observado dentro de los márgenes esperados, listo. Siguiente paso: destruir el túnel para evitar su uso por otros.’ —《Oficina de Planificación Temporal》</color>",
+      "info": "Un hongo destructor con poderes hipertemporales, cuya explosión aplica el estado de teletransporte.\n\n<color=#3D1400>Daño:</color><color=red>1800 (cenizas)</color>\n<color=#3D1400>Características:</color><color=red>Tiene las características del Hongo Destructor. La explosión aplica 30 segundos de estado de teletransporte</color>\n<color=#3D1400>Receta de fusión:</color><color=red>Hongo Destructor Magnético (base) + Fragmento Espacial</color>",
+      "cost": ""
     }
-
   ] }
