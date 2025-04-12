@@ -5396,8 +5396,8 @@
       "seedType": 1166,
       "name": "Magnetoseta Carmesí",
       "introduce": "<size=39><color=#3D1400>\"Vender adecuadamente también es una habilidad\", dijo la Magnetoseta Carmesí. Ese tipo de odio que se convierte en amor, solo Magnetoseta Carmesí puede hacerlo. Antes, lo que más odiaba era la cereza. En realidad, todavía lo hace, pero tal vez ha encontrado una oportunidad de negocio.</color></size>",
-      "info": "<size=39>Parte del <color=#8B0000>Sistema Magnético</color> (categoría <color=red>Sin Efecto</color>).\n\n<color=#3D1400>Sistema Magnético:</color>\n- Usa metales de <color=red>Magnetoseta Solar</color> que estén detrás de ella.</color>\n<color=#3D1400>Daño: </color><color=red>300/2.5s</color>\n<color=#3D1400>Especial: </color><color=red>Al ser alimentada con objetos metálicos, los usa como proyectiles explosivos (5 usos por objeto)</color>\n<color=#3D1400>Fórmula: </color><color=red>Magnetoseta + Petacereza</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Mycena Rubra</color></size>",
-      "cost": ""
+      "info": "<size=39>Parte del <color=#8B0000>Sistema Magnético</color>.\n¡Transforman objetos metálicos en cerezas explosivas!\n\n<color=#8B0000>Sistema Magnético:</color><color=#991A1A>\n- Sin efecto </color>\n<color=#3D1400>Daño: </color><color=red>300 cada 3s</color>\n<color=#3D1400>Especial: </color><color=red>Consume objetos metálicos y los convierte en cerezas explosivas. Cada objeto puede infligir daño 5 veces. Los objetos metálicos también pueden ser entregados a Magnetoseta Carmesí para que inicie un ataque.</color>\n<color=#3D1400>Fusión: </color><color=red>Magnetoseta + Petacereza</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Mycena Rubra</color></size>",
+      "cost": "<size=39>Costo: <color=red>250</color>   Recarga: <color=red>57.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
       "seedType": 1167,
