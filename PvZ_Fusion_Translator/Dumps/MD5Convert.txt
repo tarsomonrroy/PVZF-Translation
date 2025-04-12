@@ -68,7 +68,7 @@
 { "Localization\Spanish\Textures\Logo\标题合集" , "zt6CxJgEU+kegWGRKzQKwJynE91Nbpk9hgSby2zHW/o=" },
 { "Localization\Spanish\Textures\Menu\MainMenu" , "ZTaVNrPrxtSad5bo89RQVNXxaprYLZuGsl6dvuAoJR4=" },
 { "Localization\Spanish\Textures\Menu\MainMenutravel" , "w7iF3kfdiOg8EdbPKZlfxfObZXSAdqAMzfDMtM+4Dd8=" },
-{ "Localization\Spanish\Textures\Menu\NewAdv" , "itgAdOEzcDj7sUA11u4xX3BwY7vssEdui606FpUUrEk=" },
+{ "Localization\Spanish\Textures\Menu\NewAdv" , "5u/F4Izlt/tDY4P7F+GPL4aLdTlrhD8cw1bZ57vjGyw=" },
 { "Localization\Spanish\Textures\Menu\options_menuback" , "OGZ6SNFo8RbpPqWaO88qCzPm7r8Mv1WzUee9BlZDwFE=" },
 { "Localization\Spanish\Textures\Menu\SelectorScreen_Adventure_button" , "yE5gPHXKy3xnVBFtSTC0zjhfl0tCrc6sHPK8AiiO/s0=" },
 { "Localization\Spanish\Textures\Menu\SelectorScreen_Adventure_highlight" , "gwHOCHLV9NAvvChiQt5X95UOLaStVZogt4DWAokvACg=" },
@@ -118,4 +118,3 @@
 { "Localization\Spanish\Textures\[Custom Textures]\ShovelBank" , "DUCNzvvDjIp8Kr8Clyx4eWwApiHiD8RmP+W05Mre+fI=" },
 { "Localization\Spanish\Strings\translation_regexs" , "4QFp251QrntXDcXjGrGYje8gvuKNHAxVp4FfLm0uHI4=" },
 { "Localization\Spanish\Strings\translation_strings" , "2ksah817q6AmRGid8/bNXiFWxlGfKlqy1gZgv5UzWRM=" },
-{ "Localization\Spanish\Almanac\ZombieStringsTranslate" , "tVcpi3GfFH/0aqsaeCuzszFYi6s1IxzO6Zw7wnB0flU=" },
