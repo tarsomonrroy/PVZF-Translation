@@ -111,56 +111,56 @@
       "seedType": 15,
       "name": "Zampalga",
       "introduce": "<size=39><color=#3D1400>\"Soy totalmente invisible\", piensa Zampalga para sí mismo. \"Me esconderé justo debajo de la<page>superficie, y nadie me verá.\" Sus amigos le dicen que pueden verlo perfectamente, pero nunca cambiará.</color></size>",
-      "info": "<size=39>Base del <color=#03311C>Sistema de Enredaderas</color>.\nLas Zampalgas son plantas acuáticas que arrastran al primer zombi que se acerca a ellos bajo el agua.\n\n<color=#3D1400>Daño: </color><color=red> Muerte Instantánea</color>\n<color=#3D1400>Uso: </color><color=red> Único, al contacto</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Hydra Aequalis</color></size>",
+      "info": "<size=39>Base del <color=#03311C>Sistema de Enredaderas</color>.\nLas Zampalgas son plantas acuáticas que arrastran al primer zombi que se acerca a ellos bajo el agua.\n\n<color=#3D1400>Daño: </color><color=red> Muerte Instantánea</color>\n<color=#3D1400>Uso: </color><color=red> Único, al contacto</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Necrophyton entortus</color></size>",
       "cost": "<size=39>Costo: <color=red>25</color>\nRecarga: <color=red>50 Segundos</color></size>"
     },
     {
       "seedType": 16,
       "name": "Jalapeño",
       "introduce": "<size=39><color=#3D1400>\"NNNNNGGGGG....\" dice Jalapeño. No va a explotar, no esta vez. Pero pronto. Oh, tan pronto. Está cerca. Lo sabe; puede sentirlo; toda su vida ha estado llevándolo a este momento.</color></size>",
-      "info": "<size=39>Base del <color=#FF4500>Sistema de Quemaduras</color>.\nLos Jalapeños estallan y destruyen una fila completa de zombis.\n\n<color=#3D1400>Daño:</color> <color=red>1800 (Área Lineal)</color>\n<color=#3D1400>Uso:</color> <color=red>Único, Instantáneo</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Capsicum Infernum</color></size>",
+      "info": "<size=39>Base del <color=#FF4500>Sistema de Quemaduras</color>.\nLos Jalapeños estallan y destruyen una fila completa de zombis.\n\n<color=#3D1400>Daño:</color> <color=red>1800 (Área Lineal)</color>\n<color=#3D1400>Uso:</color> <color=red>Único, Instantáneo</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Capsicum incendiarius</color></size>",
       "cost": "<size=39>Costo: <color=red>125</color>\nRecarga: <color=red>50 Segundos</color></size>"
     },
     {
       "seedType": 17,
       "name": "Pinchohierba",
       "introduce": "<size=39><color=#3D1400>El hockey es la obsesión de Pinchohierba. Tiene boletos de temporada en palcos. Lleva un registro detallado de sus jugadores favoritos. Y siempre arrasa en las apuestas de hockey de la oficina. Solo hay un problema con el hockey: le tiene pánico a los discos.</color></size>",
-      "info": "<size=39>Las Pinchohierbas revientan llantas y lastiman a los zombis que caminen sobre ellas.\n\n<color=#3D1400>Daño: </color><color=red>20 cada 1s</color>\n<color=#3D1400>Especial: </color><color=red>Cuando es destruida por un vehículo, este también lo será.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Graminis Spinosus</color></size>",
+      "info": "<size=39>Las Pinchohierbas revientan llantas y lastiman a los zombis que caminen sobre ellas.\n\n<color=#3D1400>Daño: </color><color=red>20 cada 1s</color>\n<color=#3D1400>Especial: </color><color=red>Cuando es destruida por un vehículo, este también lo será.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Spiculus acutus</color></size>",
       "cost": "<size=39>Costo: <color=red>100</color>\nRecarga: <color=red>7.5 Segundos</color></size>"
     },
     {
       "seedType": 18,
       "name": "Plantorcha",
       "introduce": "<size=39><color=#3D1400>A todos les agrada Plantorcha. Su integridad, su amistad inquebrantable, y su capacidad para maximizar el daño causado por los guisantes hacen que este sea muy apreciado. Pero Plantorcha tiene un secreto: No sabe leer.</color></size>",
-      "info": "<size=39>Las Plantorchas prenden en llamas los guisantes que pasan a través de ellos, duplicando su daño.\n\n<color=#3D1400>Especial: </color><color=red>Enciende los guisantes que pasan a través de él, aumentando su daño.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Infernalis Ignis</color></size>",
+      "info": "<size=39>Las Plantorchas prenden en llamas los guisantes que pasan a través de ellos, duplicando su daño.\n\n<color=#3D1400>Especial: </color><color=red>Enciende los guisantes que pasan a través de él, aumentando su daño.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Flammarbor aeternus</color></size>",
       "cost": "<size=39>Costo: <color=red>175</color>\nRecarga: <color=red>7.5 Segundos</color></size>"
     },
     {
       "seedType": 19,
       "name": "Marseta",
       "introduce": "<size=39><color=#3D1400>La Marseta nunca ha visto el mar. Está en su nombre, ha escuchado mucho al respecto, pero simplemente nunca ha encontrado el tiempo. Sin<page>embargo, algún día, eso cambiará.</color></size>",
-      "info": "<size=39>Las Marsetas son plantas acuáticas que disparan esporas de corto alcance.\n\n<color=#3D1400>Daño: </color><color=red>20 cada 1.5s</color>\n<color=#3D1400>Rango: </color><color=red>3 casillas al frente</color>\n<color=#3D1400>Especial: </color><color=red>Al fusionarse, genera 50 soles.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Mycota Aquatica</color></size>",
+      "info": "<size=39>Las Marsetas son plantas acuáticas que disparan esporas de corto alcance.\n\n<color=#3D1400>Daño: </color><color=red>20 cada 1.5s</color>\n<color=#3D1400>Rango: </color><color=red>3 casillas al frente</color>\n<color=#3D1400>Especial: </color><color=red>Al fusionarse, genera 50 soles.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Pelagomyces exhalans</color></size>",
       "cost": "<size=39>Costo: <color=red>0 (nocturno), 75 (diurno)</color>\nRecarga: <color=red>7.5 Segundos</color></size>"
     },
     {
       "seedType": 20,
       "name": "Planterna",
       "introduce": "<size=39><color=#3D1400>Planterna desafía la ciencia. Otras plantas consumen luz y liberan oxígeno; Planterna consume oscuridad y libera luz. \u0022No diré 'brujería', pero... ¿viste mi colección de lámparas de lava?\u0022</color></size>",
-      "info": "<size=39>Base del <color=#104f30>Sistema Lumina</color>.\nLa Planterna ilumina un área, permitiendo ver en la niebla.\n\n<color=#104f30>Sistema Lumina:</color>\n<color=#2a6a47>- Genera 1 Nivel Lumina en un área de 3×3</color>\n<color=#3D1400>Especial: </color><color=red>Disipa la niebla en un área de 7x5</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Lumoplantae Vulgaris</color></size>",
+      "info": "<size=39>Base del <color=#104f30>Sistema Lumina</color>.\nLa Planterna ilumina un área, permitiendo ver en la niebla.\n\n<color=#104f30>Sistema Lumina:</color>\n<color=#2a6a47>- Genera 1 Nivel Lumina en un área de 3×3</color>\n<color=#3D1400>Especial: </color><color=red>Disipa la niebla en un área de 7x5</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Photophyton incandescens</color></size>",
       "cost": "<size=39>Costo: <color=red>25</color>\nRecarga: <color=red>15 segundos</color></size>"
     },
     {
       "seedType": 21,
       "name": "Cactus",
       "introduce": "<size=39><color=#3D1400>Es espinosa, claro, pero las púas de Cactus ocultan un corazón esponjoso lleno de amor y buena voluntad. Solo quiere abrazar y ser abrazada. A la mayoría de la gente no le gusta eso, pero a Cactus no le importa. Ha estado saliendo con un armadillo desde hace un tiempo y parece que realmente está funcionando.</color></size>",
-      "info": "<size=39>Las Cactus disparan espinas que pueden golpear objetivos tanto aéreos como terrestres.\n\n<color=#3D1400>Daño: </color><color=red>20 cada 1.5s</color>\n<color=#3D1400>Especial: </color><color=red>Prioriza a los zombis aéreos en su línea.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Cactaceae Aerocorpus</color></size>",
+      "info": "<size=39>Las Cactus disparan espinas que pueden golpear objetivos tanto aéreos como terrestres.\n\n<color=#3D1400>Daño: </color><color=red>20 cada 1.5s</color>\n<color=#3D1400>Especial: </color><color=red>Prioriza a los zombis aéreos en su línea.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Spinocactus extensus</color></size>",
       "cost": "<size=39>Costo: <color=red>125</color>\nRecarga: <color=red>7.5 Segundos</color></size>"
     },
     {
       "seedType": 22,
       "name": "Trebolador",
       "introduce": "<size=39><color=#3D1400>Cuando Trebolador tenía cinco años, recibió un brillante pastel de cumpleaños. Hizo su deseo, sopló y resopló, pero solo logró apagar el 60% de las velas. Sin embargo, en lugar de rendirse, ha utilizado esa temprana derrota como un catalizador para hacerlo mejor desde entonces.</color></size>",
-      "info": "<size=39>Los Treboladores resoplan la niebla y a los zombis con globo comunes.\n\n<color=#3D1400>Uso: </color><color=red>Único, Instantáneo</color>\n<color=#3D1400>Especial: </color><color=red>Erradica la niebla por 24s y a todos los zombis con globo. Retrocede ligeramente a los Zomppelin.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Trifolium Ventosus</color></size>",
+      "info": "<size=39>Los Treboladores resoplan la niebla y a los zombis con globo comunes.\n\n<color=#3D1400>Uso: </color><color=red>Único, Instantáneo</color>\n<color=#3D1400>Especial: </color><color=red>Erradica la niebla por 24s y a todos los zombis con globo. Retrocede ligeramente a los Zomppelin.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Gigantrifolium ventosus</color></size>",
       "cost": "<size=39>Costo: <color=red>100</color>\nRecarga: <color=red>15 Segundos</color></size>"
     },
 
@@ -168,7 +168,7 @@
       "seedType": 23,
       "name": "Frustrella",
       "introduce": "<size=39><color=#3D1400>\u0022Vaya, hombre...\u0022 dice Frustrella. \u0022Fui al dentista el otro día, y me dijo que tengo cuatro caries. Tengo—cuéntalo—¡UNA sola muela! ¿Cuatro caries en una muela? ¿Cómo es eso posible?\u0022</color></size>",
-      "info": "<size=39>Las Frustrellas disparan estrellas en cinco direcciones, una por cada punta.\n\n<color=#3D1400>Daño: </color><color=red>(20×5) cada 1.5s</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Astra Multidirectional</color></size>",
+      "info": "<size=39>Las Frustrellas disparan estrellas en cinco direcciones, una por cada punta.\n\n<color=#3D1400>Daño: </color><color=red>(20×5) cada 1.5s</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Pentastellaris dispersus</color></size>",
       "cost": "<size=39>Costo: <color=red>125</color>\nRecarga: <color=red>7.5 Segundos</color></size>"
     },
 
@@ -176,7 +176,7 @@
       "seedType": 24,
       "name": "Calabaza",
       "introduce": "<size=39><color=#3D1400>Calabaza acababa de terminar su trabajo de medio tiempo. \u0022Honestamente, fue una experiencia bastante divertida\u0022, se rió. \u0022Pero, ¿puede alguien explicarme por qué seguían metiendo dulces y velas dentro de mí?\u0022</color></size>",
-      "info": "<size=39>Las calabazas protegen a las plantas que están dentro de sus cáscaras.\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Prioridad de Fusión: </color><color=red>Mínima, solo puede fusionarse si la planta de dentro no puede.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Cucurbita Praesidium</color></size>",
+      "info": "<size=39>Las calabazas protegen a las plantas que están dentro de sus cáscaras.\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Prioridad de Fusión: </color><color=red>Mínima, solo puede fusionarse si la planta de dentro no puede.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Cucurbascutum protegens</color></size>",
       "cost": "<size=39>Costo: <color=red>125</color>\nRecarga: <color=red>30 segundos</color></size>"
     },
 
@@ -184,14 +184,14 @@
       "seedType": 25,
       "name": "Magnetoseta",
       "introduce": "<size=39><color=#3D1400>Todos se preguntaban por qué Magnetoseta<page>siempre tardaba tanto en \u0022digerir\u0022 el metal que absorbía, incluso después que haya sido usado para fusiones. Frustrado, gritó: \u0022¡No soy vago! ¡Me acaba de noquear un pedazo de hierro volador!\u0022</color></size>",
-      "info": "<size=39>Base del <color=#8B0000>Sistema Magnético</color>.\nLas Magnetosetas pueden absorber objetos metálicos.\n\n<color=#8B0000>Sistema Magnético:</color><color=#991A1A>\n- Sin efecto</color>\n<color=#3D1400>Especial: </color><color=red>Desarma objetos metálicos cada 15s</color>\n<color=#3D1400>Rango: </color><color=red>Área de 7×5</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Magneto Mycota</color></size>",
+      "info": "<size=39>Base del <color=#8B0000>Sistema Magnético</color>.\nLas Magnetosetas pueden absorber objetos metálicos.\n\n<color=#8B0000>Sistema Magnético:</color><color=#991A1A>\n- Sin efecto</color>\n<color=#3D1400>Especial: </color><color=red>Desarma objetos metálicos cada 15s</color>\n<color=#3D1400>Rango: </color><color=red>Área de 7×5</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Magnetocybe absorbens</color></size>",
       "cost": "<size=39>Costo: <color=red>100 (nocturno), 175 (diurno)</color>\nRecarga: <color=red>7.5 segundos</color></size>"
     },
     {
       "seedType": 26,
       "name": "Coltapulta",
       "introduce": "<size=39><color=#3D1400>Alguien dijo que el amor es como una col, tienes que quitar capa por capa para llegar al corazón de la otra persona. Pero Coltapulta no está muy de acuerdo con esto, después de todo, sigue soltero.</color>",
-      "info": "<size=39>Catapulta coles para atacar a los zombis. Además, las catapultas pueden ver Zombis Buzo mientras están sumergidos.\n\n<color=#3D1400>Daño:</color><color=red>40 cada 3s</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Caulipultus Projectile</color>",
+      "info": "<size=39>Catapulta coles para atacar a los zombis. Además, las catapultas pueden ver Zombis Buzo mientras están sumergidos.\n\n<color=#3D1400>Daño:</color><color=red>40 cada 3s</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Repolipultus iacularis</color>",
       "cost": "<size=39>Costo:<color=red>100</color>\nRecarga:<color=red>7.5 segundos</color>"
     },
     {
