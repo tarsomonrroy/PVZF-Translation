@@ -198,35 +198,35 @@
       "seedType": 27,
       "name": "Maceta",
       "introduce": "<size=39><color=#3D1400>Las plantas siempre piensan que Maceta es solo una maceta. Pero en realidad, Maceta es una planta, que se parece mucho a una maceta. Mira,<page>ese pequeño brote es el capullo de una flor. ¿No te parece tierno?</color>",
-      "info": "<size=39>La Maceta te permite plantar en el tejado.\n\n<color=#3D1400>Especial: </color><color=red>Permite plantar en el tejado.</color>\n<color=#3D1400>Especial: </color><color=red>Produce 25 soles al fusionarse.</color>\n<color=#3D1400>Prioridad de Fusión: </color><color=red>Mínima, solo puede fusionarse si la planta de encima no puede.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Vasculum Planticola</color>",
+      "info": "<size=39>La Maceta te permite plantar en el tejado.\n\n<color=#3D1400>Especial: </color><color=red>Permite plantar en el tejado.</color>\n<color=#3D1400>Especial: </color><color=red>Produce 25 soles al fusionarse.</color>\n<color=#3D1400>Prioridad de Fusión: </color><color=red>Mínima, solo puede fusionarse si la planta de encima no puede.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Vasum sustentans</color>",
       "cost": "<size=39>Costo:<color=red>25</color>\nRecarga:<color=red>7.5 segundos</color>"
     },
     {
       "seedType": 28,
       "name": "Lanzamaíz",
       "introduce": "<size=39><color=#3D1400>Las plantas tienen curiosidad sobre de dónde viene la mantequilla del Lanzamaíz. Ni él mismo lo sabe, pero eso no le impide hacer palomitas de maíz con ella en su tiempo libre para ganar algo de dinero extra.</color>",
-      "info": "<size=39>Catapulta granos de maíz para atacar a los zombis; también puede usar mantequilla para inmovilizarlos.\n\n<color=#3D1400>Daño: </color><color=red>20 (maíz), 40 (mantequilla) cada 3s</color>\n<color=#3D1400>Especial: </color><color=red>Probabilidad de 25% de lanzar mantequilla, la cual inmoviliza durante 4s.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Zea Mays Projectile</color></size>",
+      "info": "<size=39>Catapulta granos de maíz para atacar a los zombis; también puede usar mantequilla para inmovilizarlos.\n\n<color=#3D1400>Daño: </color><color=red>20 (maíz), 40 (mantequilla) cada 3s</color>\n<color=#3D1400>Especial: </color><color=red>Probabilidad de 25% de lanzar mantequilla, la cual inmoviliza durante 4s.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Maizapultus iacularis</color></size>",
       "cost": "<size=39>Costo:<color=red>100</color>\nRecarga:<color=red>7.5 segundos</color>"
     },
     {
       "seedType": 29,
       "name": "Ajo",
       "introduce": "<size=39><color=#3D1400>Ajo afirma que está lleno de alicina y que comer ajo en abundancia es beneficioso para la salud. Verdadero o no, basta con ver a esos zombis que mordisquean el ajo y se retuercen de náuseas para saber que realmente funciona.</color></size>",
-      "info": "<size=39>Base del <color=#133816>Sistema Venenoso</color>.\nLos Ajos repelen a los zombis que los muerden a otras líneas.\n\n<color=#3D1400>Dureza: </color><color=red>400</color>\n<color=#3D1400>Especial: <color=red>Desvía a zombis a otras líneas tras morderlo. No recibe más de 15 de daño por mordida.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Allium Sativum</color></size>",
+      "info": "<size=39>Base del <color=#133816>Sistema Venenoso</color>.\nLos Ajos repelen a los zombis que los muerden a otras líneas.\n\n<color=#3D1400>Dureza: </color><color=red>400</color>\n<color=#3D1400>Especial: <color=red>Desvía a zombis a otras líneas tras morderlo. No recibe más de 15 de daño por mordida.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Colossallium repugnans</color></size>",
       "cost": "<size=39>Costo: <color=red>50</color>\nRecarga: <color=red>7.5 segundos</color></size>"
     },
     {
       "seedType": 30,
       "name": "Paraplanta",
       "introduce": "<size=39><color=#3D1400>La Paraplanta solía ser un gran pasador; alguna vez fue una estrella en la 114.ª edición de Plants vs. Zombies NBA, hasta que llegó a la mediana<page>edad... y descubrió que se estaba quedando calvo.</color>",
-      "info": "<size=39>La Paraplanta protege plantas cercanas de Zombis Colgao's y Zombipultas.\n\n<color=#3D1400>Dureza: </color><color=red>1000</color>\n<color=#3D1400>Especial: </color><color=red>Repele balones de baloncesto y Zombis Colgao's en un área de 3×3</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Paraplanta Deflectus</color>",
+      "info": "<size=39>La Paraplanta protege plantas cercanas de Zombis Colgao's y Zombipultas.\n\n<color=#3D1400>Dureza: </color><color=red>1000</color>\n<color=#3D1400>Especial: </color><color=red>Repele balones de baloncesto y Zombis Colgao's en un área de 3×3</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Umbellifolia deflectus</color>",
       "cost": "<size=39>Costo:<color=red>75</color>\nRecarga:<color=red>7.5 segundos</color>"
     },
     {
       "seedType": 31,
       "name": "Margarita",
       "introduce": "<size=39><color=#3D1400><page>La margarita es extremadamente rica, por lo que gasta su dinero con libertad—y eso que ni siquiera tiene manos; ni pies.</color>",
-      "info": "<size=39>Base del <color=#856A00>Sistema Monetario</color>.\nGenera monedas de plata, de oro, y rara vez hasta diamantes.\n\n<color=#3D1400>Producción Monetaria: </color><color=red>Cada 25s</color>\n<color=#3D1400>Especial:</color><color=red>\n- 75% = $100\n- 20% = $300\n- 5% = $1,000</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Bellis Aurea</color>",
+      "info": "<size=39>Base del <color=#856A00>Sistema Monetario</color>.\nGenera monedas de plata, de oro, y rara vez hasta diamantes.\n\n<color=#3D1400>Producción Monetaria: </color><color=red>Cada 25s</color>\n<color=#3D1400>Especial:</color><color=red>\n- 75% = $100\n- 20% = $300\n- 5% = $1,000</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Auritagetes monetarius</color>",
       "cost": "<size=39>Costo:<color=red>25</color>\nRecarga:<color=red>7.5 segundos</color>"
     },
 
