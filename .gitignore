@@ -398,5 +398,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
-/PvZ_Fusion_Translator/\[Custom Audios\]
-*.mp3
+

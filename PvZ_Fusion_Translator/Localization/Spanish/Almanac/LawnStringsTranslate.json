@@ -1073,14 +1073,14 @@
     {
       "seedType": 239,
       "name": "Comepiedras",
-      "introduce": "<size=39><color=#3D1400>Pese a sus malas apariencias, Comepiedras quiere que todo el mundo sepa que ama a los gatitos y que es voluntario en un centro de rehabilitación para zombis. "Es lo menos que puedo hacer". declara.</color></size>",
+      "introduce": "<size=39><color=#3D1400>Pese a sus malas apariencias, Comepiedras quiere que todo el mundo sepa que ama a los gatitos y que es voluntario en un centro de rehabilitación para zombis. Es lo menos que puedo hacer. declara.</color></size>",
       "info": "<size=39>Planta un Comepiedras sobre una lápida para quitarla.\n\n<color=#3D1400>Uso: </color><color=red>Único</color>\n<color=#3D1400>Especial:</color> <color=red>Se planta sobre una lápida, y la devora tras 5 segundos. Si se planta donde no hay lápidas, se devuelve la carta.\n<color=#3D1400>Nombre Científico:</color> <color=red>SCIENTIFIC</color></size>\n<size=39><color=#3D1400>",
       "cost": "<size=39>Costo: <color=red>75</color>\nRecarga: <color=red>7.5 Segundos</color></size>"
     },
     {
       "seedType": 240,
       "name": "Cebada Obsidiana",
-      "introduce": "<size=39><color=#3D1400>Se dice que la estatua de Cebada Obsidiana en el jardín fue resultado de un juego de construcción entre plantas. "¿Quién lo diría?", comenta con alegría. "Antes de que llegara, ya me usaban como ejemplo de 'algo que nadie adivina'. Pero me gusta, es una buena forma de mostrarme más.</color></size>",
+      "introduce": "<size=39><color=#3D1400>Se dice que la estatua de Cebada Obsidiana en el jardín fue resultado de un juego de construcción entre plantas. ¿Quién lo diría?, comenta con alegría. Antes de que llegara, ya me usaban como ejemplo de 'algo que nadie adivina'. Pero me gusta, es una buena forma de mostrarme más.</color></size>",
       "info": "<size=39>Una mejora directa de Cebada, se convierte en cualquier planta suprema.</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Daño:</color> <color=red>20 cada 1.5s\n\n<color=#3D1400>Especial:</color> <color=red>SPECIAL</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>SCIENTIFIC</color></size>",
       "cost": "<size=39>Costo: <color=red>500</color>\nRecarga: <color=red>60 Segundos</color></size>\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
@@ -5616,14 +5616,14 @@
       "seedType": 1194,
       "name": "Petaguisantes",
       "introduce": "<color=#3D1400>El Petaguisantes y la Miédica Atómica son grandes amigos; uno es impulsivo y el otro más pausado. Juntos forman el mejor equipo: 'Aunque tenemos personalidades distintas, nos complementamos perfectamente'.</color>",
-      "info": "Un lanzaguisantes cuyo daño aumenta progresivamente.\n\n<color=#3D1400>Daño:</color><color=red>20 cada 1.5s</color>\n<color=#3D1400>Especial:</color><color=red>Cada disparo aumenta el daño en +1, hasta un máximo de 80. Comparte su poder de ataque con una Miédica Atómica en la casilla trasera, mientras que él adopta la velocidad de ataque de esta.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Pisum Atomis</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Lanzaguisantes + Petaseta</color></size>",
+      "info": "Un lanzaguisantes cuyo daño aumenta progresivamente.\n\n<color=#3D1400>Daño:</color><color=red>20 cada 1.5s</color>\n<color=#3D1400>Especial:</color><color=red>Cada disparo aumenta el daño en +1, hasta un máximo de 80. Comparte su poder de ataque con una Miédica Atómica en la casilla trasera, mientras que él adopta la velocidad de ataque de esta.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Pisum Atomis</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Lanzaguisantes + Petaseta</color></size>"
 
     },
     {
       "seedType": 1195,
       "name": "Maceta Luminosa",
       "introduce": "<color=#3D1400>La Maceta Luminosa siempre emite un brillo cálido, por lo que a menudo se usa como lámpara de noche. Si te acercas a observarla, notarás una inscripción en el borde que dice: 'Hábitat de luciérnagas, no molestar'.</color>",
-      "info": "Parte del <color=#104f30>Sistema Lumina</color> (Generador)\n\n<color=#3D1400>\n\n<color=#3D1400>Sistema Lumina:</color><color=red>Dispela una pequeña parte de la niebla y proporciona 1 Nivel Lumina a la planta debajo de ella.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>SCIENTIFIC</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Planterna + Maceta</color></size>"",
+      "info": "Parte del <color=#104f30>Sistema Lumina</color> (Generador)\n\n<color=#3D1400>\n\n<color=#3D1400>Sistema Lumina:</color><color=red>Dispela una pequeña parte de la niebla y proporciona 1 Nivel Lumina a la planta debajo de ella.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>SCIENTIFIC</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Planterna + Maceta</color></size>",
       "cost": ""
     },
     {
@@ -5671,15 +5671,14 @@
     {
       "seedType": 1202,
       "name": "Calabacín",
-      "introduce": "<size=39><color=#3D1400>El Calabacín nunca pierde en pulsos y ha estudiado técnicas para lanzar piedras al agua. Es excelente escogiendo piedras, pero su único defecto es que le teme al agua, así que solo mira a otros lanzarlas.
-</color></size>",
+      "introduce": "<size=39><color=#3D1400>El Calabacín nunca pierde en pulsos y ha estudiado técnicas para lanzar piedras al agua. Es excelente escogiendo piedras, pero su único defecto es que le teme al agua, así que solo mira a otros lanzarlas.</color></size>",
       "info": "<size=39>¡Invoca Apisonaflores pequeños!</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Daño:</color> <color=red>225 cada 1.5s (Minisonaflores)\n\n<color=#3D1400>Especial:</color> <color=red>La Apisonaflor y sus fusiones ya no aplastan zombis al entrar la calabaza. Cuando estos están dentro de la calabaza, cada 3 segundos se genera un Minisonaflor, que hacer 225 de daño, salta 1.5 casillas, desaparece tras 6 saltos y se regenera cada 3 segundos. La Apisonantorcha Infernal genera Minisonaflores Picantes, y Miaupisonafor genera Miaupisonaflores pequeños, los cuales no tienen ningún cambio de los Minisonaflores normales.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>SCIENTIFIC</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Calabaza + Apisonaflor</color></size>",
       "cost": ""
     },
     {
       "seedType": 1203,
       "name": "Maizetita",
-      "introduce": "<size=39><color=#3D1400>"Resultados del experimento: la siembra densa no favorece el crecimiento, las mazorcas de maíz son notablemente más pequeñas". Dave se agacha, observando a la Maizetita con una lupa: ‘No sirve para hacer tacos de maíz’. La Maizetita, enfadado, replica: "¡Los resultados muestran que lo concentrado es puro poder!"</color></size>",
+      "introduce": "<size=39><color=#3D1400> Resultados del experimento: la siembra densa no favorece el crecimiento, las mazorcas de maíz son notablemente más pequeñas. Dave se agacha, observando a la Maizetita con una lupa: ‘No sirve para hacer tacos de maíz’. La Maizetita, enfadado, replica: ¡Los resultados muestran que lo concentrado es puro poder!</color></size>",
       "info": "<size=39>¡Encoge a los zombis con su mantequilla!</color>\n\n<color=#3D1400>Daño:</color> <color=red>20 cada 3s\n\n<color=#3D1400>Especial:</color> <color=red>25% de probabilidad de lanzar mantequilla con 40 de daño, que reduce el tamaño y la salud de zombis no encogidos a 0.7 veces, inmoviliza zombis encogidos por 1.5 segundos y elimina zombis pequeños. Prioriza zombis no encogidos.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>SCIENTIFIC</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Desesporada + Lanzamaíz</color></size>",
       "cost": ""
     },

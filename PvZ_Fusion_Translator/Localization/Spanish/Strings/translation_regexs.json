@@ -96,8 +96,9 @@
   "^坚果台球(\\d+)?": "Billares de Nuez {0}",
   "^旅行冒险：第(\\d+)关": "Aventura de la Odisea: Nivel {0}",
   "^剩余积分：(\\d+)点": "Puntos Restantes: {0}",
-  "但(.*)": "Modificador Negativo de la Odisea | {0}",
+  "^但(.*)": "Odyssey Negative Modifier | {0}",
   "^成功击败领袖，获得(\\d+)积分": "Líder Supremo derrotado con éxito. Has ganado {0} puntos",
   "^大招需要(\\d+)金币": "Para usar el Ultimate se necesitan {0} monedas.",
-  "-------Outdated Regex Below": "You Can Safely Ignore or Delete-------"
+  "-------Outdated Regex Below": "You Can Safely Ignore or Delete-------",
+  "但(.*)": "Modificador Negativo de la Odisea | {0}"
 }
