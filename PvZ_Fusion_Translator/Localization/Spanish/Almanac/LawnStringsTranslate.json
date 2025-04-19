@@ -220,7 +220,7 @@
       "name": "Paraplanta",
       "introduce": "<size=39><color=#3D1400>La Paraplanta solía ser un gran pasador; alguna vez fue una estrella en la 114.ª edición de Plants vs. Zombies NBA, hasta que llegó a la mediana<page>edad... y descubrió que se estaba quedando calvo.</color>",
       "info": "<size=39>La Paraplanta protege plantas cercanas de Zombis Colgao's y Zombipultas.\n\n<color=#3D1400>Dureza: </color><color=red>1000</color>\n<color=#3D1400>Especial: </color><color=red>Repele balones de baloncesto y Zombis Colgao's en un área de 3×3</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Umbellifolia deflectus</color>",
-      "cost": "<size=39>Costo:<color=red>75</color>\nRecarga:<color=red>7.5 segundos</color>"
+      "cost": "<size=39>Costo:<color=red>100</color>\nRecarga:<color=red>7.5 segundos</color>"
     },
     {
       "seedType": 31,
@@ -234,7 +234,7 @@
       "seedType": 32,
       "name": "Melonpulta",
       "introduce": "<size=39><color=#3D1400>Durante las treguas, la Melonpulta adora dividir su brazo de melón en dos, mordisqueándolo para<page>refrescarse. \u0022¿Quieres un poco?\u0022 les pregunta alegremente a los zombis, mientras las plantas a su alrededor, sofocadas por el calor, solo pueden babear de envidia. En realidad es una sandía, solo lleva 16 años sin saberlo.</color>",
-      "info": "<size=39>Catapulta melones pesados para atacar a los zombis.\n\n<color=#3D1400>Daño: </color><color=red>80 (proyectil), 26 (área) cada 3s</color>\n<color=#3D1400>Especial: </color><color=red>Causa un leve daño de área en las casillas de impacto y adyacentes, tanto arriba como abajo.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Cucumis Projectile</color>",
+      "info": "<size=39>Catapulta melones pesados para atacar a los zombis.\n\n<color=#3D1400>Daño: </color><color=red>80 (proyectil), 26 (área) cada 3s</color>\n<color=#3D1400>Especial: </color><color=red>Causa un leve daño de área en las casillas de impacto y adyacentes, tanto arriba como abajo.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Citrullopultus iacularis</color>",
       "cost": "<size=39>Costo:<color=red>300</color>\nRecarga:<color=red>7.5 segundos</color>"
     },
     {
@@ -4004,8 +4004,7 @@
     {
       "seedType": 940,
       "name": "Mecaniseta",
-      "introduce": "<size=39><color=#3D1400>La Mecaniseta no solo es imbatible en la cancha, sino que también hace unas barbacoas excepcionales. Su sueño es organizar la fiesta de barbacoa más grande de la historia, una en la que participen todas las plantas y zombis de la ciudad.
-</color></size>",
+      "introduce": "<size=39><color=#3D1400>La Mecaniseta no solo es imbatible en la cancha, sino que también hace unas barbacoas excepcionales. Su sueño es organizar la fiesta de barbacoa más grande de la historia, una en la que participen todas las plantas y zombis de la ciudad.</color></size>",
       "info": "<size=39>Parte del <color=#FF4500>Sistema de Quemaduras</color>\n\n<color=#3D1400>Sistema de Quemaduras:</color>\n- Aplica <color=red>Quemadura</color> en área 3x3.\n- Explosión propaga el efecto a zombis cercanos.\n\n<color=#3D1400>Dureza: </color><color=red>3000</color>\n<color=#3D1400>Daño:</color> <color=red>300 cada 7.5s (10% de daño cada 0.02 segundos)\n\n<color=#3D1400>Especial:</color> <color=red>Alcance de 4 casillas. Descansa 1.5 segundos tras disparar un melón de fuego, luego comienza a cargar, mínimo 6 segundos, aumentando el daño a (1 + tiempo de carga x 50%) veces. El ataque atraviesa toda la armadura, aplica el estado de quemaduras, genera un mar de llamas que dura 2.5 segundos y se divide en 2 melones de fuego que atacan a zombis cercanos con el mismo daño.\n\n<color=purple>Mejoras de Odisea:</color>\n</color>- El rango de ataque se extiende a toda la fila frontal.</color>\n- La duración del mar de llamas se duplica.</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Humostar + Melonpulta Ígnea</color>\n<color=#3D1400>Nombre Científico: </color><color=red>SCIENTIFIC</color></size>",
       "cost": "\n<size=39><color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
@@ -5421,7 +5420,7 @@
       "seedType": 1166,
       "name": "Magnetoseta Carmesí",
       "introduce": "<size=39><color=#3D1400>\"Vender adecuadamente también es una habilidad\", dijo la Magnetoseta Carmesí. Ese tipo de odio que se convierte en amor, solo Magnetoseta Carmesí puede hacerlo. Antes, lo que más odiaba era la cereza. En realidad, todavía lo hace, pero tal vez ha encontrado una oportunidad de negocio.</color></size>",
-      "info": "<size=39>Parte del <color=#8B0000>Sistema Magnético</color>.\n¡Transforman objetos metálicos en cerezas explosivas!\n\n<color=#8B0000>Sistema Magnético:</color><color=#991A1A>\n- Sin efecto </color>\n<color=#3D1400>Daño: </color><color=red>300 cada 3s</color>\n<color=#3D1400>Especial: </color><color=red>Consume objetos metálicos y los convierte en cerezas explosivas. Cada objeto puede infligir daño 5 veces. Los objetos metálicos también pueden ser entregados a Magnetoseta Carmesí para que inicie un ataque.</color>\n<color=#3D1400>Fusión: </color><color=red>Magnetoseta + Petacereza</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Mycena Rubra</color></size>",
+      "info": "<size=39>Parte del <color=#8B0000>Sistema Magnético</color>.\n¡Transforman objetos metálicos en cerezas explosivas!\n\n<color=#8B0000>Sistema Magnético:</color><color=#991A1A>\n- Sin efecto </color>\n<color=#3D1400>Daño: </color><color=red>300 cada 3s</color>\n<color=#3D1400>Especial: </color><color=red>Consume objetos metálicos y los convierte en cerezas explosivas. Cada objeto puede infligir daño 5 veces. Los objetos metálicos también pueden ser entregados a<page>Magnetoseta Carmesí para que inicie un ataque.</color>\n<color=#3D1400>Fusión: </color><color=red>Magnetoseta + Petacereza</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Mycena Rubra</color></size>",
       "cost": "<size=39>Costo: <color=red>250</color>   Recarga: <color=red>57.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -5616,8 +5615,9 @@
     {
       "seedType": 1194,
       "name": "Petaguisantes",
-      "introduce": "<color=#3D1400>El Petaguisantes y la Miédica Atómica son grandes amigos; uno es impulsivo y el otro más pausado. Juntos forman el mejor equipo: 'Aunque tenemos personalidades distintas, nos complementamos perfectamente'.</color>",
-      "info": "Un lanzaguisantes cuyo daño aumenta progresivamente.\n\n<color=#3D1400>Daño:</color><color=red>20 cada 1.5s</color>\n<color=#3D1400>Especial:</color><color=red>Cada disparo aumenta el daño en +1, hasta un máximo de 80. Comparte su poder de ataque con una Miédica Atómica en la casilla trasera, mientras que él adopta la velocidad de ataque de esta.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Pisum Atomis</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Lanzaguisantes + Petaseta</color></size>"
+      "introduce": "<size=39><color=#3D1400>Petaguisantes y Miedica Atómica son grandes amigos; uno es impulsivo y el otro más pausado. Juntos forman el mejor equipo: \u0022Aunque tenemos personalidades distintas, nos complementamos perfectamente\u0022.</color></size>",
+      "info": "<size=39>Un fiero atacante cuyo daño aumenta progresivamente.\n\n<color=#3D1400>Daño: </color><color=red>20 cada 1.5s</color>\n<color=#3D1400>Especial: </color><color=red>Cada disparo aumenta el daño en +1, hasta un máximo de 80.\n<color=#3D1400>Especial: </color><color=red>Si hay una Miedica Atómica en la casilla trasera, Petaguisantes tendrá la misma cadencia de tiro que la Miedica Atómica.</color>\n<size=39><color=#3D1400>Fusión:</color> <color=red>Lanzaguisantes + Petaseta\n<color=#3D1400>Nombre Científico:</color> <color=red>Pisum atomis</color></size></color></size>",
+      "cost": "<size=39>Costo: <color=red>225</color>   Recarga: <color=red>57.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
 
     },
     {
@@ -5708,8 +5708,8 @@
       "seedType": 1207,
       "name": "Cerezo",
       "introduce": "<size=39><color=#3D1400>El Cerezo cambió de peinado, lo que le hace parecer más rebelde y gruñon, como un joven delincuente callejero. Pero no te dejes engañar por su apariencia: en el fondo es de buen corazón y hasta ayuda a Paranuez a barrer las hojas cortadas.</color></size>",
-      "info": "<size=39>¡Puede empujar zombis, explotándolos!</color>\n\n<color=#3D1400>Dureza: </color><color=red>600</color>\n<color=#3D1400>Daño:</color> <color=red>300\n\n<color=#3D1400>Especial:</color> <color=red>Tiene las características de Paraplanta. Puede repeler zombis cercanos y liberar una explosión de pequeño rango con 300 de daño. Es inmune a explosiones de cereza. Gana 1 carga (máximo 100) cuando una planta defensiva de cereza en un rango de 3x3 recupera salud. Con mas de 1 carga, absorbe daño para plantas en una área de 3x3, consumiendo 2 cargas para inmunizar ese daño</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>SCIENTIFIC</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Petacereza + Paraplanta</color></size>",
-      "cost": ""
+      "info": "<size=39>¡Puede empujar zombis, explotándolos!</color>\n\n<color=#3D1400>Dureza: </color><color=red>600</color>\n<color=#3D1400>Especial:</color> <color=red>Repele zombis cercanos mientras libera una pequeña explosión de 300 de daño.\n<color=#3D1400>Especial:</color> <color=red> Gana 1 carga (máximo 100) cuando una planta Cereza defensiva adyacente recupera salud. Consume 2 cargas para anular todo el daño entrante a las plantas en un área de 3×3.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>SCIENTIFIC</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Petacereza + Paraplanta</color></size>",
+      "cost": "<size=39>Costo: <color=red>250</color>   Recarga: <color=red>57.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
       "seedType": 1208,
