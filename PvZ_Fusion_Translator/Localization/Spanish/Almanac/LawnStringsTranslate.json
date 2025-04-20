@@ -5721,7 +5721,7 @@
     {
       "seedType": 1209,
       "name": "Lanzamagnetitas",
-      "introduce": "<size=39><color=#3D1400\u0022>Los mayores también debemos actualizarnos\u0022, dice el Lanzamagnetitas. \u0022El magnetismo es una fuerza que realmente me ha sorprendido\u0022. Aunque a veces causa problemas, como que los vecinos piensen que es un recolector de chatarra.</color>",
+      "introduce": "<size=39><color=#3D1400>\u0022>Los mayores también debemos actualizarnos\u0022, dice el Lanzamagnetitas. \u0022El magnetismo es una fuerza que realmente me ha sorprendido\u0022. Aunque a veces causa problemas, como que los vecinos piensen que es un recolector de chatarra.</color>",
       "info": "<size=39>Es... exactamente lo mismo que Lanzamaíz. Se puede fusionar con objetos magnéticos.\n\n<color=#3D1400>Daño: </color><color=red>20 (maíz), 40 (mantequilla) cada 3s</color>\n<color=#3D1400>Especial: </color><color=red>Probabilidad de 25% de lanzar mantequilla, la cual inmoviliza durante 4s.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>SCIENTIFIC</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Lanzamaíz + Magnetoseta</color></size>",
       "cost": ""
     },
