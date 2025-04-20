@@ -96,8 +96,9 @@
   "^坚果台球(\\d+)?": "Wall-nut Billiards {0}",
   "^旅行冒险：第(\\d+)关": "Odyssey Adventure: Level {0}",
   "^剩余积分：(\\d+)点": "Remaining Points: {0}",
-  "但(.*)": "Odyssey Negative Modifier | {0}",
+  "^但(.*)": "Odyssey Negative Modifier | {0}",
   "^成功击败领袖，获得(\\d+)积分": "Supreme Zombie successfully defeated. You have earned {0} Points.",
   "^大招需要(\\d+)金币": "Using the Ultimate requires {0} Coins.",
-  "-------Outdated Regex Below": "You Can Safely Ignore or Delete-------"
+  "-------Outdated Regex Below": "You Can Safely Ignore or Delete-------",
+  "但(.*)": "Odyssey Negative Modifier | {0}"
 }
