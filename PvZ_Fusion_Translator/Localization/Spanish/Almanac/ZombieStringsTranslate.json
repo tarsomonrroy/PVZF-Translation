@@ -51,8 +51,8 @@
     },
     {
       "theZombieType": 9,
-      "name": "<size=39>Zombi Deportista</size>",
-      "introduce": "<size=39><color=#3D1400>El Zombi Deportista es una estrella del deporte entre los zombis, admirado por muchos por su heroica presencia en el campo. Muchas compañías quieren contratarlo, pero sus demandas salariales son altas: un sueldo anual de 10,000 cerebros.</color></size>",
+      "name": "<size=39>Zombi All-Star</size>",
+      "introduce": "<size=39><color=#3D1400>El Zombi All-Star es una estrella del deporte entre los zombis, admirado por muchos por su heroica presencia en el campo. Muchas compañías quieren contratarlo, pero sus demandas salariales son altas: un sueldo anual de 10,000 cerebros.</color></size>",
       "info": "<size=39>Corre súper rápido.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>270+1400</color></size>"
     },
     {
@@ -104,7 +104,7 @@
     },
     {
       "theZombieType": 18,
-      "name": "<size=39>Zombisquí</size>",
+      "name": "<size=39>Zombictor Bobsled</size>",
       "introduce": "<size=39><color=#3D1400>Este coche, diseñado por entusiastas del esquí, se desplaza suavemente sobre la nieve y el hielo, alcanzando incluso mayores velocidades que en el césped. Desafortunadamente, tiene un defecto: solo puede arrancar en superficies heladas.</color></size>",
       "info": "<size=39>Sólo aparece cuando hay hielo en el campo.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>2700</color>\n<color=#3D1400>Características: </color><color=#4B0082>Se mueve muy rápido cuando está sobre el hielo.</color></size>"
     },
@@ -134,7 +134,7 @@
     },
     {
       "theZombieType": 23,
-      "name": "<size=39>Zombi Plata</size>",
+      "name": "<size=39>Zombi Plateado</size>",
       "introduce": "<size=39><color=#3D1400>El Zombi Plata piensa en la caja en su cabeza como una olla, así que debe ser una. Dada su mentalidad, ¿por qué no adoptar su perspectiva? Y ves la marca de exclamación en su caja, ¿verdad?</color></size>",
       "info": "<size=39>¿Es este... un Zombi Caracono? \n\n<color=#3D1400>Dureza: </color><color=#4B0082>1100</color>\n<color=#3D1400>Características: </color><color=#4B0082>Se convierte en un Zombi Caracono al morir.</color></size>"
     },
@@ -146,7 +146,7 @@
     },
     {
       "theZombieType": 25,
-      "name": "<size=39>Zombi Globo</size>",
+      "name": "<size=39>Zombi con Globo</size>",
       "introduce": "<size=33><color=#3D1400>El Zombi Globo, uno de los creadores del Zomppelin, recibe frecuentemente preguntas sobre por qué se ha atado globos. Su respuesta habitual es: \"Esa fue mi conclusión.\" Sin embargo, la verdad es que los globos simplemente se enredaron por casualidad.</color></size>",
       "info": "<size=33>El Zombi Globo flota por encima del caos, inmune a la mayoría de los ataques.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>270+20</color>\n<color=#3D1400>Características: </color><color=#4B0082>No puede ser dañado por la mayoría de las plantas mientras vuela.</color></size>"
     },
@@ -158,8 +158,8 @@
     },
     {
       "theZombieType": 27,
-      "name": "<size=39>Yeti con Orca</size>",
-      "introduce": "<size=39><color=#3D1400>La ballena blanca del Zombi Yeti tiene habilidades de salto impresionantes. El Zombi con Delfín está celoso y siempre quiere usarla, pero el Zombi Yeti se niega. Dr. Edgar comenta: \"El Zombi Yeti no controla su ballena; siempre quiere esconderse, pero la ballena va en la otra dirección.\"</color></size>",
+      "name": "<size=39>Yeti con Beluga</size>",
+      "introduce": "<size=39><color=#3D1400>La beluga del Zombi Yeti tiene habilidades de salto impresionantes. El Zombi con Delfín está celoso y siempre quiere usarla, pero el Zombi Yeti se niega. Dr. Edgar comenta: \"El Zombi Yeti no controla su ballena; siempre quiere esconderse, pero la ballena va en la otra dirección.\"</color></size>",
       "info": "<size=39>Salta tres baldosas hacia adelante y luego regresa, atacando tus plantas desde atrás.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>720</color>\n<color=#3D1400>Características: </color><color=#4B0082>No puede ser bloqueado por Nuez Alta.</color></size>"
     },
     {
@@ -189,9 +189,9 @@
     },
     {
       "theZombieType": 32,
-      "name": "Zombi Saltarín",
-      "introduce": "<size=39><color=#3D1400>Al Zombi Saltarín le encanta rebotar. Él cree que el momento de saltar al aire es lo más cercano a volar. Pero, ¿alguien le habrá advertido en vida que no use la pértiga en los tejados?</color></size>",
-      "info": "<size=39>El Zombi Saltarín puede saltar tus defensas.\n\n<color=#3D1400>Dureza::</color><color=red>720</color>\n<color=#3D1400>Características:</color><color=red>Salta sobre las plantas</color>\n<color=#3D1400>Ocupación:</color><color=red>Aficionado al Salto con pértiga Zombie</color></size>",
+      "name": "Pogozombi",
+      "introduce": "<size=39><color=#3D1400>Al Pogozombi le encanta rebotar. Él cree que el momento de saltar al aire es lo más cercano a volar. Pero, ¿alguien le habrá advertido en vida que no use la pértiga en los tejados?</color></size>",
+      "info": "<size=39>El Pogozombi puede saltar tus defensas.\n\n<color=#3D1400>Dureza::</color><color=red>720</color>\n<color=#3D1400>Características:</color><color=red>Salta sobre las plantas</color>\n<color=#3D1400>Ocupación:</color><color=red>Aficionado al Salto con pértiga Zombie</color></size>",
       "cost": ""
     },
     {
@@ -217,8 +217,8 @@
     },
     {
       "theZombieType": 36,
-      "name": "<size=39>Mega Zombistein",
-      "introduce": "<size=39><color=#3D1400>A pesar de que el Mega Zombistein causa estragos en el campo de batalla con sus ojos rojos aterradores, tiene un pequeño secreto: sus ojos rojos son simplemente el resultado de la falta de sueño diario.</color></size>",
+      "name": "<size=39>Megazombistein",
+      "introduce": "<size=39><color=#3D1400>A pesar de que el Megazombistein causa estragos en el campo de batalla con sus ojos rojos aterradores, tiene un pequeño secreto: sus ojos rojos son simplemente el resultado de la falta de sueño diario.</color></size>",
       "info": "<size=39>El furioso Zombistein puede aplastar tus plantas.\n\n<color=#3D1400>Dureza::</color><color=red>6000</color>\n<color=#3D1400>Ocupación:</color><color=red>Destructor Imparable</color></size>",
       "cost": ""
     },
@@ -281,6 +281,30 @@
       "info": "<size=39>¡Puede congelar a plantas con sus grandes bolas..de nieve!\n\n<color=#3D1400>Dureza: </color><color=#4B0082>720</color>\n<color=#3D1400>Características:</color><color=#4B0082>Al aparecer, lanza bolas de nieve hacia las plantas cada 2 segundos, congelándolos en una área de 3x3.</color>"
     },
     {
+      "theZombieType": 50,
+      "name": "Yombi Escudero",
+      "introduce": "<size=39><color=#3D1400>El Yombi Escudero fue una vez un soldado de élite en el campo de batalla. Ahora, ya retirado, es el campeón invicto de las guerras de bolas de nieve del cementerio. Aprecia muchísimo su escudo, que le ha traído tanta gloria, y siempre lo revisa con cariño para ver si tiene algún daño. Tal vez fue precisamente ese hábito lo que lo llevó a lesionarse y retirarse.</color>",
+      "info": "<size=39>Puede reflejar proyectiles con su escudo y convertirlos en bolas de nieve.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>720+2200</color>\n<color=#3D1400>Características:</color><color=#4B0082>Inmune al congelamiento. Cada 1.5 segundos levanta su escudo para reflejar proyectiles en línea recta transformándolos en bolas de nieve; al reflejar pierde 20 de vida y no bloquea los proyectiles. Mientras lleva el escudo, no muerde, sino que ataca con un golpe de escudo que causa 50 de daño.</color>"
+    },
+    {
+      "theZombieType": 51,
+      "name": "Yombi Tridente",
+      "introduce": "<size=39><color=#3D1400>Durante la quinta Olimpiada Invernal del Cementerio en curso, el Yombi Tridente ha tenido una actuación destacada. Planea usar el premio del torneo para comprar un nuevo trineo para él y sus camaradas, y reservar un lujoso masaje en los pies como compensación por los daños sufridos al pisar púas.</color>",
+      "info": "<size=39>¡Lanza tridentes que congelan y dañan!\n\n<color=#3D1400>Dureza: </color><color=#4B0082>720</color>\n<color=#3D1400>Características:</color><color=#4B0082>Inmune al congelamiento. Posee las habilidades del Zombi Tridente. Los tridentes que tira, al impactar, silencian al objetivo por 5 segundos.</color>"
+    },
+    {
+      "theZombieType": 52,
+      "name": "Vegezombi Cronoguisante",
+      "introduce": "<size=39><color=#3D1400>¿Qué es exactamente la puerta que sostiene el Zombi Cronoguisante? Ningún zombi lo sabe, ni quiere saberlo. Pero cuando ven a sus viejos compañeros salir uno tras otro de esa puerta, están más que dispuestos a acercarse y preguntar si por ahí hay cerebros frescos.</color>",
+      "info": "<size=39>Tiene un portal que trasciende el tiempo y el espacio; es una fuerza más allá del mundo.\n\<color=#3D1400>Daño: </color><color=#4B0082>20</color>\nn<color=#3D1400>Dureza: </color><color=#4B0082>270+200</color>\n<color=#3D1400>Características:</color><color=#4B0082>Dispara un cronoguisante cada 1.5 segundos. Cada 6 segundos invoca aleatoriamente desde su portal a un zombi normal, caracono, caracubo o portero. Al morir, deja fragmentos espacio-temporales.</color>"
+    },
+    {
+      "theZombieType": 53,
+      "name": "Ovni Invernal",
+      "introduce": "<size=39><color=#3D1400>Cada vez que el Ovni Invernal despega, se tarda media hora limpiando la nieve y el hielo acumulado, y sacando al monstruo de nieve escondido en los rincones. “¡Hacer volar este bloque de hielo consume una cantidad ridícula de combustible!”, se queja el piloto.</color>",
+      "info": "<size=39>¿Esta nevando? ¡No, es simplemente el Ovni Invernal que congela todo lo que esta debajo suyo!\n\n<color=#3D1400>Dureza: </color><color=#4B0082>720</color>\n<color=#3D1400>Características:</color><color=#4B0082>Inmune al Trebolador. Al moverse, genera nieve que congela las plantas por debajo. Después de aparecer, se ralentiza gradualmente hasta detenerse, luego se mueve en sentido contrario y al retirarse invoca un escuadrón nevado: 1 Yombi Escudero, 1 Yombi Esquimal y 1 Yombi Tridente.</color>"
+    },
+    {
       "theZombieType": 100,
       "name": "<size=39>Vegezombi Guisante</size>",
       "introduce": "<size=39><color=#3D1400>La habilidad del Vegezombi Guisante para atacar a distancia a menudo asusta a las plantas. Sin embargo, el verdadero pánico lo sienten los zombis, que temen que los que luchan frente a él sean atacados desde atrás.</color></size>",
@@ -288,13 +312,13 @@
     },
     {
       "theZombieType": 101,
-      "name": "<size=39>Vegezombi Cerezo</size>",
+      "name": "<size=39>Vegezombi Cereza</size>",
       "introduce": "<size=39><color=#3D1400>El Zombi Cerezo es un estudiante de secundaria de 17 años con una cabeza de planta que crece de su cuello. Su fruta favorita son las cerezas, y debido a su linaje papal, los zombis lo llaman cariñosamente el \"Rey Hoja\".</color></size>",
       "info": "<size=39>Dispara balas de cereza para atacar tus plantas.\n\n<color=#3D1400>Daño: </color><color=#4B0082>60</color>\n<color=#3D1400>Dureza: </color><color=#4B0082>500</color></size>"
     },
     {
       "theZombieType": 102,
-      "name": "<size=39>Vegezombi Cerezoxplosivo</size>",
+      "name": "<size=39>Vegezombi Cerezaxplosivo</size>",
       "introduce": "<size=39><color=#3D1400>El Vegezombi Cerezoxplosivo ama escuchar \"Cherry Bomb\" de The Runaways, lo que podría explicar su ardiente pasión. Sin embargo, nadie sabe cómo aprendió a encender fuegos artificiales con su boca.</color></size>",
       "info": "<size=39>Dispara cerezas explosivas para atacar tus plantas.\n\n<color=#3D1400>Daño: </color><color=#4B0082>1000</color>\n<color=#3D1400>Dureza: </color><color=#4B0082>500</color></size>"
     },
@@ -356,14 +380,14 @@
       "theZombieType": 112,
       "name": "<size=39>Zombipulta Bombástico",
       "introduce": "<size=33><color=#3D1400>Oh, perfecto, ahora cubrirse la cabeza no servirá de nada. Mejor corre antes de que se le acaben las pelotas de baloncesto.</color></size>",
-      "info": "<size=33>Lanza cerezas explosivas para destruir tus defensas.\n\n<color=#3D1400>Dureza::</color><color=red>1350</color>\n<color=#3D1400>Características:</color><color=red>Después de lanzar 5 balones, comienza a lanzar cerezas explosivas, las cuales causan 30 de daño a las Paraplantas.</color>\n<color=#3D1400>Ocupación:</color><color=red>Experto en Demoliciones Zombie</color></size>",
+      "info": "<size=33>Lanza cerezas explosivas para destruir tus defensas.\n\n<color=#3D1400>Dureza:</color><color=#4B0082>1350</color>\n<color=#3D1400>Características:</color><color=red>Después de lanzar 5 balones, comienza a lanzar cerezas explosivas, las cuales causan 100 de daño a las Paraplantas.</color>\n<color=#3D1400>Ocupación:</color><color=#4B0082>Experto en Demoliciones Zombie</color></size>",
       "cost": ""
     },
     {
       "theZombieType": 113,
-      "name": "Pea Rider Zombie",
-      "introduce": "<size=39><color=#3D1400>What makes this fella special compared to the whale rider yeti? Pea Rider replies, I just really enjoy playing Boomerang.</color>",
-      "info": "<size=39>A variant of the Whale Rider Yeti!\n\n<color=#3D1400>Dureza: </color><color=#4B0082>720</color>\n<color=#3D1400>Traits: </color><color=#4B0082>Shoots peas at your plants before and after jumping.</color>"
+      "name": "Vegezombi con Beluga",
+      "introduce": "<size=39><color=#3D1400>¿Que hace este zombi tan especial como el Yeti con Beluga? El Vegezombi responde: \u0022A mi simplemente me gusta jugar búmeran.\u0022</color>",
+      "info": "<size=39>¡Una variante del Yeti con Beluga!\n\n<color=#3D1400>Dureza: </color><color=#4B0082>720</color>\n<color=#3D1400>Especial: </color><color=#4B0082>Dispara guisantes a tus plantas antes y despues de saltar.</color>"
     },
     {
       "theZombieType": 114,
@@ -391,15 +415,21 @@
     },
     {
       "theZombieType": 118,
-      "name": "Vegezombi Aguisantralladora",
+      "name": "Vegezombi Veterano",
       "introduce": "<size=39><color=#3D1400>Lo último que recuerda este zombi es haberse tragado una máquina lanza-guisantes. Ahora, dispara legumbres a velocidad letal. \u0022¡Es como un tirachinas... pero en mi estómago!\u0022</color>",
       "info": "<size=39>Descarga ráfagas de guisantes sin piedad.\n\n<color=#3D1400>Dureza:</color> <color=#4B0082>270+1400</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Lanzador de béisbol retirado. Campeón de \u0022GuisanteBall 3000\u0022 (descalificado por usar munición viva).</color>\n<color=#3D1400>Habilidad:</color> <color=#4B0082>Dispara 5 guisantes/segundo. Prefiere el caos a la puntería.</color></size>"
+    },
+    {
+      "theZombieType": 119,
+      "name": "<size=39>Guisanticóptero</size>",
+      "introduce": "<size=39><color=#3D1400>Frente a las dudas de los otros zombis, el zombi Guisante de Hierro con Globo intenta probar que es un miembro fundador mostrando una foto grupal de zombis. \u0022Pero… ¿dónde estás tú?\u0022, preguntan los demás zombis. Él, sosteniendo la película en blanco y negro, también se queda confundido.</color></size>",
+      "info": "<size=39>¡El Guisanticóptero puede disparar mientras flota!\n\n<color=#3D1400>Daño:</color> <color=#4B0082>80</color>\n<color=#3D1400>Dureza: </color><color=#4B0082>1350+500</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Recolector de guisantes que encuentra por el jardín.</color>\n<color=#3D1400>Especial:</color> <color=#4B0082>Tiene las mismas características que Zombicóptero, pero puede disparar plantas terrestres.</color></size>"
     },
     {
       "theZombieType": 200,
       "name": "<size=39>Zombi Submarinón</size>",
       "introduce": "<size=39><color=#3D1400>\"¡Un excelente buceador no solo debe saber bucear, sino también conducir un super submarino!\" declaró el Zombi Submarinón mientras aumentaba la potencia del submarino en una marcha.</color></size>",
-      "info": "<size=39>He oído que este zombi está relacionado con cierto pez robot.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>3000</color></size>"
+      "info": "<size=39>He oído que este zombi está relacionado con cierto pez robot.\n\n<color=#3D1400>Dureza: </color><color=red>3000</color></size>"
     },
     {
       "theZombieType": 201,
@@ -442,25 +472,31 @@
       "theZombieType": 207,
       "name": "Zombi Mercury",
       "introduce": "<size=39><color=#3D1400>Zombi Mercury siempre ha brillado en el escenario con su carisma y estilo incomparable. Su presencia electrizante y movimientos únicos han convertido cada batalla en un espectáculo inolvidable. ¿Se escuchan los acordes de 'We Are the Champions'?</color></size>",
-      "info": "<size=39>Se desliza a gran velocidad en tus defensas, ¡es un oponente aterrador!\n\n<color=#3D1400>Dureza::</color><color=red>3000</color>\n<color=#3D1400>Características:</color><color=red>Entra deslizándose, reduciendo daño en un 90% mientras se desliza, y luego invoca a los Zombis Bailarines.</color>\n<color=#3D1400>Ocupación:</color><color=red>Ídolo del Baile Zombie</color></size>"
+      "info": "<size=39>Se desliza a gran velocidad en tus defensas, ¡es un oponente aterrador!\n\n<color=#3D1400>Dureza:</color><color=#4B0082>3000</color>\n<color=#3D1400>Características:</color><color=red>Entra deslizándose, reduciendo daño en un 90% mientras se desliza, y luego invoca a los Zombis Bailarines.</color>\n<color=#3D1400>Ocupación:</color><color=red>Ídolo del Baile Zombie</color></size>"
     },
     {
       "theZombieType": 208,
       "name": "Zombi Chino",
       "introduce": "<size=39><color=#3D1400>Este esqueleto oriental de mil años mide unos dos o tres metros, cubierto de brocado y con un brillo a su paso. Una vez se encontró con los demás Zombis, no les entendió, \"¿Qué layos dijo?\".</color></size>",
-      "info": "<size=39>Una figura formidable de hace mil años.\n\n<color=#3D1400>Dureza::</color><color=red>3000</color>\n<color=#3D1400>Ataque:</color><color=red>500</color>\n<color=#3D1400>Características:</color><color=red>Ocasionalmente avanza un tramo, atravesando plantas y causando 500 de daño al entrar y salir. Al morir, causa 500 de daño en un área de 3x3, sin dañar las plantas dentro de calabazas.</color>\n<color=#3D1400>Ocupación:</color><color=red>Viajero Errante</color></size>"
+      "info": "<size=39>Una figura formidable de hace mil años.\n\n<color=#3D1400>Dureza:</color><color=#4B0082>3000</color>\n<color=#3D1400>Ataque:</color><color=#4B0082>500</color>\n<color=#3D1400>Características:</color><color=#4B0082>Ocasionalmente avanza un tramo, atravesando plantas y causando 500 de daño al entrar y salir. Al morir, causa 500 de daño en un área de 3x3, sin dañar las plantas dentro de calabazas.</color>\n<color=#3D1400>Ocupación:</color><color=red>Viajero Errante</color></size>"
     },
     {
       "theZombieType": 209,
-      "name": "Pogozombi",
+      "name": "Pogozombi Frutero",
       "introduce": "<size=39><color=#3D1400>En realidad, mi apariencia es solo para seguir la moda. Cuando se habla de su genial aspecto, el Pogozombi siempre se encoge de hombros, pero todos saben que tiene un pasado amoroso inolvidable.</color></size>",
-      "info": "<size=39>La bomba está oculta en el pogo.\n\n<color=#3D1400>Dureza::</color><color=red>270+3000</color>\n<color=#3D1400>Características:</color><color=red>Si muere mientras está saltando, se autodestruye y se convierte en el Zombiyaso.</color>\n<color=#3D1400>Ocupación:</color><color=red>Seguidor de la Moda Zombie</color></size>"
+      "info": "<size=39>La bomba está oculta en el pogo.\n\n<color=#3D1400>Dureza:</color><color=#4B0082>270+3000</color>\n<color=#3D1400>Características:</color><color=#4B0082>Si muere mientras está saltando, se autodestruye y se convierte en el Zombiyaso.</color>\n<color=#3D1400>Ocupación:</color><color=red>Seguidor de la Moda Zombie</color></size>"
     },
     {
       "theZombieType": 210,
       "name": "Nuez Kirov",
-      "introduce": "<color=#3D1400>'¿Tiburones?, ¿Dureza mecánica? Eso no importa,' dice la Nuez Kirov. 'Lo que importa es tener una armadura, yo soy Kirov'.</color></size>",
-      "info": "La Nuez Kirov puede girar.\n\n<color=#3D1400>Dureza::</color><color=red>3000</color>\n<color=#3D1400>Ocupación:</color><color=red>Boliche Giratorio Zombie</color></size>"
+      "introduce": "<size=39><color=#3D1400>'¿Tiburones?, ¿Dureza mecánica? Eso no importa,' dice la Nuez Kirov. 'Lo que importa es tener una armadura, yo soy Kirov'.</color></size>",
+      "info": "<size=39>La Nuez Kirov puede girar.\n\n<color=#3D1400>Dureza:</color><color=#4B0082>3000</color>\n<color=#3D1400>Ocupación:</color><color=red>Boliche Giratorio Zombie</color></size>"
+    },
+    {
+      "theZombieType": 211,
+      "name": "Submarinón Terrestre",
+      "introduce": "<size=39><color=#3D1400>\u0022Esto es horrible.\u0022 Reclama el Submarinón Terrestre. \u0022No se como he quedado en este estado. Estaba tomando una siesta y el dia siguiente mi submarino aparece enterrado como si estuviera descompuesto. ¡Me costará un mundo llevarlo de nuevo a su hábitat!\u0022</color></size>",
+      "info": "<size=39>Es incapaz de moverse.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>3000\n(Este zombi no se puede encontrar mientras juegas.)</color></size>"
     },
     {
       "theZombieType": 212,
@@ -494,9 +530,9 @@
     },
     {
       "theZombieType": 217,
-      "name": "Super Dancing Zombie",
-      "introduce": "<color=#3D1400>All the zombies are amazed at how the Super Dancing Zombie has such incredible pole vaulting skills. \"Oh, it's just my talent,\" says the Super Dancing Zombie. But the truth is, he works two jobs a day, and as they say, \"twice the job, double the jump.\"</color>",
-      "info": "Can jump over two tiles.\n\n<color=#3D1400>Toughness: </color><color=#4B0082>3000</color>Traits: </color><color=#4B0082>Can jump over 2 tiles but is blockable by Tall-nuts</color>"
+      "name": "<size=39>Bailarín Experto</size>",
+      "introduce": "<size=39><color=#3D1400>Todos los zombis se impresionan al ver como el Bailarín Experto tiene habilidades expertas de saltar pértigas. \u0022Oh, es simplemente mi talento especial.\u0022 Dice el Bailarín Experto. Pero la verdad es que trabaja dos trabajos al dia, y como dicen los Zombis Bailarines, \u0022Mientras el trabajo será doble, doble será el salto a la victoria.\u0022</color></size>",
+      "info": "<size=33>Puede saltar por encima de dos casillas.\n\n<color=#3D1400>Dureza: </color><color=red>3000</color>\n<color=#3D1400>Características: </color><color=#4B0082>Invoca 4 Zombis Bailarines al saltar. Puede saltar por encima de 2 casillas, pero se puede bloquear con Nueces Altas.</color></size>"
     },
     {
       "theZombieType": 218,
@@ -539,6 +575,18 @@
       "name": "Payasa Zorpresa",
       "introduce": "<size=39><color=#3D1400>La Payasa Zorpresa disfruta haciendo que cada jardín sea el escenario de una gran broma... con efectos secundarios explosivos.</color>",
       "info": "<size=39>Reina de todos los payasos. Talvez sea mejor que la mates antes de que llegue a tus plantas.\n\n<color=#3D1400>Dureza:</color> <color=#4B0082>32000</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Trabaja como actor de payaso para las fiestas de cumpleaños. No consigue dinero porque usualmente explota a todos en el lugar. </color>\n<color=#3D1400>Habilidades:</color> <color=#4B0082>Recupera 3000 puntos de vida cada vez que sea afectada por otra explosión de cajita. Sale de su caja cada cierto tiempo, saltando lentamente hacia tus plantas, y después de que haga eso, explota la columna donde ella está.</color></size>"
-    }
-  ]
+    },
+    {
+      "theZombieType": 225,
+      "name": "Vegezombi Sargente",
+      "introduce": "<size=39><color=#3D1400>El Vegezombi Sargente es un guerrero de acero: con un cuerpo de acero, una voluntad de acero, balas de acero… y una actitud de acero incluso después de recibir quejas de sus compañeros. Él está convencido de que si los zombis retroceden por sus balas, es porque no han pasado por un entrenamiento igual de férreo.</color>",
+      "info": "<size=39>¡Un guerrero intrépido! ¡Jamás detiene su avance!\n\n<color=#3D1400>Daño:</color> <color=#4B0082>80</color>\n<color=#3D1400>Dureza:</color> <color=#4B0082>3000+3000</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Sargente militar; enseña a los zombis como mejorar a combatir constantemente.</color>\n<color=#3D1400>Habilidades:</color> <color=#4B0082>Inmune al retroceso. Dispara un guisante de hierro cada 0.1 segundos. Puede repeler zombis encantados.</color></size>"
+    },
+    {
+  "theZombieType": 226,
+  "name": "Zombi Alfa",
+  "introduce": "<size=39><color=#3D1400>“¡La guerra es la espada con la que tomaremos las tierras bajo el sol! ¡La victoria es un objetivo inevitable!”\n - “Capitán, creo que acabo de pisar un monstruo de nieve.”\n - “Déjalo, no es un trofeo, solo retrasará nuestra victoria mayor.”\n - “¿Capitán, su nuevo libro saldrá después de esta guerra?”\n - “Cuando esté muerto.”</color></size>",
+  "info": "<size=39>Normalmente operan en dúos, pero los de élite pueden desplegarse en formación completa.\n\n<color=#3D1400>Daño:</color> <color=#4B0082>500×2</color>\n<color=#3D1400>Dureza:</color> <color=#4B0082>6000+6000</color>\n<color=#3D1400>Habilidades:</color> <color=#4B0082>Recupera 3000 puntos de vida cada vez que sea afectado por otra explosión de cajita. Sale de su caja cada cierto tiempo, saltando lentamente hacia tus plantas, y después de que haga eso, explota la columna donde ella está.\n - Inmunes a la hipnotización\n - Suelen aparecer en parejas\n - Cuando son zombis líderes, aparecen 5 en cada fila (una unidad por fila), todos forman un solo grupo.\n - Al recibir daño letal, si algún miembro del equipo no está en estado crítico, entra en estado de agonía en vez de morir. Si todos están en este estado, todo el grupo muere al instante.\n - Estado de Agonía\n   - Inmunes al daño (solo una vez)\n   - Inmunes al retroceso\n   - No son blanco de ataques automáticos, pero bloquean proyectiles\n   - Tras 10 segundos, reviven con vida completa, avanzan 2.5 casillas causando 500 de daño a cada planta impactada y luego liberan una explosión.\n   - Si sufren efectos de muerte instantánea (como ser devorados), ambos miembros del dúo mueren inmediatamente.</color>\n<color=#3D1400>Debilidades:</color> <color=#4B0082>Fusiones de: Plantas Carnívoras, Paraplantas.</color>\n<color=#3D1400>Atributos Especiales:</color> <color=#4B0082>- Estado de agonía inmune al daño indefinidamente\n- Puede aparecer como zombi líder</color></size>"
+        }
+    ]
 }
