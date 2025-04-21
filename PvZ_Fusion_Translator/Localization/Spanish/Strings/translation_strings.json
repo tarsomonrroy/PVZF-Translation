@@ -766,6 +766,22 @@
   "植物掉落阳光数": "Multiplicador de Sol",
   "僵尸血量倍率": "Multiplicador de HP de Zombis",
   "-------Outdated Strings Below": "You Can Safely Ignore or Delete-------",
+  "-------Abyss Patch": "Parche del abismo-------",
+  "深渊挑战（S1赛季）": "Desafío del abismo: Temporada 1",
+  "前往挑战": "Ir al desafío",
+  "前往商店": "Ir a la tienda",
+  "培养植物": "Cultivar plantas",
+  "重置深渊": "Reiniciar el abismo",
+  "选择你的词条": "Selecciona tus atributos",
+  "咖啡豆：植物的攻击力增加10%": "Granos de café: el poder de ataque de las plantas aumenta un 10%",
+  "刷新次数：1": "Número de reinicios: 1",
   "星神合一：当场上有至少10个究极杨桃大帝和10个究极太阳神卷心菜，大帝将会牵引太阳神陨星，太阳神召唤的小太阳不会消失，且持续召唤普通流星": "Cuando hay al menos 10 Emperador Estelars y 10 Heliocultores, el Emperador Estelar invoca Meteoros Radiantes | Los Soles Artificiales no desaparecen y siguen invocando Meteoros normales",
-  "但": "Pero, "
+  "但": "Pero, ",
+  "高瞻远瞩：究极火神弹弹菇的射程变为一整行": "Visión de largo alcance: el rango del Ultimate Fire God Bomb Mushroom se convierte en toda la línea",
+  "令你的阳光数归零": "Pon a cero tu número de soles",
+  "你的每株植物有1/3概率会立即死亡": "Cada una de tus plantas tiene 1/3 de probabilidad de morir inmediatamente",
+  "极速战备：手套冷却速度翻倍，且僵尸手套可以挪领袖": "Preparación rápida: la velocidad de enfriamiento de los guantes se duplica y los guantes de zombis pueden mover al líder",
+  "至极手速：手套挪动植物不再消耗冷却，且僵尸手套可以挪领袖": "Velocidad extrema: mover plantas con guantes ya no consume enfriamiento, y los guantes zombis pueden mover al líder",
+  "火力全开：究极樱桃射手攻击时会有超级樱桃子弹协同射击，究极窝炬燃烧一行火焰升级为全屏": "Fuego total: el Tirador de Cereza Supremo dispara junto con balas de cereza súper; el Fuego Supremo se convierte en llamas de pantalla completa",
+  "星神合一：当场上有至少10个究极杨桃大帝和10": "Unión estelar: cuando hay al menos 10 Estrellas Supremas del Emperador y 10 en el campo..."
 }

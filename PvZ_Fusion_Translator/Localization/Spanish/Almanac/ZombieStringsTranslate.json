@@ -292,11 +292,11 @@
       "introduce": "<size=39><color=#3D1400>Durante la quinta Olimpiada Invernal del Cementerio en curso, el Yombi Tridente ha tenido una actuación destacada. Planea usar el premio del torneo para comprar un nuevo trineo para él y sus camaradas, y reservar un lujoso masaje en los pies como compensación por los daños sufridos al pisar púas.</color>",
       "info": "<size=39>¡Lanza tridentes que congelan y dañan!\n\n<color=#3D1400>Dureza: </color><color=#4B0082>720</color>\n<color=#3D1400>Características:</color><color=#4B0082>Inmune al congelamiento. Posee las habilidades del Zombi Tridente. Los tridentes que tira, al impactar, silencian al objetivo por 5 segundos.</color>"
     },
-    {
-      "theZombieType": 52,
-      "name": "Vegezombi Cronoguisante",
-      "introduce": "<size=39><color=#3D1400>¿Qué es exactamente la puerta que sostiene el Zombi Cronoguisante? Ningún zombi lo sabe, ni quiere saberlo. Pero cuando ven a sus viejos compañeros salir uno tras otro de esa puerta, están más que dispuestos a acercarse y preguntar si por ahí hay cerebros frescos.</color>",
-      "info": "<size=39>Tiene un portal que trasciende el tiempo y el espacio; es una fuerza más allá del mundo.\n\<color=#3D1400>Daño: </color><color=#4B0082>20</color>\nn<color=#3D1400>Dureza: </color><color=#4B0082>270+200</color>\n<color=#3D1400>Características:</color><color=#4B0082>Dispara un cronoguisante cada 1.5 segundos. Cada 6 segundos invoca aleatoriamente desde su portal a un zombi normal, caracono, caracubo o portero. Al morir, deja fragmentos espacio-temporales.</color>"
+    {  
+     "theZombieType": 52,  
+     "name": "Vegezombi Cronoguisante",  
+     "introduce": "<size=39><color=#3D1400>¿Qué es exactamente la puerta que sostiene el Zombi Cronoguisante? Ningún zombi lo sabe, ni quiere saberlo. Pero cuando ven a sus viejos compañeros salir uno tras otro de esa puerta, están más que dispuestos a acercarse y preguntar si por ahí hay cerebros frescos.</color>",  
+     "info": "<size=39>Tiene un portal que trasciende el tiempo y el espacio; es una fuerza más allá del mundo.\n<color=#3D1400>Daño: </color><color=#4B0082>20</color>\n<color=#3D1400>Dureza: </color><color=#4B0082>270+200</color>\n<color=#3D1400>Características:</color><color=#4B0082>Dispara un cronoguisante cada 1.5 segundos. Cada 6 segundos invoca aleatoriamente desde su portal a un zombi normal, caracono, caracubo o portero. Al morir, deja fragmentos espacio-temporales.</color>"  
     },
     {
       "theZombieType": 53,
