@@ -4254,14 +4254,14 @@
     {
       "seedType": 1000,
       "name": "Lanzasoles",
-      "introduce": "<size=39><color=#3D1400><page>\u0022En realidad, el Girasol detrás de mí es mi hermana.\u0022 le explica a todos Lanzasoles. \u0022Somos inseparables desde que nacimos. Le encanta producir soles, y yo destruyo zombis en su nombre.\u0022 Pero todo el mundo sabe la verdad: el alegre hermano Guisante tiene un complejo de hermana total. Al fin y al cabo, los zombis que se acercan a su hermana siempre terminan misteriosamente vaporizados por los mismos rayos del sol.</color></size>",
+      "introduce": "<size=39><color=#3D1400>\u0022En realidad, el Girasol detrás de mí es mi hermana.\u0022 le explica a todos Lanzasoles. \u0022Somos inseparables desde que nacimos. Le encanta producir soles, y yo destruyo zombis en su nombre.\u0022 Pero todo el mundo sabe la verdad: el alegre hermano Guisante tiene un complejo de hermana total. Al fin y al cabo, los zombis que se acercan a su hermana siempre terminan misteriosamente vaporizados por los mismos rayos del sol.</color></size>",
       "info": "<size=39>Lanzasoles ataca con proyectiles solares que producen soles al impacto.\n\n<color=#3D1400>Producción Solar: </color><color=red>25 cada 25s (solo el Girasol)</color>\n<color=#3D1400>Daño: </color><color=red>20 cada 1.5s</color>\n<color=#3D1400>Especial: </color><color=red>Los proyectiles tienen una chance de 1/4 de dar 5 soles al golpear un zombi (otros 25 soles cada 25s).</color>\n<color=#3D1400>Fusión: </color><color=red>Lanzaguisantes + Girasol</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Pisum Heliolancer</color></size>",
       "cost": "<size=39>Costo: <color=red>150</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
       "seedType": 1001,
       "name": "Lanzacerezas",
-      "introduce": "<size=39><color=#3D1400>\u0022¿Problemas de ira al rojo vivo? ¿Yo? ¡Bah! ¡Eres rojo y caliente! ¡Toda tu familia es roja!\u0022 Lanzacerezas despreciaba que se burlaran de<page>ella por el color de su cabeza, pero ella sabe que fue un accidente inofensivo. Luego de consumir cerezas especiales, Lanzaguisantes se volvió realmente roja y caliente, y sí, podía disparar cerezas.</color></size>",
+      "introduce": "<size=39><color=#3D1400>\u0022¿Problemas de ira al rojo vivo? ¿Yo? ¡Bah! ¡Eres rojo y caliente! ¡Toda tu familia es roja!\u0022 Lanzacerezas despreciaba que se burlaran de ella por el color de su cabeza, pero ella sabe que fue un accidente inofensivo. Luego de consumir cerezas especiales, Lanzaguisantes se volvió realmente roja y caliente, y sí, podía disparar cerezas.</color></size>",
       "info": "<size=39>Lanzacerezas dispara potentes cerezas a los zombis. Causan el triple de daño que los guisantes comunes.\n\n<color=#3D1400>Daño: </color><color=red>60 cada 1.5s</color>\n<color=#3D1400>Fusión: </color><color=red>Lanzaguisantes + Petacereza</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Prunus Ballistica</color></size>",
       "cost": "<size=39>Costo: <color=red>250</color>   Recarga: <color=red>57.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
@@ -4282,7 +4282,7 @@
     {
       "seedType": 1004,
       "name": "Lanzanueces",
-      "introduce": "<size=39><color=#3D1400>\u0022No... no me llames feo, o si no... espera... Te voy a rociar.\u0022 Lanzanueces siempre ha tenido dificultades con su \u0022apariencia única.\u0022 Pero<page>cree firmemente que lo que hay dentro de una planta importa más que su aspecto. En busca de orientación, pidió humildemente consejo a la Nuez Bolera y acabó dominando la técnica de hacer rodar las nueces como si fueran bolas de boliche.</color></size>",
+      "introduce": "<size=39><color=#3D1400>\u0022No... no me llames feo, o si no... espera... Te voy a rociar.\u0022 Lanzanueces siempre ha tenido dificultades con su \u0022apariencia única.\u0022 Pero cree firmemente que lo que hay dentro de una planta importa más que su aspecto. En busca de orientación, pidió humildemente consejo a la Nuez Bolera y acabó dominando la técnica de hacer rodar las nueces como si fueran bolas de boliche.</color></size>",
       "info": "<size=39>Lanzanueces lanza nuecitas que atraviesan toda una fila de zombis.\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Daño: </color><color=red>20 cada 1.5s, perforante</color>\n<color=#3D1400>Fusión: </color><color=red>Lanzaguisantes + Nuez</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Juglans Ballistica</color></size>",
       "cost": "<size=39>Costo: <color=red>150</color>   Recarga: <color=red>37.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
@@ -4464,7 +4464,7 @@
     {
       "seedType": 1030,
       "name": "Repetidora",
-      "introduce": "<size=39><color=#3D1400>A diferencia de su brillante y alegre hermano, Repetidora lleva una vida despreocupada—hasta que llega la hora de luchar. En secreto, domina el arte del disparo doble, pero se lo oculta a<page>Lanzaguisantes. \u0022Solo quiero que Lanzaguisantes viva feliz, sin nunca necesitar aprender estas habilidades de combate.\u0022</color></size>",
+      "introduce": "<size=39><color=#3D1400>A diferencia de su brillante y alegre hermano, Repetidora lleva una vida despreocupada—hasta que llega la hora de luchar. En secreto, domina el arte del disparo doble, pero se lo oculta a Lanzaguisantes. \u0022Solo quiero que Lanzaguisantes viva feliz, sin nunca necesitar aprender estas habilidades de combate.\u0022</color></size>",
       "info": "<size=39>La primera fusión de la aventura. Repetidora lanza dos guisantes a la vez.\n\n<color=#3D1400>Daño: </color><color=red>(20×2) cada 1.5s</color>\n<color=#3D1400>Fusión: </color><color=red>Lanzaguisantes + Lanzaguisantes</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Pisum Duplex</color></size>",
       "cost": "<size=39>Costo: <color=red>200</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
