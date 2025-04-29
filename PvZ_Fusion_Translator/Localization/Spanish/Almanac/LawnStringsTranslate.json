@@ -47,21 +47,21 @@
     {
       "seedType": 6,
       "name": "Seta Desesporada",
-      "introduce": "<size=39><color=#3D1400>\u0022Hace poco me enteré de la existencia de los Zombis.\u0022 Dice Seta Desesporada. \u0022Como muchas<page>otras setas, creía que eran cuentos de hadas o monstruos de películas. Esta experiencia me ha abierto los ojos.\u0022</color></size>",
+      "introduce": "<size=39><color=#3D1400>\u0022Hace poco me enteré de la existencia de los Zombis.\u0022 Dice Seta Desesporada. \u0022Como muchas otras setas, creía que eran cuentos de hadas o monstruos de películas. Esta experiencia me ha abierto los ojos.\u0022</color></size>",
       "info": "<size=39>Las Setas Desesporadas son baratas, pero disparan a corta distancia. Además, las setas son más costosas durante el día.\n\n<color=#3D1400>Daño: </color><color=red>20 cada 1.5s</color>\n<color=#3D1400>Rango: </color><color=red>3 casillas al frente</color>\n<color=#3D1400>Especial: </color><color=red>Caben hasta 3 en una sola casilla</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Puffia exhalans</color></size>",
       "cost": "<size=39>Costo: <color=red>0 (nocturno), 75 (diurno)</color>\nRecarga: <color=red>7.5 Segundos</color></size>"
     },
     {
       "seedType": 7,
       "name": "Humoseta",
-      "introduce": "<size=39><color=#3D1400>\u0022Tenía un trabajo sin futuro produciendo esporas de levadura para una panadería,\u0022 dice Humoseta. \u0022Entonces Seta Desesporada, bendita<page>sea, me habló de esta gran oportunidad de acabar con los zombis. Ahora realmente siento que estoy marcando la diferencia.\u0022</color></size>",
+      "introduce": "<size=39><color=#3D1400>\u0022Tenía un trabajo sin futuro produciendo esporas de levadura para una panadería,\u0022 dice Humoseta. \u0022Entonces Seta Desesporada, bendita sea, me habló de esta gran oportunidad de acabar con los zombis. Ahora realmente siento que estoy marcando la diferencia.\u0022</color></size>",
       "info": "<size=39>Las Humosetas emiten vapores que pueden atravesar las puertas con rejilla.\n\n<color=#3D1400>Daño: </color><color=red>20 cada 1.5s</color>\n<color=#3D1400>Rango: </color><color=red>4 casillas al frente</color>\n<color=#3D1400>Especial: </color><color=red>Los vapores perforan Zombis</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Fumigena penetrans</color></size>",
       "cost": "<size=39>Costo: <color=red>75 (nocturno), 150 (diurno)</color>\nRecarga: <color=red>7.5 Segundos</color></size>"
     },
     {
       "seedType": 8,
       "name": "Hipnoseta",
-      "introduce": "<size=39><color=#3D1400>\u0022Los zombis son nuestros amigos\u0022, acierta Hipnoseta. \u0022Son criaturas incomprendidas que emprenden un valor importante en el ecosistema. Deberíamos hacer más para igualar<page>nuestras ideologías.\u0022</color></size>",
+      "introduce": "<size=39><color=#3D1400>\u0022Los zombis son nuestros amigos\u0022, acierta Hipnoseta. \u0022Son criaturas incomprendidas que emprenden un valor importante en el ecosistema. Deberíamos hacer más para igualar nuestras ideologías.\u0022</color></size>",
       "info": "<size=39>Cuando un zombi las devora, este dará media vuelta y luchará por ti.\n\n<color=#3D1400>Uso: </color><color=red>Único, al contacto</color>\n<color=#3D1400>Especial: </color><color=red>Hace que un zombi luche por ti.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Psilocybe hypnotica</color></size>",
       "cost": "<size=39>Costo: <color=red>75 (nocturno), 150 (diurno)</color>\nRecarga: <color=red>30 Segundos</color></size>"
     },
@@ -75,7 +75,7 @@
     {
       "seedType": 10,
       "name": "Seta Congelada",
-      "introduce": "<size=39><color=#3D1400>Seta Congelada frunce el ceño, no porque sea infeliz o porque te desapruebe, sino a causa de una lesión infantil que le dejó paralizados los<page>nervios faciales.</color></size>",
+      "introduce": "<size=39><color=#3D1400>Seta Congelada frunce el ceño, no porque sea infeliz o porque te desapruebe, sino a causa de una lesión infantil que le dejó paralizados los nervios faciales.</color></size>",
       "info": "<size=39>Base del <color=#0077b6>Sistema Criogénico</color>.\nLas Setas Congeladas inmovilizan temporalmente a todos los zombis en el jardín.\n\n<color=#3D1400>Daño: </color><color=red>20, Congela Zombis</color>\n<color=#3D1400>Uso: </color><color=red>Único, Instantáneo</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Cryoporia glacialis</color></size>",
       "cost": "<size=39>Costo: <color=red>75 (nocturno), 150 (diurno)</color>\nRecarga: <color=red>50 Segundos</color></size>"
     },
@@ -89,7 +89,7 @@
     {
       "seedType": 12,
       "name": "Nenúfar",
-      "introduce": "<size=39><color=#3D1400>Nenúfar nunca se queja. Nenúfar nunca quiere saber qué está pasando. Ponga una planta<page>encima de Nenúfar y no dirá nada. ¿Tiene opiniones sorprendentes o secretos chocantes? Nadie lo sabe. Nenúfar se lo guarda todo dentro.</color></size>",
+      "introduce": "<size=39><color=#3D1400>Nenúfar nunca se queja. Nenúfar nunca quiere saber qué está pasando. Ponga una planta encima de Nenúfar y no dirá nada. ¿Tiene opiniones sorprendentes o secretos chocantes? Nadie lo sabe. Nenúfar se lo guarda todo dentro.</color></size>",
       "info": "<size=39>Los Nenúfares te permiten cultivar plantas no acuáticas encima de ellos.\n\n<color=#3D1400>Especial:</color><color=red>Permite colocar plantas no acuáticas en el agua. Con ciertas plantas encima de él, Nenúfar cambiará su apariencia, generando copias de esa planta cada 90 segundos.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Nympadia serena</color></size>",
       "cost": "<size=39>Costo: <color=red>25</color>\nRecarga: <color=red>7.5 Segundos</color>"
     },
@@ -110,7 +110,7 @@
     {
       "seedType": 15,
       "name": "Zampalga",
-      "introduce": "<size=39><color=#3D1400>\"Soy totalmente invisible\", piensa Zampalga para sí mismo. \"Me esconderé justo debajo de la<page>superficie, y nadie me verá.\" Sus amigos le dicen que pueden verlo perfectamente, pero nunca cambiará.</color></size>",
+      "introduce": "<size=39><color=#3D1400>\"Soy totalmente invisible\", piensa Zampalga para sí mismo. \"Me esconderé justo debajo de la superficie, y nadie me verá.\" Sus amigos le dicen que pueden verlo perfectamente, pero nunca cambiará.</color></size>",
       "info": "<size=39>Base del <color=#03311C>Sistema de Enredaderas</color>.\nLas Zampalgas son plantas acuáticas que arrastran al primer zombi que se acerca a ellos bajo el agua.\n\n<color=#3D1400>Daño: </color><color=red> Muerte Instantánea</color>\n<color=#3D1400>Uso: </color><color=red> Único, al contacto</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Necrophyton entortus</color></size>",
       "cost": "<size=39>Costo: <color=red>25</color>\nRecarga: <color=red>50 Segundos</color></size>"
     },
@@ -138,7 +138,7 @@
     {
       "seedType": 19,
       "name": "Marseta",
-      "introduce": "<size=39><color=#3D1400>La Marseta nunca ha visto el mar. Está en su nombre, ha escuchado mucho al respecto, pero simplemente nunca ha encontrado el tiempo. Sin<page>embargo, algún día, eso cambiará.</color></size>",
+      "introduce": "<size=39><color=#3D1400>La Marseta nunca ha visto el mar. Está en su nombre, ha escuchado mucho al respecto, pero simplemente nunca ha encontrado el tiempo. Sin embargo, algún día, eso cambiará.</color></size>",
       "info": "<size=39>Las Marsetas son plantas acuáticas que disparan esporas de corto alcance.\n\n<color=#3D1400>Daño: </color><color=red>20 cada 1.5s</color>\n<color=#3D1400>Rango: </color><color=red>3 casillas al frente</color>\n<color=#3D1400>Especial: </color><color=red>Al fusionarse, genera 50 soles.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Pelagomyces exhalans</color></size>",
       "cost": "<size=39>Costo: <color=red>0 (nocturno), 75 (diurno)</color>\nRecarga: <color=red>7.5 Segundos</color></size>"
     },
@@ -183,7 +183,7 @@
     {
       "seedType": 25,
       "name": "Magnetoseta",
-      "introduce": "<size=39><color=#3D1400>Todos se preguntaban por qué Magnetoseta<page>siempre tardaba tanto en \u0022digerir\u0022 el metal que absorbía, incluso después que haya sido usado para fusiones. Frustrado, gritó: \u0022¡No soy vago! ¡Me acaba de noquear un pedazo de hierro volador!\u0022</color></size>",
+      "introduce": "<size=39><color=#3D1400>Todos se preguntaban por qué Magnetoseta siempre tardaba tanto en \u0022digerir\u0022 el metal que absorbía, incluso después que haya sido usado para fusiones. Frustrado, gritó: \u0022¡No soy vago! ¡Me acaba de noquear un pedazo de hierro volador!\u0022</color></size>",
       "info": "<size=39>Base del <color=#8B0000>Sistema Magnético</color>.\nLas Magnetosetas pueden absorber objetos metálicos.\n\n<color=#8B0000>Sistema Magnético:</color><color=#991A1A>\n- Sin efecto</color>\n<color=#3D1400>Especial: </color><color=red>Desarma objetos metálicos cada 15s</color>\n<color=#3D1400>Rango: </color><color=red>Área de 7×5</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Magnetocybe absorbens</color></size>",
       "cost": "<size=39>Costo: <color=red>100 (nocturno), 175 (diurno)</color>\nRecarga: <color=red>7.5 segundos</color></size>"
     },
@@ -197,7 +197,7 @@
     {
       "seedType": 27,
       "name": "Maceta",
-      "introduce": "<size=39><color=#3D1400>Las plantas siempre piensan que Maceta es solo una maceta. Pero en realidad, Maceta es una planta, que se parece mucho a una maceta. Mira,<page>ese pequeño brote es el capullo de una flor. ¿No te parece tierno?</color>",
+      "introduce": "<size=39><color=#3D1400>Las plantas siempre piensan que Maceta es solo una maceta. Pero en realidad, Maceta es una planta, que se parece mucho a una maceta. Mira, ese pequeño brote es el capullo de una flor. ¿No te parece tierno?</color>",
       "info": "<size=39>La Maceta te permite plantar en el tejado.\n\n<color=#3D1400>Especial: </color><color=red>Permite plantar en el tejado.</color>\n<color=#3D1400>Especial: </color><color=red>Produce 25 soles al fusionarse.</color>\n<color=#3D1400>Prioridad de Fusión: </color><color=red>Mínima, solo puede fusionarse si la planta de encima no puede.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Vasum sustentans</color>",
       "cost": "<size=39>Costo:<color=red>25</color>\nRecarga:<color=red>7.5 segundos</color>"
     },
@@ -218,14 +218,14 @@
     {
       "seedType": 30,
       "name": "Paraplanta",
-      "introduce": "<size=39><color=#3D1400>La Paraplanta solía ser un gran pasador; alguna vez fue una estrella en la 114.ª edición de Plants vs. Zombies NBA, hasta que llegó a la mediana<page>edad... y descubrió que se estaba quedando calvo.</color>",
+      "introduce": "<size=39><color=#3D1400>La Paraplanta solía ser un gran pasador; alguna vez fue una estrella en la 114.ª edición de Plants vs. Zombies NBA, hasta que llegó a la mediana edad... y descubrió que se estaba quedando calvo.</color>",
       "info": "<size=39>La Paraplanta protege plantas cercanas de Zombis Colgao's y Zombipultas.\n\n<color=#3D1400>Dureza: </color><color=red>1000</color>\n<color=#3D1400>Especial: </color><color=red>Repele balones de baloncesto y Zombis Colgao's en un área de 3×3</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Umbellifolia deflectus</color>",
       "cost": "<size=39>Costo:<color=red>100</color>\nRecarga:<color=red>7.5 segundos</color>"
     },
     {
       "seedType": 31,
       "name": "Margarita",
-      "introduce": "<size=39><color=#3D1400><page>La margarita es extremadamente rica, por lo que gasta su dinero con libertad—y eso que ni siquiera tiene manos; ni pies.</color>",
+      "introduce": "<size=39><color=#3D1400> La margarita es extremadamente rica, por lo que gasta su dinero con libertad—y eso que ni siquiera tiene manos; ni pies.</color>",
       "info": "<size=39>Base del <color=#856A00>Sistema Monetario</color>.\nGenera monedas de plata, de oro, y rara vez hasta diamantes.\n\n<color=#3D1400>Producción Monetaria: </color><color=red>Cada 25s</color>\n<color=#3D1400>Especial:</color><color=red>\n- 75% = $100\n- 20% = $300\n- 5% = $1,000</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Auritagetes monetarius</color>",
       "cost": "<size=39>Costo:<color=red>25</color>\nRecarga:<color=red>7.5 segundos</color>"
     },
@@ -233,7 +233,7 @@
     {
       "seedType": 32,
       "name": "Melonpulta",
-      "introduce": "<size=39><color=#3D1400>Durante las treguas, la Melonpulta adora dividir su brazo de melón en dos, mordisqueándolo para<page>refrescarse. \u0022¿Quieres un poco?\u0022 les pregunta alegremente a los zombis, mientras las plantas a su alrededor, sofocadas por el calor, solo pueden babear de envidia. En realidad es una sandía, solo lleva 16 años sin saberlo.</color>",
+      "introduce": "<size=39><color=#3D1400>Durante las treguas, la Melonpulta adora dividir su brazo de melón en dos, mordisqueándolo para refrescarse. \u0022¿Quieres un poco?\u0022 les pregunta alegremente a los zombis, mientras las plantas a su alrededor, sofocadas por el calor, solo pueden babear de envidia. En realidad es una sandía, solo lleva 16 años sin saberlo.</color>",
       "info": "<size=39>Catapulta melones pesados para atacar a los zombis.\n\n<color=#3D1400>Daño: </color><color=red>80 (proyectil), 26 (área) cada 3s</color>\n<color=#3D1400>Especial: </color><color=red>Causa un leve daño de área en las casillas de impacto y adyacentes, tanto arriba como abajo.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Citrullopultus iacularis</color>",
       "cost": "<size=39>Costo:<color=red>300</color>\nRecarga:<color=red>7.5 segundos</color>"
     },
@@ -1130,7 +1130,7 @@
       "seedType": 249,
       "name": "<size=39>Frustrella Espadachín</size>",
       "introduce": "<size=39><color=#3D1400>\u0022He cruzado 4,500 kilómetros de campo de batalla, deteniendo a millones con mi espada.\u0022 La Frustrella Espadachín, amante de las bebidas finas y la poesía, se enorgullece de sus impecables habilidades de cosplay. Con una sonrisa astuta, añade, \u0022Mi espada nunca sangra, porque es solo una pieza de exhibición.\u0022</color></size>",
-      "info": "<size=39>Un invitado de tierras lejanas, alguien que querrás tener de tu lado.\n\n<color=#4A2900>Desbloqueo: Completa el minijuego Los Dioses I</color>\n<color=#3D1400>Daño: </color><color=red>(30×20) en área, (200×5) en proyectiles, cada 6s</color>\n<color=#3D1400>Especial: </color><color=red>Cada patrón de ataque genera 5 espadas giratorias que golpean 20 veces, haciendo 600 de daño en total. Además, dispara 5 espadas como una Frustrella normal, las cuales hacen 200 de daño cada una.</color><page><color=#3D1400>Rango (espadas giratorias): </color><color=red>Área de 3×3</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Astra Gladiatorius</color></size>",
+      "info": "<size=39>Un invitado de tierras lejanas, alguien que querrás tener de tu lado.\n\n<color=#4A2900>Desbloqueo: Completa el minijuego Los Dioses I</color>\n<color=#3D1400>Daño: </color><color=red>(30×20) en área, (200×5) en proyectiles, cada 6s</color>\n<color=#3D1400>Especial: </color><color=red>Cada patrón de ataque genera 5 espadas giratorias que golpean 20 veces, haciendo 600 de daño en total. Además, dispara 5 espadas como una Frustrella normal, las cuales hacen 200 de daño cada una.</color> <color=#3D1400>Rango (espadas giratorias): </color><color=red>Área de 3×3</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Astra Gladiatorius</color></size>",
       "cost": "<size=39>Costo: <color=red>325</color>\nRecarga: <color=red>30 Segundos</color></size>"
     },
     {
@@ -1151,7 +1151,7 @@
     {
       "seedType": 252,
       "name": "Chica Gato",
-      "introduce": "<size=39><color=#3D1400>\u0022Los gatos suelen tenerle miedo al agua, pero yo soy una chica gato mágica, así que no tengo<page>miedo.\u0022 dijo con entusiasmo, y los otros gatos la miraron con admiración. En realidad, a ella le encanta el agua, y dijo esto para destacar.</color></size>",
+      "introduce": "<size=39><color=#3D1400>\u0022Los gatos suelen tenerle miedo al agua, pero yo soy una chica gato mágica, así que no tengo miedo.\u0022 dijo con entusiasmo, y los otros gatos la miraron con admiración. En realidad, a ella le encanta el agua, y dijo esto para destacar.</color></size>",
       "info": "<size=39>La Chica Gato atacará automáticamente a todos los zombis que aparezcan en el mapa.\n\n<color=#4A2900>Desbloqueo: Completa el minijuego El Futuro es hoy, ¿Oíste viejo?</color>\n<color=#3D1400>Daño: </color><color=red>(40×2) cada 1.5s</color>\n<color=#3D1400>Rango: </color><color=red>Todo el jardín</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Felis Magica</color></size>",
       "cost": "<size=39>Costo: <color=red>125</color>\nRecarga: <color=red>50 segundos</color></size>"
     },
@@ -4276,7 +4276,7 @@
       "seedType": 1003,
       "name": "Explotonuez",
       "introduce": "<size=39><color=#3D1400>\u0022He oído a algunos zombis quejarse de que no pueden comer cerezas. Bueno, ¡aquí estoy yo!\u0022 La alegre Explotonuez sacudió las hojas que tenía sobre la cabeza, presumiendo de su puro sabor a cereza. \u0022Pero antes, tienes que prometerme algo: cuando tengas cerezas, comparte un poco conmigo. De hecho, ¡dame todo lo que tengas! ¡He nacido para esto!\u0022</color></size>",
-      "info": "<size=39>Explotonuez puede absorber explosiones, restaurando su dureza.\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial: </color><color=red>Absorbe explosiones para restaurar dureza\n- De proyectiles (aliados o enemigos): 200\n- De Petacerezas (o fusiones): 2000</color>\n<color=#3D1400>Especial: </color><color=red>Si su dureza llega a 0, estalla, haciendo 1800 puntos de daño en un área de 3×3.</color>\n<color=#3D1400>Fusión: </color><color=red>Nuez + Petacereza</color><page><color=#3D1400>Nombre Científico: </color><color=red>Juglans Explodio</color></size>",
+      "info": "<size=39>Explotonuez puede absorber explosiones, restaurando su dureza.\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial: </color><color=red>Absorbe explosiones para restaurar dureza\n- De proyectiles (aliados o enemigos): 200\n- De Petacerezas (o fusiones): 2000</color>\n<color=#3D1400>Especial: </color><color=red>Si su dureza llega a 0, estalla, haciendo 1800 puntos de daño en un área de 3×3.</color>\n<color=#3D1400>Fusión: </color><color=red>Nuez + Petacereza</color> <color=#3D1400>Nombre Científico: </color><color=red>Juglans Explodio</color></size>",
       "cost": "<size=39>Costo: <color=red>200</color>   Recarga: <color=red>80 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -4304,7 +4304,7 @@
       "seedType": 1007,
       "name": "Lanzapapas",
       "introduce": "<size=39><color=#3D1400>Puede que Lanzapapas no tenga ojos, pero tiene su propia forma especial de detectar zombis. \u0022Los puedo sentir...\u0022 murmuró. \u0022Los zombis se acercan... se acercan... se acercan...\u0022 Los latidos del corazón de Lanzapapas se aceleraron, al igual que su velocidad de disparo. Más rápido, más rápido... hasta que, con un \u0022BANG\u0022 la Lanzapapas estalló en una explosión de fuegos artificiales con sabor a patata.</color></size>",
-      "info": "<size=39>Lanzapapas puede atacar incluso antes de armarse. Al detonar, libera un aluvión de patatas en todas las direcciones.\n\n<color=#3D1400>Daño: </color><color=red>20 cada 1.5s (disparos), 1800 (explosión)</color>\n<color=#3D1400>Tiempo De Armado: </color><color=red>14s</color>\n<color=#3D1400>Especial: </color><color=red>Ataca más rápido cuanto más se acerquen los zombis, con un intervalo mínimo de 0.5s. Lanza 36 proyectiles en un círculo al detonar.</color>\n<color=#3D1400>Fusión: </color><color=red>Patatapum + Lanzaguisantes</color><page><color=#3D1400>Nombre Científico: </color><color=red>Solanum Ballistica</color></size>",
+      "info": "<size=39>Lanzapapas puede atacar incluso antes de armarse. Al detonar, libera un aluvión de patatas en todas las direcciones.\n\n<color=#3D1400>Daño: </color><color=red>20 cada 1.5s (disparos), 1800 (explosión)</color>\n<color=#3D1400>Tiempo De Armado: </color><color=red>14s</color>\n<color=#3D1400>Especial: </color><color=red>Ataca más rápido cuanto más se acerquen los zombis, con un intervalo mínimo de 0.5s. Lanza 36 proyectiles en un círculo al detonar.</color>\n<color=#3D1400>Fusión: </color><color=red>Patatapum + Lanzaguisantes</color> <color=#3D1400>Nombre Científico: </color><color=red>Solanum Ballistica</color></size>",
       "cost": "<size=39>Costo: <color=red>125</color>   Recarga: <color=red>37.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -4380,7 +4380,7 @@
     {
       "seedType": 1018,
       "name": "Guisantiseta",
-      "introduce": "<size=39><color=#3D1400>\u0022No dejes que mi tamaño te engañe; incluso un<page>cuerpo pequeño puede contener mucha energía.\u0022 La Guisantiseta advierte a quienes le subestiman. \u0022Todos empezamos como pequeñas setas, progresando poco a poco. Con dedicación y un desayuno soleado, puedes llegar a ser como yo.\u0022</color></size>",
+      "introduce": "<size=39><color=#3D1400>\u0022No dejes que mi tamaño te engañe; incluso un cuerpo pequeño puede contener mucha energía.\u0022 La Guisantiseta advierte a quienes le subestiman. \u0022Todos empezamos como pequeñas setas, progresando poco a poco. Con dedicación y un desayuno soleado, puedes llegar a ser como yo.\u0022</color></size>",
       "info": "<size=39>Guisantiseta ataca a mayor distancia que una Seta Desesporada. Puedes fusionar a todas las Setas Desesporadas de una única casilla con una única planta.\n\n<color=#3D1400>Daño: </color><color=red>20 cada 1.5s</color>\n<color=#3D1400>Fusión: </color><color=red>Seta Desesporada + Lanzaguisantes (en ese orden)</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Pisum Mycophorus</color></size>",
       "cost": "<size=39>Costo: <color=red>100, 175</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
@@ -4723,7 +4723,7 @@
     {
       "seedType": 1067,
       "name": "Rabo de Gato",
-      "introduce": "<size=39><color=#3D1400>\u0022¡Guau!\u0022 dice Rabo de Gato. \u0022¡Guau guau guau! ¿Te confunde esto? ¿Esperabas que diga 'Miau' como un gato solo porque la palabra 'gato' está<page>en mi nombre y también porque me veo como un gato? Así no funcionan las cosas aquí, amigo. Me niego a ser encasillado.\u0022</color></size>",
+      "introduce": "<size=39><color=#3D1400>\u0022¡Guau!\u0022 dice Rabo de Gato. \u0022¡Guau guau guau! ¿Te confunde esto? ¿Esperabas que diga 'Miau' como un gato solo porque la palabra 'gato' está en mi nombre y también porque me veo como un gato? Así no funcionan las cosas aquí, amigo. Me niego a ser encasillado.\u0022</color></size>",
       "info": "<size=39>Los Rabo de Gato pueden atacar cualquier línea y derribar zombis con globo.\n\n<color=#3D1400>Daño: </color><color=red>(20×2) cada 1.5s</color>\n<color=#3D1400>Rango: </color><color=red>Todo el jardín</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Felis Caudatus</color>\n<color=#4B0082>Solo puede ser plantado en un Nenúfar.</color></size>",
       "cost": "<size=39>Costo: <color=red>125</color>\nRecarga: <color=red>50 Segundos</color></size>"
     },
@@ -4744,7 +4744,7 @@
     {
       "seedType": 1070,
       "name": "Gasoseta",
-      "introduce": "<size=39><color=#3D1400>\u0022Siempre he disfrutado liberar gases,\u0022 dice Gasoseta. \u0022Sé que a mucha gente no le gusta. Dicen que es grosero o que huele mal. Todo lo<page>que puedo decir es, ¿preferirías que los zombis se comieran tu cerebro?\u0022</color></size>",
+      "introduce": "<size=39><color=#3D1400>\u0022Siempre he disfrutado liberar gases,\u0022 dice Gasoseta. \u0022Sé que a mucha gente no le gusta. Dicen que es grosero o que huele mal. Todo lo que puedo decir es, ¿preferirías que los zombis se comieran tu cerebro?\u0022</color></size>",
       "info": "<size=39>Las Gasosetas liberan potentes gases en un área a su alrededor.\n\n<color=#3D1400>Daño: </color><color=red>(20×4) cada 1.9s, perforante\n<color=#3D1400>Rango: </color><color=red>Área de 3×3\n<color=#3D1400>Nombre Científico: </color><color=red>Mycotis Gas</color>\n<color=#4B0082>Solo puede ser plantada en una Humoseta.</color></size>",
       "cost": "<size=39>Costo: <color=red>125</color>\nRecarga: <color=red>50 Segundos</color></size>"
     },
@@ -5035,7 +5035,7 @@
       "seedType": 1111,
       "name": "Solar-pulta",
       "introduce": "<size=39><color=#3D1400>Algunas personas se preguntan por qué los pequeños soles de Solar-pulta desaparecen cuando se arrojan por el lado derecho del tejado. Solar-pulta simplemente sonríe: \u0022¿Dónde crees que terminan los soles del jardín de enfrente?\u0022</color></size>",
-      "info": "<size=39>Catapulta coles solares rebotantes para atacar a los zombis, las cuales generan soles al impacto.\n\n<color=#3D1400>Daño:</color><color=red>(50×Zombi) cada 5s</color>\n<color=#3D1400>Especial: </color><color=red>Genera 100 soles al fusionarse</color>\n<color=#3D1400>Especial: </color><color=red>El proyectil golpea al primer zombi en su camino y luego rebota una distancia fija dentro de la misma fila. Por cada 200 soles en tu banco solar, el proyectil obtiene un rebote adicional. No puede golpear al mismo zombi más de una vez. Genera 5 soles al impactar contra un<page>zombi o el suelo.</color>\n<color=#3D1400>Fusión:</color><color=red> Coltapulta + Girasol</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Brassica Solaris</color></size>",
+      "info": "<size=39>Catapulta coles solares rebotantes para atacar a los zombis, las cuales generan soles al impacto.\n\n<color=#3D1400>Daño:</color><color=red>(50×Zombi) cada 5s</color>\n<color=#3D1400>Especial: </color><color=red>Genera 100 soles al fusionarse</color>\n<color=#3D1400>Especial: </color><color=red>El proyectil golpea al primer zombi en su camino y luego rebota una distancia fija dentro de la misma fila. Por cada 200 soles en tu banco solar, el proyectil obtiene un rebote adicional. No puede golpear al mismo zombi más de una vez. Genera 5 soles al impactar contra un zombi o el suelo.</color>\n<color=#3D1400>Fusión:</color><color=red> Coltapulta + Girasol</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Brassica Solaris</color></size>",
       "cost": "<size=39>Costo: <color=red>150</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -5392,7 +5392,7 @@
     {
       "seedType": 1162,
       "name": "Patatapum de Racimo",
-      "introduce": "<size=39><color=#3D1400>La Patatapum de Racimo es una chef de primer nivel. Sus platillos \"Puré de Cerezas\" y \"Mermelada de Patata\" son muy populares entre<page>las plantas. Cuando se queda sin ingredientes, alegremente dice: \"Iré a comprar más.\"</color>",
+      "introduce": "<size=39><color=#3D1400>La Patatapum de Racimo es una chef de primer nivel. Sus platillos \"Puré de Cerezas\" y \"Mermelada de Patata\" son muy populares entre las plantas. Cuando se queda sin ingredientes, alegremente dice: \"Iré a comprar más.\"</color>",
       "info": "<size=39>¡Se divide en 9 Patatapums!\n\n<color=#3D1400>Daño:</color> <color=red>1800 (área de 3×3)</color>\n<color=#3D1400>Especial:</color> <color=red>Al ser destruida, genera Patatapums en un área de 3x3.</color>\n<color=#3D1400>Fusión:</color> <color=red>Petacereza + Patatapum</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Solanum Clusteris</color>",
       "cost": "<size=39>Costo: <color=red>175</color>   Recarga: <color=red>80 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
@@ -5406,7 +5406,7 @@
     {
       "seedType": 1164,
       "name": "Hokaido",
-      "introduce": "<size=39><color=#3D1400><page>Hokaido es un pariente lejano de Explotonuez, pero cada vez que se reúnen, este siempre llega tarde. \"Yo también quisiera llegar temprano\", dice Hokaido, \"pero no puedo resistirme a saltar hacia cualquier cosa roja.\"</color>",
+      "introduce": "<size=39><color=#3D1400> Hokaido es un pariente lejano de Explotonuez, pero cada vez que se reúnen, este siempre llega tarde. \"Yo también quisiera llegar temprano\", dice Hokaido, \"pero no puedo resistirme a saltar hacia cualquier cosa roja.\"</color>",
       "info": "<size=39>¡Una calabaza que no puede ser explotada por cerezas!\n\n<color=#3D1400>Dureza:</color> <color=red>4000</color>\n<color=#3D1400>Especial: </color><color=red>Absorbe explosiones para restaurar dureza\n- De proyectiles (aliados o enemigos): 200\n- De Petacerezas (o fusiones): 2000</color>\n<color=#3D1400>Fusión:</color> <color=red>Calabaza + Petacereza</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Cucurbita rubrodetonans</color>",
       "cost": "<size=39>Costo: <color=red>275</color>   Recarga: <color=red>80 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
@@ -5421,7 +5421,7 @@
       "seedType": 1166,
       "name": "Magnetoseta Carmesí",
       "introduce": "<size=39><color=#3D1400>\"Vender adecuadamente también es una habilidad\", dijo la Magnetoseta Carmesí. Ese tipo de odio que se convierte en amor, solo Magnetoseta Carmesí puede hacerlo. Antes, lo que más odiaba era la cereza. En realidad, todavía lo hace, pero tal vez ha encontrado una oportunidad de negocio.</color></size>",
-      "info": "<size=39>Parte del <color=#8B0000>Sistema Magnético</color>.\n¡Transforman objetos metálicos en cerezas explosivas!\n\n<color=#8B0000>Sistema Magnético:</color><color=#991A1A>\n- Sin efecto </color>\n<color=#3D1400>Daño: </color><color=red>300 cada 3s</color>\n<color=#3D1400>Especial: </color><color=red>Consume objetos metálicos y los convierte en cerezas explosivas. Cada objeto puede infligir daño 5 veces. Los objetos metálicos también pueden ser entregados a<page>Magnetoseta Carmesí para que inicie un ataque.</color>\n<color=#3D1400>Fusión: </color><color=red>Magnetoseta + Petacereza</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Mycena Rubra</color></size>",
+      "info": "<size=39>Parte del <color=#8B0000>Sistema Magnético</color>.\n¡Transforman objetos metálicos en cerezas explosivas!\n\n<color=#8B0000>Sistema Magnético:</color><color=#991A1A>\n- Sin efecto </color>\n<color=#3D1400>Daño: </color><color=red>300 cada 3s</color>\n<color=#3D1400>Especial: </color><color=red>Consume objetos metálicos y los convierte en cerezas explosivas. Cada objeto puede infligir daño 5 veces. Los objetos metálicos también pueden ser entregados a Magnetoseta Carmesí para que inicie un ataque.</color>\n<color=#3D1400>Fusión: </color><color=red>Magnetoseta + Petacereza</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Mycena Rubra</color></size>",
       "cost": "<size=39>Costo: <color=red>250</color>   Recarga: <color=red>57.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -5505,7 +5505,7 @@
       "seedType": 1178,
       "name": "Plantorcha Sulfúrica",
       "introduce": "<size=39><color=#3D1400>El afro de Plantorcha Sulfúrica rebota rítmicamente, como si bailara al compás de un ritmo que solo él puede oír. Algunos dicen que su ritmo inspira sus creaciones ígneas, mientras que otros simplemente aprecian el espectáculo —tanto el estilo como las explosiones dejan una huella imborrable.</color>",
-      "info": "<size=39>¡Genera cerezas voladoras teledirigidas!\n\n<color=#3D1400>Especial:\n</color> <color=red>- Genera una cereza teledirigida por cada 30 guisantes que le atraviesen.\n- Convierte los proyectiles de cerezas explosivas en cerezas teledirigidas.\n- Solo puede haber 3 cerezas teledirigidas a la vez.</color>\n<color=#3D1400>Especial:</color> <color=red>Si su dureza llega a 0, estalla, haciendo 1800 puntos de daño en un área de 3×3.<page><color=#3D1400>Fusión:</color> <color=red>Plantorcha + Petacereza\n<color=#3D1400>Nombre Científico: </color><color=red>Ceraspis ignivolans</color>",
+      "info": "<size=39>¡Genera cerezas voladoras teledirigidas!\n\n<color=#3D1400>Especial:\n</color> <color=red>- Genera una cereza teledirigida por cada 30 guisantes que le atraviesen.\n- Convierte los proyectiles de cerezas explosivas en cerezas teledirigidas.\n- Solo puede haber 3 cerezas teledirigidas a la vez.</color>\n<color=#3D1400>Especial:</color> <color=red>Si su dureza llega a 0, estalla, haciendo 1800 puntos de daño en un área de 3×3. <color=#3D1400>Fusión:</color> <color=red>Plantorcha + Petacereza\n<color=#3D1400>Nombre Científico: </color><color=red>Ceraspis ignivolans</color>",
       "cost": "<size=39>Costo: <color=red>325</color>   Recarga: <color=red>57.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
