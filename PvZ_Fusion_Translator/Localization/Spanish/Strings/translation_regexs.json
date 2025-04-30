@@ -1,8 +1,8 @@
 {
   "-------Main UI": "Main UI-------",
-  "主菜单(.*)": "Menu Principal{0}",
+  "主菜单(.*)": "Menú Principal{0}",
   "^(\\d+)轮": "{0} Banderas",
-  "^开发人员名单\\s+": "<size=16>Creditos\r\nPrograma, Director: 蓝飘飘fly\r\nAnimacion: 蓝飘飘fly\r\nArtista, Director Visual: 机鱼吐司\r\nEditor de Video: 梦珞\r\nAyudante de Animacion: 射命丸文\r\nAyudante de Arte: 蓝蝶</size>",
+  "^开发人员名单\\s+": "<size=16>Créditos\r\nPrograma & Director: 蓝飘飘fly\r\nAnimaciones: 蓝飘飘fly\r\nArtista & Director Visual: 机鱼吐司\r\nEditor de Video: 梦珞\r\nAyudante de Animaciones: 射命丸文\r\nArtista Ayudante: 蓝蝶</size>",
   "第(\\d+)已完成": "Nivel {0} Completado",
   "^确定退出吗？\\s+": "<size=16>¿Estas seguro de que deseas salir?\r\n¡El progreso no se guardará!\r\nExcepto en el Modo Supervivencia.",
   "下一阶段：(\\d+)分(\\d+)秒\\s+当前水分：(\\d+)/100\\s+当前成长阶段：(\\d+)/2\\s+成长值：(\\d+)/100": "<size=30>Siguiente Etapa: {0}M:{1}S\nHidratacion: {2}/100\nEtapa de Crecimiento: {3}/2\nCrecimiento: {4}/100</size>",
@@ -18,7 +18,7 @@
   "^第(\\d+)关": "Nivel {0}",
   "^冒险模式(：)?(?:第)?(\\d+)(?:关)?": "Modo Aventura: {1}",
   "-------UI - Challenge Mode": "UI - Challenge Mode-------",
-  "^超级([^\\s：]+)(：?挑战1?)": "Desafio de Fusion: {0}",
+  "^超级([^\\s：]+)(：?挑战1?)": "Desafio de Fusión: {0}",
   "^超级随机：(无尽|模仿)": "Odisea Zorpresa\n {0}",
   "^十旗挑战：([^\\s]+)": "Diez Banderas: {0}",
   "^十旗挑战\\s([^\\s]+)": "Diez Banderas\n{0}",
@@ -134,7 +134,7 @@
   "致命暴击：植物子弹的暴击伤害增加70%\n价格：200": "Crítico fatal: el daño crítico de las balas de planta aumenta un 70%\nPrecio: 200",
   "切换关卡组": "Cambiar conjunto de niveles",
   "最后一击：": "Último golpe: ",
-  "植物显血": "Mostrar vida de plantas",
-  "僵尸显血": "Mostrar vida de zombis",
+  "植物显血": "Ver PS de plantas",
+  "僵尸显血": "Ver PS de zombis",
   "第(\\d+)关\n场景：([^\\s]+)\n总波数：(\\d+)波\n特殊环境：([^\\s：]+)\n减伤强度：(\\d+)": "Nivel {0}\nEscenario: {1}\nTotal de oleadas: {2}\nEntorno especial: {3}\nReducción de daño: {4}"
 }

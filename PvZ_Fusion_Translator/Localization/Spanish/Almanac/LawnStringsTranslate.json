@@ -1175,8 +1175,8 @@
       "seedType": 255,
       "name": "Nuez Gigante",
       "introduce": "<size=39><color=#3D1400>\u0022Soy invencible en el campo de batalla, ¡y mis compañeros no pueden apartar los ojos de mi majestuosa figura!\u0022 se jactaba la Nuez Gigante. \u0022Un año después de que me echaran del Club del Vaso de Nuez, por fin he encontrado un trabajo que me satisface de verdad.\u0022</color></size>",
-      "info": "<size=39>La Nuez Gigante rodará hacia delante y derribará a los zombis que encuentre.\n\n<color=#3D1400>Daño: </color><color=red>1800</color>\n<color=#3D1400>Fórmula: </color><color=red>Nuez + Nuez</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Juglans Gigantus</color></size>",
-      "cost": ""
+      "info": "<size=39>La Nuez Gigante rodará hacia delante y derribará a los zombis que encuentre.\n\n<color=#3D1400>Daño: </color><color=red>600 cada 0.02s</color>\n<color=#3D1400>Fusión: </color><color=red>Nuez + Nuez</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Juglans gigantus</color></size>",
+      "cost": "<size=39>Costo: <color=red>100</color>   Recarga: <color=red>60 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
       "seedType": 256,
@@ -4276,7 +4276,7 @@
       "seedType": 1003,
       "name": "Explotonuez",
       "introduce": "<size=39><color=#3D1400>\u0022He oído a algunos zombis quejarse de que no pueden comer cerezas. Bueno, ¡aquí estoy yo!\u0022 La alegre Explotonuez sacudió las hojas que tenía sobre la cabeza, presumiendo de su puro sabor a cereza. \u0022Pero antes, tienes que prometerme algo: cuando tengas cerezas, comparte un poco conmigo. De hecho, ¡dame todo lo que tengas! ¡He nacido para esto!\u0022</color></size>",
-      "info": "<size=39>Explotonuez puede absorber explosiones, restaurando su dureza.\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial: </color><color=red>Absorbe explosiones para restaurar dureza\n- De proyectiles (aliados o enemigos): 200\n- De Petacerezas (o fusiones): 2000</color>\n<color=#3D1400>Especial: </color><color=red>Si su dureza llega a 0, estalla, haciendo 1800 puntos de daño en un área de 3×3.</color>\n<color=#3D1400>Fusión: </color><color=red>Nuez + Petacereza</color> <color=#3D1400>Nombre Científico: </color><color=red>Juglans Explodio</color></size>",
+      "info": "<size=39>Explotonuez puede absorber explosiones, restaurando su dureza.\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial: </color><color=red>Absorbe explosiones para restaurar dureza\n- De proyectiles (aliados o enemigos): 200\n- De Petacerezas (o fusiones): 2000</color>\n<color=#3D1400>Especial: </color><color=red>Si su dureza llega a 0, estalla, haciendo 1800 puntos de daño en un área de 3×3.</color>\n<color=#3D1400>Fusión: </color><color=red>Nuez + Petacereza</color> <color=#3D1400>\nNombre Científico: </color><color=red>Juglans Explodio</color></size>",
       "cost": "<size=39>Costo: <color=red>200</color>   Recarga: <color=red>80 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -4325,8 +4325,8 @@
       "seedType": 1010,
       "name": "Patatanuez",
       "introduce": "<size=39><color=#3D1400>\u0022Me han dicho que soy lento, pero eso solo significa que siempre estoy aquí para proteger a mis amigos.\u0022 dice Patatanuez con una sonrisa. \u0022No hay zombi que pueda pasarme sin sufrir un buen golpe.\u0022</color></size>",
-      "info": "<size=39>Patatanuez es una combinación resistente que ofrece la protección de una nuez y la explosividad de una patata.\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial: </color><color=red>Absorbe una cantidad considerable de daño antes de explotar, causando 1800 de daño en un área.\n<color=#3D1400>Fórmula: </color><color=red>Nuez + Patatapum\n<color=#3D1400>Nombre Científico: </color><color=red>Solanum Juglandis</color></size>",
-      "cost": ""
+      "info": "<size=39>Patatanuez libera pequeñas explosiones mientras es dañada y una gran explosión cuando es comida.\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Daño: </color><color=red>500 (al ser dañada), 1800 (al ser comida).\n<color=#3D1400>Fórmula: </color><color=red>Nuez + Patatapum\n<color=#3D1400>Nombre Científico: </color><color=red>Juglans solanum</color></size>",
+      "cost": "<size=39>Costo: <color=red>75</color>   Recarga: <color=red>60 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
       "seedType": 1011,
@@ -4339,8 +4339,8 @@
       "seedType": 1012,
       "name": "Carroñuez",
       "introduce": "<size=39><color=#3D1400>Como planta joven, Carroñuez era notoriamente quisquillosa con la comida, nunca tragaba zombis de un bocado, lo que frustraba a sus padres. Tras mucha persuasión, Carroñuez aprendió finalmente a consumir zombis enteros, igual que sus predecesores. \u0022¡No soy exigente! Solo quiero imitar cómo comen los zombis. Debería probar algo nuevo, ¿no? Definitivamente no es porque no tengo cuello, lo que hace inconveniente tragar de un bocado.\u0022 dijo Carroñuez mientras masticaba un zombi.</color></size>",
-      "info": "<size=39>Carroñuez puede restaurar la dureza después de comer zombis.\n\n<color=#3D1400>Daño: </color><color=red> Muerte Instantánea</color>\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Fórmula: </color><color=red>Nuez + Carroñivora\n<color=#3D1400>Nombre Científico: </color><color=red>Juglans Phagocyticus</color></size>",
-      "cost": ""
+      "info": "<size=39>Carroñuez puede restaurar la dureza después de comer zombis.\n\n<color=#3D1400>Daño:</color><color=red> Muerte Instantánea</color>\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Fusión: </color><color=red>Nuez + Planta Carroñívora\n<color=#3D1400>Nombre Científico: </color><color=red>Juglans phagocyticus</color></size>",
+      "cost": "<size=39>Costo: <color=red>200</color>   Recarga: <color=red>37.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
       "seedType": 1013,
@@ -4401,9 +4401,9 @@
     {
       "seedType": 1021,
       "name": "Nuezeta",
-      "introduce": "<size=42><color=#3D1400>¿Nuez o seta?, ¿Por qué preocuparse por las etiquetas? De todas formas, los frutos secos no van a decirte que en realidad es un femboy disfrazado.</color></size>",
-      "info": "<size=42>A pesar de su tamaño, la Nuezeta puede ser su defensor incondicional.\n\n<color=#3D1400>Dureza: </color><color=red>2000</color>\n<color=#3D1400>Fórmula: </color><color=red>Seta Desesporada + Nuez (En Orden)\n<color=#3D1400>Nombre Científico: </color><color=red>Juglans Mycota</color></size>",
-      "cost": ""
+      "introduce": "<size=42><color=#3D1400>¿Nuez o seta?, ¿Por qué preocuparse por las etiquetas? De todas formas, los frutos secos no van a decirte que en realidad es un Matsutake disfrazado.</color></size>",
+      "info": "<size=42>A pesar de su tamaño, la Nuezeta puede ser un defensor incondicional.\n\n<color=#3D1400>Dureza: </color><color=red>2000</color>\n<color=#3D1400>Fusión: </color><color=red>Seta Desesporada + Nuez\n<color=#3D1400>Nombre Científico: </color><color=red>Puffia juglans</color></size>",
+      "cost": "<size=39>Costo: <color=red>50, 125</color>   Recarga: <color=red>37.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
       "seedType": 1022,
@@ -4591,8 +4591,8 @@
       "seedType": 1048,
       "name": "Pinchonuez",
       "introduce": "<size=39><color=#3D1400>La Pinchonuez siempre mira con furia hacia adelante, “Esto es para advertirles, no soy para comer.” Pero los zombis ni siquiera lo toman en cuenta, ya que normalmente no es considerado por nadie.</color></size>",
-      "info": "<size=39>Puede pinchar neumáticos y reflejar daño.</color>\n\n<color=#3D1400>Dureza:</color> <color=red>4000</color>\n<color=#3D1400>Especial:</color> <color=red>Puede pinchar neumáticos, y cada vez que lo haga pierde 500 de salud, no puede resistir los golpes de Zombisteins, y causa 1/2 de daño reflejado a los zombis que lo muerden</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Juglans Graminis</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Pinchohierba</color></size>",
-      "cost": ""
+      "info": "<size=39>Pinchonuez devuelve el daño que le infligen y revienta neumáticos en el proceso.</color>\n\n<color=#3D1400>Dureza:</color> <color=red>4000</color>\n<color=#3D1400>Especial:</color> <color=red>\n- Puede pinchar neumáticos, perdiendo 500 de dureza por cada uno.\n- Refleja el 50% del daño que le infligen a los zombis que la muerdan.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Juglans graminis</color></size>\n<size=39><color=#3D1400>Fusión:</color> <color=red>Nuez + Pinchohierba</color></size>",
+      "cost": "<size=39>Costo: <color=red>150</color>   Recarga: <color=red>37.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
       "seedType": 1049,
@@ -5160,9 +5160,9 @@
     },
     {
       "seedType": 1129,
-      "name": "Nuez Robótica",
+      "name": "Nuez Zombot",
       "introduce": "<size=39><color=#3D1400>Quizás algunas personas no lo sepan, pero también hay inventores entre las nueces. Estos inventores desarrollaron sus propias máquinas de guerra inspiradas en la tecnología de los Zombis. “La tecnología de los Zombis finalmente se usó para destruirlos a ellos mismos”, dice la Nuez Robótica.</color></size>",
-      "info": "<size=39>La Nuez Robótica puede tener atributos adicionales de Jalapeños o Setas Congeladas, y se activa al morir.\n\n<color=#3D1400>Dureza:</color><color=red>8000</color>\n<color=#3D1400>Características:</color><color=red>Cambia de forma al recibir efectos de Jalapeños o Setas Congeladas, recuperando 3000 de salud al cambiar de forma y liberando el efecto de la planta en la forma actual al morir.</color>\n<color=#3D1400>Fórmula de Fusión:</color><color=red>Nuez + Piezas de Robot</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Juglans robotica</color></size>",
+      "info": "<size=39>La Nuez Zombot puede tener atributos adicionales de Jalapeños o Setas Congeladas, y se activa al morir.\n\n<color=#3D1400>Dureza:</color><color=red>8000</color>\n<color=#3D1400>Características:</color><color=red>Cambia de forma al recibir efectos de Jalapeños o Setas Congeladas, recuperando 3000 de salud al cambiar de forma y liberando el efecto de la planta en la forma actual al morir.</color>\n<color=#3D1400>Fórmula de Fusión:</color><color=red>Nuez + Piezas de Robot</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Juglans robotica</color></size>",
       "cost": ""
     },
     {
@@ -5288,8 +5288,8 @@
       "seedType": 1147,
       "name": "Hipnonuez",
       "introduce": "<size=39><color=#3D1400>La Hipnonuez siempre ha tenido un sentimiento especial hacia los zombis. “Cuando me muerden se siente particularmente agradable, no es como rascarse la espalda, sino... bueno, digamos que se ha convertido en \"amor\" con el tiempo.” dice Hipnonuez.</color></size>",
-      "info": "<size=39>¡Invocador de zombis hipnotizados!\n\n<color=#3D1400>Dureza:</color><color=red>4000</color>\n<color=#3D1400>Características:</color><color=red>Cada vez que es mordido, hay un 4% de probabilidad de hipnotizar al zombi. Además, puede recuperar 100 de salud cuando es golpeado por una bala de Hipnomiedica, y gana una bala de ese tipo cada vez que es golpeado (hasta 3). Cuando tiene 7 tipos diferentes de balas, consume una de cada tipo y convoca un Zombi Dorado hipnotizado, luego se cura por completo.</color>\n<color=#3D1400>Fórmula de Fusión:</color><color=red>Nuez + Hipnoseta</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Juglans fascinatio</color></size>",
-      "cost": ""
+      "info": "<size=39>¡Invocador de zombis hipnotizados!\n\n<color=#3D1400>Dureza:</color><color=red>4000</color>\n<color=#3D1400>Especial:\n</color><color=red>- Cada vez que es mordido, hay un 4% de probabilidad de hipnotizar al zombi.\n- Recupera 100 de salud cuando es golpeado por una espora de Miedica Onírica y almacena una de ese color (máx. 3).\n- Cuando junta los 7 colores, consume una de cada tipo e invoca un Zombi Caja Dorada hipnotizado y restablece toda su salud.</color>\n<color=#3D1400>Fusión:</color><color=red>Nuez + Hipnoseta</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Juglans fascinatio</color></size>",
+      "cost": "<size=39>Costo: <color=red>150</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
       "seedType": 1148,
@@ -5582,8 +5582,8 @@
       "seedType": 1189,
       "name": "Nuez Helada",
       "introduce": "<size=39><color=#3D1400>La Nuez Helada está molesta por siempre resbalarse en el camino en el verano. “El conserje siempre olvida poner el letrero de ‘piso resbaloso’,” se queja. Sin embargo, no se ha dado cuenta de que es un poco más bajo que antes.</color></size>",
-      "info": "<size=39>Los zombis que muerden a Nuez Helada acumulan <color=red>10 Puntos Criogénicos</color> por ataque. Al alcanzar <color=red>100 Puntos</color>, se congelan durante <color=red>5 segundos</color>. Cada congelación aumenta el umbral en <color=red>+100</color> (máximo <color=red>400</color>).</color>\n\n<color=#3D1400>Dureza:</color> <color=red>4000</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Juglans Aisberg</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Seta Congelada</color></size>",
-      "cost": ""
+      "info": "<size=39>Parte del <color=#0077b6>Sistema Criogénico</color>.\nLos zombis que la muerdan quedarán ralentizados.\n\n<color=#0077b6>Sistema Criogénico:</color><color=#28567B>\n- Aplica 10 puntos al ser mordida.</color><color=#3D1400>\nDaño: </color><color=red>20 cada 1.5s</color>\n<color=#3D1400>Fusión: </color><color=red>Nuez + Seta Congelada</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Juglans cryopolaris</color></size>",
+      "cost": "<size=39>Costo: <color=red>125, 200</color>   Recarga: <color=red>80 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
       "seedType": 1190,
