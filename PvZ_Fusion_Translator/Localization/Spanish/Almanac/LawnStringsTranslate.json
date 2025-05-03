@@ -1080,7 +1080,7 @@
     {
       "seedType": 237,
       "name": "Lanceloto",
-      "introduce": "<size=39><color=#3D1400>Aunque a menudo grita \u0022¡Cortar cabezas, cortar cabezas!\u0022, el Lanceloto no es beligerante. Como la culminación de las artes marciales de una tal Montaña Nevada, su dominio para convertir agua en hielo y forjar hielo en cuchillas es suficiente para intimidar a los malhechores.</color></size>",
+      "introduce": "<size=39><color=#3D1400>Aunque a menudo grita '¡Cortar cabezas, cortar cabezas!', el Lanceloto no es beligerante. Como la culminación de las artes marciales de una tal Montaña Nevada, su dominio para convertir agua en hielo y forjar hielo en cuchillas es suficiente para intimidar a los malhechores.</color></size>",
       "info": "<size=39>Un maestro en relentizar y congelar zombis. Es parte del <color=#0077b6>Sistema Criogénico.\n<color=blue>Planta de la colaboración con PVZ SHUTTLE</color>\n\n<color=#0077b6>Sistema Criogénico:</color><color=#28567B>\n- Sus cuchillas aplican 5 puntos criogénicos. Al tener un zombi congelado, a este se le causará x4 de daño.</color><color=#3D1400>\n<color=#4A2900>Desbloqueo: Completar Modo Aventura</color>\n<color=#3D1400>Daño:</color><color=red>20*5 cada 1.5s</color>\n<color=#3D1400>Especial:</color> <color=red>Al tener un enemigo en su fila, lanza 5 cuchillas de hielo que atraviesan 2 veces, aplican el estado criogénico, otorgan 5 puntos criogénicos, y causan 4x daño a los zombis congelados.</color></color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Kriulansum nucifera</color></size>\n<size=39><color=#3D1400>",
       "cost": "<size=39>Costo: <color=red>325</color>\nRecarga: <color=red>30 Segundos</color></size>"
     },
