@@ -239,8 +239,8 @@
     },
     {
       "seedType": 33,
-      "name": "Cortutia",
-      "introduce": "<size=39><color=#3D1400>Para las plantas, cómo girar sus pétalos sin dañar el tallo de la flor es un desafío técnico. Algunos botánicos creen que la Cortutia podría estar relacionada con el trébol. 'Esta es realmente una técnica difícil', dijo la Cortutia, fingiendo ser profunda. Su dificultad radica en comprar una sierra circular lo suficientemente ligera y pintar los pétalos.</color>",
+      "name": "Florafilo",
+      "introduce": "<size=39><color=#3D1400>Para las plantas, cómo girar sus pétalos sin dañar el tallo de la flor es un desafío técnico. Algunos botánicos creen que la Florafilo podría estar relacionada con el Trebolador. 'Esta es realmente una técnica difícil', dijo la Florafilo, fingiendo ser profunda. Su dificultad radica en comprar una sierra circular lo suficientemente ligera y pintar los pétalos.</color>",
       "info": "<size=39>¡Ataca a los zombis cercanos con sus hojas!\n\n<color=#3D1400>Características:</color><color=red> Cuando los zombis se acercan, gira sus hojas, causando 5 de daño (a los zombis cercanos) cada 0.02 segundos (daño en grupo)</color>",
       "cost": "<size=39>Costo: <color=red>100</color>\nRecarga: <color=red>7.5 segundos</color>"
     },
@@ -257,28 +257,28 @@
       "name": "Plantérmica",
       "introduce": "<size=39><color=#3D1400>La Plantérmica recibió el sexto premio “Plantar por Placer” de las Tierras Nevascas. Las plantas están de acuerdo en que su premio es bien merecido, ya que para ayudar a sus compañeros a mantenerse calientes, ni siquiera tuvo tiempo de limpiar la nieve acumulada en su cabeza.</color></size>",
       "info": "<size=39>Protege a las plantas alrededor suyo del frío.</color>\n\n<color=#3D1400>Especial:</color> <color=red>Calienta a las plantas dentro de un área de 3x3, protegiéndolos de ser congelados.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Piinak fogeae</color></size>",
-      "cost": "Costo: <color=red>100</color>\nRecarga: <color=red>7.5 segundos</color>"
+      "cost": "Costo: <color=red>25</color>\nRecarga: <color=red>7.5 segundos</color>"
     },
     {
       "seedType": 36,
-      "name": "Arquero de Abeto",
-      "introduce": "<size=39><color=#3D1400>El Arquero de Abeto acaba de mudarse a la tundra. Su expresión seria y sus labios apretados lo hacen parecer intimidante, pero el Pequeño Horno no tiene miedo, pues sabe que es solo la nueva prenda de su amigo para protegerse del frío extremo.</color></size>",
-      "info": "<size=39>Un arquero resistente al frío que dispara flechas de abeto capaces de atravesar.\n\n<color=#3D1400>Daño:</color><color=red>20 cada 1.5s</color>\n<color=#3D1400>Características:</color><color=red>Inmune a silencio y congelación. Las flechas pueden atravesar una vez (incluso bloques de hielo) e ignorar la armadura portadora.</color></size>",
-      "cost": "<size=39>Costo: <color=red>175</color>\nTiempo de recarga: <color=red>7.5s</color></size>"
+      "name": "Claveto",
+      "introduce": "<size=39><color=#3D1400>El Claveto acaba de mudarse a la tundra. Su expresión seria y sus labios apretados lo hacen parecer intimidante, pero su compañero, la Plantérmica no tiene miedo, pues sabe que es solo la nueva prenda de su amigo para protegerse del frío extremo.</color></size>",
+      "info": "<size=39>El Claveto lanza clavos de abeto capaces de atravesar zombis.\n\n<color=#3D1400>Daño:</color> <color=red>20 cada 1.5s\n<color=#3D1400>Especial:</color> <color=red>Inmune al congelamiento. Sus clavos pueden atravesar una vez a los zombis y bloques de hielo.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Abies clavium</color></size>\n<size=39><color=#3D1400>",
+      "cost": "<size=39>Costo: <color=red>175</color>\nRecarga: <color=red>7.5 Segundos</color></size>"
     },
     {
       "seedType": 37,
-      "name": "Flor de Loto de Hielo",
-      "introduce": "<size=39><color=#3D1400>La Flor de Loto de Hielo abrió una pequeña clínica. “Si tienes resfriado, tenemos loto tibio. Si tienes fiebre, por favor usa el loto refrescante…” La clínica acaba de abrir, con pocos remedios, pero el problema real es la falta de agua caliente para las infusiones.</color></size>",
-      "info": "<size=39>Un sanador resistente al frío que obtiene energía en el frío para sanar plantas cercanas.\n\n<color=#3D1400>Características:</color><color=red>Inmune a silencio y congelación. Gana 1 carga cada 10s o cuando es afectada por efectos de bolas de nieve o pinchos de nieve. Al acumular 5 cargas, despierta y cura 50 a las plantas cercanas en un área 3×3 cada 3 segundos durante 5 segundos, luego se duerme.</color></size>",
-      "cost": "<size=39>Costo: <color=red>50</color>\nTiempo de recarga: <color=red>30s</color></size>"
+      "name": "Loto Níveo",
+      "introduce": "<size=39><color=#3D1400>El Loto Níveo abrió hace unos dias una pequeña clínica. \u0022Si tienes resfriado, tenemos loto tibio. Si tienes fiebre, por favor usa el loto refrescante…\u0022 Dice el. La clínica acaba de abrir, con pocos remedios, pero el problema real es la falta de agua caliente para las infusiones.</color></size>",
+      "info": "<size=39>¡Sana a las plantas alrededor de ella con el frío!\n\n<color=#3D1400>Especial:</color> <color=red>Inmune a ser congelado. Gana 1 carga gélida cada 10 segundos cuando es afectada por efectos de bolas de nieve y tridentes gélidos. Al acumular 5 cargas, despierta y cura 50 a las plantas cercanas en una área de 3x3 cada 3 segundos durante 5 segundos, y luego se duerme.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Tondruff nucifera</color></size>\n<size=39><color=#3D1400>",
+      "cost": "<size=39>Costo: <color=red>50</color>\nRecarga: <color=red>30 Segundos</color></size>"
     },
     {
       "seedType": 38,
-      "name": "Aloe Gota de Agua",
-      "introduce": "<size=39><color=#3D1400>Las plantas siempre le preguntan al Aloe Gota de Agua por qué no es médico como sus parientes. Aloe responde: “En realidad, soy estudiante de medicina, solo que sé calmar, no aliviar el dolor…”</color></size>",
-      "info": "<size=39>Un lanzador resistente al frío que lanza gotas de agua, pero en condiciones frías lanza bloques de hielo.\n\n<color=#3D1400>Daño:</color><color=red>20 cada 3s</color>\n<color=#3D1400>Características:</color><color=red>Inmune a silencio. Al ser afectado por efectos de bolas de nieve, pinchos de nieve o hongos de hielo, recibe 1 carga/1 carga/15 cargas. Puede usar 1 carga para lanzar un bloque de hielo que hace el doble de daño, aplica un estado de frío de nivel 1, inflige 40 de congelación y hace el cuádruple de daño a los zombis congelados.</color>\n<color=#3D1400>Estado de frío nivel:</color><color=red>Por defecto es 0, como el guisante de hielo. Zombis con nivel 1 de defensa contra frío, como los de nieve, son inmunes a los estados de frío de nivel 0. Zombis con nivel 2 de defensa contra frío, como los trineos, son inmunes a los estados de frío de nivel 2 y menores.</color></size>",
-      "cost": "<size=39>Costo: <color=red>75</color>\nTiempo de recarga: <color=red>7.5s</color></size>"
+      "name": "Sábila",
+      "introduce": "<size=39><color=#3D1400>Las plantas siempre le preguntan a la Sábila por qué no es médico como sus parientes. Ella responde: \u0022En realidad, soy estudiante de medicina, solo que sé calmar, no aliviar el dolor…\u0022</color></size>",
+      "info": "<size=39>¡Puede lanzar gotas de agua que se congelan!\n\n<color=#3D1400>Daño:</color> <color=red>20 cada 3s\n<color=#3D1400>Especial:</color> <color=red>Inmune al congelamiento. Al ser afectado por bolas de nieve, tridentes gélidos o setas congeladas, recibe 1 carga/1 carga/15 cargas. Puede utilizar una carga para lanzar un bloque de hielo que hace el doble de daño, aplica un estado criogénico de nivel 1, inflinge 40 puntos de congelación, y hace el cuádruple de daño a los zombis congelados.\n<color=#3D1400>Niveles de Estado Criogénico:</color> <color=red>Por defecto, las plantas dentro del sistema criogénico son de nivel 0, como el melón o guisante de hielo. Zombis Criogénicos de Nivel 1, como los Yombis, son inmunes a ser congelados por plantas de nivel 0. Zombis Criogénicos de Nivel 2, como los Zombictores, son inmunes a ser congelados por plantas de nivel 2 o menor.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Aloe Weathiiru</color></size>\n<size=39><color=#3D1400>",
+      "cost": "<size=39>Costo: <color=red>75</color>\nRecarga: <color=red>7.5 Segundos</color></size>"
     },
     {
       "seedType": 39,
@@ -1066,31 +1066,32 @@
     },
     {
       "seedType": 235,
-      "name": "Maracañon Doble",
-      "introduce": "<color=#3D1400>El Cañón Doble de Maracuyá solo dispara un proyectil a la vez, entonces, ¿a qué se refiere el 'doble'? Oh, es el sonido de los huesos de los zombis rompiéndose.</color>",
-      "info": "Un maracuyá flotante que dispara semillas de maracuyá para atacar a los enemigos.\n<color=blue>Planta de la colaboración con PVZ SHUTTLE</color>\n\n<color=#4A2900>Desbloqueo: Completar Modo Aventura</color>\n<color=#3D1400>Daño:</color><color=red>39/1.5 segundos</color>\n<color=#3D1400>Características:</color><color=red>Planta voladora, los proyectiles infligen un 10% adicional del HP máximo a los zombis con cascos</color>\n<color=#3D1400>Habilidad especial:</color><color=red>Consume 3000 monedas para disparar una semilla gigante de maracuyá que inflige 40 de daño, reduciendo el tamaño y la vida de los zombis a 0.7x al impactar, enfriamiento 2 segundos</color>",
-      "cost": "Costo: <color=red>100</color>\nRecarga: <color=red>7.5 segundos</color>"
+      "name": "Maracañón",
+      "introduce": "<size=39><color=#3D1400>Las plantas usualmente subestiman a la Maracañón por su baja estatura, y que \u0022no sirve dentro del campo de batalla\u0022, pero a Maracañón no le importa. Maracañón es feliz. Maracañón es vida. Se como Maracañón.</color></size>",
+      "info": "<size=39>Una maracuyá flotante que dispara semillas de maracuyá para atacar.\n<color=blue>Planta de la colaboración con PVZ SHUTTLE</color>\n\n<color=#3D1400>Desbloqueo: </color><color=red>Completar Modo Aventura</color>\n<color=#3D1400>Daño:</color> <color=red>39 cada 1.5s\n<color=#3D1400>Especial:</color> <color=red>Esta planta ocupa solo un espacio aereo. Sus proyectiles infligen un 10% adicional de daño del PS máximo de zombis con casco. Puede consumir 3000 monedas para disparar una semilla gigante que inflige 40 de daño, reduciendo el tamaño y vida de los zombis a 0.7x al impactar (su enfriamiento es de 2 segundos).</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Passiflora Buletis</color></size>\n<size=39><color=#3D1400>",
+      "cost": "<size=39>Costo: <color=red>100</color>\nRecarga: <color=red>7.5 Segundos</color></size>"
     },
     {
       "seedType": 236,
-      "name": "Pera Helada",
-      "introduce": "<color=#3D1400>“Caí de un peral y he estado aquí mucho tiempo,” dice la Pera Helada. “Lamentablemente, no había científicos bajo el árbol. Pero puedo reflexionar sobre filosofía por mi cuenta.” Cuánto tiempo reflexiona depende de cuándo los zombis sin cerebro la interrumpan.</color>",
-      "info": "Cuando es mordida, libera periódicamente una onda de choque de corto alcance, infligiendo daño y aplicando un estado de frío.\n<color=blue>Planta de la colaboración con PVZ SHUTTLE</color>\n\n<color=#4A2900>Desbloqueo: Completar Modo Aventura</color>\n<color=#3D1400>Resistencia:</color><color=red>4000</color>\n<color=#3D1400>Características:</color><color=red>Cuando es mordida, cada 3 segundos inflige 20 de daño a los enemigos en un rango pequeño, aplica un estado de frío y otorga 35 puntos de congelación</color>",
-      "cost": "Costo: <color=red>150</color>\nRecarga: <color=red>30 segundos</color>"
+      "name": "Pera Polar",
+      "introduce": "<size=39><color=#3D1400>\u0022Caí de un peral y he estado aquí mucho tiempo,\u0022 dice la Pera Helada. \u0022Lamentablemente, no había científicos bajo el árbol. Pero puedo reflexionar sobre filosofía por mi cuenta.\u0022 Cuánto tiempo reflexiona depende de cuánto tiempo pasa sin que los zombis la interrumpan.</color></size>",
+      "info": "<size=39>Cuando es mordida, libera periódicamente una onda de choque de corto alcance, infligiendo daño y relentizando zombis. Es parte del <color=#0077b6>Sistema Criogénico.\n<color=blue>Planta de la colaboración con PVZ SHUTTLE</color>\n\n<color=#0077b6>Sistema Criogénico:</color><color=#28567B>\n- Aplica 35 puntos al atacar.</color><color=#3D1400>\n<color=#4A2900>Desbloqueo: Completar Modo Aventura</color>\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Daño:</color> <color=red>20 cada 3s\n<color=#3D1400>Especial:</color> <color=red>Cuando es mordida, cada 3 segundos inflige 20 de daño a los enemigos en un rango pequeño, aplica el estado criogénico y otorga 35 puntos criogénicos.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Pyrus gelitus</color></size>\n<size=39><color=#3D1400>",
+      "cost": "<size=39>Costo: <color=red>150</color>\nRecarga: <color=red>30 Segundos</color></size>"
     },
     {
       "seedType": 237,
-      "name": "Caballero Loto Helado",
-      "introduce": "<color=#3D1400>Aunque a menudo grita '¡Cortar cabezas, cortar cabezas!', el Caballero Loto Helado no es beligerante. Como la culminación de las artes marciales de la Montaña Nevada, su dominio para convertir agua en hielo y forjar hielo en cuchillas es suficiente para intimidar a los malhechores.</color>",
-      "info": "Lanza 5 cuchillas de hielo en un área en forma de abanico hacia adelante de una vez.\n<color=blue>Planta de la colaboración con PVZ SHUTTLE</color>\n\n<color=#4A2900>Desbloqueo: Completar Modo Aventura</color>\n<color=#3D1400>Daño:</color><color=red>20×5/1.5 segundos</color>\n<color=#3D1400>Características:</color><color=red>Busca enemigos en su fila, los ataques atraviesan 2 veces, aplican un estado de frío, otorgan 5 puntos de congelación y causan 4x daño a los zombis congelados</color>",
-      "cost": "Costo: <color=red>325</color>\nRecarga: <color=red>30 segundos</color>"
+      "name": "Lanceloto",
+      "introduce": "<size=39><color=#3D1400>Aunque a menudo grita '¡Cortar cabezas, cortar cabezas!', el Lanceloto no es beligerante. Como la culminación de las artes marciales de una tal Montaña Nevada, su dominio para convertir agua en hielo y forjar hielo en cuchillas es suficiente para intimidar a los malhechores.</color></size>",
+      "info": "<size=39>Un maestro en relentizar y congelar zombis. Es parte del <color=#0077b6>Sistema Criogénico.\n<color=blue>Planta de la colaboración con PVZ SHUTTLE</color>\n\n<color=#0077b6>Sistema Criogénico:</color><color=#28567B>\n- Sus cuchillas aplican 5 puntos criogénicos. Al tener un zombi congelado, a este se le causará x4 de daño.</color><color=#3D1400>\n<color=#4A2900>Desbloqueo: Completar Modo Aventura</color>\n<color=#3D1400>Daño:</color><color=red>20*5 cada 1.5s</color>\n<color=#3D1400>Especial:</color> <color=red>Al tener un enemigo en su fila, lanza 5 cuchillas de hielo que atraviesan 2 veces, aplican el estado criogénico, otorgan 5 puntos criogénicos, y causan 4x daño a los zombis congelados.</color></color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Kriulansum nucifera</color></size>\n<size=39><color=#3D1400>",
+      "cost": "<size=39>Costo: <color=red>325</color>\nRecarga: <color=red>30 Segundos</color></size>"
     },
     {
       "seedType": 238,
-      "name": "Crisantemo Otoñal",
-      "introduce": "<color=#3D1400>Al Crisantemo Otoñal Puro le encanta el entorno nevado, encuentra cada segundo aquí pleno y alegre. Después de todo, nunca antes había visto nieve.</color>",
-      "info": "Otorga invencibilidad a las plantas en un rango pequeño durante un período.\n<color=blue>Planta de la colaboración con PVZ ULTIMATE</color>\n\n<color=#4A2900>Desbloqueo: Completar Modo Aventura</color>\n<color=#3D1400>Características:</color><color=red>Después de 2 segundos vuelve a las plantas en un 3×3 inmunes al daño y al aplastamiento durante 6 segundos</color>",
-      "cost": "Costo: <color=red>100</color>\nRecarga: <color=red>50 segundos</color>"
+      "name": "Crisantemo",
+      "introduce": "<size=39><color=#3D1400>Al Crisantemo le encanta el entorno nevado mucho mas de lo que creía el; encuentra cada segundo ahi pleno y alegre. Después de todo, siempre se iba a lugares donde era otoño, y nunca le había dado oportunidad antes a las otras estaciones del año.</color></size>",
+      "info": "<size=39>Otorga invencibilidad a las plantas durante un tiempo.\n<color=blue>Planta de la colaboración con PVZ ULTIMATE</color>\n\n<color=#4A2900>Desbloqueo: Completar Modo Aventura</color>\n<color=#3D1400>Especial:</color> <color=red>Después de estar en el campo por 2 segundos, desaparece y vuelve a todas las plantas alrededor de el en un rango de 3x3 inmunes a ser aplastado o dañado durante 6 segundos.
+</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Chrysanthemum invinsibae</color></size>\n<size=39><color=#3D1400>",
+      "cost": "<size=39>Costo: <color=red>100</color>\nRecarga: <color=red>50 Segundos</color></size>"
     },
     {
       "seedType": 239,
