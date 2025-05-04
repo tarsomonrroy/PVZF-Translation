@@ -278,6 +278,7 @@
       "introduce": "<size=39><color=#3D1400>Las plantas siempre le preguntan a la Sábila por qué no es médico como sus parientes. Ella responde: \u0022En realidad, soy estudiante de medicina, solo que sé calmar, no aliviar el dolor…\u0022</color></size>",
       "info": "<size=39>¡Puede lanzar gotas de agua que se congelan!\n\n<color=#3D1400>Daño:</color> <color=red>20 cada 3s\n<color=#3D1400>Especial:</color> <color=red>Inmune al congelamiento. Al ser afectado por bolas de nieve, tridentes gélidos o setas congeladas, recibe 1 carga/1 carga/15 cargas. Puede utilizar una carga para lanzar un bloque de hielo que hace el doble de daño, aplica un estado criogénico de nivel 1, inflinge 40 puntos de congelación, y hace el cuádruple de daño a los zombis congelados.\n<color=#3D1400>Niveles de Estado Criogénico:</color> <color=red>Por defecto, las plantas dentro del sistema criogénico son de nivel 0, como el melón o guisante de hielo. Zombis Criogénicos de Nivel 1, como los Yombis, son inmunes a ser congelados por plantas de nivel 0. Zombis Criogénicos de Nivel 2, como los Zombictores, son inmunes a ser congelados por plantas de nivel 2 o menor.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Aloe Weathiiru</color></size>\n<size=39><color=#3D1400>",
       "cost": "<size=39>Costo: <color=red>75</color>\nRecarga: <color=red>7.5 Segundos</color></size>"
+
     },
     {
       "seedType": 39,
@@ -289,11 +290,11 @@
     },
     {
       "seedType": 41,
-      "name": "41"
+      "name": "40"
     },
     {
-      "seedType": 42,
-      "name": "42"
+      "seedType": 40,
+      "name": "40"
     },
     {
       "seedType": 43,
@@ -1101,7 +1102,19 @@
     },
     {
       "seedType": 238,
-      "name": "238"
+      "name": "235"
+    },
+    {
+      "seedType": 236,
+      "name": "236"
+    },
+    {
+      "seedType": 237,
+      "name": "237"
+    },
+    {
+      "seedType": 238,
+      "name": "237"
     },
     {
       "seedType": 239,
