@@ -32,14 +32,14 @@
         },
         {
             "theZombieType": 6,
-            "name": "Dancing Zombie",
-            "introduce": "<align=justified><size=36><color=black>Dancing Zombie's athletic skills are average by zombie standards. On the advice of the Backup Dancers, he decided to pursue the idol path. Now, his pop song \"Just Brains,\" a collaboration with Michael Jackson, is becoming a hit.</color>",
-            "info": "<size=36>After vaulting over, summons his backup dancers.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>Summons 4 Backup Dancers after jumping. Does not summon if the jumping is blocked.</color>"
+            "name": "Dancing Pole Vaulter",
+            "introduce": "<align=justified><size=36><color=black>Dancing Pole Vaulter's athletic skills are average by zombie standards. On the advice of the Backup Pole Vaulters, he decided to pursue the idol path. Now, his pop song \"Just Brains,\" a collaboration with Michael Jackson, is becoming a hit.</color>",
+            "info": "<size=36>After vaulting over, summons his Backup Pole Vaulters.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>Summons 4 Backup Pole Vaulters after jumping. Does not summon if the jumping is blocked.</color>"
         },
         {
             "theZombieType": 7,
-            "name": "Backup Dancer",
-            "introduce": "<align=justified><size=36><color=black>The four brothers, once troubled orphans, developed twisted personalities and bullied others at the Zombie Academy. One day, they saw Dancing Zombie performing joyfully on stage, and it changed them. From that moment, they joined him in performing on stage together.</color>",
+            "name": "Backup Pole Vaulter",
+            "introduce": "<align=justified><size=36><color=black>The four brothers, once troubled orphans, developed twisted personalities and bullied others at the Zombie Academy. One day, they saw Dancing Pole Vaulter performing joyfully on stage, and it changed them. From that moment, they joined him in performing on stage together.</color>",
             "info": "<size=36>Climb over a plant.\n\n<color=black>Toughness: </color><color=#4B0082>270</color>"
         },
         {
@@ -58,7 +58,7 @@
             "theZombieType": 10,
             "name": "Michael Zombie",
             "introduce": "<align=justified><size=36><color=black>Black suit, black hat—he's not here for a funeral. He's just a dancer, and you can call him Michael Zombie.</color>",
-            "info": "<size=36>Leads the charge with his ultimate dance moves.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>Summons 4 Dancing Zombies at a time, keeps summoning if a Dancing Zombie dies. Does not summon while eating.</color>"
+            "info": "<size=36>Leads the charge with his ultimate dance moves.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>Summons 4 Dancing Pole Vaulters at a time, keeps summoning if a Dancing Pole Vaulter dies. Does not summon while eating.</color>"
         },
         {
             "theZombieType": 11,
@@ -280,19 +280,19 @@
             "theZombieType": 49,
             "name": "Frost Legion Snowball Launcher",
             "introduce": "<align=justified><size=36><color=black>\"Snowball fight!\" Snowball Launcher Zombie wakes up from his icy slumber, flinging snowballs wildly in every direction.\n\n\"Should we tell him?\"\n\"Nah, let’s see how long it takes him to figure it out.\"\n\nSMACK!—Another snowball lands.\n\n\"That makes fourteen.\"</color>",
-            "info": "<size=36>Snowball Launcher Zombie can attack your plants with snowballs and freeze them.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Damage: </color><color=#4B0082>75 / 2 Seconds</color>\n<color=black>Traits: </color><color=#4B0082>After appearing, it will continually launch snowballs at plants, which will explode upon impact, causing 75 damage in a 3x3 range and disabling them for 5 seconds. Snowballs inflict 10 Cryo points to hypnotized zombies affected.</color>\n<color=black>Weakness: </color><color=#4B0082>Umbrella Rind</color>"
+            "info": "<size=36>Snowball Launcher Zombie can attack your plants with snowballs and freeze them.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Damage: </color><color=#4B0082>75 / 2 Seconds</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to Chill and Freeze. Vulnerable to Deep Chill.\n<color=black>•</color> After appearing, it will continually launch snowballs at plants, which will explode upon impact, causing 75 damage in a 3x3 range and disabling them for 5 seconds. Snowballs inflict 10 Cryo points to hypnotized zombies affected.</color>\n<color=black>Weakness: </color><color=#4B0082>Umbrella Rind</color>"
         },
         {
             "theZombieType": 50,
             "name": "Frost Legion Shieldbearer",
             "introduce": "<align=justified><size=36><color=black>Frost Legion Shieldbearer was once an elite soldier on the battlefield. Now retired, he’s the reigning champion of the graveyard snowball fight tournament. He treasures the shield that brought him so much glory, constantly checking it for scratches—though some say that very habit might be what got him injured and retired in the first place.</color>",
-            "info": "<size=36>A shieldbearer from the snowy plains, he deflects straight-firing projectiles and returns them as snowballs.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 2200 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Chill and Freeze. Raises shield every 1.5 seconds to reflect straight-firing projectiles as snowballs. Takes 20 damage when reflecting and does not block the projectile. Delivers shield bashes instead of biting when holding the shield, dealing 50 damage.</color>"
+            "info": "<size=36>A shieldbearer from the snowy plains, he deflects straight-firing projectiles and returns them as snowballs.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 2200 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to Chill and Freeze. Vulnerable to Deep Chill.\n<color=black>•</color> Raises shield every 1.5 seconds to reflect straight-firing projectiles as snowballs. Takes 20 damage when reflecting and does not block the projectile. Delivers shield bashes instead of biting when holding the shield, dealing 50 damage.</color>"
         },
         {
             "theZombieType": 51,
             "name": "Frost Legion Trident Thrower",
             "introduce": "<align=justified><size=36><color=black>At the ongoing 5th Undead Olympics Winter Games, Frost Legion Trident Thrower hogs all the spotlight. He plans to use his prize money to buy a new sled for himself and his crew—and maybe treat them to a luxurious foot massage to make up for all the damage from stepping on Spikeweeds.</color>",
-            "info": "<size=36>From the snowy plains comes the Frost Legion Trident Thrower — silencing foes with every icy toss!\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Chill and Freeze. Inherits traits from Trident Zombie. Ice Tridents are not attracted to Umbrellas and apply Silence for 5 seconds on hit.</color>"
+            "info": "<size=36>From the snowy plains comes the Frost Legion Trident Thrower — silencing foes with every icy toss!\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to Chill and Freeze. Vulnerable to Deep Chill.\n<color=black>•</color> Inherits traits from Trident Zombie. Ice Tridents are not attracted to Umbrellas and apply Silence for 5 seconds on hit.</color>"
         },
         {
             "theZombieType": 52,
@@ -303,8 +303,20 @@
         {
             "theZombieType": 53,
             "name": "Frost Legion Floating Disk",
-            "introduce": "<align=justified><size=36><color=black>Before every liftoff, the crew of the Floating Disk spends half an hour clearing snow and ice — and dragging out the Blizzardsnatches hiding in the corners. \"Getting this frozen lump off the ground eats up a ridiculous amount of fuel,\" the pilot grumbles.</color>",
+            "introduce": "<align=justified><size=36><color=black>Before every liftoff, the crew of the Floating Disk spends half an hour clearing snow and ice — and dragging out the Snowmaws hiding in the corners. \"Getting this frozen lump off the ground eats up a ridiculous amount of fuel,\" the pilot grumbles.</color>",
             "info": "<size=36>It’s snowing! This chilly guest drifts in with flurries, silences plants, and leaves with backup.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Blover. Creates snowflakes while moving, silencing plants below. Slows down over time — when speed reaches zero, reverses direction. Upon exit, summons a Frost Legion Squad: one each of Shieldbearer, Snowball Launcher, and Trident Thrower Zombies.</color>"
+        },
+        {
+            "theZombieType": 55,
+            "name": "Frost Legion Blockhead Zombie",
+            "introduce": "<align=justified><size=36><color=black>This flavor text is frozen.</color>",
+            "info": "<size=36>A legionnaire zombie wearing an iceblock helmet.\n\n<color=black>Toughness: </color><color=#4B0082>500 + 370 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Chill and Freeze. Vulnerable to Deep Chill.</color>"
+        },
+        {
+            "theZombieType": 56,
+            "name": "Snowmaw",
+            "introduce": "<align=justified><size=36><color=black>Research into the biological classification of Snowmaws has seen little progress. After all, you can't expect zombies—who lack brains—to be academically sharp. Most can’t even tell a real Snowmaw from a Yeti Zombie in a Snowmaw pelt. Thankfully, Dr. Edgar offered a brilliant method: 'The smarter-looking one is the Snowmaw.'</color>",
+            "info": "<size=36>A neutral creature native to the snowy plains.\n\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>When zombies destroy an Iceblock with no corresponding Zombotany, a Snowmaw appears. It moves very slowly, crushes plants, but does not directly attack.</color>"
         },
         {
             "theZombieType": 100,
@@ -393,7 +405,7 @@
         {
             "theZombieType": 114,
             "name": "<size=30>Screen Door Buckshooter Zombie",
-            "introduce": "<align=justified><size=36><color=black>Screen Door Buckshooter Zombie loves piling on layers of iron gear, much to the confusion of his fellow zombies. \"If Magnet-shrooms can yank off our helmets, why not just wear MORE metal?\" he reasoned. His logic seemed sound—until he met the Magblover and learned that sometimes, less is more.</color>",
+            "introduce": "<align=justified><size=36><color=black>Screen Door Buckshooter Zombie loves piling on layers of iron gear, much to the confusion of his fellow zombies. \"If Magnet-shrooms can yank off our helmets, why not just wear MORE metal?\" he reasoned. His logic seemed sound—until he met the Magnet Blover and learned that sometimes, less is more.</color>",
             "info": "<size=36>The Buckshooter Zombie has acquired the equipment: a Screen Door!\n\n<color=black>Damage: </color><color=#4B0082>80 / 1.5 Seconds</color>\n<color=black>Toughness: </color><color=#4B0082>1350 + 1100 (Type 1) + 1100 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>Cosntantly shoots iron peas at your plants whilst having decent defense.</color>"
         },
         {
@@ -472,7 +484,7 @@
             "theZombieType": 207,
             "name": "Superstar Zombie",
             "introduce": "<align=justified><size=36><color=black>Superstar Zombie, a legendary idol in the zombie world, has extremely high standards for himself. After completing his studies at Edgar's Dance Academy, he mastered the Super Moonwalk, which was named \"The Sixth Wonder of the Zombie World,\" earning him a large fanbase.</color>",
-            "info": "<size=36>A fast-moving zombie that slides into your defense, a tough opponent to face.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>Slips into the battlefield, reduces damage by 90% while sliding, then summons 4 Dancing Zombies.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Michael Zombies and Superstar Zombies now ignore plants when entering the lawn.\n2. Now summons 4 Super Dancing Zombies instead.</color>"
+            "info": "<size=36>A fast-moving zombie that slides into your defense, a tough opponent to face.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>Slips into the battlefield, reduces damage by 90% while sliding, then summons 4 Dancing Pole Vaulters.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Michael Zombies and Superstar Zombies now ignore plants when entering the lawn.\n2. Now summons 4 Super Dancing Pole Vaulters instead.</color>"
         },
         {
             "theZombieType": 208,
@@ -490,11 +502,11 @@
             "theZombieType": 210,
             "name": "Giga Mecha-nut</size>",
             "introduce": "<align=justified><size=36><color=black>\"Fish balls? Mecha armor? That's all that matters,\" says Giga Mecha-nut. Sporting an impressive mechanical suit, he feels that's all he really needs.</color></size>",
-            "info": "<size=36>The new electric steam roller robot designed by Gfishtus Corps.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>Inherits traits from Mecha-nut Zombies. Super fast. Drops a Giga Mecha-nut Fragment upon defeat.</color></size>"
+            "info": "<size=36>The new electric steam roller robot designed by Gfishtus Corps.\n\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>Inherits traits from Mecha-nut Zombies. Super fast. Drops a Giga Mecha-nut Fragment upon defeat.</color></size>"
         },
         {
             "theZombieType": 211,
-            "name": "Terrestrial Sharkmarine</size>",
+            "name": "Grounded Sharkmarine</size>",
             "introduce": "<align=justified><size=36><color=black>Why is it here? Did it emerge from the groud? Or did it fall from the sky? No one really knows. What is certain is that those displaced dirt looking thingies are definitely camouflage.</color></size>",
             "info": "<size=36>A failed example of a Sharkmarine test.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>Sharkmarine, but on land and immobile.</color></size>"
         },
@@ -530,9 +542,9 @@
         },
         {
             "theZombieType": 217,
-            "name": "Super Dancing Zombie",
-            "introduce": "<align=justified><size=36><color=black>The zombies cheer as Super Dancing Zombie defies gravity yet again. \"Oh, you know, just talent,\" he winks. But behind that effortless showmanship? He's clocking in two shifts a day, training until even his undead legs ache. The secret to greatness? \"Twice the grind, twice the air time!\"</color>",
-            "info": "<size=36>Can jump over two tiles.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>Traits: </color><color=#4B0082>Inherits all other traits from Michael Zombie.</color>"
+            "name": "Super Dancing Pole Vaulter",
+            "introduce": "<align=justified><size=36><color=black>The zombies cheer as Super Dancing Pole Vaulter defies gravity yet again. \"Oh, you know, just talent,\" he winks. But behind that effortless showmanship? He's clocking in two shifts a day, training until even his undead legs ache. The secret to greatness? \"Twice the grind, twice the air time!\"</color>",
+            "info": "<size=36>Can jump over two tiles.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>Inherits all other traits from Michael Zombie.</color>"
         },
         {
             "theZombieType": 218,
@@ -587,6 +599,12 @@
             "name": "Alpha Assassin Squad",
             "introduce": "<align=justified><size=36><color=black>The Alpha Assassin Squad moves like shadows, striking faster than a breath and leaving no trace behind—except for the occasional zombie body, of course. They never miss a target, and they never leave anyone alive to tell the tale.</color>",
             "info": "<size=36>Typically operating in pairs, with elite members deploying as a full squad when necessary.\n\n<color=black>Damage: </color><color=#4B0082>500 x 2</color>\n<color=black>Toughness: </color><color=#4B0082>6000 + 6000 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>Immune to being hypnotized. Usually appear in pairs. When appearing as a miniboss, 5 spawn in one lane at once, with their health increased by 5x. If they take fatal damage while any member of the group is still alive, they become incapacitated. Otherwise, the whole squad dies simultaneously. While incapacitated, they're immune to damage and knockback (only for the first occasion), block projectiles, but won't be targeted by plants. After 10 seconds of incapacitation, they revive with full health, charge forward 2.5 tiles, dealing 500 damage to all plants they collide with, and trigger a Jack-in-the-Box Explosion. If killed by Chompers or other insta-kill methods, both they and their squad immediately perish.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Now always invincible when incapacitated.\n2. Can now appear as a Mini-boss.</color>"
+        },
+       {
+            "theZombieType": 227,
+            "name": "Frost Tall-nut Sentinel Zombie",
+            "introduce": "<align=justified><size=36><color=black>Runic horror placeholder.</color>",
+            "info": "<size=36>Frost Tall-nut Zombies with icy claws. They pack a punch.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 2200 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Inherits traits from Frost Tall-nut Zombie. Transformed from regular zombies by Doominator-shroom and Thornminator.</color>"
         }
     ]
 }

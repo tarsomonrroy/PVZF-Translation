@@ -47,7 +47,7 @@
     "SunBomb": {
         "achievement": 8,
         "Name": "Make one Solar Bomb explode 10 zombies at once.",
-        "Text": "One Light a Day"
+        "Text": "One Flash a Day"
     },
     "BigWallNut2": {
         "achievement": 10,
@@ -82,7 +82,7 @@
     "LilyPad": {
         "achievement": 16,
         "Name": "Make Lily Pad produce a plant.",
-        "Text": "The Young Lotus Has Just Revealed its Pointed Tip"
+        "Text": "Young Lotus' \nPointed Tip"
     },
     "ThreePeater": {
         "achievement": 17,
@@ -97,7 +97,7 @@
     "ThreeSpike": {
         "achievement": 19,
         "Name": "Use Weed-spreader to burst tires.",
-        "Text": "Who Needs Spikerock?"
+        "Text": "Tumble Tire"
     },
     "SunSeaShroom": {
         "achievement": 20,
@@ -312,7 +312,7 @@
     "SuperSunNut": {
         "achievement": 62,
         "Name": "Spawn a Giant-nut from Twin Solar-nut.",
-        "Text": "Give Me Some Sunshine"
+        "Text": "Here Comes the Sun"
     },
     "UltimatePumpkin": {
         "achievement": 63,
