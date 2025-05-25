@@ -36,7 +36,7 @@
   },
 "CherryPaper95": {
   "achievement": 9,
-  "Name": "Encuentra al Vegezombi Cerezantralladora",
+  "Name": "Encuentra al Vegezombi Becario.",
   "Text": "¿Fragariafobia?"
   },
 "Puff": {
@@ -62,7 +62,7 @@
 "HypnoShroom": {
   "achievement": 12,
   "Name": "Hipnotiza un zombi usando una Hipnoseta",
-  "Text": "¡Lo siento!, ¡Esta vez no!"
+  "Text": "Aliado Forzado"
   },
 "JacksonZombie": {
   "achievement": 13,
@@ -106,7 +106,7 @@
   },
 "StarBlover": {
   "achievement": 21,
-  "Name": "Usa una Trebostela para atraer estrellas.",
+  "Name": "Usa un Frustrebol para atraer estrellas.",
   "Text": "Manager de Estrellas"
   },
 "MagnetShroom": {
@@ -126,7 +126,7 @@
   },
 "CabbageUmbrella": {
   "achievement": 25,
-  "Name": "Usa una Paracoles para catapultar balas de plantas.",
+  "Name": "Usa un Paracol para catapultar balas de plantas.",
   "Text": "¡Dime vaquero!"
   },
 "GoldMelon": {
@@ -202,7 +202,7 @@
 "SuperCherryShooter": {
   "achievement": 40,
   "Name": "Descubre la Lanzacerezas Explosiva.",
-  "Text": "¿Está disparando cerezas que explotan?"
+  "Text": "¿¡Como que explotan!?"
   },
 "UltimateGatling": {
   "achievement": 41,
@@ -361,7 +361,7 @@
 },
 "Travel_noNut": {
   "achievement": 1005,
-  "Name": "Completa el Modo Odisea sin usar Cerezilla, Nuez Obsidiana, Nuez Kirov o Emperador del Sol.",
+  "Name": "Completa el Modo Odisea sin ocupar nueces.",
   "Text": "La mejor defensa es un buen ataque"
 },
 "Travel_sun": {
@@ -381,7 +381,7 @@
 },
 "SuperDamage": {
   "achievement": 1009,
-  "Name": "Mata a un Zombistein Abisal en 10 segundos sin atributos de corrupción.",
+  "Name": "Mata a un Zombistein Abisal en 10 segundos\nsin el modificador de Corrupción.",
   "Text": "Fuerza absoluta"
 }
 }

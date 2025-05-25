@@ -4071,7 +4071,14 @@
     },
     {
       "seedType": 943,
+<<<<<<< Updated upstream
       "name": "943"
+=======
+      "name": "Astromaíz II",
+      "introduce": "<size=39><color=#3D1400>Nació en los albores del universo, su edad es incalculable. Recogió tres estrellas del universo primigenio como sus satélites, y ni siquiera los agujeros negros pueden arrebatárselos. en cambio, Astromaíz I murió. Que en paz descanse.</color></size>",
+      "info": "<size=39>Puede lanzar un agujero negro masivo, que al colapsar genera una explosión y libera la energía que absorbió.\n\n<color=#3D1400>Daño:</color> <color=red>300 cada 2s\n\n<color=#3D1400>Especial:</color> <color=red>Tiene un 75% de probabilidad de lanzar granos de maíz, que reduce el tamaño y la salud de los zombis no encogidos a 0.7 veces. Si no, los congela durante 1.5 segundos y puede eliminar de un golpe a los zombis pequeños. Tiene un 25% de probabilidad de lanzar un agujero negro, que permanece durante 2 segundos, causando desaceleración en el área e absorbiendo los granos de maíz dentro de su alcance (las balas absorbidas aumentan el daño de la explosión posterior). El área de efecto es una de 3x3. Cada absorción aumenta 2 segundos el tiempo de duración del agujero negro, hasta un máximo de 10 segundos. Cuando el agujero negro desaparece, genera una explosión en área, similar a la Petacereza. Si el tiempo de duración es mayor a 7.5 segundos, el radio de daño se duplica.\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color>- El agujero negro que invoca puede absorber cualquier proyectil.</color></color>\n</color>- El área de atracción del agujero negro que invoca se incrementa significativamente.</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Maizetita + Cronomaíz</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Maizacronum hypaemyth</color></size>",
+      "cost": "<size=33>Costo: <color=red>300, 450</color>   Recarga: <color=red>30 Segundos</color>\nPlantas Requeridas: <color=red>4 (+ Cronofragmento)\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
+>>>>>>> Stashed changes
     },
     {
       "seedType": 944,
@@ -4691,8 +4698,8 @@
     },
     {
       "seedType": 1056,
-      "name": "Altorcha",
-      "introduce": "<size=39><color=#3D1400>\"El fuego lucha por existir bajo el agua, lo que significa que no puedo usar mis llamas para iluminar el camino,\" admitió Altorcha. \"Pero una vez sobre la superficie, mis llamas pueden brillar nuevamente.\"</color></size>",
+      "name": "Algantorcha",
+      "introduce": "<size=39><color=#3D1400>\"El fuego lucha por existir bajo el agua, lo que significa que no puedo usar mis llamas para iluminar el camino,\" admitió Algantorcha. \"Pero una vez sobre la superficie, mis llamas pueden brillar nuevamente.\"</color></size>",
       "info": "<size=39>Enciende balas de alga o arrastra zombis al agua.\n\n<color=#3D1400>Especial: </color><color=red>Enciende guisantes y balas de alga. Las balas de alga encendidas pueden añadir 1 valor de enredadera a todos los zombis en el rango de salpicadura.</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Zampalga + Plantorcha\n<color=#3D1400>Nombre Científico: </color><color=red>Hydra Ignis</color></size>",
       "cost": ""
     },
@@ -4796,8 +4803,8 @@
     },
     {
       "seedType": 1071,
-      "name": "Metanoseta",
-      "introduce": "<size=39><color=#3D1400>Metanoseta: el chef estrella de la flora tóxica. Sus especialidades: soufflés de gas inflamable y flambés zombi.</color></size>",
+      "name": "Gasoseta Ígnea",
+      "introduce": "<size=39><color=#3D1400>Gasoseta Ígnea: el chef estrella de la flora tóxica. Sus especialidades: soufflés de gas inflamable y flambés zombi.</color></size>",
       "info": "<size=39>Parte del <color=#FF4500>Sistema de Quemaduras</color>\n\n<color=#3D1400>Sistema de Quemaduras:</color>\n- Aplica <color=red>Quemadura</color> con vapores en área 3x3.\n\n<color=#3D1400>Daño Base:</color> <color=red>40×4/1.9s</color>\n<color=#3D1400>Fórmula de Fusión:</color> <color=red>Jalapeño + Gasoseta</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Mycotis Gas Ignis</color></size>",
       "cost": ""
     },
@@ -5157,9 +5164,15 @@
     {
       "seedType": 1122,
       "name": "Ajicañón",
+<<<<<<< Updated upstream
       "introduce": "<size=39><color=#3D1400>El Ajicañón tiene una carrera explosiva en la creación de palomitas de maíz, su aroma a pimiento hace que los zombis huyan despavoridos, calentando el ambiente al instante. Incluso si se quema un poco, no importa. Recientemente ha pensado en tener una cena de hotpot con el Metanoseta.</color>",
       "info": "<size=39>Puede disparar manualmente proyectiles de fuego que causan 3600 de daño en un área de 3×3 zombis, aplicando también el efecto de quemadura. Además, puede fusionarse con plantas dentro del área de impacto para aplicar el efecto del Jalapeño.\n\n<color=#3D1400>Daño:</color><color=red>3600 (Área) con efecto de calor rojo</color>\n<color=#3D1400>Características:</color><color=red>Fusiona con Jalapeño a las plantas dentro del área de impacto</color>\n<color=#3D1400>Fórmula de Fusión:</color><color=red>Mazorcañón + Jalapeño</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Zea Mays Ignicannonius</color>",
       "cost": ""
+=======
+      "introduce": "<size=39><color=#3D1400>El Ajicañón tiene una carrera explosiva en la creación de palomitas de maíz, su aroma a pimiento hace que los zombis huyan despavoridos, calentando el ambiente al instante. Incluso si se quema un poco, no importa. Recientemente ha pensado en tener una cena de hotpot con la Gasoseta Ígnea.</color>",
+      "info": "<size=39>Puede disparar manualmente proyectiles de fuego que causan 3240 de daño en un área de 3×3 zombis, aplicando también el efecto de quemadura. Además, puede fusionarse con plantas dentro del área de impacto para aplicar el efecto del Jalapeño.\n\n<color=#3D1400>Daño:</color><color=red>3240 (Área) con efecto de calor rojo</color>\n<color=#3D1400>Características:</color><color=red>Fusiona con Jalapeño a las plantas dentro del área de impacto</color>\n<color=#3D1400>Fórmula de Fusión:</color><color=red>Mazorcañón + Jalapeño</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Zea Mays Ignicannonius</color>",
+      "cost": "<size=39>Costo: <color=red>425</color>   Recarga: <color=red>100 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+>>>>>>> Stashed changes
     },
     {
       "seedType": 1123,
@@ -5396,9 +5409,13 @@
     {
       "seedType": 1156,
       "name": "Zampalga Enflamada",
-      "introduce": "<size=39><color=#3D1400>\u0022Papá, como es mi existencia posible?\u0022 Pregunta Zampalga Enflamada. Altorcha responde: \u0022No soy tu padre. ahora piérdete y ahoga un zombi, que se yo.\u0022</color></size>",
+      "introduce": "<size=39><color=#3D1400>\u0022Papá, como es mi existencia posible?\u0022 Pregunta Zampalga Enflamada. Algantorcha responde: \u0022No soy tu padre. ahora piérdete y ahoga un zombi, que se yo.\u0022</color></size>",
       "info": "<size=39>Fuego dentro del agua... Ni siquiera voy a preguntar como.</color>\n\n<color=#3D1400>Daño:</color> <color=red>Muerte Instantánea</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Hydra Aequalis</color></size>",
+<<<<<<< Updated upstream
       "cost": ""
+=======
+      "cost": "<size=39>Planta Requerida: <color=red>Algantorcha</color></size>"
+>>>>>>> Stashed changes
     },
     {
       "seedType": 1157,
