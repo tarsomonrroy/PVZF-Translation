@@ -1,7 +1,10 @@
 # PVZRH-Multi-language-Mod-Translation files
 Translation files of the Multi-language Mod for PvZ: Fusion. The download for the Multi-language Mod can be found [here](https://rentry.co/playpvzfusion/). Current supported base game version: 2.6.1.
 
-## Instructions on Using the Scripts in [`Useful Scripts`]()
+## Notice to Translators
+The translator mod, PvZ_Fusion_Translator.dll, is currently closed source, but you can grab the latest build dll on the root directory of this repo's main branch. It is constantly updated.
+
+## Instructions on Using the Scripts in [`Useful Scripts`](https://github.com/Teyliu/PVZF-Translation/tree/main/Useful%20Scripts)
 
 There are 4 Python scripts.
 
