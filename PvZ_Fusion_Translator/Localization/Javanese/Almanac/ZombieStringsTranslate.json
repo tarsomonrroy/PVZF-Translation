@@ -1,532 +1,592 @@
 {
     "zombies": [
         {
-            "theZombieType": "0",
-            "name": "Mayit",
-            "introduce": "<size=36><color=black>Mayit ora seneng karo jenenge sing ndadekake dheweke katon kaya Mayit biasa. Dheweke ora nganggep awake dhewe minangka mungsuh sing ora dijenengi utawa mung mayit umum. individu, sial! Lan dheweke bakal nindakake perkara sing luar biasa, sanajan bisa mateni sampeyan.</color>",
-            "info": "<size=36>Mayit macem-macem Kebon Biasa.\n\n<color=black>Kateguhan: </color><color=#4B0082>270</color>"
+            "theZombieType": 0,
+            "name": "Zombi",
+            "introduce": "<size=36><color=black>Zombi ini sebel banget namanya bikin dia kelihatan kayak zombi biasa. Dia ngerasa dirinya unik dan spesial! Pokoknya dia bakal ngelakuin sesuatu yang luar biasa, meskipun itu bakal ngebunuh lo.",
+            "info": "<size=36>Jenis zombie biasa di lahan.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 270"
         },
         {
-            "theZombieType": "2",
-            "name": "Mayit Kerucut",
-            "introduce": "<size=36><color=black>Mayit Kerucut ora ngerti apa iku kerucut lalu lintas. Kanggo dheweke, katon kaya es krim, lan nalika ngerti ora bisa mangan, iku mung nempel ing sirahe.</color>",
-            "info": "<size=36>Pala kerucut lalu lintas dheweke nggawe dheweke tikel kaping pindho tinimbang Mayit biasa.\n\n<color=black>Kateguhan: </color><color=#4B0082>270+370</color>"
+            "theZombieType": 2,
+            "name": "Zombi Berkerucut",
+            "introduce": "<size=36><color=black>Zombi Berkerucut ini nggak tau kalau itu kerucut lalu lintas. Dia kira es krim, tapi pas tau nggak bisa dimakan, dia langsung bikin buat helm.",
+            "info": "<size=36>Kerucut di kepalanya membuatnya dua kali lebih keras dari zombie biasa.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 270+370"
         },
         {
-            "theZombieType": "3",
-            "name": "Pelompat Mayit",
-            "introduce": "<size=36><color=black>Nalika dadi pelompat dhuwur paling apik ing kuthane, karier Pelompat Mayit ganti nalika dheweke lali nyetel bantal ing mburi stand lompat dhuwur.</color>",
-            "info": "<size=36>Kubah Mayit Kubah Kubah nganggo tiang.\n\n<color=black>Kateguhan: </color><color=#4B0082>720</color>\n<color=black>Sipat: </color><color=#4B0082>Mlumpat liwat tanduran pisanan sing ketemu.</color>"
+            "theZombieType": 3,
+            "name": "Zombi Pelompat",
+            "introduce": "<size=36><color=black>Dulu dia atlit lompat tinggi terbaik di kotanya, tapi kariernya langsung hancur gara-gara dia lupa naro bantalan pas latihan.",
+            "info": "<size=36>Zombi yang melompat dengan tongkat olahraga.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 720\n<color=black>Sifat: </color><color=#4B0082>Melompati tanaman pertama yang dia temui."
         },
         {
-            "theZombieType": "4",
-            "name": "Mayit Ember",
-            "introduce": "<size=34><color=black>Biyen, Mayit Ember, sing mung dadi pelukis, diajeni minangka jenius ing antarane Mayit amarga kreatif nggunakake ember. Taun-taun wis liwati, lan saiki. para Mayit mikir yen dheweke isih duwe trik pembunuh rahasia apa dheweke kehabisan ide, utawa dheweke ndhelikake apa wae?</color>",
-            "info": "<size=34>Topi ember ndadekake dheweke tahan banget kanggo karusakan.\n\n<color=black>Kateguhan: </color><color=#4B0082>270+1100</color>"
+            "theZombieType": 4,
+            "name": "Zombi Berember",
+            "introduce": "<size=32><color=black>Dahulu kala, Buckethead Zombie, yang hanya seorang pelukis, dipuji sebagai seorang jenius di antara para zombie karena penggunaan ember secara kreatif. Bertahun-tahun telah berlalu, dan sekarang para zombie bertanya-tanya apakah dia masih memiliki trik pembunuh rahasia. Apakah dia kehabisan ide, atau dia menyembunyikan sesuatu? Siapa yang tahu?",
+            "info": "<size=30>Ember besi di kepala untuk zombie ini sangat tahan.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 270+1100"
         },
         {
-            "theZombieType": "5",
-            "name": "Koran Mayit",
-            "introduce": "<size=35><color=black>\"Sampeyan ora bisa nyalahake dheweke amarga frustasi; dheweke lagi arep ngrampungake teka-teki silang (tembung vertikal nomer 23 yaiku 'Otak'), sing nerangake sebabe dheweke nyekel kertas kasebut kanthi terbalik.\"</color>",
-            "info": "<size=35>Korane menehi pertahanan winates.\n\n<color=black>Kateguhan: </color><color=#4B0082>270+200</color>\n<color=black>Sipat: </color><color=#4B0082>Mlaku-mlaku ing wiwitan, nanging cepet sawise ilang koran.</color>"
+            "theZombieType": 5,
+            "name": "Zombi Berkoran",
+            "introduce": "<size=30><color=black>Anda tidak bisa menyalahkannya karena merasa frustasi; dia baru saja akan menyelesaikan teka-teki silang (kata vertikal nomor 23 adalah 'Otak'), yang menjelaskan mengapa dia memegang kertas secara terbalik.",
+            "info": "<size=32>Koran yang dipegangnya memberi sedikit perlindungan.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 270+200\n<color=black>Sifat: </color><color=#4B0082>Berjalan normal pada awalnya, tetapi bertambah cepat setelah kehilangan korannya."
         },
         {
-            "theZombieType": "6",
-            "name": "Nari Mayit",
-            "introduce": "<size=36><color=black>Katrampilan atletik Nari Mayit rata-rata miturut standar Mayit. Atas saran saka Backup Dancers, dheweke mutusake kanggo ngetutake dalan idola. Saiki, lagu pop \"Just Brains\", kolaborasi karo Michael Jackson, dadi hit.</color>",
-            "info": "<size=36>Sakwise ngukir, nimbali penari cadangane.\n\n<color=black>Ketangguhan: </color><color=#4B0082>720</color>\n<color=black>Sipat: </color><color=#4B0082>Nyeluk 4 Penari Backup.</color>"
+            "theZombieType": 6,
+            "name": "Zombi Penari",
+            "introduce": "<size=36><color=black>Keterampilan atletik Dancing Zombie adalah rata-rata menurut standar zombie. Atas saran dari Penari Latar, ia memutuskan untuk mengejar jalur idola. Sekarang, lagu popnya \"Just Brains\", sebuah kolaborasi dengan Michael Jackson, menjadi hit.",
+            "info": "<size=36>Memanggil Zombi Panggung setelah melompat.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 720\n<color=black>Sifat: </color><color=#4B0082>Memanggil 4 Penari Cadangan."
         },
         {
-            "theZombieType": "7",
-            "name": "Penari Serep",
-            "introduce": "<size=34><color=black>Sedulur papat, sing biyene bocah yatim piatu sing duwe masalah, ngembangake kapribaden sing bengkong lan ngganggu wong liya ing Akademi Mayit. Ing sawijining dina, dheweke weruh Dancing Mayit tampil kanthi bungah ing panggung, lan ngowahi dheweke. . Wiwit wektu iku, dheweke melu tampil ing panggung bebarengan.</color>",
-            "info": "<size=34>Mlumpat liwat tanduran.\n\n<color=black>Kateguhan: </color><color=#4B0082>270</color>"
+            "theZombieType": 7,
+            "name": "Zombi Panggung",
+            "introduce": "<size=30><color=black>Empat bersaudara, yang dulunya adalah anak yatim piatu yang bermasalah, mengembangkan kepribadian yang menyimpang dan menggertak orang lain di Akademi Zombie. Suatu hari, mereka melihat Dancing Zombie tampil dengan riang di atas panggung, dan hal itu mengubah mereka. Sejak saat itu, mereka bergabung dengannya untuk tampil di atas panggung bersama.",
+            "info": "<size=32>Zombi yang dipanggil dari tanah dalam tarian zombi.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 270"
         },
         {
-            "theZombieType": "8",
-            "name": "Mayit Nggawa Lawang",
-            "introduce": "<size=34><color=black>Mayit Nggawa Lawang, sing biyen dadi anggota gugus tugas FBI sing murka nanging ati sing jujur, ora tau rembugan karo perampok—dheweke mung ngrusak lawang kanggo nylametake para sandera. Sawise dadi Mayit, atine sing apikan tetep kaya nalika ndeleng Mayit nyulik Mayit hantu cilik, dheweke nyoba mlebu, nanging lawang ditutupi lem, njebak dheweke. tangan.</color>",
-            "info": "<size=34>Bisa ngalangi peluru saka ngarep.\n\n<color=black>Kateguhan: </color><color=#4B0082>270+1100</color>"
+            "theZombieType": 8,
+            "name": "Zombi Berpintu",
+            "introduce": "<size=30><color=black>Zombi Berpintu, yang dulunya adalah anggota satuan tugas FBI dengan temperamen yang buruk namun berhati baik, tidak pernah bernegosiasi dengan perampok-ia hanya mendobrak pintu untuk menyelamatkan para sandera. Setelah menjadi zombie, hati baiknya tetap sama. Ketika dia melihat para zombie menculik hantu zombie kecil, dia mencoba mendobrak masuk, tetapi mereka melapisi pintu dengan lem, menjebak tangannya.",
+            "info": "<size=30>Pintu melindunginya dari serangan depan.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 270+1100"
         },
         {
-            "theZombieType": "9",
-            "name": "Sepakbola Mayit",
-            "introduce": "<size=36><color=black>Sepakbola Mayit minangka bintang olahraga ing antarane para Mayit, dikagumi dening akeh wong amarga heroik dheweke ing lapangan. Akeh perusahaan sing pengin nyewa dheweke, nanging panjaluk gajine dhuwur-an bayaran taunan 10.000 otak.</color>",
-            "info": "<size=36>Mlaku cepet banget.\n\n<color=black>Kateguhan: </color><color=#4B0082>270+1400</color>"
+            "theZombieType": 9,
+            "name": "Zombi Rugbi",
+            "introduce": "<size=36><color=black>Zombi Rugbi adalah bintang olahraga di antara para zombie, yang dikagumi banyak orang karena kehadirannya yang heroik di lapangan. Banyak perusahaan yang ingin mempekerjakannya, tetapi tuntutan gajinya sangat tinggi-gaji tahunan sebesar 10.000 otak.",
+            "info": "<size=36>Zombi ini berlari sangat cepat.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 270+1400"
         },
         {
-            "theZombieType": "10",
-            "name": "Michael Mayit",
-            "introduce": "<size=36><color=black>Setelan ireng, topi ireng—dheweke ora ana ing kene kanggo panguburan. Dheweke mung penari, lan sampeyan bisa nyebut dheweke Michael Mayit.</color>",
-            "info": "<size=36>Mayit Cilikin daya kanthi gerakan tarian sing paling apik.\n\n<color=black>Ketangguhan: </color><color=#4B0082>720</color>\n<color=black>Sipat: </color><color=#4B0082>Ngundang 4 Mayit Tarian sekaligus.</color>"
+            "theZombieType": 10,
+            "name": "Zombi Mikael Jeksen",
+            "introduce": "<size=36><color=black>Jas hitam, topi hitam-ia tidak datang ke pemakaman. Dia hanya seorang penari, dan Anda bisa memanggilnya Michael Zombie.",
+            "info": "<size=36>Dalam tariannya memanggil zombie lain.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 720\n<color=black>Sifat: </color><color=#4B0082>Memanggil 4 Zombie yang menari sekaligus."
         },
         {
-            "theZombieType": "11",
-            "name": "Mayit Bebek ORA ING GAME",
-            "introduce": "<size=32><color=black>只有特定的僵尸才能成为鸭子救生圈僵尸，不是每只僵尸都能胜任。有些救生圈有点漏气，他们却处理不了，脱身后永远放弃了对脑子的渴求。</color>",
-            "info": "<size=32>可以在水里移动。\n\n<color=black>Toughness: </color><color=#4B0082>270</color>"
+            "theZombieType": 11,
+            "name": "Bebek Zombie TIDAK ADA DI GAME",
+            "introduce": "<size=36><color=black>只有特定的僵尸才能成为鸭子救生圈僵尸，不是每只僵尸都能胜任。有些救生圈有点漏气，他们却处理不了，脱身后永远放弃了对脑子的渴求。",
+            "info": "<size=36>x\n\n<color=black>Ketangguhan: </color><color=#4B0082> 270"
         },
         {
-            "theZombieType": "12",
-            "name": "Mayit Kerucut Bebek ORA ING GAME",
-            "introduce": "<size=32><color=black>都说差生文具多，但是路障鸭子并不这么认为，毕竟他不想承认他是个差生。</color>",
-            "info": "<size=32>可以在水里移动。\n\n<color=black>Toughness: </color><color=#4B0082>270</color>"
+            "theZombieType": 12,
+            "name": "Coneduck Zombie TIDAK ADA DI GAME",
+            "introduce": "<size=36><color=black>都说差生文具多，但是路障鸭子并不是认为，毕竟他不想承认他是个差生。",
+            "info": "<size=36>x\n\n<color=black>Ketangguhan: </color><color=#4B0082> 270"
         },
         {
-            "theZombieType": "13",
-            "name": "Mayit Emberbebek ORA ING GAME",
-            "introduce": "<size=32><color=black>铁桶鸭子本不想带上那个漏气的游泳圈的，但是没办法，谁叫他戴着那个容易生锈的铁桶呢。</color>",
-            "info": "<size=32>可以在水里移动。\n\n<color=black>Kateguhan: </color><color=#4B0082>270</color>"
+            "theZombieType": 13,
+            "name": "Bucketduck Zombie TIDAK ADA DI GAME",
+            "introduce": "<size=36><color=black>铁桶鸭子本不想带上那个漏气的游泳圈的，但是没办法，谁叫他戴着那个容易生锈的铁桶呢。",
+            "info": "<size=36>x\n\n<color=black>Ketangguhan: </color><color=#4B0082> 270"
         },
         {
-            "theZombieType": "14",
-            "name": "Mayitsamudra",
-            "introduce": "<size=36><color=black>Mayitsamudra sing nggegirisi, dirancang adhedhasar prinsip bionik, apik banget lan medeni—senjata perang sing diidam-idam kanggo Mayit. \"Saiki kita mung kudu ngatasi masalah rumput laut. kena kusut ing baling-baling,\" jare Dr. Edgar.</color>",
-            "info": "<size=36>Kendaraan utama Mayit nglawan tanduran banyu.\n\n<color=black>Ketangguhan: </color><color=#4B0082>1350</color>"
+            "theZombieType": 14,
+            "name": "Zombi Berperahu",
+            "introduce": "<size=36><color=black>Zombi Berperahu yang tangguh, yang dirancang berdasarkan prinsip-prinsip bionik, tampak megah sekaligus menakutkan-sebuah senjata perang yang didambakan oleh para zombie. \"Sekarang kita hanya perlu mengatasi masalah rumput laut yang tersangkut di baling-baling,\" kata Dr",
+            "info": "<size=36>Kendaraan umum untuk para zombie di udara.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 1350"
         },
         {
-            "theZombieType": "15",
-            "name": "Buku Mayit",
-            "introduce": "<size=30><color=black>Minangka panguwasa utama ing bidang akademisi, Scholar Mayit kerep katon ing perpustakaan. Kesenengane maca dadi jero, lan ngganggu dheweke nalika maca bisa nyebabake nesu. Wong tuwa iki bakal nggawe manawa sampeyan ngerti makna sejatine \"ilmu iku kekuwatan.\"</color>",
-            "info": "<size=28>Ngasilake karusakan gedhe bebarengan karo buku-bukune sing kuat.\n\n<color=black>Karusakan: </color><color=#4B0082>400</color>\n<color=black>Keteguhan: </color><color=#4B0082>720+1100</color>\n<color=black>Sipat: </color><color=#4B0082>Invincibility jangka cendhak lan kacepetan gerakan tambah sawise buku rusak.</color>"
+            "theZombieType": 15,
+            "name": "Zombi Peneliti",
+            "introduce": "<size=26><color=black>Sebagai otoritas terkemuka di bidang akademis, Scholar Zombie sering terlihat di perpustakaan. Semangatnya untuk membaca sangat tinggi, dan mengganggunya saat dia membaca dapat memicu kemarahannya. Pria tua ini akan memastikan Anda memahami arti sebenarnya dari \"pengetahuan adalah kekuatan\"",
+            "info": "<size=30>Keras serangannya sama dengan kerasnya buku yang dia pegang.\" Kerusakan: 400\nKetangguhan: </color><color=#4B0082> 720+1100\nAncaman: Tak terkalahkan dalam jangka pendek dan peningkatan kecepatan gerakan setelah buku itu rusak."
         },
         {
-            "theZombieType": "16",
-            "name": "Mayibil",
-            "introduce": "<size=35><color=black>Spir sing nyopir Mayit pancen apik banget, utamane amarga sawetara Mayit sing bisa navigasi saka lapangan es menyang lapangan suket. Saiki, dheweke kudu mbayar denda. mesin sing dioperasikake dudu Zamboni, nanging Mayibil diprodhuksi dening Company B.</color>",
-            "info": "<size=34>Mayibil ngetrapake es, uap lan tekanan kanggo tanduran sampeyan.\n\n<color=black>Kateguhan: </color><color=#4B0082>1350</color>"
+            "theZombieType": 16,
+            "name": "Zombil",
+            "introduce": "<size=36><color=black>Pengemudi zombie adalah pengemudi yang sangat baik, terutama mengingat hanya sedikit zombie yang dapat menavigasi dari arena es ke lapangan rumput. Sekarang, dia harus membayar denda. Mesin es yang dia operasikan bukanlah Zamboni; ini adalah Zombil yang diproduksi oleh Perusahaan B.",
+            "info": "<size=36>Mesin es zombie ini melindas tanah dan meninggalkan lapisan es.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 1350"
         },
         {
-            "theZombieType": "17",
-            "name": "Penyelam Mayit",
-            "introduce": "<size=34><color=black>Penyelam Mayit bisa duwe topeng sing rusak, nanging ora ngalangi kemampuane kanggo nyilem lan ngambang ing banyu. Sing diarani \"sinPrabu\" yaiku' t amarga ketrampilan nyilem; dheweke ora butuh hawa kanggo ambegan.</color>",
-            "info": "<size=34>Penyelam Mayit bisa nglangi ing jero banyu.\n\n<color=black>Kateguhan: </color><color=#4B0082>270</color>\n<color=black>Sipat: </color><color=#4B0082>Submerges kanggo nyegah serangan proyektil.</color>"
+            "theZombieType": 17,
+            "name": "Zombi Snorkeling",
+            "introduce": "<size=30><color=black>Snorkel Zombie mungkin memiliki topeng yang rusak, tetapi itu tidak menghalangi kemampuannya untuk menyelam dan mengapung di dalam air. Apa yang disebut \"tenggelam\" bukan karena kemampuan menyelamnya; dia tidak membutuhkan udara untuk bernapas.",
+            "info": "<size=30>Zombi ini bisa menyelam.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 270\n<color=black>Sifat: </color><color=#4B0082>Tenggelam untuk menghindari serangan proyektil."
         },
         {
-            "theZombieType": "18",
-            "name": "Mobil Abang Mayit",
-            "introduce": "<size=36><color=black>Mobil iki, dirancang dening para penggemar ski, nyopir kanthi lancar ing salju lan es, malah bisa nggayuh kecepatan sing luwih dhuwur tinimbang ing suket. Sayange, ana cacat: mung bisa diwiwiti. ing permukaan es.</color>",
-            "info": "<size=36>Mung katon nalika ana es ing lapangan.\n\n<color=black>Kateguhan: </color><color=#4B0082>2700</color>\n<color=black>Sipat: </color><color=#4B0082>Obah cepet banget nalika ing ndhuwur es.</color>"
+            "theZombieType": 18,
+            "name": "Zombil Penyelusur Es",
+            "introduce": "<size=36><color=black>Mobil ini, didesain oleh para penggemar ski, melaju dengan mulus di atas salju dan es, bahkan mencapai kecepatan yang lebih tinggi daripada di atas rumput. Sayangnya, mobil ini memiliki kekurangan: hanya bisa dinyalakan pada permukaan es.",
+            "info": "<size=36>Zombi ini muncul dari lapisan es.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 2700\n<color=black>Sifat: </color><color=#4B0082>Bergerak sangat cepat saat berada di atas es."
         },
         {
-            "theZombieType": "19",
-            "name": "Mayit Naik Lumba-lumba",
-            "introduce": "<size=35><color=black>Mayit Naik Lumba-lumba iku pemain paruh wektu lan penjaga lumba-lumba ing akuarium. Lumba-lumba sing ditunggangi kuwi Mayit, nanging ora kaya Mayit biasa, \"Mayit Lumba-lumba\" iki. \"ora duwe kepinginan kanggo otak.</color>",
-            "info": "<size=34>Mayit Naik Lumba-lumba nggunakake lumba-lumba kanggo ngliwati pertahanan sampeyan.\n\n<color=black>Kateguhan: </color><color=#4B0082>720</color>\n<color=black>Sipat: </color><color=#4B0082>Mlumpat liwat tanduran pisanan sing ketemu.</color>"
+            "theZombieType": 19,
+            "name": "Zombi Penunggang Lumba-Lumba",
+            "introduce": "<size=36><color=black>Dolphin Rider Zombie adalah pemain paruh waktu dan penjaga lumba-lumba di akuarium. Lumba-lumba yang ditungganginya adalah zombie, tetapi tidak seperti zombie pada umumnya, \"lumba-lumba zombie\" ini tidak memiliki keinginan untuk memiliki otak.",
+            "info": "<size=36>Zombi ini melompati tanaman pertama di air.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 720\n<color=black>Sifat: </color><color=#4B0082>Melompati tanaman pertama yang dia temui."
         },
         {
-            "theZombieType": "20",
-            "name": "Trisula Mayit",
-            "introduce": "<size=30><color=black>Trisula Mayit asline mung tukang lempar lembing biasa sing dadi nelayan sawise pensiun. Nanging, nalika dheweke lunga menyang kali kanggo mancing, dheweke kecemplung amarga ora bisa nglangi. . Nalika teka ing dharat, dheweke ngerti yen dheweke wis dadi kaya saiki.</color>",
-            "info": "<size=28>Nguncalake trisula kanggo nyerang tanduran sampeyan.\n\n<color=black>Kateguhan: </color><color=#4B0082>720</color>\n<color=black>Sipat: </color><color=#4B0082>Nguncalake trisula, nyebabake karusakan ing tanduran padha karo 20% (minimal 60) saka saiki. kateguhan.</color>\n<color=black>Rentang Panelusuran: </color><color=#4B0082>3.5 Tiles ing Ngarep</color>"
+            "theZombieType": 20,
+            "name": "Zombi Trisula",
+            "introduce": "<size=30><color=black>Trident Zombie awalnya hanyalah seorang pelempar lembing biasa yang menjadi nelayan setelah pensiun. Namun, ketika dia pergi ke sungai untuk memancing, dia tenggelam karena dia tidak bisa berenang. Ketika dia naik ke darat, dia menyadari bahwa dia telah menjadi seperti sekarang ini.",
+            "info": "<size=30>Menombak trisula pada tanaman.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 720\n<color=black>Sifat: </color><color=#4B0082>Melempar trisula, menyebabkan kerusakan pada tanaman sebesar 20% (minimal 20) dari ketangguhannya saat ini.\nJangkauan Pencarian: 3.5 Ubin di Depan "
         },
         {
-            "theZombieType": "21",
-            "name": "Mayit kothak berlian",
-            "introduce": "<size=33><color=black>Wengi iki, Diamond-box Mayit bakal mbukak jagade sing nggumunake. Mripate sumunar kaya lintang sing paling padhang ing langit wengi, lan cahya emas katon mili kaya kali. wektu, madhangi dalan sing ora mesthi ing ngarep saben tutup kothak dibukak alon-alon, rasane kaya mbukak lawang menyang alam liyane.</color>",
-            "info": "<size=33>Apa iki.. Mayit Kerucut?\n\n<color=black>Kateguhan: </color><color=#4B0082>4400</color>\n<color=black>Sipat: </color><color=#4B0082>Dadi Mayit kothak Emas nalika mati.</color>"
+            "theZombieType": 21,
+            "name": "Zombi Kotak Berlian",
+            "introduce": "<size=34><color=black>Malam ini, Zombie Kotak Berlian akan mengungkap dunia perak mereka yang mempesona. Mata mereka bersinar seperti bintang paling terang di langit malam, dan cahaya keemasan tampak mengalir seperti sungai yang melintasi waktu, menerangi jalan yang tidak pasti di depan. Setiap kali tutup kotak dibuka dengan lembut, rasanya seperti membuka pintu misterius ke dunia lain.",
+            "info": "<size=34>Apakah ini... zombie berkerucut? 4400\n<color=black>Sifat: </color><color=#4B0082>Berubah menjadi Zombie Kotak Emas saat mati."
         },
         {
-            "theZombieType": "22",
-            "name": "Mayit kothak emas",
-            "introduce": "<size=36><color=black>\" Ing sangisore kothak emas, ana kothak-kothak liyane kanthi werna sing beda-beda. Apa sampeyan bisa ngira kothak ing njero digawe saka apa?\"</color>",
-            "info": "<size=36>Apa iki.. Mayit Kerucut?\n\n<color=black>Kateguhan: </color><color=#4B0082>2200</color>\n<color=black>Sipat: </color><color=#4B0082>Dadi Mayit kothak Perak nalika mati.</color>"
+            "theZombieType": 22,
+            "name": "Zombi Kotak Emas",
+            "introduce": "<size=36><color=black>Di bawah kotak emas, ada kotak lain dengan warna berbeda yang menunggu. Dapatkah Anda menebak terbuat dari apakah kotak di dalamnya?",
+            "info": "<size=36>\"Apakah ini... zombie berkerucut?\"\n\n<color=black>Ketangguhan: </color><color=#4B0082> 2200\n<color=black>Sifat: </color><color=#4B0082>Berubah menjadi Zombie Kotak Perak saat mati."
         },
         {
-            "theZombieType": "23",
-            "name": "Mayit kothak perak",
-            "introduce": "<size=36><color=black>Silver-box Mayit nganggep kothak ing sirahe minangka pot, mula mesthine siji. Kanthi pola pikire, kenapa sampeyan ora ngerti perspektife? Lan Sampeyan ndeleng tandha seru ing kothak dheweke, ta?</color>",
-            "info": "<size=36>Apa iki.. Mayit Kerucut?\n\n<color=black>Ketangguhan: </color><color=#4B0082>1100</color>\n<color=black>Sipat: </color><color=#4B0082>Dadi Mayit Kerucut nalika mati.</color>"
+            "theZombieType": 23,
+            "name": "Zombi Kotak Perak",
+            "introduce": "<size=36><color=black>Zombie kotak perak menganggap kotak di kepalanya sebagai pot, jadi pasti itu adalah pot. Mengingat pola pikirnya, mengapa Anda tidak memahami perspektifnya? Dan Anda melihat tanda seru pada kotaknya, bukan?",
+            "info": "<size=36>\"Apakah ini... zombie berkerucut?\"\n\n<color=black>Ketangguhan: </color><color=#4B0082> 1100\n<color=black>Sifat: </color><color=#4B0082>Berubah menjadi Zombie Berkerucut saat mati."
         },
         {
-            "theZombieType": "24",
-            "name": "<size=34>Kotak Badut Mayit",
-            "introduce": "<size=36><color=black>Sanajan Kotak Badut Mayit minangka pasien mental, sirkus nampani lamarane. Waspada karo apa sing ana ing kothak dolanan; mesthine sampeyan bakal wedi. </color>",
-            "info": "<size=36>Mayit iki nggawa kejutan sing mbledhos.\n\n<color=black>Ketangguhan: </color><color=#4B0082>720</color>\n<color=black>Sipat: </color><color=#4B0082>Kadhangkala bakal njeblug lan insta-mati tanduran ing saubengé.</color>"
+            "theZombieType": 24,
+            "name": "Zombi Berkotak-kotak",
+            "introduce": "<size=32><color=black>Meskipun Berkotak-kotak Zombie adalah seorang pasien jiwa, pihak sirkus menyambut baik lamarannya. Berhati-hatilah dengan apa yang ada di dalam kotak mainannya; pasti akan membuat Anda takut.",
+            "info": "<size=34>Zombi ini membawa jebakan bom yang merusak tanaman.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 720\n<color=black>Sifat: </color><color=#4B0082>Terkadang akan meledak dan membunuh tanaman di sekitarnya."
         },
         {
-            "theZombieType": "25",
-            "name": "Balon Mayit",
-            "introduce": "<size=31><color=black>Balon Mayit, salah sawijining pangripta Mayiom Udara, kerep ditakoni apa sebabe dheweke ngiket balon marang awake dhewe. Wangsulane biasane, \"Iku kesMayit Cilikulanku.\" Nanging, kabeneran balon-balon mau kepleset.</color>",
-            "info": "<size=31>Balon Mayit ngambang ing sadhuwure pertempuran, kebal saka serangan paling akeh.\n\n<color=black>Kateguhan: </color><color=#4B0082>270+20</color>\n<color=black>Sipat: </color><color=#4B0082>Ora bisa rusak déning akèh tetanduran nalika mabur.</color>"
+            "theZombieType": 25,
+            "name": "Zombi Balon",
+            "introduce": "<size=34><color=black>Zombi Balon, salah satu pencipta Zomppelin, sering ditanya mengapa ia mengikatkan balon pada dirinya sendiri. Jawaban yang biasa ia berikan adalah, \"Itu adalah kesimpulan saya.\" Namun demikian, kenyataannya, balon-balon itu hanya tersangkut secara kebetulan.",
+            "info": "<size=30>Zombi ini bergantung melayang di balon.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 270+20\n<color=black>Sifat: </color><color=#4B0082>Tidak dapat dirusak oleh sebagian besar tanaman saat terbang."
         },
         {
-            "theZombieType": "26",
-            "name": "Mayiom Udara",
-            "introduce": "<size=30><color=black>Mayiom Udara, ciptaan Dr. Edgar paling anyar, kanthi cepet dadi sekutu sing dipercaya para Mayit. Spekulasi akeh babagan sapa sing bakal pilot senjata ampuh iki—bisa uga Mayit Cilik utawa malah kapal udara. dhewe? \"Iku mung balon,\" ujare Dr. Edgar, \"Mayit kudu ngetutake jaman. Aku malah nimbang-nimbang ngowahi dadi drone supaya ora isin yen dikalahake dening tanduran.\"</color>",
-            "info": "<size=28>Bakal ngeculake bom sing mateni nalika mabur ing tanduran sampeyan.\n\n<color=black>Kerusakan Bom: </color><color=#4B0082>1000</color>\n<color=black>Kateguhan: </color><color=#4B0082>1350</color>"
+            "theZombieType": 26,
+            "name": "Zombipellin",
+            "introduce": "<size=30><color=black>Zomppelin, ciptaan terbaru Dr. Edgar, dengan cepat menjadi sekutu terpercaya para zombie. Banyak spekulasi mengenai siapa yang akan mengemudikan senjata ampuh ini-mungkin imp atau bahkan pesawat itu sendiri? \"Ini hanya balon,\" kata Dr. Edgar. \"Zombie harus mengikuti perkembangan zaman. Saya bahkan mempertimbangkan untuk mengubahnya menjadi pesawat tak berawak untuk menghindari rasa malu ketika dikalahkan oleh tanaman.",
+            "info": "<size=30>Zombi ini menjatuhkan bom di sepanjang penerbangannya.\n\n<color=black>Kerusakan Bom: </color><color=#4B0082>1000\n<color=black>Ketangguhan: </color><color=#4B0082> 1350"
         },
         {
-            "theZombieType": "27",
-            "name": "Penunggang Paus Yeti",
-            "introduce": "<size=29><color=black>Paus putih sing ditumpaki Yeti Mayit nduweni katrampilan mlumpat sing nggumunake. Mayit Naik Lumba-lumba cukup iri lan mesthi pengin nyilih kanggo numpak, nanging Yeti Mayit ora gelem. . \"Yeti Mayit wis ora kontrol liwat paus putih kang,\" Dr. Edgar ngandika \"Dheweke tansah pengin ndhelikake konco kula, nanging paus putih ends munggah liyane dalan.\"</color>",
-            "info": "<size=29>Mlumpat maju telung kothak lan mbalik maneh, nyerang tanduran sampeyan saka mburi.\n\n<color=black>Kateguhan: </color><color=#4B0082>720</color>\n<color=black>Sipat: </color><color=#4B0082>Ora bisa diblokir dening Kacang Dhuwur.</color>"
+            "theZombieType": 27,
+            "name": "Yeti Penunggang Paus",
+            "introduce": "<size=26><color=black>Paus putih yang ditunggangi Zombi Yeti memiliki keterampilan melompat yang mengesankan. Zombi Penunggang Lumba-lumba cukup iri dan selalu ingin meminjamnya untuk ditunggangi, tetapi Zombi Yeti selalu menolaknya. \"Yeti Zombie tidak memiliki kendali atas paus putihnya,\" kata Dr. \"Dia selalu ingin bersembunyi di belakang saya, tetapi paus putih itu akhirnya pergi ke arah lain.",
+            "info": "<size=30>Zombi ini melompati tiga tanaman pertama di air dan berbalik.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 720\n<color=black>Sifat: </color><color=#4B0082>Tidak dapat dihalangi oleh kacang-kacangan."
         },
         {
-            "theZombieType": "28",
-            "name": "Mayit Penggali",
-            "introduce": "<size=32><color=black>Wis biyen, Digger Mayit ngremehake Magnet-shrooms amarga terus-terusan ngrampas pirantine. Saiki, dheweke malah luwih sengit karo Miner Pumpkins. \"Sirahku terus kenek, sing ndadekke aku dadi luwih elek,\" sesambate.</color>",
-            "info": "<size=32>Mayit iki ndudhuk kanggo ngliwati pertahanan sampeyan.\n\n<color=black>Kateguhan: </color><color=#4B0082>720</color>\n<color=black>Sipat: </color><color=#4B0082>Trowongan ing lemah lan katon ing sisih kiwa pekarangan Rentan kanggo Magnet-shrooms.</color>"
+            "theZombieType": 28,
+            "name": "Zombi Penggali",
+            "introduce": "<size=34><color=black>Dahulu kala, para Zombie Penggali membenci Magnet-shroom karena terus-menerus menyita peralatan mereka. Sekarang, mereka lebih membenci Labu Penambang. \"Kepalaku terus dipukul, yang membuatku merasa lebih buruk lagi,\" keluhnya.",
+            "info": "<size=34>Jenis zombie biasa di lahan.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 720\n<color=black>Sifat: </color><color=#4B0082>Terowongan di bawah tanah dan muncul di sisi kiri halaman. Rentan terhadap Magnet-shrooms."
         },
         {
-            "theZombieType": "29",
-            "name": "Emberkopter Mayit",
-            "introduce": "<size=33><color=black>\"Kanca-kanca, apa sampeyan ngerti babagan kapal udara Berlin? Iku inspirasi desainku…\" Kabeh Mayit pengin ndhelikake saka Emberkopter Mayit, ora mung amarga dheweke ngomong akeh banget babagan pesawat, nanging uga amarga swara saka baling-baling balon dheweke ora bisa ditanggung.</color>",
-            "info": "<size=30>Emberkopter Mayit ora wedi karo Blover!\n\n<color=black>Kateguhan: </color><color=#4B0082>270+2200+500</color>\n<color=black>Sipat: </color><color=#4B0082>Baling-baling ing ndhuwur bisa ngimbangi angin Blover.</color>"
+            "theZombieType": 29,
+            "name": "Zombi Berbaling-baling",
+            "introduce": "<size=32><color=black>Teman-teman, tahukah Anda tentang pesawat Berlin? Itu menginspirasi desain saya... Semua zombie ingin bersembunyi dari Buckecopter Zombie, bukan hanya karena dia terlalu banyak bicara tentang pesawat, tetapi juga karena suara baling-baling balonnya yang tak tertahankan.",
+            "info": "<size=32>Mesin bergantungnya zombie ini tahan angin.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 270+2200+500\n<color=black>Sifat: </color><color=#4B0082>Baling-baling di bagian atas dapat mengimbangi angin Blover."
         },
         {
-            "theZombieType": "30",
-            "name": "Prabu Kotak Badut Mayit",
-            "introduce": "<size=31><color=black>Kanggo saben Mayit badut, karusakan dhiri minangka wujud seni sing paling dhuwur, lan Prabu Badut ngungguli kabeh. \"Prabu Badut ora bakal nyopot topeng utawa ngeculake. saka kothak hadiah ing tangane!\"</color>",
-            "info": "<size=31>Prabu Badut uga bisa njeblug sawise tilar donya!\n\n<color=black>Kateguhan: </color><color=#4B0082>720+370</color>\n<color=black>Sipat: </color><color=#4B0082>Dadi ganas sawise njeblug, tikel kaping pindho kacepetan uga duwe kasempatan kanggo poto-destruct lan malih dadi a Kotak Badut Mayit sing luwih cepet njeblug, luwih gedhe kemungkinan mati.</color>"
+            "theZombieType": 30,
+            "name": "Zombi Badut di Kotak Bertopeng",
+            "introduce": "<size=28><color=black>Untuk setiap zombie badut, penghancuran diri adalah bentuk seni tertinggi, dan King Clown unggul di atas segalanya. \"Raja Badut tidak akan pernah melepaskan topengnya atau melepaskan kotak hadiah di tangannya!",
+            "info": "<size=26>Bom yang dibawanya juga ikut meledak saat ia tumbang.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 720+370\n<color=black>Sifat: </color><color=#4B0082>Menjadi ganas setelah meledak, menggandakan kecepatannya. Juga memiliki kesempatan untuk menghancurkan diri sendiri dan berubah menjadi Zombi Badut di Kotak. Semakin cepat ia meledak, semakin besar peluangnya untuk mati."
         },
         {
-            "theZombieType": "31",
-            "name": "Ketapel Mayit",
-            "introduce": "<size=34><color=black>Ora ana sing ngerti kepriye Ketapel Mayit bisa mbalang kanthi presisi kaya ngono, nanging siji bab sing mesthi - yen sampeyan ndeleng dheweke, tutup sirahmu kanthi cepet!</color>",
-            "info": "<size=34>Ketapel basket kanggo nyerang tanduran sampeyan.\n\n<color=black>Kateguhan: </color><color=#4B0082>850</color>\n<color=black>Sipat: </color><color=#4B0082>Nguncalake bola basket sing nyebabake 60 karusakan.</color>"
+            "theZombieType": 31,
+            "name": "Zombi Pelontar",
+            "introduce": "<size=36><color=black>Tidak ada yang tahu bagaimana Catapult Zombie bisa melempar dengan presisi seperti itu, tetapi satu hal yang pasti-jika Anda melihatnya, lindungi kepala Anda dengan cepat!",
+            "info": "<size=36>Misteri isinya, kecuali sudah dibuka. Lebih bagus dari yang lain, tapi bukan emas.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 850\n<color=black>Sifat: </color><color=#4B0082>Melempar bola basket yang memberikan 60 kerusakan."
         },
         {
-            "theZombieType": "32",
-            "name": "Pelompat Mayit",
-            "introduce": "<size=36><color=black>Pelompat Mayit seneng mlumpat-mlumpat, mikir yen mlumpat menyang langit wis cedhak karo dheweke. Nanging ora ana sing ngandhani supaya ora nganggo trampolin. ing atap...</color>",
-            "info": "<size=36>Mayit sing bisa mlumpat liwat pertahanan sampeyan.\n\n<color=black>Ketangguhan: </color><color=#4B0082>720</color>\n<color=black>Sipat: </color><color=#4B0082>Bisa mlumpat liwat tanduran</color>"
+            "theZombieType": 32,
+            "name": "Zombi Pogo",
+            "introduce": "<size=36><color=black>Pogo Zombie senang melompat-lompat, berpikir bahwa melompat ke arah langit adalah hal yang paling dekat yang bisa mereka lakukan untuk terbang. Tetapi tidak ada yang melarang mereka untuk tidak menggunakan trampolin di atap...",
+            "info": "<size=36>Makhluk ini lebih tahan dari biji dan proyektil es.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 720\n<color=black>Sifat: </color><color=#4B0082>Dapat melompati tanaman"
         },
         {
-            "theZombieType": "33",
-            "name": "Tangga Mayit",
-            "introduce": "<size=30><color=black>Tangga Mayit krungu online yen nganggo Tangga lan sandhangan kerja, dheweke bisa nyelipake pertahanan apa wae. Kanthi nganggo Tangga lan nganggo busana kaya buruh, dheweke bakal nelukake. pertahanan tanduran.\nKomentar Kipli: \"Apa ora ana sing ngandhani yen kulit Mayit dheweke katon banget ...?\"</color>",
-            "info": "<size=30>Mayit iki nggunakake Tangga kanggo ngliwati alangan.\n\n<color=black>Kateguhan: </color><color=#4B0082>720+720</color>\n<color=black>Sipat: </color><color=#4B0082>Bisa nggunakake Tangga kanggo nglirwakake pertahanan tanduran.</color>"
+            "theZombieType": 33,
+            "name": "Zombi Bertangga",
+            "introduce": "<size=26><color=black>Zombi Bertangga mendengar secara online bahwa dengan sebuah tangga dan beberapa pakaian kerja, dia dapat menyelinap melewati pertahanan apa pun. Berbekal tangga dan berpakaian seperti seorang pekerja, dia berangkat untuk menaklukkan pertahanan pabrik.\" Komentar Peashooter: \"Apakah tidak ada yang memberitahunya bahwa kulit zombienya terlalu mencolok...?",
+            "info": "<size=36>Berbeda bentuk dan lebih keras dari yang umumnya.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 720+720\n<color=black>Sifat: </color><color=#4B0082>Dapat menggunakan tangga untuk mengabaikan pertahanan tanaman."
         },
         {
-            "theZombieType": "34",
-            "name": "Pelompat Melon Mayit",
-            "introduce": "<size=28><color=black>Kutipan: \"Pancen ora mungkin cangkang njeblug ing kawah sing padha kaping pindho! Iki sing dicritakake 'Teori Kawah'.\" Pelompat Melon Mayit ngandika nalika nyetel topi kulit melon. Nanging, ora ana sing ngandhani yen skema warna abang-ijo dheweke katon banget ing akeh Mayit.</color>",
-            "info": "<size=28>Mayit iki munggah lan mlumpat menyang pertahanan sampeyan!\n\n<color=black>Kateguhan: </color><color=#4B0082>270+2200</color>\n<color=black>Sipat: </color><color=#4B0082>Isi daya nganti 5 detik, banjur nindakake lompat gedhe Sajrone lompat, iku ora bisa dikalahake.</color>"
+            "theZombieType": 34,
+            "name": "Zombi Pogo-melon",
+            "introduce": "<size=26><color=black>Kutipan: \"Sangat tidak mungkin bagi peluru untuk meledak di kawah yang sama dua kali! Inilah yang dinyatakan oleh 'Teori Kawah'.\" Pogo Melon Zombie berkata sambil membetulkan topi kulit melonnya. Namun, tidak ada yang memberitahunya bahwa skema warna merah-hijau yang dikenakannya terlalu menonjol di tengah kerumunan zombie.",
+            "info": "<size=30>Lebih tahan dan keras, pun kebal dari perlambatan, dan tetap melindas.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 270+2200\nKarakteristik: Mengisi daya selama 5 detik, lalu melakukan lompatan besar. Selama lompatan, ia kebal."
         },
         {
-            "theZombieType": "35",
-            "name": "Buto Ijo",
-            "introduce": "<size=36><color=black>Gargantuar iku kaya kewan sing gedhe-gedhe lan kikuk, ukurane nguntungake kanthi biaya intelijen. Ora ngerti tanduran utawa otak, mung ngerti obah. maju, tanpa henti </color>",
-            "info": "<size=36>Mayit gedhe-gedhe, obah alon-alon sing ngrusak kabeh kanthi ukuran sing gedhe banget.\n\n<color=black>Kateguhan: </color><color=#4B0082>3000 </color>"
+            "theZombieType": 35,
+            "name": "Gargantuar",
+            "introduce": "<size=36><color=black>Gargantuar seperti binatang yang sangat besar dan kikuk, ukurannya yang besar merupakan keuntungan dengan mengorbankan kecerdasannya. Ia tidak memahami tanaman atau otak; ia hanya tahu bagaimana bergerak maju, tanpa henti. ",
+            "info": "<size=36>Makhluk ini menyerbu dengan banyak trisula sekaligus.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 3000"
         },
         {
-            "theZombieType": "36",
-            "name": "Buto Ijo Nesu",
-            "introduce": "<size=36><color=black>Sanajan Giga-gargantuar gawe kacilakan ing paprangan, mripate abang getih ndadekake rasa wedi marang kabeh sing ngadhepi, ana rahasia sing ora dingerteni: monster iku terus-terusan. jengkel amarga kurang turu kronis.</color>",
-            "info": "<size=36>Buto Ijo sing nesu ngrusak kabeh sing ana ing dalane kanthi kekuwatan sing nggegirisi.\n\n<color=black>Kateguhan: </color><color=#4B0082>6000</color>"
+            "theZombieType": 36,
+            "name": "Maha-raksasa",
+            "introduce": "<size=36><color=black>Meskipun Giga-gargantuar mendatangkan malapetaka di medan perang, matanya yang berwarna merah darah menanamkan rasa takut pada semua orang yang menghadapinya, ada sebuah rahasia yang tidak banyak diketahui orang: monster ini selalu merasa kesal karena kurang tidur.",
+            "info": "<size=36>Mirip yang sejenis, tapi lebih parah.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 6000"
         },
         {
-            "theZombieType": "37",
-            "name": "Mayit Cilik",
-            "introduce": "<size=36><color=black>Mayit Cilik seneng nyolong ing papan sing sempit, asring nyebabake piala. Aja kaget yen sampeyan ndeleng wong sing mumbul tanpa disangka!</color>",
-            "info": "<size=36>Cilik lan licik, Mayit Cilik seneng ngempet menyang papan sing sempit, nggawe dheweke lincah lan luwih angel ditargetake.\n\n<color=black>Kateguhan: </color><color=#4B0082>270</color>"
+            "theZombieType": 37,
+            "name": "Zombogel",
+            "introduce": "<size=36><color=black>Cecak senang menyelinap di tempat yang sempit, dan sering kali menyebabkan kerusakan. Jangan kaget kalau Anda melihat seekor yang melompat-lompat tanpa diduga!",
+            "info": "<size=36>Abang-abang pelari paling keras.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 270"
         },
         {
-            "theZombieType": "38",
-            "name": "Buto Ijo Robot",
-            "introduce": "<size=36><color=black>Zmbie saka Plant Girls vs Mayit sing populer.</color>",
-            "info": "<size=36>Penemuan liya saka Dr. Buto Ijo, kebal saka beku lan bakal ngisi pertahanan sampeyan tanpa ragu-ragu.\n\n<color=black>Kateguhan: </color><color=#4B0082>3000</color>\n<color=black>Sipat: </color><color=#4B0082>Sipat: Kekebalan kanggo ngontrol efek, tetep obah sanajan digebug. bali, rentan kanggo Magnet-shrooms.</color>"
+            "theZombieType": 38,
+            "name": "Gargantuar Meka",
+            "introduce": "<size=36><color=black>Seekor zombie dari serial populer Plant Girls vs Zombies.",
+            "info": "<size=36>Kirov melapor, tovarich! 3000\n<color=black>Sifat: </color><color=#4B0082>Kebal terhadap efek kontrol, terus bergerak bahkan ketika dipukul mundur, rentan terhadap Magnet-shroom."
         },
         {
-            "theZombieType": "39",
-            "name": "Buto Ijo Robot Nesu",
-            "introduce": "<size=36><color=black>Zmbie saka Plant Girls vs Mayit sing populer.</color>",
-            "info": "<size=36>Gawean paling anyar dening Dr. Buto Ijo, versi mekanis iki kebal saka pembekuan lan ngisi daya langsung ing pertahanan sampeyan.\n\n<color=black>Kateguhan: </color><color=#4B0082>6000</color>\n<color=black>Sipat: </color><color=#4B0082>Kekebalan kanggo ngontrol efek, tetep obah sanajan mundur, rentan kanggo Magnet-shrooms.</color>"
+            "theZombieType": 39,
+            "name": "Maha-raksasa Meka",
+            "introduce": "<size=36><color=black>Seekor zombie dari serial populer Plant Girls vs Zombies.",
+            "info": "<size=36>Kirov ini terbang dengan cepat sambil menjatuhkan bom.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 6000\n<color=black>Sifat: </color><color=#4B0082>Kebal terhadap efek kontrol, terus bergerak bahkan saat terjatuh, rentan terhadap Magnet-shroom."
         },
         {
-            "theZombieType": "40",
-            "name": "Gundul Pringis",
-            "introduce": "<size=32>",
-            "info": "<size=27>Bola bowling ing sisih Mayit.\n\n<color=black>Kateguhan: </color><color=#4B0082>1350</color>\n<color=black>Sipat: </color><color=#4B0082>Ganti arah nalika nggebug tetanduran, nyepetake ing slope Crushes tanduran ing 1000 kesehatan, tawaran 1000 karusakan kanggo tetanduran angel, lan slows mudhun sawise nguripake Bisa dihentikan dening Umbrella-fusions 5 Mayit Cilik ing pati.</color>\n<color=black>Drops: </color><color=#4B0082>1. /3 kasempatan kanggo bola es, bola api, utawa Fragmen Mecha.</color>\n\n<color=black>Bola ngrusak tanduran, mblokir nganti 30 peluru, utawa pungkasan 30 detik. Bisa ditanggulangi dening fusi tanduran adhedhasar Es.</color>"
+            "theZombieType": 40,
+            "name": "Robot Zombi Kentang",
+            "introduce": "<size=30><color=black>Robot Zombi Kentang suka glinding",
+            "info": "<size=24>Zombi ini melontarkan bola basket ke barisan belakang tanaman.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 1350\n<color=black>Sifat: </color><color=#4B0082>Mengubah arah saat menabrak tanaman, mempercepat di lereng. Menghancurkan tanaman di bawah 1000 kesehatan, memberikan 1000 kerusakan pada tanaman yang lebih keras, dan melambat setelah berbelok. Dapat dihentikan oleh Umbrella-fusion. Memunculkan 5 Imps saat mati.\nDrops: 1/3 peluang untuk bola es, bola api, atau Fragmen Mecha.\n\nBola menghancurkan tanaman, memblokir hingga 30 peluru, atau bertahan selama 30 detik. Dapat dilawan dengan fusi tanaman berbasis Es/Api."
         },
         {
-            "theZombieType": "43",
-            "name": "Buto Ijo Baja",
-            "introduce": "<size=24><color=black>Gargantuar Baja minangka penggemar gedhe saka kulit sing diarani 'Cavalier' saka game favorit dheweke. Dadi, dheweke ngginakaken rejeki khusus kanggo pesen armor abad pertengahan sing dirancang mung kanggo dheweke. Nanging, nalika dheweke nyoba nyopot, dheweke nemokake yen dheweke macet kanggo salawas-lawase.",
-            "info": "<size=26>Metuwuhake Mayit Cilik saben-saben dheweke ngremuk nganggo gada!\n\n<color=black>Kateguhan: </color><color=#4B0082>8000+24000</color>\n<color=black>Sipat: </color><color=#4B0082>Obah ing setengah kacepetan saka gargs biasa, njupuk ora luwih saka 5000 karusakan saka pukulan siji, efek pesona suwene setengah suwene ing dheweke, mbuwang bal Gundul Pringis ing setengah HP, lan ngasilake 1-3 Mayit Cilik saben dheweke mbanting lemah nganggo gada.</color>"
+            "theZombieType": 43,
+            "name": "Gargantuar Berarmor",
+            "introduce": "<size=22><color=black>Gargantuar Berarmor adalah penggemar berat skin yang disebut 'Cavalier' dari game favoritnya. Jadi, dia menghabiskan banyak uang untuk memesan satu set baju besi abad pertengahan yang dibuat khusus untuknya. Namun, ketika dia mencoba melepasnya, dia mendapati bahwa baju besi itu tidak bisa dilepas untuk selamanya... Dan begitulah akhirnya dia mendapatkan kulit 'Cadavelier' yang permanen.",
+            "info": "<size=26>Memunculkan Imps setiap kali dia menghancurkan dengan gada!\n\n<color=black>Ketangguhan: </color><color=#4B0082>8000+24000</color>\n<color=black>Sifat: </color><color=#4B0082>Bergerak dengan kecepatan setengah dari kecepatan gargs biasa, menerima tidak lebih dari 5000 kerusakan dari satu pukulan, efek pesona bertahan setengah lebih lama padanya, melempar bola Kentang Mecha dengan kekuatan setengah HP, dan menelurkan 1-3 Imps setiap kali dia membanting tanah dengan gada.</color> "
         },
         {
-            "theZombieType": "45",
-            "name": "Mayit Maling",
-            "introduce": "<size=36><color=black>Mayit Maling seneng ngetok adrenalin. Wong wis mati, mosok ora urip nekat sek?",
-            "info": "<size=36>Mlayu saka langit terus nyolong tanduran\n\n<color=black>Ketangguhan: </color><color=#4B0082>720</color>"
+            "theZombieType": 45,
+            "name": "Zombi Pencuri",
+            "introduce": "<size=36><color=black><size=36><color=black>Zombie Pencuri suka mengambil risiko. Lagipula, apa gunanya mati jika Anda tidak hidup sedikit saja?",
+            "info": "<size=36>Turun dari langit dan mencuri tanaman\n\n<color=black>Ketangguhan: </color><color=#4B0082>720</color>"
         },
         {
-            "theZombieType": "47",
-            "name": "Mayit Yeti",
-            "introduce": "<size=36><color=black>Mayit Yeti kadang mendadak ngacir, ora ngerti isin opo gimana.</color>",
-            "info": "<size=36>Mayit Yeti kadang iso kabur woy lah.\n\n<color=black>Ketangguhan: </color><color=#4B0082>1350</color>\n<color=black>Sifat: </color><color=#4B0082>Iso nahan/membeku tanduran ning area 3x3 sak upete.</color></size>"
+            "theZombieType": 47,
+            "name": "Zombi Yeti",
+            "introduce": "<size=36>",
+            "info": "<size=36>Zombi Yeti kadang bisa kabur woy lah.\n\n<color=black>Ketangguhan: </color><color=#4B0082>1350</color>\n</color>\n<color=black>Sifat: </color><color=#4B0082>Menahan/membekukan tanaman di area 3x3 di sekelilingnya</color>"
         },
         {
-            "theZombieType": "48",
-            "name": "Mayit Yeti Barongsai",
-            "introduce": "<size=36><color=black>Mayit Yeti Barongsai nganggo tameng sak abot truk! Tapi ojo seneng sik, isih ono kelemahane.</color>",
-            "info": "<size=36>Mayit Yeti Barongsai nduweni tameng sing kuat tenan.\n\n<color=black>Ketangguhan: </color><color=#4B0082>8888+8888</color>\n<color=black>Kelemahan: </color><color=#4B0082>Mercon</color></size>"
+            "theZombieType": 48,
+            "name": "Zombi Yeti Barongsai",
+            "introduce": "<size=36>",
+            "info": "<size=36>Zombi Yeti Barongsai memiliki baju besi yang kuat.\n\n<color=black>Ketangguhan: </color><color=#4B0082>8888+8888</color>\n<color=black>Kelemahan: </color><color=#4B0082>Mercon</color>"
         },
         {
             "theZombieType": 49,
-            "name": "<size=36>Mayit Basoka Salju",
-            "introduce": "<align=justified><size=36><color=black>\"Ayo dolanan bola salju rek!\" Zombi Peluncur Bola Salju tangi saka turu adhemé, banjur ngeculake bola salju sak karepé dhewe ing kabeh arah.\n\n\"Apa kudu ngomong karo dheweke?\"\n\"Ora usah, deloken waé suwéné dheweke ngerti dewe.\"\n\nPLAK!—Bola salju maneh kebanting.\n\n\"Wis ping patbelas.\"</color>",
-            "info": "<size=36>Mayit Basoka Salju bisa nyerang tanduran nganggo bola salju lan ngbeku tanduran.\n\n<color=black>Kekandelan: </color><color=#4B0082>720</color>\n<color=black>Kerusakan: </color><color=#4B0082>75/2 Detik</color>\n<color=black>Karakteristik: </color><color=#4B0082>Sawise muncul, bakal terus-terusan nembak bola salju menyang tanduran. Bola salju bakal njebluk nalika kenek target, nyebabake 75 kerusakan ing area 3x3 lan mateni tanduran sakdurunge 5 detik.</color>\n<color=black>Kelamahan: </color><color=#4B0082>Payung</color>"
+            "name": "<size=36>Zombi Basoka Salju",
+            "introduce": "<align=justified><size=36><color=black>\"Perang bola salju!\" Zombi Pelontar Bola Salju terbangun dari tidur beku, lalu melempar bola salju secara liar ke segala arah.\n\n\"Harus kita kasih tahu?\"\n\"Nggak usah, lihat aja berapa lama sampai dia sadar.\"\n\nPLAK!—Bola salju lain mendarat.\n\n\"Itu yang keempat belas.\"</color>",
+            "info": "<size=36>Zombi Basoka Salju bisa menyerang tanaman dengan bola salju dan membekukannya.\n\n<color=black>Kekebalan: </color><color=#4B0082>720</color>\n<color=black>Kerusakan: </color><color=#4B0082>75/2 Detik</color>\n<color=black>Karakteristik: </color><color=#4B0082>Setelah muncul, ia terus-menerus menembakkan bola salju ke tanaman. Bola salju akan meledak saat terkena target, memberikan 75 kerusakan dalam area 3x3 dan menonaktifkan tanaman selama 5 detik.</color>\n<color=black>Kelemahan: </color><color=#4B0082>Basoka</color>"
         },
         {
-            "theZombieType": "100",
-            "name": "Kipli Mayit",
-            "introduce": "<size=36><color=black>Kemampuan Kipli Mayit kanggo melu saka kadohan asring medeni tetanduran. Nanging, gupuh nyata dumunung ing nir, sing wedi sing perang ing ngarepe bakal. ditarget saka mburi.</color>",
-            "info": "<size=36>Nembak kacang polong kanggo nyerang tanduran sampeyan.\n\n<color=black>Karusakan: </color><color=#4B0082>20</color>\n<color=black>Keteguhan: </color><color=#4B0082>270</color>"
+            "theZombieType": 50,
+            "name": "Zombi Perisai Salju",
+            "introduce": "<align=justified><size=36><color=black>Dulu dia mantan tentara elit di medan perang. Sekarang? Jawaranya lomba perang bola salju di pemakaman. Dia sayang banget sama perisainya, tiap dikit dicek-cek takut ada lecet. Mungkin kebiasaan itu juga yang bikin dia pensiun dini.</color>",
+            "info": "<size=36>Zombi tangguh dari negeri es, spesialis mantulin peluru datar jadi bola salju!\n\n<color=black>Daya Tahan: </color><color=#4B0082>720 + 2200 (tipe 2)</color>\n<color=black>Fitur: </color><color=#4B0082>Anti beku. Tiap 1.5 detik angkat perisai buat mantulin peluru datar jadi bola salju. Saat mantul, kena damage 20 dan gak bisa nahan peluru. Selama bawa perisai, gak gigit tapi nyeruduk pake tameng (damage 50).</color>"
         },
         {
-            "theZombieType": "101",
-            "name": "Ceri Kipli Mayit",
-            "introduce": "<size=36><color=black>Ceri Kipli Mayit iku murid SMA umur 17 taun kanthi endhas tanduran tuwuh saka gulu. Woh sing paling disenengi yaiku ceri, lan amarga latar mburi kulawarga kepausan, Mayit kasebut kanthi tresna marang dheweke minangka \"Prabu Godhong.\"</color>",
-            "info": "<size=32>Tembak peluru ceri kanggo nyerang tanduran sampeyan.\n\n<color=black>Karusakan: </color><color=#4B0082>60</color>\n<color=black>Kateguhan: </color><color=#4B0082>500</color>"
+            "theZombieType": 51,
+            "name": "Zombi Trisula Salju",
+            "introduce": "<align=justified><size=36><color=black>Di Olimpiade Es Pemakaman ke-5, Zombi Trisula ini tampil cemerlang! Hadiahnya mau dia beliin kereta luncur baru buat gengnya, plus pijat refleksi premium buat balas dendam ke si duri-duri nakal di tanah.</color>",
+            "info": "<size=36>Zombi pelempar dari negeri salju. Melempar Trisula bersalju yang bikin tanaman nggak bisa ngapa-ngapain!\n\n<color=black>Daya Tahan: </color><color=#4B0082>720</color>\n<color=black>Fitur: </color><color=#4B0082>Anti beku. Mirip si Zombi Trisula, tapi Trisula saljunya gak bisa ditangkis payung, dan bisa bikin target diem aja 5 detik (efek silent).</color>"
         },
         {
-            "theZombieType": "102",
-            "name": "Kipli Ceri Bom Mayit",
-            "introduce": "<size=35><color=black>Kipli Ceri Bom Mayit seneng ngrungokake \"Ceri Bomb\" dening The Runaways, sing bisa nerangake semangate sing murub. Nanging, ora ana sing ngerti carane dheweke sinau. ngobong kembang api nganggo cangkeme.</color>",
-            "info": "<size=34>Nembak ceri mbledhos kanggo nyerang tanduran sampeyan.\n\n<color=black>Karusakan: </color><color=#4B0082>1000</color>\n<color=black>Kateguhan: </color><color=#4B0082>500</color>"
+            "theZombieType": 52,
+            "name": "Zompli Krono Portal",
+            "introduce": "<align=justified><size=36><color=black>Apa sih sebenarnya isi dari pintu portal itu? Gak ada yang tahu. Tapi kalo tiba-tiba temen-temen lo muncul dari dalam sana, lo pasti kepo juga nanya: 'Ada otak segar nggak di dalem?'</color>",
+            "info": "<size=36>Menguasai ruang dan waktu, zombi dari dimensi yang entah dari mana.\n\n<color=black>Damage Peluru: </color><color=#4B0082>20</color>\n<color=black>Daya Tahan: </color><color=#4B0082>270 + 200 (tipe 2)</color>\n<color=black>Fitur: </color><color=#4B0082>Setiap 1.5 detik nembak kacang portal. Setiap 6 detik manggil 1 zombi acak (biasa, roadblock, ember, pintu besi). Pas mati, ninggalin serpihan ruang waktu.</color>"
         },
         {
-            "theZombieType": "103",
-            "name": "Mayit Kacang",
-            "introduce": "<size=36><color=black>Sawise diserang dening tanduran, Wall Kacang Mayit nampilake tandha cokotan ing sirahe tinimbang bolongan peluru. Nalika diwawancarai, dheweke kandha, \"Mbok menawa kanca-kancaku mung luwe.\"</color>",
-            "info": "<size=36>Iku mur obah.\n\n<color=black>Kateguhan: </color><color=#4B0082>270+1100</color>"
+            "theZombieType": 53,
+            "name": "Zombipellin Salju",
+            "introduce": "<align=justified><size=36><color=black>Setiap mau terbang, dia mesti nguras waktu setengah jam buat nyapu salju, bersihin es, dan nyeret si Yeti keluar dari kolong. \"Buat ngangkat gumpalan es segede ini ke langit, bahan bakarnya tuh boros banget!\" curhat si pilot.</color>",
+            "info": "<size=36>Langit mendung salju! Terbang sambil nyebar salju, terus putar balik dan manggil geng salju!\n\n<color=black>Daya Tahan: </color><color=#4B0082>720</color>\n<color=black>Fitur: </color><color=#4B0082>Anti efek tiga daun. Saat gerak, nyebar salju dan bikin tanaman di bawah kena efek silent. Makin lama, makin lambat, sampai akhirnya mundur. Pas cabut, langsung panggil trio: Zombi Perisai, Zombi Basoka Salju, Zombi Trisula Salju masing-masing 1 biji.</color>"
         },
         {
-            "theZombieType": "104",
-            "name": "<size=31>Koran Ceri Kipli Mayit",
-            "introduce": "<size=30><color=black>Woh favorit Mayit iki yaiku ceri, malah korane rasane ceri. Koran sing dicekel mung siji-sijine sing bisa ngedhunake rasa nesu.</color>",
-            "info": "<size=30>Mlebu bledosan Ceri barrage nalika korane rusak.\n\n<color=black>Kateguhan: </color><color=#4B0082>1500+720</color>\n<color=black>Sipat: </color><color=#4B0082>Dadi ora bisa dikalahake sauntara sawise korane rusak, banjur nembak bahan peledak. ceri saben 0,75 detik sawise koran kasebut rusak.</color>\n<color=black>Jenjang Jeblugan: </color><color=#4B0082>Cross Splash, bisa diserap dening kacang.</color>"
+            "theZombieType": 55,
+            "name": "Zombi Blok Es",
+            "introduce": "<align=justified><size=36><color=black>Tulisan ini beku, bro.</color>",
+            "info": "<size=36>Zombi pake helm dari blok es.\n\n<color=black>Ketahanan: </color><color=#4B0082>500 + 370 (Tipe 1)</color>\n<color=black>Ciri khas: </color><color=#4B0082>Kebal sama serangan dingin & beku. Tapi lemah banget kalo dikasih es ekstrim.</color>"
         },
         {
-            "theZombieType": "105",
-            "name": "Kotak Misteri Mayit",
-            "introduce": "<size=36><color=black>？？？</color>",
-            "info": "<size=36>Ora ana sing ngerti apa sing didhelikake ing njero kothak.\n\n<color=black>Kateguhan: </color><color=#4B0082>270+370</color>\n<color=black>Sipat: </color><color=#4B0082>Sawise kothak tiba, ngasilake Mayit acak kanthi 20%/40%/60%/80%/100% saka Ketangguhan Mayit asli.</color>"
+            "theZombieType": 56,
+            "name": "Monster Salju",
+            "introduce": "<align=justified><size=36><color=black>Penelitian soal Monster Salju nggak maju-maju, ya maklum, zombi kan gak punya otak, masa mau disuruh pinter akademis? Banyak orang juga susah ngebedain Monster Salju asli sama Zombi Yeti yang nyamar jadi Monster Salju. Untungnya, Dokter Edgar punya cara simpel: 'Yang keliatan lebih pinter, itu yang namanya Monster Salju.'</color>",
+            "info": "<size=36>Makhluk netral yang asalnya dari daerah bersalju.\n\n<color=black>Ketahanan: </color><color=#4B0082>1350</color>\n<color=black>Ciri khas: </color><color=#4B0082>Kalo zombi ngancurin Blok Es yang gak ada tanemannya, nanti muncul Monster Salju. Gerakannya lemot, nginjek tanaman, tapi gak nyerang langsung.</color>"
         },
         {
-            "theZombieType": "106",
-            "name": "Mayit Kacang Ember",
-            "introduce": "<size=33><color=black>Kenapa sirahe Ember Kacang Mayit digawe saka wesi? Amarga kabeh wong ngomong yen mangan kacang kenari bisa nutrisi otak, nanging dheweke ora ngerti yen kenari sing dikonsumsi wis dibungkus. kanthi wesi sing akeh banget, nanging bisa uga ora ala - paling saiki dheweke wis ngembangake sirah wesi.</color>",
-            "info": "<size=33>Iku Ember Kacang sing obah.\n\n<color=black>Ketangguhan: </color><color=#4B0082>270+2200</color>\n<color=black>Sipat: </color><color=#4B0082>Wesi bakal tiba yen mati dening peluru.</color>"
+            "theZombieType": 100,
+            "name": "Zompli",
+            "introduce": "<size=34><color=black>Kemampuan Zompli untuk menyerang dari kejauhan, sering kali membuat tanaman menjadi takut. Namun demikian, kepanikan yang sesungguhnya terletak pada para zombi, yang takut bahwa mereka yang bertempur di depannya akan menjadi sasaran dari belakang.",
+            "info": "<size=36>Zombi ini melompat dan melesat di antara tanaman.\n\n<color=black>Kerusakan: </color><color=#4B0082>20 </color>\n<color=black>Ketangguhan: </color><color=#4B0082> 270"
         },
         {
-            "theZombieType": "107",
-            "name": "Mayit kacang ceri",
-            "introduce": "<size=36><color=black>Pria sejati ora nate noleh kanggo nonton bledosan, lan Ceri Kacang Mayit mesthi cocok, amarga dheweke kerep nyekel bom nganggo pasuryane.</color>",
-            "info": "<size=36>Nduweni daya tahan tipis marang peluru sing mbledhos.\n\n<color=black>Kateguhan: </color><color=#4B0082>270+1100</color>\n<color=black>Sipat: </color><color=#4B0082>Njupuk karusakan maksimal 150 saka bledosan.</color>"
+            "theZombieType": 101,
+            "name": "Zompli Ceri",
+            "introduce": "<size=32><color=black>Zompli Ceri adalah seorang siswa SMA berusia 17 tahun dengan kepala tanaman yang tumbuh di lehernya. Buah favoritnya adalah ceri, dan karena latar belakang keluarga pausnya, para zombi dengan penuh kasih sayang menyebutnya sebagai \"Raja Daun",
+            "info": "<size=30>Tangga yang dibawanya menjadi pertahanan sementara dan bisa disandarkan pada tanaman pertahanan.\n\n<color=black>Kerusakan: </color><color=#4B0082>60\n<color=black>Ketangguhan: </color><color=#4B0082> 500"
         },
         {
-            "theZombieType": "108",
-            "name": "Mayit Kipliwesi",
-            "introduce": "<size=36><color=black>Taun wingi, Ember Kipli Mayit nggambar kertu tarot sing tulisane \"Kaisar.\" Wiwit kuwi, dhèwèké bisa nembak peluru wesi sak karepé.</color>",
-            "info": "<size=36>Ngobong peluru sing bisa ngrusak dhuwur.\n\n<color=black>Karusakan: </color><color=#4B0082>80</color>\n<color=black>Kateguhan : </color><color=#4B0082>270+1350</color>\n<color=black>Sipat: </color><color=#4B0082>Wesi bakal mudhun nalika mati kena peluru.</color>"
+            "theZombieType": 102,
+            "name": "Zompli Kaboom",
+            "introduce": "<size=34><color=black>Zompli Kaboom suka mendengarkan lagu \"Bom Ceri\" dari The Runaways, yang mungkin bisa menjelaskan semangatnya yang berapi-api. Namun, tidak ada yang tahu bagaimana dia belajar menyalakan kembang api dengan mulutnya.",
+            "info": "<size=34>Zombi raksasa - lambat namun sangat tahan sambil menebas setiap tanaman di hadapannya.\n\n<color=black>Kerusakan:</color><color=#4B0082> 1000\n<color=black>Ketangguhan: </color><color=#4B0082> 500"
         },
         {
-            "theZombieType": "109",
-            "name": "Kacang Delimi Mayit",
-            "introduce": "<size=35><color=black>Kacang Delimi Mayit biyen mung Mayit Sepakbola biasa, nganti sawijining dina dheweke tabrakan karo kacang sing nyebar pupuk. \"Aku ora ngerti kepiye wong iki. rampung ing sirahku; iki nyesek aku!\" sesambat Kacang Delimi Mayit.</color>",
-            "info": "<size=35>Mayit waja dhuwur sing uga bisa mlaku kanthi cepet.\n\n<color=black>Kateguhan: </color><color=#4B0082>270+4400</color>\n<color=black>Sipat: </color><color=#4B0082>Helm Rugby bakal tiba nalika mati dening peluru.</color>"
+            "theZombieType": 103,
+            "name": "Zombi Kentang",
+            "introduce": "<size=36><color=black>Setelah diserang oleh tanaman, Zombi Kentang menunjukkan bekas gigitan di kepalanya, bukan lubang peluru. Ketika diwawancarai, dia berkata, \"Mungkin rekan-rekan saya hanya lapar",
+            "info": "<size=36>Mata merah memancarkan bahaya dari zombie ini.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 270+1100"
         },
         {
-            "theZombieType": "110",
-            "name": "Kothak Misteri Emas Mayit",
-            "introduce": "<size=36><color=black>？？！</color>",
-            "info": "<size=36>Ana emas!? Aku kepingin weruh apa sing ana ing jero kothak Misteri iki...\n\n<color=black>Kateguhan: </color><color=#4B0082>270+720 </color>\n<color=black>Sipat: </color><color=#4B0082>Sawise kothak tiba, nuwuhake Mayit acak kanthi Ketangguhan lengkap.</color>"
+            "theZombieType": 104,
+            "name": "Zompli Koran Ceri",
+            "introduce": "<size=26><color=black>Buah favorit zombie ini adalah ceri, dan bahkan korannya pun beraroma ceri. Koran yang dipegangnya adalah satu-satunya benda yang bisa meredam amarahnya.",
+            "info": "<size=30>Kecil dan lincah, menyelinap dan sulit dibidik.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 1500 + 720\n<color=black>Sifat: </color><color=#4B0082>Menjadi tak terkalahkan untuk sementara setelah korannya rusak, lalu mulai menembakkan ceri yang meledak setiap 0,75 detik setelah korannya rusak.\nJangkauan Ledakan: Percikan silang, bisa diserap oleh kacang."
         },
         {
-            "theZombieType": "111",
-            "name": "Mayit kacang beku",
-            "introduce": "<size=31><color=black>Sirahe Mayit Beku Kacang wis nuwuhake akeh panemu ing jagad Mayit. Ana sing kandha yen dheweke duwe tujuan kanggo nyingkirake jagad sing adhem, dene sing liyane curiga yen ana hubungane karo Dr. Edgar. Nanging, mung dheweke sing ngerti yen tutup kepala iki muncul sawise mangan jamur biru tartamtu.</color>",
-            "info": "<size=32>Mayit sing kuat sing uga bisa mbatalake karusakan saka proyektil es.\n\n<color=black>Kateguhan: </color><color=#4B0082>270+2200</color>\n<color=black>Sipat: </color><color=#4B0082>Kekebalan kanggo proyektil beku utawa es.</color>"
+            "theZombieType": 105,
+            "name": "Zombi Kotak Misteri",
+            "introduce": "<size=36><color=black>？？？",
+            "info": "<size=36>Versi lain, dan yang ini berlapis baja dan tak pelak menerjang tanaman.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 270+370\n<color=black>Sifat: </color><color=#4B0082>Setelah kotak jatuh, memunculkan zombie acak dengan 20% / 40% / 60% / 80% / 100% dari Ketangguhan zombie asli."
         },
         {
-            "theZombieType": "112",
-            "name": "Bom Mayit",
-            "introduce": "<size=34><color=black>Pènget: Sakdurungé nggunakké kabèh bal basketé, pesthekake mlayu, amarga bal basket sing mbledhos bakal njalari kekacauan!</color>",
-            "info": "<size=34>Nguncalake bola basket sing mbledhos kanggo ngrusak pertahanan sampeyan!\n\n<color=black>Kateguhan: </color><color=#4B0082>1350</color>\n<color=black>Sipat: </color><color=#4B0082>Mbuwang 5 basket, banjur mbukak basket mbledhos mbledhos 100 karusakan kanggo Umbrella tanduran.</color>"
+            "theZombieType": 106,
+            "name": "Zombi Kentang Ember",
+            "introduce": "<size=26><color=black>Mengapa kepala Kentang Ember Zombi terbuat dari besi? Itu karena semua orang mengatakan bahwa makan kacang kenari dapat menyehatkan otak, tetapi dia tidak menyadari bahwa kacang kenari yang dikonsumsinya mengandung terlalu banyak zat besi. Namun, mungkin tidak terlalu buruk-setidaknya sekarang dia telah mengembangkan kepala besi.",
+            "info": "<size=30>Mata merah berlapis baja memancarkan bahaya dari zombie ini.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 270+2200\n<color=black>Sifat: </color><color=#4B0082>Besi akan jatuh saat terkena peluru."
         },
         {
-            "theZombieType": "113",
-            "name": "Mayit Kipli Penunggang",
-            "introduce": "<size=36><color=black>Apa sing ndadekake wong iki khusus dibandhingake karo penunggang paus yeti? Kipli Naik mangsuli, aku seneng banget main Boomerang.</color>",
-            "info": "<size=36>Varian saka Whale Naik Yeti!\n\n<color=black>Kateguhan: </color><color=#4B0082>720</color>\n<color=black>Sipat: </color><color=#4B0082>Nembak kacang polong ing tanduran sadurunge lan sawise mlumpat.</color>"
+            "theZombieType": 107,
+            "name": "Zombi Kentang Ceri",
+            "introduce": "<size=30><color=black>Pria sejati tidak pernah berbalik untuk menonton ledakan, dan Cherry-nut Zombie tentu saja cocok untuk itu, karena dia sering menangkap bom dengan wajahnya.",
+            "info": "<size=36>Baja berbentuk Kentang yang berguling dari kelompok zombie.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 270 + 1100\n<color=black>Sifat: </color><color=#4B0082>Menerima 150 kerusakan maksimum dari ledakan."
         },
         {
-            "theZombieType": "114",
-            "name": "Mayit Besi Mepet Pintu",
-            "introduce": "<size=24><color=black>Mayit Besi Mepet Pintu seneng nglumpukno besi, nggawe mayit liyane bingung. \"Nek Jamur Magnet iso njepit sirah awak dewe, kenopo ora bawa besi luwih akeh?\" Logika aneh iki tetep jalan - nganti ketemu Kipas Magnet.",
-            "info": "<size=30>Mayit Besi saiki nduwe perlengkapan anyar: Pintu!\n\n<color=black>Kerusakan: </color><color=#4B0082>80</color>\n</color>\n<color=black>Ketangguhan: </color><color=#4B0082>270+1250+1100+1100</color>\n<color=black>Sifat: </color><color=#4B0082>Terus-terusan nembak kacang polong besi ke tanduranmu karo pertahanan sing lumayan.</color>"
+            "theZombieType": 108,
+            "name": "Zompli Besi",
+            "introduce": "<size=30><color=black>Tahun lalu, Buckshooter Zombie menggambar sebuah kartu tarot yang bertuliskan \"Sang Kaisar\". Sejak saat itu, dia bisa menembakkan peluru besi sesuka hati.",
+            "info": "<size=30>Zombi ini melesat langsung ke barisan terdepan tanaman, dan tariannya memanggil zombi panggung yang merangsek masuk.\n\nKerusakan: 80\nKetangguhan: 270+1350\nAncaman: Besi akan jatuh saat terkena peluru."
         },
         {
-            "theZombieType": "115",
-            "name": "Mayit Jipang",
-            "introduce": "<size=26><color=black>\"Hmm? Hmm!\" Mayit Jipang maju tanpa ragu, ngrusak tanduran sing ngadangi jalane. Mayit liyane nganti terharu karo tekade. Tapi jebul Mayit Labu mung ngefans karo Kucing Labu, lan pas ndelok Kucing Labu ngrusak Kembang Api, langsung kepengin niru lan ngancurke tanduran.",
-            "info": "<size=28>Ngancurke tanduran pertama sing ditemui terus mati.\n\n<color=black>Ketangguhan: </color><color=#4B0082>500</color>\n<color=black>Sifat: </color><color=#4B0082>Langsung ngancurke tanduran pertama sing ketemu.</color>"
+            "theZombieType": 109,
+            "name": "Zombi Delimi Kentang",
+            "introduce": "<size=30><color=black>Zombie Delimi Kentang dulunya hanyalah Zombie Sepak Bola biasa, sampai suatu hari dia bertabrakan dengan Kentang yang sedang menyebarkan pupuk. \"Aku tidak tahu bagaimana orang ini bisa berada di kepalaku, ini membuatku sesak!\" keluh Zombie Kentang Rugby.",
+            "info": "<size=28>Makhluk ini menembakkan polong pada tanaman.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 270+4400\n<color=black>Sifat: </color><color=#4B0082>Helm Rugby akan jatuh saat terkena peluru."
         },
         {
-            "theZombieType": "116",
-            "name": "Mayit Jipang Pedes",
-            "introduce": "<size=30><color=black>Mayit Jipang Pedes iki sing paling seksi. Pas muncul, mayit liyane pada minggir! Dheweke kepengin ngadeg gagah sambil njerit, \"Jadi awu!\" - tapi sirahne malah kebangetan panas, langsung mabur luwih dhisik.</color></size>",
-            "info": "<size=30>Mabur terus ngancurke sak jalur tanduran!\n\n<color=black>Ketangguhan: </color><color=#4B0082>1500</color>\n<color=black>Sifat: </color><color=#4B0082>Ngancurke tanduran pertama sing ketemu terus ngobong sak jalur, ngrusak kabeh tanduran sing kena efek. Ora bakal kobong nek didinginno. \"Mayit telur Paskah, mung muncul ing level khusus.\"</color></size>"
+            "theZombieType": 110,
+            "name": "Zombi Kotak Misteri Emas",
+            "introduce": "<size=36><color=black>？？！",
+            "info": "<size=36>Makhluk ini menembakkan biji ceri pada tanaman.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 270+720\n<color=black>Sifat: </color><color=#4B0082>Setelah kotaknya jatuh, memunculkan zombie acak dengan Ketangguhan penuh."
         },
         {
-            "theZombieType": "117",
-            "name": "Mayit Cabe",
-            "introduce": "<color=black>Mayit Cabe nyemplung ing kolam nganggo semangat menggebu-gebu. Tapi mayit liyane malah nesu. \"Walah, saiki kolam rasa sego godhog pedes...\"",
-            "info": "<size=36>Mayit iki njebluk lan ngancurke sak jalur tanduran sakwise sawetara wektu.\n\n<color=black>Ketangguhan: </color><color=#4B0082>500</color>\n</color=black>Sifat: </color><color=#4B0082>Jebluk lan ngancurke sak jalur tanduran sakwise sawetara wektu.</color>"
+            "theZombieType": 111,
+            "name": "Zombi Kentang Beku",
+            "introduce": "<size=30><color=black>Kepala Frost-nut Zombie telah memicu banyak pendapat di dunia zombie. Ada yang mengatakan bahwa ia bertujuan untuk menjauhkan diri dari dunia yang dingin, sementara yang lain menduga bahwa hal ini berkaitan dengan eksperimen liar Dr. Namun, hanya dia yang tahu bahwa tutup kepala ini muncul setelah dia memakan jamur biru tertentu.",
+            "info": "<size=26>Makhluk ini menembakkan biji ceri ledak pada tanaman.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 270+2200\n<color=black>Sifat: </color><color=#4B0082>Kebal terhadap proyektil beku atau es."
         },
         {
-            "theZombieType": "118",
-            "name": "Mayit Rambo Delimi",
-            "introduce": "<size=32><color=black>Sing terakhir dieling-eling Mayit Rambo Delimi sakdurunge mati kuwi pas mlebu kandang petarung vegetarian terus ora sengaja nelan mesin pelempar. Saiki, tangane ora iso mandek nembak kacang polong cepet banget.",
-            "info": "<size=32>Ora mandek nembak kacang polong ngarah pertahananmu!\n\n<color=black>Ketangguhan: </color><color=#4B0082>270+1400</color>\n<color=black>Sifat: </color><color=#4B0082>Terus-terusan nembak kacang polong ngarah tanduranmu.</color>"
+            "theZombieType": 112,
+            "name": "Zombi Pelontar Ledakan",
+            "introduce": "<size=34><color=black>Peringatan: Sebelum dia menghabiskan semua bola basketnya, pastikan Anda berlari, karena bola basketnya yang meledak akan menyebabkan kekacauan!",
+            "info": "<size=36>Ini makhluk berkaki kacang.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 1350\n<color=black>Sifat: </color><color=#4B0082>Melempar 5 bola basket, lalu meluncurkan bola basket yang meledak. Ledakan memberikan 30 kerusakan pada tanaman Payung."
         },
         {
-            "theZombieType": "200",
-            "name": "Hiusamudra",
-            "introduce": "<size=36><color=black>\"Penyelam sing apik kuwi ora mung kudu isa nyilem, tapi uga kudu isa nyetir kapal selam super!\" ujare Hiusamudra Mayit karo bangga, sambil nambah tenaga kapal selame siji gigi maneh.</color>",
-            "info": "<size=36>Kudune Mayit iki seduluran karo iwak robot sing terkenal.\n\n<color=black>Kateguhan: </color><color=#4B0082>3000</color>"
+            "theZombieType": 113,
+            "name": "Zombi Kipli Pengendara",
+            "introduce": "<size=30><color=black>Apa yang membuat orang ini istimewa dibandingkan dengan yeti penunggang paus? Zombi Kipli Pengendara menjawab, \"Saya sangat menikmati bermain Boomerang.\"</color>",
+            "info": "<size=32>Varian dari Penunggang Paus Yeti!\n\n<color=black>Ketangguhan: </color><color=#4B0082>720</color>\n<color=black>Karakteristik: </color><color=#4B0082>Menembak kacang polong ke arah tanamanmu sebelum dan sesudah melompat.</color>"
         },
         {
-            "theZombieType": "201",
-            "name": "Michael Mayibil",
-            "introduce": "<size=30><color=black>Michael Mayibil ora mung siji Mayit; iki minangka upaya tim. Mayibil nyiyapake ajang, Mobil Abang Mayit nyedhiyakake efek visual, lan Michael Mayit... ninggalake mobil amarga ora duwe SIM kanggo menehi salam marang penggemar tanduran, nanging kacang polong katon rada bungah.</color>",
-            "info": "<size=30>Pertahanan sing dhuwur banget lan kekebalan kanggo alon.\n\n<color=black>Kateguhan: </color><color=#4B0082>12000</color>\n<color=black>Sipat: </color><color=#4B0082>Sawise mati, kanthi otomatis ngasilake Michael Mayit, Mayibil, lan Mobil Abang Mayit.</color>"
+            "theZombieType": 114,
+            "name": "Zompli Besi Berpintu",
+            "introduce": "<size=24><color=black>Zompli Besi Berpintu selalu menumpuk peralatan besi, membingungkan zombie-zombie lainnya. \"Jika Jamur Magnet bisa menjepit kepala kita, mengapa kita tidak membawa lebih banyak besi?\" Logika anehnya tetap berlaku - sampai dia bertemu dengan Kipas Magnet",
+            "info": "<size=30>Zompli Besi telah mendapatkan peralatan: sebuah Pintu!\n\n<color=black>Kerusakan: </color><color=#4B0082>80</color>\n</color>\n<color=black>Ketangguhan: </color><color=#4B0082>270+1250+1100+1100</color>\n<color=black>Sifat: </color><color=#4B0082>Secara konstan menembakkan kacang polong besi ke tanaman Anda sambil memiliki pertahanan yang layak.</color> "
         },
         {
-            "theZombieType": "202",
-            "name": "Gedhe Trisula Mayit",
-            "introduce": "<size=28><color=black>\"Giga Trisula Mayit iku sawijining nelayan sing trampil sing dikenal kanthi akurasi luar biasa kanthi papat Trisula sing dibuwang, lan dheweke entuk gelar Prabu nelayan.\" \"Satemene, aku biyen dadi tukang lempar lembing paruh waktu...\" Giga Trisula Mayit ngaku.</color>",
-            "info": "<size=28>Mbucalake  Trisula akeh ing tanduran sampeyan bebarengan.\n\n<color=black>Kateguhan: </color><color=#4B0082>270+7500</color>\n<color=black>Sipat: </color><color=#4B0082>Mbuwang 4  Trisula, saben-saben nyebabake karusakan kanggo tanduran padha karo 20% (minimal 60) saka kateguhan saiki.</color>"
+            "theZombieType": 115,
+            "name": "Zombi Laprek",
+            "introduce": "<size=26><color=black>\"Hmm? Hmm!\" Zombi Laprek selalu maju tanpa ragu, menghancurkan tanaman apa pun yang menghalangi jalan mereka, dan semua zombie tergerak oleh sikap mereka yang tidak mementingkan diri sendiri. Namun, Zombie Labu hanyalah penggemar Kucing Labu, dan ketika mereka melihatnya menghancurkan Kembang Api, mereka tidak dapat menahan keinginan untuk meniru dan menghancurkan tanaman",
+            "info": "<size=28>Menghancurkan tanaman pertama yang ada di dekatnya dan mati.\n\n<color=black>Ketangguhan: </color><color=#4B0082>500</color>\n<color=black>Sifat-sifat: </color><color=#4B0082>Menghancurkan tanaman pertama yang ditemuinya.</color>"
         },
         {
-            "theZombieType": "203",
-            "name": "<size=31>Mayit Koran Brondong Ceri",
-            "introduce": "<size=28><color=black>\"Aku wis tuwa...\" Brondong Ceri Koran Mayit ngeluh nalika mlaku-mlaku ing dalan. Sanajan ngemot tekanan, cukup kanggo njaga tanduran loro kasebut. lan Mayit mudhun \"Mung wong sing isih bisa menehi inspirasi kanggo perang ...\" dheweke mumet nalika nyelehake koran lan ambled ing.</color>",
-            "info": "<size=29>Ndadekake karusakan gedhe.\n\n<color=black>Karusakan:</color><color=#4B0082>400 → 1000 (Ngamuk)</color>\n<color=black>Kateguhan: </color><color=#4B0082>1500+1500</color>\n<color=black>Sipat: </color><color=#4B0082>Dadi ora bisa dikalahake sauntara sawise korane rusak, terus nembak ceri sing mbledhos saben 0,125 detik.</color>"
+            "theZombieType": 116,
+            "name": "Zombi Laprek Pedas",
+            "introduce": "<size=30><color=black>Zombie Laprek Pedas adalah yang paling seksi di antara semuanya. Saat dia muncul, dia menyingkir ke samping zombie lainnya! Dia ingin berdiri tegak dan berteriak, \"Jadi abu!\" - tetapi kepalanya lebih panas dan terbang lebih dulu.</color></size>",
+            "info": "<size=30>Melompati dan menghancurkan seluruh jalur tanaman!\n\n<color=black>Ketangguhan: </color><color=#4B0082>1500</color>\n<color=black>Sifat: </color><color=#4B0082>Menghancurkan tanaman pertama yang ditemuinya dan membuat seluruh jalur terbakar, menghancurkan semua tanaman yang terkena dampaknya. Tidak terbakar jika didinginkan. \"Zombi telur Paskah, hanya muncul di level khusus.\"</color></size>"
         },
         {
-            "theZombieType": "204",
-            "name": "Mayit Kacang Delimi Ireng",
-            "introduce": "<size=29><color=black>Mlaku metu saka bayang-bayang, Mayit Kacang Delimi Ireng mancarake kekuwatan, kadhemen, lan swasana sing ala. Dheweke kanthi tegas nyMayit Ciliken rahasia kekuwatane kanggo awake dhewe, negesake manawa mung pepeteng sing paling peteng sing bisa nggawe makhluk sing nggegirisi kaya dheweke \"Endi catku?\" pitakone Dr. Edgar, katon bingung ing laboratorium.</color>",
-            "info": "<size=29>Kanca lawas? Mungkin, mbok menawa kita wis tau ketemu sadurunge.\n\n<color=black>Karusakan: </color><color=#4B0082>100</color>\n<color=black>Keteguhan: </color><color=#4B0082>3000+12000</color>"
+            "theZombieType": 117,
+            "name": "Zombi Cabai",
+            "introduce": "<color=black>Zombie Cabai menyelam ke dalam kolam renang dengan penuh semangat. Namun, zombie lainnya tidak senang. \"Bagus, sekarang kolam renang terasa seperti sup pedas...",
+            "info": "<size=36>Zombie ini meledak dan menghancurkan seluruh jalur tanaman setelah beberapa saat.\n\n<color=black>Ketangguhan: </color><color=#4B0082>500</color>\n</color=black>Sifat: </color><color=#4B0082>Meledak dan menghancurkan seluruh lajur tanaman setelah beberapa saat.</color>"
         },
         {
-            "theZombieType": "205",
-            "name": "Prabom Mayiom Udara",
-            "introduce": "<size=27><color=black>Apa iku obyek mabur sing gedhe banget? Ora, iku sejatine kapal udara raksasa, sing nduweni cangkang sing kuat lan kemampuan kanggo ngeculake skuadron pejuang. Sanajan dirusak, kapal udara isih bisa gawe kacilakan marang makhluk ing sakubenge, nyebabake Mayit liyane tetep jarak, wedi yen kacilakan bisa nyebabake dheweke mati.</color>",
-            "info": "<size=30>Prabom Reporting!\n\n<color=black>Kateguhan: </color><color=#4B0082>3000</color>\n<color=black>Sipat: </color><color=#4B0082>Nimbali Drone Prabom saben detik nalika Crashlands mati, nyebabake karusakan gedhe kanggo tanduran nalika kena pengaruh.</color>"
+            "theZombieType": 118,
+            "name": "Zompli Rambo Delimi",
+            "introduce": "<size=32><color=black>Hal terakhir yang diingat Zompli Rambo Delimi sebelum dia meninggal adalah bahwa dia masuk ke dalam kandang pemukul vegetarian dan secara tidak sengaja menelan mesin pelempar. Sekarang, dia tidak bisa berhenti melempar kacang polong dengan kecepatan tinggi",
+            "info": "<size=32>Tanpa henti melepaskan rentetan kacang polong ke arah pertahanan Anda!\n\n<color=black>Ketangguhan: </color><color=#4B0082>270+1400</color>\n<color=black>Sifat: </color><color=#4B0082>Terus menembakkan kacang polong ke arah tanaman Anda</color>"
         },
         {
-            "theZombieType": "206",
-            "name": "Prabom Drone",
-            "introduce": "<size=35><color=black>Iki dudu montor mabur biasa; iki pesawat khusus sing dikompres liwat tekanan banyu. Nalika cara kompresi sing tepat tetep misteri, kekuatan medan perange saingan karo pengebom konvensional.</color>",
-            "info": "<size=35>Drone Prabom mabur luwih cepet, ngetokaké bom ing tanduran sing mabur.\n\n<color=black>Karusakan Bom: </color><color=#4B0082>1000</color>\n<color=black>Kateguhan: </color><color=#4B0082>200</color>"
+            "theZombieType": 119,
+            "name": "Zompli Balon Besi",
+            "introduce": "<align=justified><size=36><color=black>Pas dituduh bukan zombi angkatan lama, dia buru-buru ngeluarin foto jadul bareng geng lama. Tapi para zombi malah nanya, \"Lah, kamu yang mana?\" Dia sendiri liatin fotonya sambil bingung, kok gak ada mukanya?</color>",
+            "info": "<size=36>Zompli Besi yang dilengkapi alat balon logam!\n\n<color=black>Damage Peluru: </color><color=#4B0082>80</color>\n<color=black>Daya Tahan: </color><color=#4B0082>1350 + 500 (tipe 1)</color>\n<color=black>Fitur: </color><color=#8B0000>Punya kemampuan kayak Zombi Balon Besi. Tiap 1.5 detik nembak pluru besi yang bisa ngedorong mundur zombi yang kena pengaruh hipno.</color>"
         },
         {
-            "theZombieType": "207",
-            "name": "Artis Mayit",
-            "introduce": "<size=30><color=black>Artis Mayit, idola legendaris ing donya Mayit, nduweni standar sing dhuwur banget kanggo awake dhewe. Sawise rampung sinau ing Edgar's Dance Academy, dheweke nguwasani Super Moonwalk, yaiku dijenengi \"The Sixth Wonder of the Mayit World,\" ngentukake penggemar sing akeh.</color>",
-            "info": "<size=28>Mayit sing obah-obah banter sing geser menyang pertahanan sampeyan, mungsuh sing angel diadhepi.\n\n<color=black>Kateguhan: </color><color=#4B0082>3000</color>\n<color=black>Sipat: </color><color=#4B0082>Slip menyang paprangan, nyuda karusakan nganti 90% nalika nggeser, banjur ngundang Mayit Tarian.</color>"
+            "theZombieType": 200,
+            "name": "Zombi Berkapal Hiu",
+            "introduce": "<size=36><color=black>Seorang penyelam yang hebat seharusnya tidak hanya dapat menyelam tetapi juga mengemudikan kapal selam super!\", ujar Sharkmarine Zombie sambil meningkatkan tenaga kuda kapal selam dengan satu gigi.",
+            "info": "<size=36>Begitu korannya rusak akan memberedel lahan dengan biji ceri ledak.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 3000"
         },
         {
-            "theZombieType": "208",
-            "name": "Mayit Vampir",
-            "introduce": "<size=30><color=black>Monster iki bisa slamet ing kahanan sing paling abot lan nduwèni kekuwatan sing gedhé. Dheweke nyingkiri otak lan njelajah donya kanggo nggoleki panggonan sing sepi.</color>",
-            "info": "<size=28>Vampir saka sewu taun kepungkur, kanthi kekuwatan sing luar biasa.\n\n<color=black>Kateguhan: </color><color=#4B0082>3000</color>\n<color=black>Karusakan: </color><color=#4B0082>500</color>\n<color=black>Sipat: </color><color=#4B0082>Kadhangkala mlayu ing jarak sing cendhak, nyebabake 500 karusakan kanggo tanduran ing dalane lan maneh nalika metu sawise mati, menehi 500 karusakan kanggo tanduran ing area 3 × 3, ora kalebu tanduran sing dilindhungi Waluh. </color>"
+            "theZombieType": 201,
+            "name": "Zombil Mikael Jeksen",
+            "introduce": "<size=28><color=black>Michael Zombil bukan hanya satu zombie; ini adalah kerja sama tim. Zombil menyiapkan tempat, Bobsled Zombie memberikan efek visual, dan Michael Zombie... terpaksa meninggalkan mobil karena tidak memiliki SIM untuk menyapa para penggemarnya yang penuh semangat, tetapi kacang polongnya terlihat terlalu bersemangat.",
+            "info": "<size=26>Misteri isinya, kecuali sudah dibuka.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 3000\n<color=black>Sifat: </color><color=#4B0082>Setelah mati, secara otomatis memunculkan Michael Zombie, Zombil, dan Bobsled Zombie. Juga secara bawaan memiliki pengurangan kerusakan tetap sebesar 75%."
         },
         {
-            "theZombieType": "209",
-            "name": "Badut Prabu Pelompat</size>",
-            "introduce": "<size=36><color=black>\"Aku mung pengin ngetutake tren karo tampilan iki,\"ujare Pelompat Prabu Badut karo ngangkat bahu nalika katon apik banget. Nanging kabeh wong ngerti yen dheweke tau duwe. crita katresnan sing ninggalake tandha jero kanggo dheweke.</color></size>",
-            "info": "<size=34>Bom kasebut didhelikake ing tongkat Pelompat.\n\n<color=black>Kateguhan: </color><color=#4B0082>270+3000</color>\n<color=black>Sipat: </color><color=#4B0082>Yen mati nalika mlumpat, dheweke bakal njeblug lan malih dadi Prabu Kotak Badut Mayit.</color></size>"
+            "theZombieType": 202,
+            "name": "Zombi Maha Trisula",
+            "introduce": "<size=25><color=black>Giga-trisula Zombie adalah seorang nelayan terampil yang dikenal karena keakuratannya yang luar biasa dengan empat trisula yang dia lempar, membuatnya mendapat gelar raja nelayan. \"Sebenarnya, saya dulunya adalah seorang pelempar lembing paruh waktu...\" Giga-trisula Zombie mengakui.",
+            "info": "<size=30>Ini kentang besi berjalan\n\n<color=black>Ketangguhan: </color><color=#4B0082> 270+7500\n<color=black>Sifat: </color><color=#4B0082>Melempar 4 trisula, masing-masing menyebabkan kerusakan pada tanaman sebesar 20% (minimal 20) dari ketangguhannya saat ini."
         },
         {
-            "theZombieType": "210",
-            "name": "Gundul Pringis Rasa Iwak</size>",
-            "introduce": "<size=36><color=black>\"Balon iwak? Robot armor? Iku kabeh sing penting,\" ujare Gundul Pringis Rasa Iwak. Kanthi setelan mekanik sing nyengsemake, dheweke rumangsa pancen butuh.</color></size>",
-            "info": "<size=36>Gundul Pringis Rasa Iwak bisa ngganti arah.\n\n<color=black>Kateguhan: </color><color=#4B0082>3000</color></size>"
+            "theZombieType": 203,
+            "name": "Zompli Brondong Koran Ceri",
+            "introduce": "<size=25><color=black>Aku semakin tua... Zombie Koran Gatling Cherry meratap sambil berjalan di jalan. Meskipun menahan tekanannya, itu sudah cukup untuk membuat tanaman dan zombie jatuh. \"Hanya pria itu yang masih bisa menginspirasiku untuk bertarung...\" gumamnya sambil menyimpan koran dan berjalan",
+            "info": "<size=30>Makhluk kacang ini lebih tahan dari biji ceri ledak.\n\n<color=black>Kerusakan:</color><color=#4B0082> 400 → 1000 (Marah)\n<color=black>Ketangguhan: </color><color=#4B0082> 1500+1500\n<color=black>Sifat: </color><color=#4B0082>Menjadi tak terkalahkan untuk sementara setelah korannya rusak, dan terus menembakkan ceri yang meledak setiap 0,125 detik."
         },
         {
-            "theZombieType": "212",
-            "name": "Buto Ijo Obsidian",
-            "introduce": "<size=25><color=black>Miturut seratan kuna, kacathet yen waja obsidian mung bisa ditanggung dening awak sing murka liwat pacoban saka Beku pait lan nyala geni. Nalika kerabat seni Mayit plunged menyang sakabehe bebaya, kang bisa uga katon ing jantung ing dreadest paprangan 'Aja ngojok-ojoki gedhe, supaya sampeyan nggugah raksasa sing turu ing sangisoring bumi.' Peringatan kanggo tanduran.</color>",
-            "info": "<size=29>Ancaman kuna, lawas lan licik.\n\n<color=black>Kateguhan: </color><color=#4B0082>8000+24000</color>\n<color=black>Sipat: </color><color=#4B0082>Nyedhiyakake nyuda karusakan 90% kanggo kabeh Mayit ing layar, ngasilake Obsidian Mayit Cilik nalika smashes lemah, lan marisi sipat liyane saka Armored Buto Ijo.</color>"
+            "theZombieType": 204,
+            "name": "Zombi Maha Delimi",
+            "introduce": "<size=26><color=black>Melangkah keluar dari bayang-bayang, Giga Rugby-nut Zombie memancarkan kekuatan, kedinginan, dan getaran yang menyeramkan. Dia dengan tegas menyimpan rahasia kekuatannya untuk dirinya sendiri, menegaskan bahwa hanya kegelapan yang paling gelap yang dapat menciptakan makhluk yang tangguh seperti dia. \"Di mana cat saya?\" Dr. Edgar bertanya, tampak bingung di laboratoriumnya.",
+            "info": "<size=30>Makhluk ini menembakkan biji besi yang lebih merusak.\n\n<color=black>Kerusakan: </color><color=#4B0082>100\n<color=black>Ketangguhan: </color><color=#4B0082> 3000+12000"
         },
         {
-            "theZombieType": "213",
-            "name": "Obsidian Cilik Luknut",
-            "introduce": "<size=32><color=black>Kanthi lawang mencorong sing nampilake lading swiwi lan gulungan pati, Obsidian Mayit Cilik kanthi tliti ngrancang aksi iki kanggo peran mini-pterosaurus ing Jurassic Mayit sing paling anyar hit Hollytomb. Ora ana sing ngerti. ngerti, dheweke pancen ora sengaja dibuwang.</color>",
-            "info": "<size=32>Obsidian Mayit Cilik bisa gampang nyusup pertahanan sampeyan.\n\n<color=black>Karusakan: </color><color=#4B0082>200</color>\n<color=black>Kateguhan: </color><color=#4B0082>1500</color>"
+            "theZombieType": 205,
+            "name": "Zombipellin Kirov",
+            "introduce": "<size=30><color=black>Apakah itu benda terbang yang sangat besar? Bukan, itu sebenarnya adalah pesawat terbang raksasa, dengan cangkang yang kokoh dan kemampuan untuk melepaskan satu skuadron pesawat tempur. Bahkan ketika dihancurkan, pesawat itu masih bisa mendatangkan malapetaka pada makhluk di sekitarnya, menyebabkan zombie lain menjaga jarak, karena takut tabrakan akan membuat mereka mati.",
+            "info": "<size=26>Makhluk ini sangat cepat dan sangat keras: 3000\n<color=black>Sifat: </color><color=#4B0082>Memanggil Kirov Drone untuk beraksi setiap detik. Menghancurkan tanah saat mati, memberikan kerusakan besar pada tanaman saat tabrakan."
         },
         {
-            "theZombieType": "214",
-            "name": "Brondong Ceri Mayit",
-            "introduce": "<size=32><color=black>Brondong Ceri Mayit tansah tangi ing swasana ati sing nggegirisi — utamane nalika kanca sing nunggang paus nyeret dheweke menyang kerja. Amarga nesu, dheweke siyap nyebul. tanduran apa wae sing ana ing dalan sadurunge bali kanggo turu.</color>",
-            "info": "<size=32>Mlumpat lan ngrusak saka mburi pertahanan sampeyan kanthi nembak ceri sing mbledhos!\n\n<color=black>Kateguhan: </color><color=#4B0082>1500</color>\n<color=black>Sipat: </color><color=#4B0082>Miwiti njupuk ceri sing mbledhos 3 detik sawise mlebu pekarangan.</color>"
+            "theZombieType": 206,
+            "name": "Dron Kirov",
+            "introduce": "<size=30><color=black>Ini bukan pesawat biasa; ini adalah pesawat khusus yang telah dikompresi melalui tekanan air. Meskipun metode kompresi yang tepat masih menjadi misteri, namun kekuatannya di medan perang menyaingi pesawat pengebom konvensional.",
+            "info": "<size=30>Zombi yang muncul di film lama, muncul juga di sini untuk menyerang dengan ketahanannya yang berlapis segel kutukan.\n\nKerusakan Bom: 1000\nKetangguhan: </color><color=#4B0082> 200"
         },
         {
-            "theZombieType": "215",
-            "name": "Mayit Misteri Kotak Berlian",
+            "theZombieType": 207,
+            "name": "Zombi Artis",
+            "introduce": "<size=30><color=black>Superstar Zombie, idola legendaris di dunia zombie, memiliki standar yang sangat tinggi untuk dirinya sendiri. Setelah menyelesaikan studinya di Edgar's Dance Academy, ia menguasai Super Moonwalk, yang dinamai \"Keajaiban Keenam Dunia Zombie\", yang membuatnya memiliki banyak penggemar.",
+            "info": "<size=28>Tongkat togo ini tersimpan bom yang mengancam tanaman: 3000\n<color=black>Sifat: </color><color=#4B0082>Meluncur ke medan perang, mengurangi kerusakan sebesar 90% saat meluncur, lalu memanggil Dancing Zombies."
+        },
+        {
+            "theZombieType": 208,
+            "name": "Zombi Vampir",
+            "introduce": "<size=30><color=black>Monster ini selamat dari kondisi yang paling keras dan memiliki kekuatan yang sangat besar. Monster ini menghindari manusia dan berkeliaran di dunia untuk mencari tempat yang terpencil.",
+            "info": "<size=26>Baja berbentuk kentang ini lebih tebal dan dapat berubah arah.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 3000\nKerusakan: 500\n<color=black>Sifat: </color><color=#4B0082>Sesekali melesat dalam jarak pendek, memberikan 500 kerusakan pada tanaman yang dilewatinya dan sekali lagi saat keluar. Setelah mati, memberikan 500 kerusakan pada tanaman di area 3×3, tidak termasuk tanaman yang dilindungi Labu."
+        },
+        {
+            "theZombieType": 209,
+            "name": "King Badut Pogo",
+            "introduce": "<size=32><color=black>Saya hanya ingin mengikuti tren dengan penampilan ini, kata King Badut Pogo sambil mengangkat bahu setiap kali penampilannya yang keren muncul. Tetapi semua orang tahu bahwa dia pernah memiliki kisah cinta yang meninggalkan jejak mendalam baginya.",
+            "info": "<size=30>Proyektil yang dia lempar bisa meledak di area tanaman.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 270+3000\n<color=black>Sifat: </color><color=#4B0082>Jika dia mati saat melompat, dia akan meledak dan berubah menjadi Zombie Raja Badut di dalam Kotak."
+        },
+        {
+            "theZombieType": 210,
+            "name": "Zombi Kentang Robot Super",
+            "introduce": "<size=36><color=black>Bakso ikan? Baju besi Mecha? Hanya itu yang penting, kata Super Mecha Bowling Ball Zombie. Dengan mengenakan setelan mekanik yang mengesankan, dia merasa hanya itu yang dia butuhkan.",
+            "info": "<size=36>Zombi yang ini tak pelak menerjang tanaman.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 3000"
+        },
+        {
+            "theZombieType": 212,
+            "name": "Gargantuar Obsidian",
+            "introduce": "<size=26><color=black>Menurut catatan kuno, armor obsidian abyssal cuma bisa dipake sama tubuh yang udah ditempa lewat ujian es yang menggigit dan api yang membara. Saat kaum zombie ada di ujung tanduk, sosoknya bisa aja muncul di tengah pertempuran paling ngeri. 'Jangan bikin ribut gede, nanti malah ngebangunin raksasa yang tertidur di bawah tanah.' Peringatan buat para tanaman.</color>",
+            "info": "<size=30>Ancaman kuno, mistis, dan licik.\n\n<color=black>Ketahanan: </color><color=#4B0082>8000+24000</color>\n<color=black>Skill: </color><color=#4B0082>Ngurangin damage semua zombie di layar sampe 90%, manggil Zombigel Obsidian pas dia ngedobrak tanah, dan ngambil kemampuan lain dari Gargantuar Berarmor.</color>"
+        },
+        {
+            "theZombieType": 213,
+            "name": "Zombogel Obsidian",
+            "introduce": "<size=30><color=black>Dengan pintu masuk yang mencolok yang menampilkan pisau bersayap dan gulungan kematian, Abyssal Imp dengan cermat merancang aksi ini untuk peran pterosaurus mini dalam film Jurassic Zombies terbaru Hollytomb. Tidak banyak yang tahu, dia sebenarnya hanya tidak sengaja terlempar keluar",
+            "info": "<size=30>Abyssal Imp dapat dengan mudah menyusup ke pertahanan Anda.\n\n<color=black>Kerusakan: </color><color=#4B0082>200</color>\n<color=black>Ketangguhan: </color><color=#4B0082>1500</color>"
+        },
+        {
+            "theZombieType": 214,
+            "name": "Zompli Brondong Ceri Pengendara",
+            "introduce": "<size=30><color=black>Zompli Kaboom Pengendara Zombie selalu bangun dengan suasana hati yang buruk - terutama saat rekannya yang menunggang paus menyeretnya ke tempat kerja. Dipicu oleh kemarahan, dia siap untuk meledakkan tanaman apa pun yang menghalangi jalannya sebelum kembali untuk tidur siang.</color>",
+            "info": "<size=28>Melompat dan hancurkan dari belakang pertahanan Anda dengan menembakkan ceri yang meledak!\n\n<color=black>Ketangguhan: </color><color=#4B0082>1500</color>\n<color=black>Sifat: </color><color=#4B0082>Mulai menembakkan buah ceri yang meledak 3 detik setelah memasuki halaman Anda.</color>"
+        },
+        {
+            "theZombieType": 215,
+            "name": "Zombi Kotak Misteri Berlian",
             "introduce": "<size=36><color=black>！！！</color>",
-            "info": "<size=36>Sok-sokan bakal metu nggoleti salah siji kosmare paling elekmu, utawa berkah? Sapa ngerti...\n\n<color=black>Kateguhan: </color><color=#4B0082>20000+1100</color>"
+            "info": "<size=36>Secara acak memunculkan salah satu mimpi terburuk Anda, atau mungkin berkah?.\n\n<color=black>Ketangguhan: </color><color=#4B0082>20000+1100</color>"
         },
         {
-            "theZombieType": "216",
-            "name": "Mayibil Kacang Trisula",
-            "introduce": "<size=26><color=black>Mayit Kacang Trisula kuwi perfeksionis tenan. Dheweke mikir kendaraane rada kumel, mula mulai diisi trisula. Tapi, amarga sifat perfeksionise, ora bakal mandek sakdurunge kabeh slot kepenuhan.</color>",
-            "info": "<size=26>Ngudani hujan trisula buat nembus pertahananmu!\n\n<color=black>Ketangguhan: </color><color=#4B0082>1350+4400</color>\n<color=black>Karakteristik: </color><color=#4B0082>Saben nyerang, nembak 14 trisula berurutan, terus sawisé jeda cendhak, nembak 14 trisula maneh, total rong tembakan. Trisulane ora ngincer tanduran langsung, tapi diluncurke nganggo sudut lan kecepatan tetep, ngrusak tanduran apa wae sing ketabrak.</color>"
+            "theZombieType": 216,
+            "name": "Zombil Kentang Trisula",
+            "introduce": "<size=26><color=black>Zombil Kentang Trisula adalah \"perfeksionis\" dari mayat hidup. Dia pikir kendaraannya agak lusuh, jadi dia mulai mengisinya dengan trisula. Tapi sesuai dengan sifat perfeksionisnya, dia tidak akan berhenti sampai semua slot terisi.</color>",
+            "info": "<size=26>Ngeluncurin hujan trisula buat nembusin pertahanan lo!\n\n<color=black>Ketangguhan: </color><color=#4B0082>1350+4400</color>\n<color=black>Karakteristik: </color><color=#4B0082>Setiap serangan meluncurkan 14 trisula secara berurutan, lalu setelah jeda singkat, dia menembakkan 14 trisula lagi, dengan total dua tembakan. Trisula tidak menargetkan tanaman secara langsung; sebaliknya, mereka diluncurkan dengan sudut dan kecepatan tetap, memberikan kerusakan pada tanaman apa pun yang mereka tabrak.</color>"
         },
         {
-            "theZombieType": "217",
-            "name": "Mayit Joget Super",
-            "introduce": "<color=black>Kabeh mayit kagum karo lompat galah sakti Mayit Joget Super. \"Yo wis bakatku,\" ujare. Tapi sakjané, dheweke latian loro wektu saben dina, lan kaya pepatah, \"latian kaping loro, lompate yo kaping loro.\"",
-            "info": "<size=36>Iso mlumpat ngliwati rong ubin.\n\n<color=black>Ketangguhan: </color><color=#4B0082>3000</color>\n<color=black>Sifat: </color><color=#4B0082>Iso mlumpat rong ubin, tapi isih iso dicegah karo kacang-kacangan sing dhuwur.</color>"
+            "theZombieType": 217,
+            "name": "Zombi Joget Super",
+            "introduce": "<color=black>Semua zombie kagum dengan kemampuan lompat galah yang luar biasa dari Zombi Joget Super. \"Wong itu bakat saya kok,\" kata Zombi Joget Super. Tapi sebenarnya, dia bekerja dua kali sehari, dan seperti kata pepatah, \"dua kali kerja, dua kali lompat",
+            "info": "<size=36>Dapat melompati dua ubin.\n\n<color=black>Ketangguhan: </color><color=#4B0082>3000</color>\n<color=black>Sifat: </color><color=#4B0082>Dapat melompati 2 ubin tetapi dapat dihalangi oleh kacang-kacangan tinggi</color>"
         },
         {
-            "theZombieType": "218",
+            "theZombieType": 218,
             "name": "Tok Kasa",
             "introduce": "<color=black></color>",
-            "info": "<size=27>Mbanting trisula dewa kanggo ngancurke pertahananmu!\n\n<color=black>Ketangguhan: </color><color=#4B0082>8000+24000</color>\n<color=black>Sifat: </color><color=#4B0082>Muncul mung ing mode Purgatory yen milih pengubah sing cocog. Kebal saka Hipno dan Penelen, lan mung iso nampa maksimal 5000 damage saben serangan. Pas muncul, kabeh Mayit Giga-trisula langsung ngamuk, lan kabeh trisula saiki nambah 5x damage. Trisulane diledhek ing sudut tartamtu, iso langsung mateni tanduran (kerusakane iso dialihke), lan pas nyentuh tanah, iso ngblokir proyektil nganti 300 tembakan utawa ilang sawisé 30 detik. Yen ora dihancurke, bakal ngasilke damage gede ing tanduran sakcedhake pas ilang.</color>"
+            "info": "<size=27>Ngelempar trisula dewa buat ngehancurin pertahanan lo!\n\n<color=black>Ketangguhan: </color><color=#4B0082>8000+24000</color>\n<color=black>Sifat: </color><color=#4B0082>Muncul hanya dalam mode Purgatory setelah memilih pengubah yang sesuai. Kebal terhadap Hipno dan Pemakan, dan menerima tidak lebih dari 5000 kerusakan setiap serangan. Saat muncul, semua Zombie Giga-trisula akan terus menyerang, dan semua trisula sekarang memberikan 5 kali lipat kerusakan. Trisula dilemparkan pada sudut tertentu, dapat langsung membunuh sebagian besar tanaman (kerusakannya dapat dialihkan) dan saat mendarat memblokir proyektil hingga maksimum 300 tembakan, atau menghilang setelah 30 detik. Jika tidak dihancurkan, mereka memberikan sejumlah besar kerusakan pada tanaman di dekatnya saat menghilang.</color>"
         },
         {
-            "theZombieType": "219",
-            "name": "Iwak Pringis Ultra",
-            "introduce": "<size=24><color=blackIwak Pringis Ultra asline digawé supaya luwih cilik lan presisi dibanding Iwak Pringis Ultra, tapi gara-gara cetak birune kacampur, malah dadi luwih gedhe. Para insinyur kaget pas sadar, tapi wis telat—yo wis, dijalani wae.</color>",
-            "info": "<size=26>Nyedot damage kanggo kabeh mayit ing kebonmu!\n\n<color=black>Ketangguhan: </color></color><color=#4B0082>12000</color>\n<color=black>Sifat: </color></color><color=#4B0082>Muncul mung ing mode Purgatory yen milih pengubah sing pas. Kebal saka Hipno lan Penelen, lan mung iso nampa maksimal 5000 damage saben serangan. Ultra Mecha-Nut Mayit nyerep kabeh damage kanggo mayit liyane (kajaba Mayit Kotak Misteri). Dheweke nduwe frame tak terkalahkan lan mung iso kena damage sepisan saben 0,2 detik.</color>"
+            "theZombieType": 219,
+            "name": "Zombi Kentang Robot Ultra",
+            "introduce": "<size=24><color=black>Zombi Kentang Robot Ultra dimaksudkan untuk menjadi Zombi Kentang Robot Super yang lebih kecil dan presisi, tetapi campuran cetak biru membuatnya menjadi lebih besar. Para insinyur terlambat menyadarinya-jadi mereka hanya <i>menggulung</i> dengan itu.</color>",
+            "info": "<size=26>Nyerap damage untuk semua zombi di kebon lo!\" \n\n<color=black>Ketangguhan: </color></color><color=#4B0082>12000</color>\n<color=black>Sifat: </color></color><color=#4B0082>Muncul hanya dalam mode Purgatory setelah memilih pengubah yang sesuai. Kebal terhadap Hipno dan Pemakan, dan menerima tidak lebih dari 5.000 kerusakan setiap serangan. Ultra Mecha-Nut Zombie memberikan kerusakan yang merendam semua zombie (kecuali Zombie Kotak Misteri). Ia memiliki bingkai tak terkalahkan, menerima kerusakan hanya sekali setiap 0,2 detik.</color>"
         },
         {
-            "theZombieType": "220",
-            "name": "Mayit Ireng Perkasa",
+            "theZombieType": 220,
+            "name": "Zombi Hitam Perkasa",
             "introduce": "<color=black></color>",
-            "info": "<size=26>Mayit Ireng Perkasa iso ngancurke pertahananmu gampang banget!\n\n<color=black>Kerusakan: </color></color><color=#4B0082>200</color>\n<color=black>Ketangguhan: </color><color=#4B0082>8000+24000</color>\n<color=black>Sifat: </color><color=#4B0082>Muncul mung ing mode Purgatory yen milih pengubah sing pas. Kebal saka knockback, Hipno, lan Penelen; mung iso kena maksimal 5000 damage saben pukulan. Mateni efek penyembuhan tanduran, nyuda jadi 0,1x damage. Sakjane mateni tanduran non-defensif, ngubah dadi Mayit Giga Rugby-nut. Saben 3 detik (bisa ditumpuk): 1. Ngeduplikasi kekuatan serangan. 2. Mulihake 6000 HP armor. 3. Nambah kecepatan 0.3 (maksimal 3). Kecepatan metu: 0,9 - 1,8.</color>"
+            "info": "<size=26>Zombi Hitam Perkasa bisa menghancurkan pertahanan lo dengan mudah!\n\n<color=black>Kerusakan: </color></color><color=#4B0082>200</color>\n<color=black>Ketangguhan: </color><color=#4B0082>8000+24000</color>\n<color=black>Sifat: </color><color=#4B0082>Muncul hanya dalam mode Purgatory setelah memilih pengubah yang sesuai. Kebal terhadap knockback, Hipno, dan Pemakan; menerima maksimal 5000 kerusakan per pukulan. Menonaktifkan penyembuhan tanaman, mengubahnya menjadi 0,1x kerusakan terhadapnya. Seketika membunuh tanaman non-defensif, mengubahnya menjadi Zombie Giga Rugby-nut.  Setiap 3 detik (dapat ditumpuk):  1. Menggandakan kekuatan serangan.  2. 2. Memulihkan 6000 kesehatan armor.  3. Meningkatkan kecepatan sebesar 0.3 (maksimal 3).  Kecepatan bertelur: 0,9 - 1,8.</color>"
         },
         {
-            "theZombieType": "221",
-            "name": "Monster Robot Mlaku",
+            "theZombieType": 221,
+            "name": "Monster Robot Berkaki",
             "introduce": "<color=black></color>",
-            "info": "<size=26>Monster Robot Mlaku nembakke bom lan manggil Kirov kanggo ngancurke pertahananmu.\n\n<color=black>Ketangguhan: </color><color=#4B0082>12000</color>\n</color>\n</color>Keistimewaan: </color><color=#4B0082>Muncul mung ing mode Purgatory yen milih pengubah sing pas. Kebal saka knockback, Hipno, Penelen, lan jatuh pesawat Magnethorn. Maksimal nampa 5000 damage saben serangan. Pas ing lemah, nyerang maju kaya Zomboni, ngerusak tanduran. Yen HP sisa 2/3, bakal dadi tak terkalahke sakkedap, terus mabur, manggil Kirov Mayitpellin saben 3 detik, lan ngeculake bom ukuran 3x3 (kayak Kotak Badut Mayit, tapi ora ngefek lawan Joker Labu).</color>"
+            "info": "<size=26>Monster Robot Berkaki menembakkan bom dan memanggil Kirov untuk menghancurkan pertahananmu.\n\n<color=black>Ketangguhan: </color><color=#4B0082>12000</color>\n</color>\n</color>Keistimewaan: </color><color=#4B0082>Hanya muncul dalam mode Purgatory setelah memilih pengubah yang sesuai. Kebal terhadap knockback, Hipno, Pemakan dan jatuhnya pesawat Magnethorn. Menghasilkan kerusakan maksimal 5000 per serangan. Di darat, ia menyerang ke depan, menghancurkan tanaman seperti Zombil. Dengan 2/3 HP, ia akan menjadi tak terkalahkan untuk sesaat, lalu lepas landas, memanggil Kirov Zombipellin setiap 3 detik dan menjatuhkan bom eksplosif berukuran 3x3 (seperti Berkotak-Kotak, tidak efektif untuk melawan Labu Badut)."
         },
         {
             "theZombieType": 222,
-            "name": "MJ Putih Sound Horeg",
+            "name": "Zombil Michael Konser Keliling",
             "introduce": "<size=26><color=black>",
-            "info": "<size=30>MJ Putih Sound Horeg urip kanggo nglipur lan muter konser keliling!\n\n<color=black>Ketangguhan: </color></color><color=#4B0082>32000</color>\n<color=black>Sifat: </color></color><color=#4B0082>Muncul mung ing mode Purgatory yen milih pengubah sing pas. Kebal saka Hipno dan Penelen, lan mung kena maksimal 5000 damage saben pukulan sakdurunge pengurangan damage. Marangke kekebalan beku kanggo mayit cedhaké lan manggil 4 Artis Mayit saben sawetara detik. Pas mati, metu 2 Michael Mayit bonus lan Artis Mayit.</color>"
+            "info": "<size=30>Zombil Michael Konser Keliling hidup untuk ngehibur dan tur konser keliling!\"\n\n<color=black>Ketangguhan: </color></color><color=#4B0082>32000</color>\n<color=black>Sifat: </color></color><color=#4B0082>Muncul hanya dalam mode Purgatory setelah memilih pengubah yang sesuai. Kebal terhadap Hipno dan Pemakan dan menerima tidak lebih dari 5000 kerusakan setiap pukulan sebelum memperhitungkan pengurangan kerusakan. Memberikan kekebalan cryo kepada zombie di dekatnya dan memanggil 4 Artis Zombies setiap beberapa detik. Memunculkan 2 Michael Zombil dan Artis Zombie saat mati.</color>"
         },
         {
             "theZombieType": 223,
-            "name": "Prof Mayit Kipli Ceri",
+            "name": "Prof Zompli Ceri",
             "introduce": "<color=black></color>",
-            "info": "<size=26>Prof Mayit Ceri kesengsem banget ngeliti artefak ilmiah, utamane bahan peledak. Rumore, Cherrizilla kuwi ciptaane...\n\n<color=black>Ketangguhan: </color></color><color=#4B0082>1200+12000+1500</color>\n<color=black>Sifat: </color><color=#4B0082>Muncul mung ing mode Api Penyucian yen milih pengubah sing pas. Kebal saka knockback, Hipno, lan Penelen, nampa maksimal 5000 damage saben pukulan. Prof Mayit Ceri kebal nganti korane ancur. Sakwise ilang, dheweke dadi tak terkalahke sebentaran lan ngowahi nganti 30 mayit dadi Mayit Koran Ceri Bom sing ngamuk. Terus, dheweke nembakke rentetan ceri, ngeculake ceri menyang kolom terakhir sambil ngebut maju. Dheweke mung bakal mandek yen ketemu Duri, sing langsung ngancurke korane yen isih ana.</color>"
+            "info": "<size=26>Prof Zompli Ceri terobsesi dengan mempelajari artefak ilmiah, terutama bahan peledak; rumornya, Cherrizilla pada awalnya adalah ciptaannya...\n\n<color=black>Ketangguhan: </color></color><color=#4B0082>1200+12000+1500</color>\n<color=black>Sifat: </color><color=#4B0082>Hanya muncul dalam mode Api Penyucian setelah memilih pengubah yang sesuai. Kebal terhadap knockback, Hipno, Pemakan menerima maksimal 5000 kerusakan per pukulan. Profesor Cherryz kebal sampai korannya hancur. Setelah kehilangannya, dia secara singkat menjadi tak terkalahkan dan mengubah hingga 30 zombie menjadi Zombi Koran Kaboom yang marah. Dia kemudian menembakkan rentetan ceri, melontarkan ceri ke kolom terakhir sambil berakselerasi ke depan. Dia hanya berhenti setelah bertemu dengan Duriliar, yang langsung menghancurkan korannya jika masih utuh."
         },
         {
             "theZombieType": 224,
-            "name": "<u>Suri Sirkus Pandora</u>",
-            "introduce": "<align=justified><size=36><color=black>Pandengane Ratu waé wis cukup nggawe para peladene gemeter. Ora ana sing wani mbangkang. Nanging, kuwat dudu siji-sijine kesenengane—dheweke seneng menehi. Ing kothak hadiah sing megah, ana dolanan lan perhiasan kanggo bocah cilik... bareng bom sing siap njebluk. Lan wah, dheweke pancen seneng kejutan.</color>",
-            "info": "<size=36>Suri Sirkus Pandora seneng banget nggawe \"adegan njebluk.\"\n\n<color=black>Kekandelan: </color><color=#4B0082>32000</color>\n<color=black>Karakteristik: </color><color=#4B0082>\n<color=black>•</color> Muncul mung ing mode Purgatory sawise milih modifikasi sing cocog.\n<color=black>•</color> Nampa maksimal 5000 kerusakan saben hit sakdurunge perhitungan pengurangan kerusakan.\n<color=black>•</color> Ora bisa dikasihi utawa dipangan.\n<color=black>•</color> Bisa nggilas tanduran yen ndemek.\n<color=black>•</color> Waras 3000 Kekandelan saben kena ledhakan badut.\n<color=black>•</color> Metu saka kothake saben sawetara wektu, nuduhake salah siji saka efek iki kanthi acak:\n1. Nyeluk mayot Badut Prabu Pelompat saka kolom kaping 5 ngarep.\n2. Nyeluk mayot Badut Prabu Pelompat saka kolom kaping 5 ngarep.\n3. Njebluk ing kabeh ubin ing kolom sing dheweke enggoni, menehi kerusakan fisik.</color>"
+            "name": "<u>Queen Badut Pandora</u>",
+            "introduce": "<align=justified><size=36><color=black>Pandangan Ratu ajaib ini aja udah bikin para bawahannya gemeter. Nggak ada yang berani ngelawan dia. Tapi bukan cuma kekuatan yang dia suka—dia juga suka berbagi. Dalam kotak kado mewahnya, ada mainan dan pernak-pernik buat yang beruntung... plus bom kejutan yang siap meledak. Dan duh, dia emang cinta banget sama kejutan.</color>",
+            "info": "<size=36>Queen Badut Pandora suka banget bikin \"adegan yang meledak-ledak.\"\n\n<color=black>Daya Tahan: </color><color=#4B0082>32000</color>\n<color=black>Skill: </color><color=#4B0082>\n<color=black>•</color> Cuma muncul di mode Purgatory kalo pilih modifikatornya.\n<color=black>•</color> Maksimal kena 5000 damage per hit sebelum perhitungan pengurangan damage.\n<color=black>•</color> Kebal dari efek pesona atau dimakan.\n<color=black>•</color> Bisa nginjek tanaman sampe hancur.\n<color=black>•</color> Bakal nyerap 3000 daya tahan tiap kali kena ledakan badut.\n<color=black>•</color> Tiap beberapa saat bakal keluar dari kotaknya dan ngeluarin efek random:\n1. Manggil Zombi King Berkotak-kotak dari kolom ke-5 ke depan.\n2. Manggil Zombi Pogo King Berkotak-kotak dari kolom ke-5 ke depan.\n3. Meledakin semua petak di kolom tempat dia berdiri, nyerang pake damage fisik.</color>"
+        },
+        {
+            "theZombieType": 225,
+            "name": "Zompli Brondong Delimi Hytam",
+            "introduce": "<align=justified><size=36><color=black>Brondong Hytam ini bener-bener sosok petarung dari besi. Badannya dari baja, pikirannya keras kayak baja, pelurunya dari baja, bahkan sikapnya juga super dingin abis kena teguran HR. Dia yakin, zombi lain gagal nembus pertahanan karena nggak dilatih sekeras dia.</color>",
+            "info": "<size=36>Pejuang garis depan sejati yang pantang mundur!\n\n<color=black>Damage Peluru: </color><color=#4B0082>80</color>\n<color=black>Daya Tahan: </color><color=#4B0082>3000 + 6000 (tipe 1)</color>\n<color=black>Fitur: </color><color=#4B0082>Anti knockback. Nembakin pluru besi tiap 0.1 detik. Bisa ngusir zombi yang kena pesona.</color>"
+        },
+        {
+            "theZombieType": 226,
+            "name": "Zombi Alpha",
+            "introduce": "<align=justified><size=36><color=black>\"Perang adalah pedang yang kita pakai buat rebut cahaya matahari! Kemenangan itu wajib!\" \"Lapor, Kapten! Tadi aku nginjek sesuatu... kayaknya yeti.\" \"Tinggalin aja, bukan harta rampasan. Cuma bakal nunda kemenangan lebih besar.\" \"Abis perang ini, buku baru kapten bakal rilis, ya?\" \"Nunggu gue mati dulu.\"</color>",
+            "info": "<size=36>Biasanya dateng berdua, tapi kalo yang elit, bisa rame-rame nyergap bareng!\n\n<color=black>Damage Serangan Dekat: </color><color=#4B0082>500</color>\n<color=black>Daya Tahan: </color><color=#4B0082>6000 + 8000 (tipe 2)</color>\n<color=black>Fitur: </color><color=#4B0082>Anti pesona. Muncul berdua, tapi kalo jadi pemimpin, tiap baris munculin 5 dan daya tahannya dikali 5. Kalo kena serangan maut, masuk mode sekarat: kebal damage, gak bisa diserang, tapi tetap halangin peluru. 10 detik kemudian, kalo masih ada temen sejenis yang sehat, langsung bangkit full darah dan maju 4 petak, nyeruduk tanaman sambil nyebar damage + efek bom badut.</color>\n<color=black>Kelemahan: </color><color=#4B0082>Pemakan & Varian Payung Permata termasuk Payung Kaya</color>"
+        },
+        {
+            "theZombieType": 227,
+            "name": "Zombi Cakar Kentang Beku",
+            "introduce": "<align=justified><size=36><color=black>Teror es yang bikin bulu kuduk berdiri, bro.</color>",
+            "info": "<size=36>Zombi Kentang Beku yang punya cakar tajem kebek es. Serangannya sadis banget!\n\n<color=black>Ketebalan: </color><color=#4B0082>720 + 2200 (Tipe 1)</color>\n<color=black>Karakteristik: </color><color=#4B0082>Nurunin gaya Zombi Kentang Es. Penampilannya dimodif biar mirip King Gojo sama Dio Satoru.</color>"
         }
     ]
 }

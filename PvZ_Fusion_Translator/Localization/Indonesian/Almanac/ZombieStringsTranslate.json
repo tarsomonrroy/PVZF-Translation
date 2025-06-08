@@ -154,7 +154,7 @@
             "theZombieType": 26,
             "name": "Zombipellin",
             "introduce": "<size=30><color=black>Zomppelin, ciptaan terbaru Dr. Edgar, dengan cepat menjadi sekutu terpercaya para zombie. Banyak spekulasi mengenai siapa yang akan mengemudikan senjata ampuh ini-mungkin imp atau bahkan pesawat itu sendiri? \"Ini hanya balon,\" kata Dr. Edgar. \"Zombie harus mengikuti perkembangan zaman. Saya bahkan mempertimbangkan untuk mengubahnya menjadi pesawat tak berawak untuk menghindari rasa malu ketika dikalahkan oleh tanaman.",
-            "info": "<size=30>Zombi ini menjatuhkan bom di sepanjang penerbangannya.\n\nKerusakan Bom: 1000\nKetangguhan: </color><color=#4B0082> 1350"
+            "info": "<size=30>Zombi ini menjatuhkan bom di sepanjang penerbangannya.\n\n<color=black>Kerusakan Bom: </color><color=#4B0082>1000\n<color=black>Ketangguhan: </color><color=#4B0082> 1350"
         },
         {
             "theZombieType": 27,
@@ -271,22 +271,58 @@
             "info": "<size=36>Zombi Basoka Salju bisa menyerang tanaman dengan bola salju dan membekukannya.\n\n<color=black>Kekebalan: </color><color=#4B0082>720</color>\n<color=black>Kerusakan: </color><color=#4B0082>75/2 Detik</color>\n<color=black>Karakteristik: </color><color=#4B0082>Setelah muncul, ia terus-menerus menembakkan bola salju ke tanaman. Bola salju akan meledak saat terkena target, memberikan 75 kerusakan dalam area 3x3 dan menonaktifkan tanaman selama 5 detik.</color>\n<color=black>Kelemahan: </color><color=#4B0082>Basoka</color>"
         },
         {
+            "theZombieType": 50,
+            "name": "Zombi Perisai Salju",
+            "introduce": "<align=justified><size=36><color=black>Dulu dia mantan tentara elit di medan perang. Sekarang? Jawaranya lomba perang bola salju di pemakaman. Dia sayang banget sama perisainya, tiap dikit dicek-cek takut ada lecet. Mungkin kebiasaan itu juga yang bikin dia pensiun dini.</color>",
+            "info": "<size=36>Zombi tangguh dari negeri es, spesialis mantulin peluru datar jadi bola salju!\n\n<color=black>Daya Tahan: </color><color=#4B0082>720 + 2200 (tipe 2)</color>\n<color=black>Fitur: </color><color=#4B0082>Anti beku. Tiap 1.5 detik angkat perisai buat mantulin peluru datar jadi bola salju. Saat mantul, kena damage 20 dan gak bisa nahan peluru. Selama bawa perisai, gak gigit tapi nyeruduk pake tameng (damage 50).</color>"
+        },
+        {
+            "theZombieType": 51,
+            "name": "Zombi Trisula Salju",
+            "introduce": "<align=justified><size=36><color=black>Di Olimpiade Es Pemakaman ke-5, Zombi Trisula ini tampil cemerlang! Hadiahnya mau dia beliin kereta luncur baru buat gengnya, plus pijat refleksi premium buat balas dendam ke si duri-duri nakal di tanah.</color>",
+            "info": "<size=36>Zombi pelempar dari negeri salju. Melempar Trisula bersalju yang bikin tanaman nggak bisa ngapa-ngapain!\n\n<color=black>Daya Tahan: </color><color=#4B0082>720</color>\n<color=black>Fitur: </color><color=#4B0082>Anti beku. Mirip si Zombi Trisula, tapi Trisula saljunya gak bisa ditangkis payung, dan bisa bikin target diem aja 5 detik (efek silent).</color>"
+        },
+        {
+            "theZombieType": 52,
+            "name": "Zompli Krono Portal",
+            "introduce": "<align=justified><size=36><color=black>Apa sih sebenarnya isi dari pintu portal itu? Gak ada yang tahu. Tapi kalo tiba-tiba temen-temen lo muncul dari dalam sana, lo pasti kepo juga nanya: 'Ada otak segar nggak di dalem?'</color>",
+            "info": "<size=36>Menguasai ruang dan waktu, zombi dari dimensi yang entah dari mana.\n\n<color=black>Damage Peluru: </color><color=#4B0082>20</color>\n<color=black>Daya Tahan: </color><color=#4B0082>270 + 200 (tipe 2)</color>\n<color=black>Fitur: </color><color=#4B0082>Setiap 1.5 detik nembak kacang portal. Setiap 6 detik manggil 1 zombi acak (biasa, roadblock, ember, pintu besi). Pas mati, ninggalin serpihan ruang waktu.</color>"
+        },
+        {
+            "theZombieType": 53,
+            "name": "Zombipellin Salju",
+            "introduce": "<align=justified><size=36><color=black>Setiap mau terbang, dia mesti nguras waktu setengah jam buat nyapu salju, bersihin es, dan nyeret si Yeti keluar dari kolong. \"Buat ngangkat gumpalan es segede ini ke langit, bahan bakarnya tuh boros banget!\" curhat si pilot.</color>",
+            "info": "<size=36>Langit mendung salju! Terbang sambil nyebar salju, terus putar balik dan manggil geng salju!\n\n<color=black>Daya Tahan: </color><color=#4B0082>720</color>\n<color=black>Fitur: </color><color=#4B0082>Anti efek tiga daun. Saat gerak, nyebar salju dan bikin tanaman di bawah kena efek silent. Makin lama, makin lambat, sampai akhirnya mundur. Pas cabut, langsung panggil trio: Zombi Perisai, Zombi Basoka Salju, Zombi Trisula Salju masing-masing 1 biji.</color>"
+        },
+        {
+            "theZombieType": 55,
+            "name": "Zombi Blok Es",
+            "introduce": "<align=justified><size=36><color=black>Tulisan ini beku, bro.</color>",
+            "info": "<size=36>Zombi pake helm dari blok es.\n\n<color=black>Ketahanan: </color><color=#4B0082>500 + 370 (Tipe 1)</color>\n<color=black>Ciri khas: </color><color=#4B0082>Kebal sama serangan dingin & beku. Tapi lemah banget kalo dikasih es ekstrim.</color>"
+        },
+        {
+            "theZombieType": 56,
+            "name": "Monster Salju",
+            "introduce": "<align=justified><size=36><color=black>Penelitian soal Monster Salju nggak maju-maju, ya maklum, zombi kan gak punya otak, masa mau disuruh pinter akademis? Banyak orang juga susah ngebedain Monster Salju asli sama Zombi Yeti yang nyamar jadi Monster Salju. Untungnya, Dokter Edgar punya cara simpel: 'Yang keliatan lebih pinter, itu yang namanya Monster Salju.'</color>",
+            "info": "<size=36>Makhluk netral yang asalnya dari daerah bersalju.\n\n<color=black>Ketahanan: </color><color=#4B0082>1350</color>\n<color=black>Ciri khas: </color><color=#4B0082>Kalo zombi ngancurin Blok Es yang gak ada tanemannya, nanti muncul Monster Salju. Gerakannya lemot, nginjek tanaman, tapi gak nyerang langsung.</color>"
+        },
+        {
             "theZombieType": 100,
             "name": "Zompli",
             "introduce": "<size=34><color=black>Kemampuan Zompli untuk menyerang dari kejauhan, sering kali membuat tanaman menjadi takut. Namun demikian, kepanikan yang sesungguhnya terletak pada para zombi, yang takut bahwa mereka yang bertempur di depannya akan menjadi sasaran dari belakang.",
-            "info": "<size=36>Zombi ini melompat dan melesat di antara tanaman.\n\nKerusakan: 20\nKetangguhan: </color><color=#4B0082> 270"
+            "info": "<size=36>Zombi ini melompat dan melesat di antara tanaman.\n\n<color=black>Kerusakan: </color><color=#4B0082>20 </color>\n<color=black>Ketangguhan: </color><color=#4B0082> 270"
         },
         {
             "theZombieType": 101,
             "name": "Zompli Ceri",
-            "introduce": "<size=32><color=black>Zompli Ceri adalah seorang siswa SMA berusia 17 tahun dengan kepala tanaman yang tumbuh di lehernya. Buah favoritnya adalah ceri, dan karena latar belakang keluarga pausnya, para zombie dengan penuh kasih sayang menyebutnya sebagai \"Raja Daun",
-            "info": "<size=30>Tangga yang dibawanya menjadi pertahanan sementara dan bisa disandarkan pada tanaman pertahanan.\n\nKerusakan: 60\nKetangguhan: </color><color=#4B0082> 500"
+            "introduce": "<size=32><color=black>Zompli Ceri adalah seorang siswa SMA berusia 17 tahun dengan kepala tanaman yang tumbuh di lehernya. Buah favoritnya adalah ceri, dan karena latar belakang keluarga pausnya, para zombi dengan penuh kasih sayang menyebutnya sebagai \"Raja Daun",
+            "info": "<size=30>Tangga yang dibawanya menjadi pertahanan sementara dan bisa disandarkan pada tanaman pertahanan.\n\n<color=black>Kerusakan: </color><color=#4B0082>60\n<color=black>Ketangguhan: </color><color=#4B0082> 500"
         },
         {
             "theZombieType": 102,
             "name": "Zompli Kaboom",
-            "introduce": "<size=34><color=black>Zompli Kaboom suka mendengarkan lagu \"Cherry Bomb\" dari The Runaways, yang mungkin bisa menjelaskan semangatnya yang berapi-api. Namun, tidak ada yang tahu bagaimana dia belajar menyalakan kembang api dengan mulutnya.",
-            "info": "<size=34>Zombi raksasa - lambat namun sangat tahan sambil menebas setiap tanaman di hadapannya.\n\nKerusakan: 1000\nKetangguhan: </color><color=#4B0082> 500"
+            "introduce": "<size=34><color=black>Zompli Kaboom suka mendengarkan lagu \"Bom Ceri\" dari The Runaways, yang mungkin bisa menjelaskan semangatnya yang berapi-api. Namun, tidak ada yang tahu bagaimana dia belajar menyalakan kembang api dengan mulutnya.",
+            "info": "<size=34>Zombi raksasa - lambat namun sangat tahan sambil menebas setiap tanaman di hadapannya.\n\n<color=black>Kerusakan:</color><color=#4B0082> 1000\n<color=black>Ketangguhan: </color><color=#4B0082> 500"
         },
         {
             "theZombieType": 103,
@@ -385,6 +421,12 @@
             "info": "<size=32>Tanpa henti melepaskan rentetan kacang polong ke arah pertahanan Anda!\n\n<color=black>Ketangguhan: </color><color=#4B0082>270+1400</color>\n<color=black>Sifat: </color><color=#4B0082>Terus menembakkan kacang polong ke arah tanaman Anda</color>"
         },
         {
+            "theZombieType": 119,
+            "name": "Zompli Balon Besi",
+            "introduce": "<align=justified><size=36><color=black>Pas dituduh bukan zombi angkatan lama, dia buru-buru ngeluarin foto jadul bareng geng lama. Tapi para zombi malah nanya, \"Lah, kamu yang mana?\" Dia sendiri liatin fotonya sambil bingung, kok gak ada mukanya?</color>",
+            "info": "<size=36>Zompli Besi yang dilengkapi alat balon logam!\n\n<color=black>Damage Peluru: </color><color=#4B0082>80</color>\n<color=black>Daya Tahan: </color><color=#4B0082>1350 + 500 (tipe 1)</color>\n<color=black>Fitur: </color><color=#8B0000>Punya kemampuan kayak Zombi Balon Besi. Tiap 1.5 detik nembak pluru besi yang bisa ngedorong mundur zombi yang kena pengaruh hipno.</color>"
+        },
+        {
             "theZombieType": 200,
             "name": "Zombi Berkapal Hiu",
             "introduce": "<size=36><color=black>Seorang penyelam yang hebat seharusnya tidak hanya dapat menyelam tetapi juga mengemudikan kapal selam super!\", ujar Sharkmarine Zombie sambil meningkatkan tenaga kuda kapal selam dengan satu gigi.",
@@ -406,13 +448,13 @@
             "theZombieType": 203,
             "name": "Zompli Brondong Koran Ceri",
             "introduce": "<size=25><color=black>Aku semakin tua... Zombie Koran Gatling Cherry meratap sambil berjalan di jalan. Meskipun menahan tekanannya, itu sudah cukup untuk membuat tanaman dan zombie jatuh. \"Hanya pria itu yang masih bisa menginspirasiku untuk bertarung...\" gumamnya sambil menyimpan koran dan berjalan",
-            "info": "<size=30>Makhluk kacang ini lebih tahan dari biji ceri ledak.\n\nKerusakan: 400 → 1000 (Marah)\nKetangguhan: </color><color=#4B0082> 1500+1500\n<color=black>Sifat: </color><color=#4B0082>Menjadi tak terkalahkan untuk sementara setelah korannya rusak, dan terus menembakkan ceri yang meledak setiap 0,125 detik."
+            "info": "<size=30>Makhluk kacang ini lebih tahan dari biji ceri ledak.\n\n<color=black>Kerusakan:</color><color=#4B0082> 400 → 1000 (Marah)\n<color=black>Ketangguhan: </color><color=#4B0082> 1500+1500\n<color=black>Sifat: </color><color=#4B0082>Menjadi tak terkalahkan untuk sementara setelah korannya rusak, dan terus menembakkan ceri yang meledak setiap 0,125 detik."
         },
         {
             "theZombieType": 204,
             "name": "Zombi Maha Delimi",
             "introduce": "<size=26><color=black>Melangkah keluar dari bayang-bayang, Giga Rugby-nut Zombie memancarkan kekuatan, kedinginan, dan getaran yang menyeramkan. Dia dengan tegas menyimpan rahasia kekuatannya untuk dirinya sendiri, menegaskan bahwa hanya kegelapan yang paling gelap yang dapat menciptakan makhluk yang tangguh seperti dia. \"Di mana cat saya?\" Dr. Edgar bertanya, tampak bingung di laboratoriumnya.",
-            "info": "<size=30>Makhluk ini menembakkan biji besi yang lebih merusak.\n\nKerusakan: 100\nKetangguhan: </color><color=#4B0082> 3000+12000"
+            "info": "<size=30>Makhluk ini menembakkan biji besi yang lebih merusak.\n\n<color=black>Kerusakan: </color><color=#4B0082>100\n<color=black>Ketangguhan: </color><color=#4B0082> 3000+12000"
         },
         {
             "theZombieType": 205,
@@ -484,7 +526,7 @@
             "theZombieType": 217,
             "name": "Zombi Joget Super",
             "introduce": "<color=black>Semua zombie kagum dengan kemampuan lompat galah yang luar biasa dari Zombi Joget Super. \"Wong itu bakat saya kok,\" kata Zombi Joget Super. Tapi sebenarnya, dia bekerja dua kali sehari, dan seperti kata pepatah, \"dua kali kerja, dua kali lompat",
-            "info": "<size=36>Dapat melompati dua ubin.\n\n<color=black>Ketangguhan: </color><color=#4B0082>3000</color>Sifat: </color><color=#4B0082>Dapat melompati 2 ubin tetapi dapat dihalangi oleh kacang-kacangan tinggi</color>"
+            "info": "<size=36>Dapat melompati dua ubin.\n\n<color=black>Ketangguhan: </color><color=#4B0082>3000</color>\n<color=black>Sifat: </color><color=#4B0082>Dapat melompati 2 ubin tetapi dapat dihalangi oleh kacang-kacangan tinggi</color>"
         },
         {
             "theZombieType": 218,
@@ -496,7 +538,7 @@
             "theZombieType": 219,
             "name": "Zombi Kentang Robot Ultra",
             "introduce": "<size=24><color=black>Zombi Kentang Robot Ultra dimaksudkan untuk menjadi Zombi Kentang Robot Super yang lebih kecil dan presisi, tetapi campuran cetak biru membuatnya menjadi lebih besar. Para insinyur terlambat menyadarinya-jadi mereka hanya <i>menggulung</i> dengan itu.</color>",
-            "info": "<size=26>Nyerap damage untuk semua zombi di kebon lo!\" \n\n<color=black>Ketangguhan: </color></color><color=#4B0082>12000</color>\n<color=black>Sifat: </color></color><color=#4B0082>Muncul hanya dalam mode Purgatory setelah memilih pengubah yang sesuai. Kebal terhadap Hipno dan Pemakan, dan menerima tidak lebih dari 5.000 kerusakan setiap serangan. Ultra Mecha-Nut Zombie memberikan kerusakan yang merendam semua zombie (kecuali Zombie Kotak Misteri). Ia memiliki bingkai tak terkalahkan, menerima kerusakan hanya sekali setiap 0,2 detik.</color>"
+            "info": "<size=26>Nyerap damage untuk semua zombi di Taman lo!\" \n\n<color=black>Ketangguhan: </color></color><color=#4B0082>12000</color>\n<color=black>Sifat: </color></color><color=#4B0082>Muncul hanya dalam mode Purgatory setelah memilih pengubah yang sesuai. Kebal terhadap Hipno dan Pemakan, dan menerima tidak lebih dari 5.000 kerusakan setiap serangan. Ultra Mecha-Nut Zombie memberikan kerusakan yang merendam semua zombie (kecuali Zombie Kotak Misteri). Ia memiliki bingkai tak terkalahkan, menerima kerusakan hanya sekali setiap 0,2 detik.</color>"
         },
         {
             "theZombieType": 220,
@@ -527,6 +569,24 @@
             "name": "<u>Queen Badut Pandora</u>",
             "introduce": "<align=justified><size=36><color=black>Pandangan Ratu ajaib ini aja udah bikin para bawahannya gemeter. Nggak ada yang berani ngelawan dia. Tapi bukan cuma kekuatan yang dia suka—dia juga suka berbagi. Dalam kotak kado mewahnya, ada mainan dan pernak-pernik buat yang beruntung... plus bom kejutan yang siap meledak. Dan duh, dia emang cinta banget sama kejutan.</color>",
             "info": "<size=36>Queen Badut Pandora suka banget bikin \"adegan yang meledak-ledak.\"\n\n<color=black>Daya Tahan: </color><color=#4B0082>32000</color>\n<color=black>Skill: </color><color=#4B0082>\n<color=black>•</color> Cuma muncul di mode Purgatory kalo pilih modifikatornya.\n<color=black>•</color> Maksimal kena 5000 damage per hit sebelum perhitungan pengurangan damage.\n<color=black>•</color> Kebal dari efek pesona atau dimakan.\n<color=black>•</color> Bisa nginjek tanaman sampe hancur.\n<color=black>•</color> Bakal nyerap 3000 daya tahan tiap kali kena ledakan badut.\n<color=black>•</color> Tiap beberapa saat bakal keluar dari kotaknya dan ngeluarin efek random:\n1. Manggil Zombi King Berkotak-kotak dari kolom ke-5 ke depan.\n2. Manggil Zombi Pogo King Berkotak-kotak dari kolom ke-5 ke depan.\n3. Meledakin semua petak di kolom tempat dia berdiri, nyerang pake damage fisik.</color>"
+        },
+        {
+            "theZombieType": 225,
+            "name": "Zompli Brondong Delimi Hytam",
+            "introduce": "<align=justified><size=36><color=black>Brondong Hytam ini bener-bener sosok petarung dari besi. Badannya dari baja, pikirannya keras kayak baja, pelurunya dari baja, bahkan sikapnya juga super dingin abis kena teguran HR. Dia yakin, zombi lain gagal nembus pertahanan karena nggak dilatih sekeras dia.</color>",
+            "info": "<size=36>Pejuang garis depan sejati yang pantang mundur!\n\n<color=black>Damage Peluru: </color><color=#4B0082>80</color>\n<color=black>Daya Tahan: </color><color=#4B0082>3000 + 6000 (tipe 1)</color>\n<color=black>Fitur: </color><color=#4B0082>Anti knockback. Nembakin pluru besi tiap 0.1 detik. Bisa ngusir zombi yang kena pesona.</color>"
+        },
+        {
+            "theZombieType": 226,
+            "name": "Zombi Alpha",
+            "introduce": "<align=justified><size=36><color=black>\"Perang adalah pedang yang kita pakai buat rebut cahaya matahari! Kemenangan itu wajib!\" \"Lapor, Kapten! Tadi aku nginjek sesuatu... kayaknya yeti.\" \"Tinggalin aja, bukan harta rampasan. Cuma bakal nunda kemenangan lebih besar.\" \"Abis perang ini, buku baru kapten bakal rilis, ya?\" \"Nunggu gue mati dulu.\"</color>",
+            "info": "<size=36>Biasanya dateng berdua, tapi kalo yang elit, bisa rame-rame nyergap bareng!\n\n<color=black>Damage Serangan Dekat: </color><color=#4B0082>500</color>\n<color=black>Daya Tahan: </color><color=#4B0082>6000 + 8000 (tipe 2)</color>\n<color=black>Fitur: </color><color=#4B0082>Anti pesona. Muncul berdua, tapi kalo jadi pemimpin, tiap baris munculin 5 dan daya tahannya dikali 5. Kalo kena serangan maut, masuk mode sekarat: kebal damage, gak bisa diserang, tapi tetap halangin peluru. 10 detik kemudian, kalo masih ada temen sejenis yang sehat, langsung bangkit full darah dan maju 4 petak, nyeruduk tanaman sambil nyebar damage + efek bom badut.</color>\n<color=black>Kelemahan: </color><color=#4B0082>Pemakan & Varian Payung Permata termasuk Payung Kaya</color>"
+        },
+        {
+            "theZombieType": 227,
+            "name": "Zombi Cakar Kentang Beku",
+            "introduce": "<align=justified><size=36><color=black>Teror es yang bikin bulu kuduk berdiri, bro.</color>",
+            "info": "<size=36>Zombi Kentang Beku yang punya cakar tajem kebek es. Serangannya sadis banget!\n\n<color=black>Ketebalan: </color><color=#4B0082>720 + 2200 (Tipe 1)</color>\n<color=black>Karakteristik: </color><color=#4B0082>Nurunin gaya Zombi Kentang Es. Penampilannya dimodif biar mirip King Gojo sama Dio Satoru.</color>"
         }
     ]
 }
