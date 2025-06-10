@@ -320,9 +320,9 @@
         },
         {
             "theZombieType": 57,
-            "name": "Snowmaw Charger",
+            "name": "Elder Snowmaw",
             "introduce": "<align=justified><size=36><color=black>Stronger, wiser, and with a heavier tail than other snow beasts, what truly made him leader was his remarkable leap — guiding his kin to the source of the frozen waterfall.</color>",
-            "info": "<size=36>Apex of the snowy plains.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>When zombies destroy an Iceblock with no corresponding Zombotany, a Snowmaw appears, with a 1/4 chance of it being a Snowmaw Charger. Moves very slowly and crushes plants. Dashes 2 tiles forward on appearance, ignoring plants.</color>"
+            "info": "<size=36>Apex of the snowy plains.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>When zombies destroy an Iceblock with no corresponding Zombotany, a Snowmaw appears, with a 1/4 chance of it being an Elder Snowmaw. Moves very slowly and crushes plants. Dashes 2 tiles forward on appearance, ignoring plants.</color>"
         },
         {
             "theZombieType": 58,
