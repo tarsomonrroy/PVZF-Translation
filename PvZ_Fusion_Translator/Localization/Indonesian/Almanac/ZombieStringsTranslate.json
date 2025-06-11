@@ -307,6 +307,24 @@
             "info": "<size=36>Makhluk netral yang asalnya dari daerah bersalju.\n\n<color=black>Ketahanan: </color><color=#4B0082>1350</color>\n<color=black>Ciri khas: </color><color=#4B0082>Kalo zombi ngancurin Blok Es yang gak ada tanemannya, nanti muncul Monster Salju. Gerakannya lemot, nginjek tanaman, tapi gak nyerang langsung.</color>"
         },
         {
+            "theZombieType": 57,
+            "name": "Pemimpin Monster Salju",
+            "introduce": "<align=justified><size=36><color=black>Lebih kuat, lebih bijak, dan ekornya lebih berat dari para monster salju lainnya. Tapi yang bikin dia jadi pemimpin beneran adalah lompatannya yang luar biasa — nuntun para anak buahnya ke sumber air terjun beku.</color>",
+            "info": "<size=36>Rajanya dataran bersalju.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Sifat: </color><color=#4B0082>Kalo zombie ngehancurin Balok Es tanpa Zombitanam, Monster Salju muncul, dengan seperempat kemungkinan jadi Pemimpin Monster Salju. Geraknya lelet banget dan ngancurin tanaman. Pas muncul, langsung lari 2 kotak ke depan, nggak peduli ada tanaman.</color>"
+        },
+        {
+            "theZombieType": 58,
+            "name": "Zombie Penambang",
+            "introduce": "<align=justified><size=36><color=black>\"Gue nggak mau hidup di dunia ini,\" keluh Zombie Penambang, nggak nemu senengnya hidup monoton. Dia cuma pengen gali obsidian yang cukup buat bikin portal dan cabut. Padahal di seberang portal lebih bahaya dan monoton lagi, dan dia nggak bakal bisa nyalain portalnya. Soalnya alat buat nyalainnya dijaga ketat di piramida kuno yang cuma ada di dua tempat di dunia, tempat zombie pembawa obor berkeliaran.</color>",
+            "info": "<size=36>Bawa pacul random buat nambang pertahanan lo.\n\n<color=black>Damage: </color><color=#4B0082>50 (nggak gigit)</color>\n<color=black>Toughness: </color><color=#4B0082>720 + 1400 (Tipe 1)</color>\n<color=black>Sifat: </color><color=#4B0082>\n<color=black>•</color> Serangan numpuk progress nambang ke tanaman defensif, langsung ngebunuh tanaman itu pas nyampe 100%. \n<color=black>•</color> Progress nambang = (jumlah serangan × damage pacul) / HP tanaman.\n<color=black>•</color> Pas muncul, dapet pacul random dengan kekuatan beda-beda. Kalo nyerang tanaman dengan Toughness di bawah kekuatan paculnya, damage pacul dikali 5.\n<color=black>•</color>Tipe Pacul:\n\tPacul Emas: 150 damage | 4000 power\n\tPacul Besi: 50 damage | 16000 power\n\tPacul Intan: 100 damage | 32000 power\n<color=black>•</color> Tanaman defensif: Kentang, Labu, Burger King, Pir Beku.</color>"
+        },
+        {
+            "theZombieType": 59,
+            "name": "Zombi Koran Kepala Lumba-lumba",
+            "introduce": "<align=justified><size=36><color=black>Dulu dia mimpi jadi putri duyung, tapi dokter bedah yang harusnya benerin dia malah ketuker bagian atas sama bawahnya.</color>",
+            "info": "<size=36>Ngamuk kalo lagi baca diganggu... terus balik ke rumah buat ngambil pil lagi.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 720 (Tipe 2)</color>\n<color=black>Sifat: </color><color=#4B0082>Abis pilnya ilang, langsung ngebut banget dan balik arah. Pas keluar di kanan, nge-spawn Zombie Koran Kepala Lumba-lumba baru. Nggak kejadian kalo dia dihipnotis.</color>"
+        },
+        {
             "theZombieType": 100,
             "name": "Zompli",
             "introduce": "<size=34><color=black>Kemampuan Zompli untuk menyerang dari kejauhan, sering kali membuat tanaman menjadi takut. Namun demikian, kepanikan yang sesungguhnya terletak pada para zombi, yang takut bahwa mereka yang bertempur di depannya akan menjadi sasaran dari belakang.",
@@ -374,7 +392,7 @@
         },
         {
             "theZombieType": 111,
-            "name": "Zombi Kentang Beku",
+            "name": "Zombi Kentang Lonjong Beku",
             "introduce": "<size=30><color=black>Kepala Frost-nut Zombie telah memicu banyak pendapat di dunia zombie. Ada yang mengatakan bahwa ia bertujuan untuk menjauhkan diri dari dunia yang dingin, sementara yang lain menduga bahwa hal ini berkaitan dengan eksperimen liar Dr. Namun, hanya dia yang tahu bahwa tutup kepala ini muncul setelah dia memakan jamur biru tertentu.",
             "info": "<size=26>Makhluk ini menembakkan biji ceri ledak pada tanaman.\n\n<color=black>Ketangguhan: </color><color=#4B0082> 270+2200\n<color=black>Sifat: </color><color=#4B0082>Kebal terhadap proyektil beku atau es."
         },
@@ -584,9 +602,15 @@
         },
         {
             "theZombieType": 227,
-            "name": "Zombi Cakar Kentang Beku",
+            "name": "Zombi Cakar Kentang Lonjong Beku",
             "introduce": "<align=justified><size=36><color=black>Teror es yang bikin bulu kuduk berdiri, bro.</color>",
-            "info": "<size=36>Zombi Kentang Beku yang punya cakar tajem kebek es. Serangannya sadis banget!\n\n<color=black>Ketebalan: </color><color=#4B0082>720 + 2200 (Tipe 1)</color>\n<color=black>Karakteristik: </color><color=#4B0082>Nurunin gaya Zombi Kentang Es. Penampilannya dimodif biar mirip King Gojo sama Dio Satoru.</color>"
+            "info": "<size=36>Zombi Kentang Lonjong Beku yang punya cakar tajem kebek es. Serangannya sadis banget!\n\n<color=black>Ketebalan: </color><color=#4B0082>720 + 2200 (Tipe 1)</color>\n<color=black>Karakteristik: </color><color=#4B0082>Nurunin gaya Zombi Kentang Es. Penampilannya dimodif biar mirip King Gojo sama Dio Satoru.</color>"
+        },
+        {
+            "theZombieType": 228,
+            "name": "<u>Queen Eksekutor Es Mk. Alpha</u>",
+            "introduce": "<align=justified><size=36><color=black>Dengan bilah es dan jubah badai salju, dia mengukir patung dari daging yang hancur dan membentuk kekuatan ilahi dengan kemauan yang tak tergoyahkan. Dewa buatan, hantu dari tundra. Ketika neraka menyatukan kita kembali, akankah dia mengingat tanah kesedihan ini?</color>",
+            "info": "<size=36>Penguasa Tundra Beku.\n\n<color=black>Damage: </color><color=#4B0082>1000</color>\n<color=black>Toughness: </color><color=#4B0082>64000</color>\n<color=black>Sifat: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Kebal terhadap dingin, mental, dan stun.\n<color=black>•</color> Ngancurin tanaman. Serangan membekukan tanaman selama 5 detik. \n<color=black>•</color> Pas masuk, langsung nyabet semua tanaman di depan (bisa dilindungin P labu), terus ngelepasin 5 bola salju di sekitar jalurnya, masing-masing ngasih damage area 3x3.\n<color=black>•</color> Abis itu, nyabet atau nyerang biasa tiap 3 detik — makin tipis HP, makin gede kemungkinan nyabet.\n<color=black>•</color> Serangan biasa ngeluarin 4 pedang es ke depan.\n<color=black>•</color> Di map Salju, ada kemungkinan langsung manggil badai salju.</color>"
         }
     ]
 }
