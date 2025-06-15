@@ -1021,6 +1021,8 @@
   "十连": "<size=30>Draw 10",
   "融合版唯一官方：\r\n哔哩哔哩up主-蓝飘飘fly": "The Official source of PvZ Fusion is only on the dev, 蓝飘飘fly's Bilibili</color>\nThe only valid source of this translation is from this community:\n<color=#64DD17>discord.gg/DPAC5ZVJ8T</color> and the associated rentry page and GitHub pages.\nStray away from other sources like <color=#8B0000>pvzfusion.net</color> or <color=#8B0000>pvzfusion.pro</color> as they redistribute our work without permission.\nPlease visit our community for future updates.",
   "按方向键WASD来控制僵尸，点击魅惑僵尸来模仿": "Control your zombie with WASD (Zombie Health Display: R).\nClick on any hypnotized zombie to take its form.",
+  "你失去了你的僵尸，将在10秒后复活": "You lost your zombie! It will respawn in 10s.",
+  "你的僵尸复活了！": "Your zombie has respawned!",
   "按方向键WASD来移动植物": "Move the peashooters with WASD (Zombie Health Display: R).\nGet to 2048 to win!",
   "Scene:  大型泳池": "Scene:  Lake",
   "Scene:  平顶山泳池": "Scene:  Mesa River",
